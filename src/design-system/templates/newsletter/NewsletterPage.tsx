@@ -6,6 +6,9 @@ import UpdatesCard from '../../Molecules/UpdatesCard';
 import { TrendingUp, BadgeDollarSign } from 'lucide-react';
 
 const NewsletterPage: React.FC = () => {
+  const handleSubscribeScroll = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
   return (
     <div className="bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -119,6 +122,18 @@ const NewsletterPage: React.FC = () => {
               icon={<CheckCircle className="w-7 h-7 text-green-600" />}
             />
           </div>
+        </div>
+
+        {/* CTA Banner */}
+        <div className="mt-16 text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Stay in the Loop</h2>
+          <p className="max-w-3xl mx-auto text-gray-600 mb-6">
+            Don't miss critical updates that could affect your Meta integration or business operations. Subscribe to our
+            newsletter and get timely notifications about policy changes, new features, and compliance requirements.
+          </p>
+          <button onClick={handleSubscribeScroll} className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-colors">
+            Subscribe Now
+          </button>
         </div>
       </div>
     </div>
