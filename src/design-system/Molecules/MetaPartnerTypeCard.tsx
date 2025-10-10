@@ -13,9 +13,10 @@ const MetaPartnerTypeCardPropsSchema = z.object({
 export type MetaPartnerTypeCardProps = z.infer<typeof MetaPartnerTypeCardPropsSchema>;
 
 const toneToClasses: Record<MetaPartnerTypeCardProps['tone'], string> = {
-  blue: 'bg-blue-50 border-blue-100',
-  green: 'bg-green-50 border-green-100',
-  purple: 'bg-purple-50 border-purple-100',
+  // Only background color here to avoid conflicting with explicit border color
+  blue: 'bg-blue-50',
+  green: 'bg-green-50',
+  purple: 'bg-purple-50',
 };
 
 const FeatureItem: React.FC<{ text: string }> = ({ text }) => (
@@ -29,7 +30,7 @@ const MetaPartnerTypeCard: React.FC<MetaPartnerTypeCardProps> = ({ title, descri
   const toneClasses = toneToClasses[tone];
 
   return (
-    <div className={`rounded-2xl border ${toneClasses} p-6 md:p-7`}>
+    <div className={`rounded-2xl border border-gray-200 ${toneClasses} p-6 md:p-7`}>
       <div className="flex items-center gap-3 mb-3">
         <div className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/60">
           {icon}

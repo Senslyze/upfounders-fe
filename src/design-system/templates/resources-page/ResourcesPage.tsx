@@ -21,7 +21,7 @@ const ResourcesPage: React.FC = () => {
         </div>
 
         {/* Section Title */}
-        <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-900 mb-6">
+        <h2 className="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-6">
           Understanding Meta Partner Types
         </h2>
 
