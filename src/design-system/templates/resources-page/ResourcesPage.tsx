@@ -1,6 +1,7 @@
 import React from 'react';
-import { BookOpen, Users, Zap, Shield } from 'lucide-react';
+import { BookOpen, Users, Zap, Shield, DollarSign, User2 } from 'lucide-react';
 import MetaPartnerTypeCard from '../../Molecules/MetaPartnerTypeCard';
+import PricingModelCard from '../../Molecules/PricingModelCard';
 
 const ResourcesPage: React.FC = () => {
   return (
@@ -25,7 +26,7 @@ const ResourcesPage: React.FC = () => {
           Understanding Meta Partner Types
         </h2>
 
-        {/* Cards */}
+        {/* Partner Type Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
           <MetaPartnerTypeCard
             title="Solution Partner"
@@ -63,6 +64,90 @@ const ResourcesPage: React.FC = () => {
               'Advanced capabilities',
             ]}
           />
+        </div>
+
+        {/* Pricing Models */}
+        <div className="mt-16">
+          <h2 className="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-6">
+            Pricing Models Explained
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+            <PricingModelCard
+              title="Per Message"
+              description="Pay for each message sent"
+              icon={<DollarSign className="w-5 h-5" />}
+              pros={[
+                'Predictable costs',
+                'Scalable',
+                'No monthly commitments',
+              ]}
+              cons={[
+                'Costs can add up quickly',
+                'May not be cost-effective for high volume',
+              ]}
+              examples={["Rasayel", "Twilio"]}
+            />
+            <PricingModelCard
+              title="Per User"
+              description="Pay per user or seat"
+              icon={<User2 className="w-5 h-5" />}
+              pros={[
+                'Predictable monthly costs',
+                'Unlimited messaging',
+                'Team collaboration',
+              ]}
+              cons={[
+                'Cost per user can be high',
+                'May not scale well for large teams',
+              ]}
+              examples={["ManyChat", "Chatfuel"]}
+            />
+            <PricingModelCard
+              title="Per Contact"
+              description="Pay based on active contacts"
+              icon={<Users className="w-5 h-5" />}
+              pros={[
+                'Contact-based pricing',
+                'Good for growing businesses',
+                'Flexible scaling',
+              ]}
+              cons={[
+                'Costs increase with contact growth',
+                'May incentivize contact reduction',
+              ]}
+              examples={["MessageBird"]}
+            />
+            <PricingModelCard
+              title="Bundle Based"
+              description="Pre-paid message bundles"
+              icon={<DollarSign className="w-5 h-5" />}
+              pros={[
+                'Volume discounts',
+                'Predictable costs',
+                'No overage charges',
+              ]}
+              cons={[
+                'Upfront payment required',
+                'May waste unused messages',
+              ]}
+              examples={["CM.com"]}
+            />
+            <PricingModelCard
+              title="Pay-as-you-go"
+              description="Usage-based pricing without commitments"
+              icon={<DollarSign className="w-5 h-5" />}
+              pros={[
+                'No monthly fees',
+                'Pay only for what you use',
+                'Flexible',
+              ]}
+              cons={[
+                'Variable monthly costs',
+                'May be more expensive per message',
+              ]}
+              examples={["Infobip"]}
+            />
+          </div>
         </div>
       </div>
     </div>
