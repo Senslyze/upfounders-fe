@@ -1,7 +1,9 @@
 import React from 'react';
-import { Bell } from 'lucide-react';
+import { Bell, CheckCircle } from 'lucide-react';
 import NewsLtterCard from '../../Molecules/NewsLetterCard';
 import UpdateAnnouncementCard from '../../Molecules/UpdateAnnouncementCard';
+import UpdatesCard from '../../Molecules/UpdatesCard';
+import { TrendingUp, BadgeDollarSign } from 'lucide-react';
 
 const NewsletterPage: React.FC = () => {
   return (
@@ -76,6 +78,45 @@ const NewsletterPage: React.FC = () => {
               priority="medium"
               tags={["Messenger", "Chatbots", "Integration"]}
               learnMoreUrl="#"
+            />
+          </div>
+        </div>
+
+        {/* What you'll get updates about */}
+        <div className="mt-16">
+          <h2 className="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-6">
+            What You'll Get Updates About
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <UpdatesCard
+              title="WhatsApp Updates"
+              description="Stay informed about the latest developments and changes in whatsapp updates."
+              icon={<TrendingUp className="w-7 h-7 text-green-500" />}
+            />
+            <UpdatesCard
+              title="Instagram Features"
+              description="Stay informed about the latest developments and changes in instagram features."
+              icon={<TrendingUp className="w-7 h-7 text-pink-500" />}
+            />
+            <UpdatesCard
+              title="Messenger Changes"
+              description="Stay informed about the latest developments and changes in messenger changes."
+              icon={<TrendingUp className="w-7 h-7 text-blue-500" />}
+            />
+            <UpdatesCard
+              title="Ads Manager Updates"
+              description="Stay informed about the latest developments and changes in ads manager updates."
+              icon={<TrendingUp className="w-7 h-7 text-purple-500" />}
+            />
+            <UpdatesCard
+              title="Pricing Changes"
+              description="Stay informed about the latest developments and changes in pricing changes."
+              icon={<BadgeDollarSign className="w-7 h-7 text-orange-500" />}
+            />
+            <UpdatesCard
+              title="Compliance Updates"
+              description="Stay informed about the latest developments and changes in compliance updates."
+              icon={<CheckCircle className="w-7 h-7 text-green-600" />}
             />
           </div>
         </div>
