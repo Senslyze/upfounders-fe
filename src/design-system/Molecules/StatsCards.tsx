@@ -1,21 +1,16 @@
 import React from 'react';
-import { z } from 'zod';
 import { Users, TrendingUp, Star, Filter } from 'lucide-react';
+import { type Partner } from '../templates/home-page/utils';
 
-// Zod schemas
-const StatCardPropsSchema = z.object({
-  icon: z.any(), // React.ReactNode
-  value: z.union([z.string(), z.number()]),
-  label: z.string(),
-  iconColor: z.string(),
-});
+type StatCardProps = {
+  icon: React.ReactNode;
+  value: string | number;
+  label: string;
+  iconColor: string;
+};
 
-const StatsCardsPropsSchema = z.object({
-  className: z.string().optional().default(""),
-});
-
-type StatCardProps = z.infer<typeof StatCardPropsSchema>;
 type StatsCardsProps = {
+  partners: Partner[];
   className?: string;
 };
 
@@ -35,30 +30,42 @@ const StatCard: React.FC<StatCardProps> = ({ icon, value, label, iconColor }) =>
   );
 };
 
-const StatsCards: React.FC<StatsCardsProps> = ({ className = "" }) => {
+const StatsCards: React.FC<StatsCardsProps> = ({ partners, className = "" }) => {
+  // Calculate dynamic statistics
+  const totalPartners = partners.length;
+  
+  const solutionPartners = partners.filter(partner => partner.type === 'Solution Partner').length;
+  
+  const averageRating = partners.length > 0 
+    ? (partners.reduce((sum, partner) => sum + partner.rating, 0) / partners.length).toFixed(1)
+    : '0.0';
+  
+  // Count unique platforms across all partners
+  const uniquePlatforms = new Set(partners.flatMap(partner => partner.platforms)).size;
+
   const stats = [
     {
       icon: <Users className="w-6 h-6 text-blue-600" />,
-      value: "12",
+      value: totalPartners.toLocaleString(),
       label: "Total Partners",
       iconColor: "bg-blue-50"
     },
     {
       icon: <TrendingUp className="w-6 h-6 text-green-600" />,
-      value: "7",
+      value: solutionPartners.toLocaleString(),
       label: "Solution Partners",
       iconColor: "bg-green-50"
     },
     {
       icon: <Star className="w-6 h-6 text-yellow-600" />,
-      value: "4.5",
+      value: averageRating,
       label: "Average Rating",
       iconColor: "bg-yellow-50"
     },
     {
       icon: <Filter className="w-6 h-6 text-purple-600" />,
-      value: "7",
-      label: "Products Supported",
+      value: uniquePlatforms,
+      label: "Platforms Supported",
       iconColor: "bg-purple-50"
     }
   ];

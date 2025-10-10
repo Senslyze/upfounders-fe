@@ -1,12 +1,7 @@
 import { z } from 'zod';
 
-// Import JSON data files
-import botbizData from '/Users/bhaskarpandey/Downloads/api_downloads/0 Botbiz_7599150826856201.json';
-import zapupData from '/Users/bhaskarpandey/Downloads/api_downloads/0. ZapUp_9320896967987043.json';
-import teleobiData from '/Users/bhaskarpandey/Downloads/api_downloads/00 AI Automation by Teleobi_7582589485107231.json';
-import iconicData from '/Users/bhaskarpandey/Downloads/api_downloads/000  Iconic Solution_8878841652191480.json';
-import xpressbotData from '/Users/bhaskarpandey/Downloads/api_downloads/000000 API Platform by XpressBot_8007945982606187.json';
-import plivoData from '/Users/bhaskarpandey/Downloads/api_downloads/00001 API Platform by Plivo_6084374375005556.json';
+// Import all JSON data files using import.meta.glob
+const jsonModules = import.meta.glob('../../../assets/api_downloads/*.json', { eager: true });
 
 // Zod schema for the API data structure
 const ApiPartnerSchema = z.object({
@@ -91,38 +86,88 @@ const transformApiPartnerToPartner = (apiPartner: ApiPartner) => {
   const getReviewCount = () => Math.floor(Math.random() * 500) + 50;
 
   return {
-    id: apiPartner.id,
-    name: apiPartner.name.replace(/^\d+\s*/, '').trim(), // Remove leading numbers
-    type: getPartnerType(apiPartner.service_models),
+    id: apiPartner.id || 'unknown',
+    name: (apiPartner.name || 'Unknown Partner').replace(/^\d+\s*/, '').trim(), // Remove leading numbers
+    type: getPartnerType(apiPartner.service_models || []),
     rating: getRating(),
     reviewCount: getReviewCount(),
-    platforms: apiPartner.facebook_platforms.map(platform => 
+    platforms: (apiPartner.facebook_platforms || []).map(platform => 
       platform === 'WHATSAPP' ? 'WhatsApp' : platform
     ),
-    description: apiPartner.description.length > 150 
-      ? apiPartner.description.substring(0, 150) + '...'
-      : apiPartner.description,
-    keyFeatures: getKeyFeatures(apiPartner.focus_areas),
-    moreFeatures: Math.max(0, apiPartner.focus_areas.length - 4),
-    pricing: getPricing(apiPartner.service_models),
-    location: getLocation(apiPartner.countries),
-    services: getServices(apiPartner.industries),
-    moreServices: Math.max(0, apiPartner.industries.length - 3),
-    website: apiPartner.company_website,
-    profileImage: apiPartner.msp_profile_picture.image.uri,
-    isBadged: apiPartner.is_badged,
+    description: (apiPartner.description || 'No description available').length > 150 
+      ? (apiPartner.description || 'No description available').substring(0, 150) + '...'
+      : (apiPartner.description || 'No description available'),
+    keyFeatures: getKeyFeatures(apiPartner.focus_areas || []),
+    moreFeatures: Math.max(0, (apiPartner.focus_areas || []).length - 4),
+    pricing: getPricing(apiPartner.service_models || []),
+    location: getLocation(apiPartner.countries || []),
+    services: getServices(apiPartner.industries || []),
+    moreServices: Math.max(0, (apiPartner.industries || []).length - 3),
+    website: apiPartner.company_website || '#',
+    profileImage: apiPartner.msp_profile_picture?.image?.uri || 'https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=Logo',
+    isBadged: apiPartner.is_badged || false,
   };
 };
 
-// Create the partners array
-export const partners = [
-  transformApiPartnerToPartner(botbizData as ApiPartner),
-  transformApiPartnerToPartner(zapupData as ApiPartner),
-  transformApiPartnerToPartner(teleobiData as ApiPartner),
-  transformApiPartnerToPartner(iconicData as ApiPartner),
-  transformApiPartnerToPartner(xpressbotData as ApiPartner),
-  transformApiPartnerToPartner(plivoData as ApiPartner),
-];
+// Transform all JSON modules to partners
+const allPartners = Object.values(jsonModules)
+  .map((module: any) => {
+    try {
+      const data = module.default || module;
+      return transformApiPartnerToPartner(data as ApiPartner);
+    } catch (error) {
+      console.warn('Error processing partner data:', error);
+      return null;
+    }
+  })
+  .filter((partner): partner is NonNullable<typeof partner> => partner !== null);
+
+// Create the partners array with all data
+export const partners = allPartners;
+
+// Pagination and infinite scroll utilities
+export const ITEMS_PER_PAGE = 12;
+
+export const getPaginatedPartners = (page: number = 1, searchQuery?: string, filters?: any) => {
+  let filteredPartners = allPartners;
+  
+  // Apply search filter
+  if (searchQuery) {
+    const query = searchQuery.toLowerCase();
+    filteredPartners = filteredPartners.filter(partner => 
+      partner.name.toLowerCase().includes(query) ||
+      partner.description.toLowerCase().includes(query) ||
+      partner.services.some(service => service.toLowerCase().includes(query)) ||
+      partner.keyFeatures.some(feature => feature.toLowerCase().includes(query))
+    );
+  }
+  
+  // Apply other filters if needed
+  if (filters) {
+    if (filters.type && filters.type.length > 0) {
+      filteredPartners = filteredPartners.filter(partner => 
+        filters.type.includes(partner.type)
+      );
+    }
+    
+    if (filters.platforms && filters.platforms.length > 0) {
+      filteredPartners = filteredPartners.filter(partner => 
+        partner.platforms.some(platform => filters.platforms.includes(platform))
+      );
+    }
+  }
+  
+  const startIndex = (page - 1) * ITEMS_PER_PAGE;
+  const endIndex = startIndex + ITEMS_PER_PAGE;
+  
+  return {
+    partners: filteredPartners.slice(startIndex, endIndex),
+    hasMore: endIndex < filteredPartners.length,
+    totalCount: filteredPartners.length,
+    currentPage: page,
+    totalPages: Math.ceil(filteredPartners.length / ITEMS_PER_PAGE)
+  };
+};
 
 // Export the Zod schema for validation
 export { ApiPartnerSchema };

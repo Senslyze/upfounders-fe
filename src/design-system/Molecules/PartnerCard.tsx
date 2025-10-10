@@ -1,41 +1,9 @@
 import React from 'react';
-import { z } from 'zod';
 import { Star, Users, DollarSign, Globe, MessageCircle, Instagram, Phone } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
 import { Badge } from '@/design-system/Atoms/badge';
 import { Button } from '@/design-system/Atoms/button';
-
-// Zod schemas
-const PartnerTypeSchema = z.enum(['Solution Partner', 'Tech Provider', 'Tech Partner']);
-const PlatformSchema = z.enum(['WhatsApp', 'Messenger', 'Instagram', 'SMS', 'Voice']);
-
-const PartnerSchema = z.object({
-  id: z.string(),
-  name: z.string(),
-  type: PartnerTypeSchema,
-  rating: z.number().min(0).max(5),
-  reviewCount: z.number().min(0),
-  platforms: z.array(PlatformSchema),
-  description: z.string(),
-  keyFeatures: z.array(z.string()),
-  moreFeatures: z.number().min(0),
-  pricing: z.string(),
-  location: z.string(),
-  services: z.array(z.string()),
-  moreServices: z.number().min(0),
-  website: z.string().optional(),
-  profileImage: z.string().optional(),
-  isBadged: z.boolean().optional(),
-});
-
-const PartnerCardPropsSchema = z.object({
-  partner: PartnerSchema,
-  onCompareToggle: z.function().optional(),
-  onViewDetails: z.function().optional(),
-  isInComparison: z.boolean().optional().default(false),
-});
-
-type Partner = z.infer<typeof PartnerSchema>;
+import { type Partner } from '../templates/home-page/utils';
 type PartnerCardProps = {
   partner: Partner;
   onCompareToggle?: (partnerId: string) => void;

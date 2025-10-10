@@ -1,40 +1,74 @@
-import React from 'react';
-import { z } from 'zod';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
-
-// Zod schemas
-const PartnerTypeSchema = z.enum(['Solution Partner', 'Tech Provider', 'Tech Partner']);
-const PlatformSchema = z.enum(['WhatsApp', 'Messenger', 'Instagram', 'SMS', 'Voice']);
-
-const PartnerSchema = z.object({
-  id: z.string(),
-  name: z.string(),
-  type: PartnerTypeSchema,
-  rating: z.number().min(0).max(5),
-  reviewCount: z.number().min(0),
-  platforms: z.array(PlatformSchema),
-  description: z.string(),
-  keyFeatures: z.array(z.string()),
-  moreFeatures: z.number().min(0),
-  pricing: z.string(),
-  location: z.string(),
-  services: z.array(z.string()),
-  moreServices: z.number().min(0),
-});
+import { getPaginatedPartners, type Partner, partners as allPartners } from './utils';
 
 type HomePageProps = {
   onSearch?: (query: string) => void;
   onFiltersClick?: () => void;
 };
-type Partner = z.infer<typeof PartnerSchema>;
-
-// Use real partner data from utils
 
 const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
+  const [partners, setPartners] = useState<Partner[]>([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [hasMore, setHasMore] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [filters] = useState<any>({});
+  const [totalCount, setTotalCount] = useState(0);
+
+  // Load initial data
+  useEffect(() => {
+    loadPartners(1, '', {});
+  }, []);
+
+  const loadPartners = useCallback((page: number, query: string = '', filterOptions: any = {}) => {
+    setIsLoading(true);
+    const result = getPaginatedPartners(page, query, filterOptions);
+    
+    if (page === 1) {
+      setPartners(result.partners);
+    } else {
+      setPartners(prev => [...prev, ...result.partners]);
+    }
+    
+    setHasMore(result.hasMore);
+    setTotalCount(result.totalCount);
+    setCurrentPage(page);
+    setIsLoading(false);
+  }, []);
+
+  const handleSearch = useCallback((query: string) => {
+    setSearchQuery(query);
+    setCurrentPage(1);
+    loadPartners(1, query, filters);
+    onSearch?.(query);
+  }, [filters, loadPartners, onSearch]);
+
+
+  const loadMore = useCallback(() => {
+    if (!isLoading && hasMore) {
+      loadPartners(currentPage + 1, searchQuery, filters);
+    }
+  }, [currentPage, searchQuery, filters, hasMore, isLoading, loadPartners]);
+
+  // Infinite scroll handler
+  useEffect(() => {
+    const handleScroll = () => {
+      if (
+        window.innerHeight + document.documentElement.scrollTop >=
+        document.documentElement.offsetHeight - 1000
+      ) {
+        loadMore();
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [loadMore]);
   return (
     <div className="relative min-h-screen bg-white overflow-hidden">
       {/* Decorative Background Icons */}
@@ -127,14 +161,14 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
         {/* Search Bar */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <SearchBar 
-            onSearch={onSearch}
+            onSearch={handleSearch}
             onFiltersClick={onFiltersClick}
           />
         </div>
 
         {/* Stats Cards */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
-          <StatsCards />
+          <StatsCards partners={allPartners} />
         </div>
 
         {/* Partners Grid */}
@@ -143,6 +177,10 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
             partners={partners}
             onCompareToggle={(partnerId) => console.log('Compare toggle:', partnerId)}
             onViewDetails={(partnerId) => console.log('View details:', partnerId)}
+            totalCount={totalCount}
+            isLoading={isLoading}
+            hasMore={hasMore}
+            onLoadMore={loadMore}
           />
         </div>
       </div>
