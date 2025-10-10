@@ -128,32 +128,94 @@ export const partners = allPartners;
 // Pagination and infinite scroll utilities
 export const ITEMS_PER_PAGE = 12;
 
-export const getPaginatedPartners = (page: number = 1, searchQuery?: string, filters?: any) => {
+export interface FilterOptions {
+  products: string[];
+  partnerTypes: string[];
+  pricingModels: string[];
+  regions: string[];
+  keyServices: string[];
+}
+
+export const getPaginatedPartners = (page: number = 1, searchQuery?: string, filters?: FilterOptions) => {
   let filteredPartners = allPartners;
   
   // Apply search filter
-  if (searchQuery) {
-    const query = searchQuery.toLowerCase();
+  if (searchQuery && searchQuery.trim()) {
+    const query = searchQuery.toLowerCase().trim();
     filteredPartners = filteredPartners.filter(partner => 
       partner.name.toLowerCase().includes(query) ||
       partner.description.toLowerCase().includes(query) ||
       partner.services.some(service => service.toLowerCase().includes(query)) ||
-      partner.keyFeatures.some(feature => feature.toLowerCase().includes(query))
+      partner.keyFeatures.some(feature => feature.toLowerCase().includes(query)) ||
+      partner.type.toLowerCase().includes(query) ||
+      partner.platforms.some(platform => platform.toLowerCase().includes(query))
     );
   }
   
-  // Apply other filters if needed
+  // Apply filters
   if (filters) {
-    if (filters.type && filters.type.length > 0) {
+    // Filter by partner types
+    if (filters.partnerTypes && filters.partnerTypes.length > 0) {
       filteredPartners = filteredPartners.filter(partner => 
-        filters.type.includes(partner.type)
+        filters.partnerTypes!.includes(partner.type)
       );
     }
     
-    if (filters.platforms && filters.platforms.length > 0) {
+    // Filter by products/platforms
+    if (filters.products && filters.products.length > 0) {
       filteredPartners = filteredPartners.filter(partner => 
-        partner.platforms.some(platform => filters.platforms.includes(platform))
+        partner.platforms.some(platform => filters.products!.includes(platform))
       );
+    }
+    
+    // Filter by pricing models (based on pricing string)
+    if (filters.pricingModels && filters.pricingModels.length > 0) {
+      filteredPartners = filteredPartners.filter(partner => {
+        const pricing = partner.pricing.toLowerCase();
+        return filters.pricingModels!.some(model => 
+          pricing.includes(model.toLowerCase()) ||
+          (model === 'Per Message' && pricing.includes('message')) ||
+          (model === 'Per User' && pricing.includes('user')) ||
+          (model === 'Monthly Active Users' && pricing.includes('month')) ||
+          (model === 'Pay-as-you-go' && pricing.includes('pay')) ||
+          (model === 'One-time Fee' && pricing.includes('one-time'))
+        );
+      });
+    }
+    
+    // Filter by regions (based on location)
+    if (filters.regions && filters.regions.length > 0) {
+      filteredPartners = filteredPartners.filter(partner => {
+        const location = partner.location.toLowerCase();
+        return filters.regions!.some(region => {
+          const regionLower = region.toLowerCase();
+          if (regionLower === 'global') return location.includes('global');
+          if (regionLower === 'north america') return location.includes('north america') || location.includes('usa') || location.includes('canada');
+          if (regionLower === 'europe') return location.includes('europe') || location.includes('uk') || location.includes('germany') || location.includes('france');
+          if (regionLower === 'asia pacific') return location.includes('asia') || location.includes('pacific') || location.includes('india') || location.includes('singapore');
+          if (regionLower === 'latin america') return location.includes('latin') || location.includes('america') || location.includes('brazil') || location.includes('mexico');
+          if (regionLower === 'middle east & africa') return location.includes('middle east') || location.includes('africa') || location.includes('uae');
+          return false;
+        });
+      });
+    }
+    
+    // Filter by key services (based on key features and services)
+    if (filters.keyServices && filters.keyServices.length > 0) {
+      filteredPartners = filteredPartners.filter(partner => {
+        const allFeatures = [...partner.keyFeatures, ...partner.services].map(f => f.toLowerCase());
+        return filters.keyServices!.some(service => {
+          const serviceLower = service.toLowerCase();
+          return allFeatures.some(feature => 
+            feature.includes(serviceLower) ||
+            (serviceLower === 'automation tools' && (feature.includes('automation') || feature.includes('bot'))) ||
+            (serviceLower === 'crm integrations' && feature.includes('crm')) ||
+            (serviceLower === 'customer service' && (feature.includes('customer') || feature.includes('service'))) ||
+            (serviceLower === 'chatbot builder' && (feature.includes('chatbot') || feature.includes('bot'))) ||
+            (serviceLower === 'onboarding support' && feature.includes('onboarding'))
+          );
+        });
+      });
     }
   }
   

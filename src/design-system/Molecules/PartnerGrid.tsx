@@ -11,6 +11,7 @@ type PartnerGridProps = {
   isLoading?: boolean;
   hasMore?: boolean;
   onLoadMore?: () => void;
+  searchQuery?: string;
 };
 
 const PartnerGrid: React.FC<PartnerGridProps> = ({
@@ -22,14 +23,23 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
   totalCount,
   isLoading = false,
   hasMore = false,
-  onLoadMore
+  onLoadMore,
+  searchQuery
 }) => {
   return (
     <div className={`space-y-6 ${className}`}>
       {/* Results Count */}
       <div className="flex justify-between items-center">
         <p className="text-gray-600">
-          {totalCount && totalCount > 0 ? `Showing ${partners.length} of ${totalCount} partners` : `Showing ${partners.length} partners`}
+          {searchQuery && searchQuery.trim() ? (
+            totalCount && totalCount > 0 ? 
+              `Showing ${partners.length} of ${totalCount} partners for "${searchQuery}"` : 
+              `Showing ${partners.length} partners for "${searchQuery}"`
+          ) : (
+            totalCount && totalCount > 0 ? 
+              `Showing ${partners.length} of ${totalCount} partners` : 
+              `Showing ${partners.length} partners`
+          )}
         </p>
       </div>
 

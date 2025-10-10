@@ -8,17 +8,12 @@ function App() {
     console.log('Search query:', query);
   };
 
-  const handleFiltersClick = () => {
-    console.log('Filters clicked');
-  };
-
   return (
     <div className="min-h-screen">
       <Header />
       <main className="flex-1">
         <HomePage 
           onSearch={handleSearch}
-          onFiltersClick={handleFiltersClick}
         />
       </main>
       <Footer />

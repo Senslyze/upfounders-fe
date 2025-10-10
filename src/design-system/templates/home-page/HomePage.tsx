@@ -1,23 +1,28 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
-import SearchBar from '../../Molecules/SearchBar';
+import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
 import { getPaginatedPartners, type Partner, partners as allPartners } from './utils';
 
 type HomePageProps = {
   onSearch?: (query: string) => void;
-  onFiltersClick?: () => void;
 };
 
-const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
+const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   const [partners, setPartners] = useState<Partner[]>([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
   const [isLoading, setIsLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
-  const [filters] = useState<any>({});
+  const [filters, setFilters] = useState<FilterOptions>({
+    products: [],
+    partnerTypes: [],
+    pricingModels: [],
+    regions: [],
+    keyServices: []
+  });
   const [totalCount, setTotalCount] = useState(0);
 
   // Load initial data
@@ -47,6 +52,27 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
     loadPartners(1, query, filters);
     onSearch?.(query);
   }, [filters, loadPartners, onSearch]);
+
+  const handleFiltersChange = useCallback((newFilters: FilterOptions) => {
+    setFilters(newFilters);
+    setCurrentPage(1);
+    loadPartners(1, searchQuery, newFilters);
+  }, [searchQuery, loadPartners]);
+
+  const handleClearFilters = useCallback(() => {
+    const emptyFilters: FilterOptions = {
+      products: [],
+      partnerTypes: [],
+      pricingModels: [],
+      regions: [],
+      keyServices: []
+    };
+    setFilters(emptyFilters);
+    setCurrentPage(1);
+    loadPartners(1, searchQuery, emptyFilters);
+  }, [searchQuery, loadPartners]);
+
+
 
 
   const loadMore = useCallback(() => {
@@ -158,11 +184,13 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
           </div>
         </div>
 
-        {/* Search Bar */}
+        {/* Search Bar with Integrated Filters */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <SearchBar 
             onSearch={handleSearch}
-            onFiltersClick={onFiltersClick}
+            onFiltersChange={handleFiltersChange}
+            onClearFilters={handleClearFilters}
+            filters={filters}
           />
         </div>
 
@@ -181,6 +209,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
             isLoading={isLoading}
             hasMore={hasMore}
             onLoadMore={loadMore}
+            searchQuery={searchQuery}
           />
         </div>
       </div>
