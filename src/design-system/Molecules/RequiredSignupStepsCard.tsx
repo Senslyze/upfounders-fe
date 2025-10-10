@@ -30,7 +30,7 @@ const RequiredSignupStepsCard: React.FC<RequiredSignupStepsCardProps> = ({ step,
           </div>
           <h3 className="text-xl font-medium text-gray-900">{title}</h3>
         </div>
-        <p className="text-gray-700 mb-5">{description}</p>
+        <p className="text-gray-700 mb-5">{description}</p> 
 
         {/* Requirements */}
         <div>
@@ -39,7 +39,7 @@ const RequiredSignupStepsCard: React.FC<RequiredSignupStepsCardProps> = ({ step,
             {requirements.map((item) => (
               <li key={item} className="flex items-start gap-2 text-gray-700">
                 <span className="mt-2 inline-flex"><span className="w-2 h-2 rounded-full bg-blue-500 inline-block" /></span>
-                <span>{item}</span>
+                <span className="text-sm">{item}</span>
               </li>
             ))}
           </ul>

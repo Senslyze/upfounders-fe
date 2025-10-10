@@ -1,6 +1,6 @@
 import React from 'react';
 import { z } from 'zod';
-import { CheckCircle2 } from 'lucide-react';
+import { CheckCircle   } from 'lucide-react';
 
 const MetaPartnerTypeCardPropsSchema = z.object({
   title: z.string(),
@@ -21,8 +21,8 @@ const toneToClasses: Record<MetaPartnerTypeCardProps['tone'], string> = {
 
 const FeatureItem: React.FC<{ text: string }> = ({ text }) => (
   <li className="flex items-start gap-2">
-    <CheckCircle2 className="w-5 h-5 text-green-500 mt-0.5" />
-    <span className="text-gray-700">{text}</span>
+    <CheckCircle className="w-5 h-5 text-green-500 mt-0.5" />
+    <span className="text-gray-700 text-sm">{text}</span>
   </li>
 );
 

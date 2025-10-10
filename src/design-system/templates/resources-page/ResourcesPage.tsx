@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle2 } from 'lucide-react';
+import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle } from 'lucide-react';
 import MetaPartnerTypeCard from '../../Molecules/MetaPartnerTypeCard';
 import PricingModelCard from '../../Molecules/PricingModelCard';
 import RequiredSignupStepsCard from '../../Molecules/RequiredSignupStepsCard';
@@ -199,7 +199,7 @@ const ResourcesPage: React.FC = () => {
               {
                 title: 'Meta Approval',
                 description: 'Wait for Meta to approve your messaging setup',
-                icon: <CheckCircle2 className="w-5 h-5" />,
+                icon: <CheckCircle className="w-5 h-5" />,
                 requirements: [
                   'Partner submits for approval',
                   'Meta reviews application',

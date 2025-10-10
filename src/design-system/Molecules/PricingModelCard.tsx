@@ -1,6 +1,6 @@
 import React from 'react';
 import { z } from 'zod';
-import { CheckCircle2, AlertCircle } from 'lucide-react';
+import { CheckCircle, AlertCircle } from 'lucide-react';
 
 const PricingModelCardPropsSchema = z.object({
   title: z.string(),
@@ -20,7 +20,7 @@ const BulletItem: React.FC<{ text: string; color: 'green' | 'red' }> = ({ text, 
     ) : (
       <span className="mt-2 inline-flex"><span className="w-2 h-2 rounded-full bg-red-500 inline-block" /></span>
     )}
-    <span className="text-gray-700">{text}</span>
+    <span className="text-gray-700 text-sm">{text}</span>
   </li>
 );
 
@@ -40,7 +40,7 @@ const PricingModelCard: React.FC<PricingModelCardProps> = ({ title, description,
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <div className="flex items-center gap-2 mb-2">
-            <CheckCircle2 className="w-4 h-4 text-green-500" />
+            <CheckCircle size={16} className="text-green-500" />
             <span className="font-semibold text-gray-900">Pros</span>
           </div>
           <ul className="space-y-2">
