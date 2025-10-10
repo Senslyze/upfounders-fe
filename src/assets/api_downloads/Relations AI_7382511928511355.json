@@ -1,0 +1,97 @@
+{
+  "company_website": "https://relationsai.com/",
+  "countries": [
+    "IN",
+    "AU",
+    "BD",
+    "BE",
+    "BR",
+    "CA",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "ID",
+    "IE",
+    "IT",
+    "JP",
+    "KW",
+    "MY",
+    "MX",
+    "NL",
+    "NZ",
+    "NO",
+    "QA",
+    "SA",
+    "SG",
+    "ZA",
+    "ES",
+    "SE",
+    "CH",
+    "TH",
+    "AE",
+    "GB",
+    "US"
+  ],
+  "id": "7382511928511355",
+  "name": "Relations AI",
+  "description": "Relations AI is an intelligent omni channel chat automation platform to help businesses automate Conversational Marketing and Support at scale. We are a sophisticated yet affordable and easy to use platform, automating more than 7 Channels, including WhatsApp, Instagram & Messenger.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Automation",
+    "AI Chatbots & Team Inbox",
+    "Omnichannel Marketing"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "hi",
+    "en",
+    "mr",
+    "ta",
+    "cs",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "ja",
+    "ms",
+    "ko",
+    "no",
+    "pl",
+    "pt",
+    "pa",
+    "sv",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/302061291_446131637532921_5666528376894155759_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=RuN90seHYsUQ7kNvwEYvEkA&_nc_oc=Adk-59ZsRgoYY723flrRmrndfOUGGYuLOfKHSCI_MUmpN6gCk0caC9vQl9nCWJyrwIc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5TMVtLa4bE8yik3AEzkT7Q&oh=00_Afcq3jP7nlOGUP_TevFa1pypdZLWVhicL3K9kb5n-sa1lQ&oe=68E9AB11"
+    },
+    "id": "446131644199587"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

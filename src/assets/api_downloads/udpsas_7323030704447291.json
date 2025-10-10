@@ -1,0 +1,42 @@
+{
+  "company_website": "https://www.udpsa.co/",
+  "countries": [
+    "CO"
+  ],
+  "id": "7323030704447291",
+  "name": "udpsas",
+  "description": "Somos una empresa que suministra soluciones tecnológicas e innovadoras en comunicaciones y omnicanalidad, desarrollando plataformas prácticas y sencillas que permitan superar las expectativas de nuestros clientes, ofreciendo una respuesta inmediata a sus necesidades con personal altamente calificado, motivado y seguro.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Telefonia IP",
+    "Omnicanalidad",
+    "Contact Center"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/277996407_298509485780028_7278266211391595543_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rMpz0x6bssMQ7kNvwGb2Pmi&_nc_oc=AdlXfnPp49IKeWyWq68JeO7Q4qo8DMhfYlK9Ph1ekITlAtKBu9aqFS8QtpdVulqhf8w&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=D0J0zMojTsRSOfE9NQQaAg&oh=00_AfdgMDYyNEzd9sADwqnaWjx_YXIMvALQ4KZuJynnGyCSJA&oe=68E9AAB8"
+    },
+    "id": "298509495780027"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

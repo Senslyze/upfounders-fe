@@ -1,0 +1,66 @@
+{
+  "company_website": "https://com.bot/",
+  "countries": [
+    "IN",
+    "BR",
+    "MX",
+    "GB",
+    "AE",
+    "US",
+    "AT",
+    "AU",
+    "NZ",
+    "BD",
+    "MY",
+    "LK"
+  ],
+  "id": "9473556776050132",
+  "name": "01 Automation",
+  "description": "Convert Messages to Happy Customers !\nAutomate & Enhance Customer Support, Sales, Marketing Using WhatsApp Business API.\n\nAmazing Features Like Multi Channel Team Inbox,Auto Reverts, Broadcast Messages, Automations and easy integration with Google Forms,Shopify, Woocommerce & Many More ....",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API For Partners,Whitelabel WhatsApp API Panel For Agencies,Ready to use Whitelabel SAAS For Agencies To Resell WhatsApp Solutions",
+    "WhatsApp Bots, Automations, Integrations with 1000+ Apps. "
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TRAVEL",
+    "TELECOM",
+    "RETAIL",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/369524841_122103264614016582_2868846294858049689_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9pc3faze7SMQ7kNvwGVj1dZ&_nc_oc=AdlJGsxa_oML6weVCJRw6ky2Shv4PZYi7QwVY0XMN-SFtPFsD3YA5VsB4_TQGkqXBA0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_AffGHrAIdagkCBAwhm5vpvTbfNx2HFVEGeZLRZRXdeDIHg&oe=68E9A42B"
+    },
+    "id": "122103264626016582"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "TECH_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

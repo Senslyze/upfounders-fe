@@ -1,0 +1,53 @@
+{
+  "company_website": "https://www.cekat.ai/",
+  "countries": [
+    "ID"
+  ],
+  "id": "8443303199055147",
+  "name": "Cekat.AI",
+  "description": "Cekat is an AI ecosystem platform for sales, customer service and performance marketing. Our products include: Chat Omnichannel, CRM, Order Management System, and ads Performance Monitoring all powered by AI agents to support businesses.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484045924_696039356086631_4251389188911190450_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=g_NW5PHgEYUQ7kNvwEj1VVx&_nc_oc=AdlQIyHGBNIF0ZLqPYYgnSFEvvnUA2VSiLE9AJ2jlFn8FLfL67Ct-5Eqhoo3pcOZ2kg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_Afda-NhIzyD-kn0-oxzBvsH-lELN41J9pNuN-ilXg3K09w&oe=68E98315"
+    },
+    "id": "345130197844217"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

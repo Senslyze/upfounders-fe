@@ -1,0 +1,62 @@
+{
+  "company_website": "https://www.zenvia.com/en?&utm_source=meta&utm_medium=paid_social&utm_term=EN-us&utm_content&utm_campaign=parceiros_oficiais_meta_2025",
+  "countries": [
+    "BR",
+    "MX",
+    "CL"
+  ],
+  "id": "601529594001274",
+  "name": "Zenvia",
+  "description": "Zenvia (NASDAQ: ZENV) is a tech company enabling businesses to create personalized, seamless customer experiences through its unified, multi-channel cloud platform. With 20+ years of expertise, 13,000+ customers, and LATAM operations, it helps brands boost presence, sales, and support efficiently in one place.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/348421253_1017670176280886_3121063434209964418_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xYyxkfGOdMQQ7kNvwFj_6WP&_nc_oc=AdlNeepzdp0Czs75G9WNu-afYaWHGdT7Y59EGDeYj1kDF3TzGwflK51b5aEgXjk2pgg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WQwztT0LqNmAHTvBL5pSnw&oh=00_AfcCpajZQ7FTGx0wMMh8lfU1FMVEL71blYdGx_WjXXrgJA&oe=68E9840F"
+    },
+    "id": "648961847244305"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

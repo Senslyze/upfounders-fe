@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.nextel.io/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7258008340931501",
+  "name": "Nextel",
+  "description": "Nextel is your conversation management platform that helps you collaborate, automate and scale business conversations on WhatsApp. \n\nNextel offers dozens of in-house features and integrations, including calls tracking, catalog commerce, appointments booking to capture and manage your customers data on Upsale. Our WhatsApp automation features include collaborative inbox, chatbot, marketing, triggered based messaging, catalog commerce, forms / flows automation.",
+  "diverse_owned_identities": [
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Chat automation",
+    "Ecommerce automation"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481896987_1699337184294928_3137559169209409119_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ozGW_0yExN4Q7kNvwEUhsL3&_nc_oc=AdlQsjf8WbLa6el4RFtWcsZxpkQlmZOb97T_FuLqy4XW2ISBvyskFsIyq5C3XQvM72g&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_AfdTLCS5j2yr8ol1B5s4OOzhQpnrv8BLRF0-BhQXThHkzA&oe=68E9A72D"
+    },
+    "id": "1450928015802514"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,56 @@
+{
+  "company_website": "https://voices.com.mx/",
+  "countries": [
+    "MX"
+  ],
+  "id": "7491114577631142",
+  "name": "Voices Comunicaciones Unificadas",
+  "description": "Somos una empresa de tecnología 100% mexicana con 10 años de experiencia en servicios\nde mensajería y plataformas conversacionales. Como propietarios y desarrolladores de\nnuestros sistemas, ofrecemos un servicio de primer nivel y precios altamente competitivos.\n\nLa calidad de nuestros servicios, alineados a nuestras estrategias conversacionales, nos ha\npermitido realizar alianzas estratégicas con jugadores clave y posicionarnos como una\nempresa líder en el mercado, dando servicios a grupos corporativos, financieros y del sector\ngobierno, ofreciendo las mejores condiciones comerciales y de servicio, con el objetivo de\natender y mejorar las necesidades de nuestros clientes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Telecomunicaciones empresariales ",
+    "Desarrollo a la medida",
+    "Mensajería masiva y canales digitales, experiencias conversacionales omnicanales"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TRAVEL",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/493311120_642687188762548_8197537725916019263_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Abk9lUgdJlkQ7kNvwFGz9f6&_nc_oc=AdmSK1GJcX8O51hdAjOGKJkleAJv6eIAckkTIWpaH9ZBYn-Pr08j63A-SUulpTGstiA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=VbxrvRXNddeIlTSNq2LFMQ&oh=00_AfdloW4b-Gw8Pa3RR7fS70HJxZylWRlIslhR-M7hdEUfTA&oe=68E9ACF0"
+    },
+    "id": "642687185429215"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,44 @@
+{
+  "company_website": "https://en.haravan.com/",
+  "countries": [
+    "VN",
+    "TH",
+    "PH"
+  ],
+  "id": "489870411835099",
+  "name": "Haravan",
+  "description": "We are providing cloud-base omnichannel commerce and engagement marketing platform for over 50.000 SMEs, e-commerce merchants, retailers in Vietnam and South-East Asia. We help the merchants control and manage every aspect of their business in multi sale-channels with our one-stop solutions: E-commerce platform: Fast and easy website builder platform; Omnichannel retail: Multi-sales channel management platform; Social commerce Solution: All-in-one Solution for social commerce, help businesses maximize conversion rate, sales opportunities and customer engagement from social channels; Messenger Chatbot Marketing: Over 100.000 online business using our chatbot marketing platform; Facebook Messenger ads integration: maximized messenger ads performance; Inventory and Logistic management integrated; Social CRM: Social customers data platform for brands and merchants.\r\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "E-commerce platform",
+    "Omnichannel retail platform",
+    "Social commerce solution"
+  ],
+  "industries": [
+    "RETAIL",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "th",
+    "vi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485071938_1077237357780091_7834302271117189315_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ZN8E9al9JfIQ7kNvwEwXI3W&_nc_oc=Adnh0-2WK1MBRDIvUN18GOYwUjFhtyvPgl9yApdeXl5--nVh_VkKPtf-r1TyWZfI4wU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=_td1JhhaJ3zu8EeJ5c_Iqg&oh=00_AfdKDl6zW6n2gnPYc1-rwun3C3ojCuGwIbveKnHcdQvebw&oe=68E9B957"
+    },
+    "id": "825825226254640"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

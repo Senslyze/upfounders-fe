@@ -1,0 +1,40 @@
+{
+  "company_website": "https://ninatecnologia.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8725277717595771",
+  "name": "Nina Tecnologia",
+  "description": "Automated system for attendance confirmation of medical appointments. The system tries to contact the patients by several channels, including WhatsApp. Besides attendance confirmation, there is a wide range of features, such as appointment reminders and the development of receptive chatbots for listing, scheduling, rescheduling and cancelling medical appointments.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Healthcare",
+    "Chatbots"
+  ],
+  "industries": [
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/542750242_748335768045985_5513654026005540986_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=_zqrbhdB0UwQ7kNvwFYLWhY&_nc_oc=Adnu5KSGkmVS6Dlg0BalY4yTzhz3OdRV7S2SaCYzgV9m5nvcADn6ih95uaHaabvGYZ0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AfciGYkZ5OEIO_GV0YbWar0n7yaboyRXO2e97UvSuwLI4g&oe=68E98308"
+    },
+    "id": "748335764712652"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,88 @@
+{
+  "company_website": "https://itniotech.com/",
+  "countries": [
+    "ZA",
+    "IN",
+    "ID",
+    "CO",
+    "MX",
+    "BD",
+    "NG",
+    "PK",
+    "BR",
+    "SG",
+    "SA",
+    "TH",
+    "US",
+    "VN",
+    "AR",
+    "AE",
+    "MY"
+  ],
+  "id": "10016185438451356",
+  "name": "ITNIO TECH",
+  "description": "ITNIO TECH Authentication, Seamless Connectivity. Dedicated to provide an all-in-one multi-channel user identity authentication, marketing, and notification solutions for enterprises looking to expand internationally. Enabling Global Connectivity for Enterprises with Ease",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "BLACK",
+    "LATINX",
+    "WOMAN",
+    "LGBTQ"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API - SMS - Email - OTA",
+    "Voice - Contact Call Center - AI Voice",
+    "Email"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "hi",
+    "id",
+    "ja",
+    "ms",
+    "es-419",
+    "es",
+    "tl",
+    "th",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "vi",
+    "tr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470188864_535734882947179_6047011975344376204_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hi_15Q7tT5UQ7kNvwFFcELK&_nc_oc=Adk4OKhytTsb54g-wl9VqcGr5R4UxDIvUp7qOqpV5haAtPA9dZ3gSS6xxkxDkwJ4j9o&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=e_l0h8h98_W7LZBro4WWMA&oh=00_AffRCrnxB34ypU9OZ6n5ssl0Q6PIVmIhfWDLdVB5X07sZg&oe=68E98B24"
+    },
+    "id": "127219583798713"
+  },
+  "service_models": [
+    "SAAS",
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

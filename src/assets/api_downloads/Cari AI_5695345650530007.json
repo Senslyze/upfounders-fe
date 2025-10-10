@@ -1,0 +1,57 @@
+{
+  "company_website": "https://cariai.com/",
+  "countries": [
+    "CO",
+    "MX",
+    "EC",
+    "US",
+    "ES",
+    "CL",
+    "AR",
+    "BO",
+    "PE"
+  ],
+  "id": "5695345650530007",
+  "name": "Cari AI",
+  "description": "Cari AI is a technology company that helps other businesses transform the way they serve customers and manage operations using artificial intelligence.\nIt offers a complete suite of AI-powered products and services designed for companies looking to evolve how they communicate, operate, and grow:\n✅ Chatbots, Voicebots, and Mailbots\nProvide automated and personalized customer service via chat, phone, or email—24/7 and friction-free.\n✅ AI Copilot for Agents\nA centralized platform for human agents, enhanced with real-time generative AI support.\n✅ Omnichannel Support\nBring together all communication channels (WhatsApp, website, social media, calls, video calls) into a single interface.\n✅ Intelligent Document Processing (ION)\nExtract and organize data from unstructured documents using AI, OCR, and deep learning.\n✅ AI-Powered Video Calls\nDeliver personalized service via video, with waiting rooms, recording, and live supervision.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Chatbot",
+    "Inteligencia Artificial",
+    "Live Agent"
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "TELECOM",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/504081556_1887176742016561_6729003363089569446_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=1ENaSAM5eukQ7kNvwGOTnva&_nc_oc=AdnJdV11mlHZ5Hde0PUDuCmUMoHw9RrqWay18EEz83fq02nazsm-Kw9sR2Q5pJybCM0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_AfdrDOlKR56vfDNi0RGAYTVKTlGvklLPAAChNR4gINtiuw&oe=68E9A22B"
+    },
+    "id": "1887176738683228"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

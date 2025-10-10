@@ -1,0 +1,53 @@
+{
+  "company_website": "https://hunion.io/",
+  "countries": [
+    "BR"
+  ],
+  "id": "6400965919946820",
+  "name": "hunion.io",
+  "description": "Hunion.io has become a key partner for Brazilian companies seeking seamless access to the Official WhatsApp API.\nBy collaborating with Hunion.io, technology companies, solution integrators, and digital marketing agencies can enhance their service offerings and strengthen their position in the market, leveraging a robust and reliable infrastructure to scale their customer communications.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Cloud API",
+    "Messaging APIs"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/401745106_122100784760109418_8796336549716283385_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=UyECxOIrVVgQ7kNvwFpPUhh&_nc_oc=AdkdOVOqlO1dsFAYG4U-PXXU74lz4MTZoyYSXg2Ev0h1tNUsJ4WN4GqZ5m5YY8MdhKU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AffdWJL2s4n2hbh4sjc8wwgF7viTwdmV3M3qUnF2vCXj1Q&oe=68E9B86B"
+    },
+    "id": "122100784766109418"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

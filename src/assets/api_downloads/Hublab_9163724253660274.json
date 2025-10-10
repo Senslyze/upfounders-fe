@@ -1,0 +1,43 @@
+{
+  "company_website": "https://www.hubchat.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "9163724253660274",
+  "name": "Hublab",
+  "description": "Fundada em 2020, a Hublab é uma empresa de tecnologia que se especializa no desenvolvimento de soluções avançadas de Inteligência Artificial (IA) para otimizar e transformar a maneira como as empresas interagem com seus clientes. Desde o nosso início, temos nos dedicado a criar uma plataforma omnichannel robusta, que atende às necessidades de pequenos, médios e grandes negócios em diversos setores.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Vendas digitais",
+    "Atendimento ao cliente",
+    "Automação de conversas"
+  ],
+  "industries": [
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/304847529_603118391495485_3307231032679055704_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=S1OvDqKZYcUQ7kNvwFeXbTm&_nc_oc=Adla_Rj-vj8lvxX1cs4QzSKHLkseJQMwmNmWbV39kJRplQAi7Ugos4jra70CEwtTXuk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=_td1JhhaJ3zu8EeJ5c_Iqg&oh=00_AfdBqStVJlHsjaT5WEuAaasq-Q_6lITh7iSunSAZV6pDHw&oe=68E9B678"
+    },
+    "id": "582919260713291"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

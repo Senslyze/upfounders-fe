@@ -1,0 +1,57 @@
+{
+  "company_website": "https://morasalaty.com/",
+  "countries": [
+    "SA",
+    "BH",
+    "KW",
+    "AE",
+    "EG",
+    "QA"
+  ],
+  "id": "10091549117587666",
+  "name": "Morasalaty Platform",
+  "description": "Morasalaty is your all-in-one CRM solution for customer engagement! We help businesses to connect with their customers instantly via WhatsApp, Instagram, and Facebook. With AI-powered chatbots, automated workflows, and multi-agent dashboards, Morasalaty empowers your team to deliver fast, personalized, and professional support — boosting ROI and customer retention.\n\nFor e-commerce, it automates order tracking, abandoned cart recovery, order updates, customer feedback, and personalized campaigns via WhatsApp.\nFor the medical sector, it enables appointment booking, reminders, medical report requests, insurance inquiries, and home care service automation.\n\nWith Morasalaty, businesses streamline operations, reduce manual workloads, and deliver instant, personalized support.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Communication",
+    "Chatbot & Automation",
+    "E-commerce & Healthcare "
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "GOVERNMENT_AND_POLITICS",
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL",
+    "TRAVEL",
+    "FINANCIAL_SERVICES",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/514539005_122213750288158079_565028166112000434_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=gs1TKH1KibsQ7kNvwEvo6Jx&_nc_oc=AdmpnCGf2SVM_StEVqHQ0U0eGKiGEmMEdDp1cou5uNQXKuG3DLvIVZSloh3s0dssRY8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=93YjJ8IP7dCrLm-op7JfNA&oh=00_Afc8diht9C8t3fX9Ec9_BQwzH_ic2vrs9vmD7pAt7u_Asw&oe=68E9B873"
+    },
+    "id": "122213750276158079"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

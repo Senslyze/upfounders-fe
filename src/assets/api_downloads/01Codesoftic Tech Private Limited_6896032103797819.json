@@ -1,0 +1,55 @@
+{
+  "company_website": "https://codesoftic.com/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US",
+    "AU",
+    "NZ",
+    "OM",
+    "QA",
+    "SA",
+    "IL",
+    "KW",
+    "CA"
+  ],
+  "id": "6896032103797819",
+  "name": "01Codesoftic Tech Private Limited",
+  "description": "Codesoftic is the best web design and development company. We offer full-service Web & Mobile app development, Internet marketing and SEO services. We provide solutions to small, mid, and large scale businesses across the globe.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Performance Marketing",
+    "Digital Marketing",
+    "Social Media Management: Take control of your social media presence"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "pa"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/432754119_122100312110245877_6769520654867223043_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ENQPlMtj3z4Q7kNvwGifX36&_nc_oc=AdlBFpQN7VZcEfZ3ZcUjHq_oMC-qChgCxwiDRgIiAc4HEsRmHKHSYotSvzuyvdM82Yw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_AfclRrRX58OVoc-ob0gHlvOMw1mMna-SnMGF9lagafmqNA&oe=68E9854A"
+    },
+    "id": "122100312116245877"
+  },
+  "service_models": [
+    "MANAGED",
+    "HOURLY",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

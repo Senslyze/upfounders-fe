@@ -1,0 +1,40 @@
+{
+  "company_website": "https://adkrity.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "5111023825678212",
+  "name": "AdKrity",
+  "description": "AdKrity is AI based digital advertising mobile app that enables MSMEs to easily publish digital ads on multiple ad platforms and get better performance using AI. We also offers free social media posts and CRM.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI-Driven Ad Optimizations",
+    "Cross Channel Solutions",
+    "Feature Packed CRM "
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/277794760_266663385675301_1038319526007724839_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=64o2MXQmWbQQ7kNvwFZQ_2o&_nc_oc=AdnI4VXzzHhYJNT1Z4vDMw3KEunSC3i5evUyev7V2KyBDOsticu9AG78HqolozYM3HU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWvqlnnmQ-zlOloXIqaVdg&oh=00_AfdX9-htNcHtDEHxDahQ-LYPU4EWGwddjhKXF_mICXg8lg&oe=68E988C2"
+    },
+    "id": "266663399008633"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING",
+    "CAMPAIGN_MANAGEMENT"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

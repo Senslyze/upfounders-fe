@@ -23,6 +23,9 @@ const PartnerSchema = z.object({
   location: z.string(),
   services: z.array(z.string()),
   moreServices: z.number().min(0),
+  website: z.string().optional(),
+  profileImage: z.string().optional(),
+  isBadged: z.boolean().optional(),
 });
 
 const PartnerCardPropsSchema = z.object({
@@ -81,7 +84,21 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
       <CardHeader className="pb-4">
         <div className="flex items-start justify-between">
           <div className="flex-1">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">{partner.name}</h3>
+            <div className="flex items-center space-x-3 mb-2">
+              {partner.profileImage && (
+                <img 
+                  src={partner.profileImage} 
+                  alt={partner.name}
+                  className="w-10 h-10 rounded-lg object-cover"
+                />
+              )}
+              <div>
+                <h3 className="text-xl font-bold text-gray-900">{partner.name}</h3>
+                {partner.isBadged && (
+                  <span className="text-xs text-blue-600 font-medium">✓ Verified Partner</span>
+                )}
+              </div>
+            </div>
             <div className="flex items-center space-x-3 mb-3">
               <Badge variant={getTypeVariant(partner.type)}>
                 {partner.type}
@@ -169,9 +186,9 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <Button
             variant="secondary"
             size="sm"
-            onClick={() => onViewDetails?.(partner.id)}
+            onClick={() => partner.website ? window.open(partner.website, '_blank') : onViewDetails?.(partner.id)}
           >
-            View Details
+            {partner.website ? 'Visit Website' : 'View Details'}
           </Button>
         </div>
       </CardContent>

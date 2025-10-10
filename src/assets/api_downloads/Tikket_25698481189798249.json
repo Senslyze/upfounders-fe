@@ -1,0 +1,81 @@
+{
+  "company_website": "https://www.tikket.net/",
+  "countries": [
+    "VE",
+    "US",
+    "UY",
+    "ES",
+    "PR",
+    "PT",
+    "PE",
+    "PY",
+    "PA",
+    "NI",
+    "MX",
+    "IT",
+    "HN",
+    "GT",
+    "GE",
+    "FR",
+    "SV",
+    "DO",
+    "EC",
+    "CR",
+    "CO",
+    "CL",
+    "BR",
+    "BO",
+    "AR"
+  ],
+  "id": "25698481189798249",
+  "name": "Tikket",
+  "description": "Tikket is a solutions provider por customer experience and sales. We offer a omni channel inbox for multi-agent chat management on WhatsApp, Facebook, Instagram and other channels. Users can also implement chatbots, NPS, forms, campings for WhatsApp massive sending and much more. Users can use our solution by their own or have dedicated account manager to help them implement, maintain and train personel.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales",
+    "Customer support",
+    "Marketing automation"
+  ],
+  "industries": [
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485910064_1899175314153908_2687430985722159951_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=9j-cv9bsH6wQ7kNvwG_4ER8&_nc_oc=Adlk1kxh5uVGUYlfpqP55Zn7XmzhQu3ygb6a6djfQevLFdQpQ2J-n1EEdjcufyjduY8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=qhJod4b3ZJy8D5Xm29sldQ&oh=00_AfeEqmJFI-m3vvA19kh_CCkNpjKcTI1t5Ezjp_kRegMGMw&oe=68E9AC30"
+    },
+    "id": "1690299608374814"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

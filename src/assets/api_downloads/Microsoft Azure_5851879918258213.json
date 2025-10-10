@@ -1,0 +1,42 @@
+{
+  "company_website": "https://azure.microsoft.com/en-us/products/communication-services/?msockid=191df0b305666f133fe5e309044b6ef3",
+  "countries": [
+    "US",
+    "GB",
+    "AE",
+    "CH",
+    "NO",
+    "JP",
+    "IN",
+    "DE",
+    "FR",
+    "CA",
+    "BR",
+    "AU"
+  ],
+  "id": "5851879918258213",
+  "name": "Microsoft Azure",
+  "description": "In the interconnected digital era, it's crucial for businesses and services to communicate effectively with their audience. A robust notification system that spans various communication channels can greatly enhance user engagement and satisfaction.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480236409_611214781545472_7889981844079828851_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=cu63IRKHn64Q7kNvwGWdEaL&_nc_oc=Adl58ASj2piPro3c3UpvPBFhEqJbsydJgDn8tUYeMRv1tf9v3ZxDdv_mtfag2VRrflg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=sDQ7fnCNqdKdzMSjfz21Og&oh=00_AffOZAfGhwggUV34q17CvmFAp1VDZFsIgFZBG0U_EPtqww&oe=68E9A2CA"
+    },
+    "id": "174462125220742"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

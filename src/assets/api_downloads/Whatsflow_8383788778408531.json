@@ -1,0 +1,63 @@
+{
+  "company_website": "https://whatsflow.com.br/",
+  "countries": [
+    "BR",
+    "FR",
+    "US"
+  ],
+  "id": "8383788778408531",
+  "name": "Whatsflow",
+  "description": "O Whatsflow é a solução ideal para transformar seu atendimento e aumentar suas vendas de forma prática e eficiente. Nossa plataforma SaaS, você centraliza os atendimentos de sua empresa utilizando um único número de WhatsApp, onde múltiplos atendentes podem atuar simultaneamente, garantindo comunicação assertiva e organizada.\nNossas funcionalidades incluem mensagens pré-definidas, automação inteligente e chatbots que otimizam o tempo e personalizam o atendimento, proporcionando respostas rápidas e humanizadas. Você pode criar funis de vendas automatizados, agendar mensagens personalizadas e utilizar etiquetas (tags) para gerenciar os estágios de cada cliente.\nCom integração via Webhooks e pesquisa de satisfação, é possível distribuir leads de forma inteligente para o time certo, organiza atendimentos com triagem automatizada e oferece campanhas clicáveis no Facebook e Instagram que levam diretamente ao WhatsApp.\n100% online, sem necessidade de instalações ou plugins",
+  "diverse_owned_identities": [
+    "BLACK",
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "LATINX",
+    "WOMAN",
+    "LGBTQ"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "E-commerce, Educação, Saúde, Prestadores de serviços, Varejo, Indústria, Empreendedores, Seguros e Atendimento ao publico geral. ",
+    "Empresas locais (acima de 5 colaboradores), Agências que atendam franquias (acima de 99 unidades)",
+    "Infoprodutores que faturam acima de 50 Mil, Agências de Lançamento de Infoproduto"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474583304_122136659768486021_2881716210284149906_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=33YIrJmXZxEQ7kNvwHb_wPQ&_nc_oc=Adn9yePcrvF8RsUJwkGsp0VlHEUAsTYyUJoEjIeHaVNJzww3O0q8c4IVAyNN9Wd14hs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7jVWe2Dp6-vLv0bC7Sd1Og&oh=00_Afc4NlWGeRdOoQG7aowlfIyUiq4dIDi53KkXNbD7B6i_JA&oe=68E99CC9"
+    },
+    "id": "122136659762486021"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

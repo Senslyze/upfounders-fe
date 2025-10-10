@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.tech4h.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "9032533096789987",
+  "name": "Tech For Humans",
+  "description": "A Tech for Humans é uma empresa de consultoria em tecnologia que une estratégia, execução e implementação de Jornadas Digitais e Agentes de IA, através de produtos e plataformas proprietárias. \nNosso time de especialistas analisa, cria e implementa soluções inovadoras para o seu negócio e que geram eficiência no curto prazo.\n\nGrandes operações como Porto, Allianz e Mapfre já usam os Agentes IA da T4H lançados em 2025 — substituindo os Chatbots — e com capacidade de compreender, decidir e executar aumentando a retenção e melhorando a experiência no atendimento.",
+  "diverse_owned_identities": [
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Performance & ROI",
+    "Insurance / Banking & Finance",
+    "Automation & Digital Strategy"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "TELECOM",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/555920852_122174310254526316_4713218658779256149_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=jpkn0CoU1PwQ7kNvwHfqQ1m&_nc_oc=Adln6B96GwFVSrs93dAaA5teOlzfVgbgyh74ewHEs6Y_liOoaCm1xozwYDNd40G6pz0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_AfcYkTsApbDBZdpQawslbZJ9Ts0SrZ_r6voyk32Q4vVCvg&oe=68E989F1"
+    },
+    "id": "122174310242526316"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

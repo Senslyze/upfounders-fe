@@ -1,0 +1,45 @@
+{
+  "company_website": "https://msgkart.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7875681715851424",
+  "name": "MsgKart",
+  "description": "MsgKart aims to Revolutionize Customer Interactions with AI-Powered Chatbots & Voice Bots\nTransform customer engagement with AI-powered chatbots and voice bots, delivering instant, personalized support for a seamless experience.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Chatbots, Conversational Commerce, Marketing Automation, Digital, Analytics, Marketing & eCommerce Solutions"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "TRAVEL",
+    "TELECOM",
+    "RETAIL",
+    "ECOMMERCE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/483953019_574336435648249_9098313707675542821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=FrVu3JJSwz4Q7kNvwGjnjDK&_nc_oc=Adm8Jn52KXGLcADtik1V0eSkAfscdIbLqYL1fIbCHWOaE1nJG5WXVF_vnssf9m9b05c&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=93YjJ8IP7dCrLm-op7JfNA&oh=00_AfeQO-jBcrs94NMmrg6QUYoCCOwQfiE18duSqIhVBePvFQ&oe=68E9AEAC"
+    },
+    "id": "551771874571372"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

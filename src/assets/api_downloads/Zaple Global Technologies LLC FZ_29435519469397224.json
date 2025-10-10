@@ -1,0 +1,48 @@
+{
+  "company_website": "https://zaple.ai/",
+  "countries": [
+    "IN",
+    "AE",
+    "US"
+  ],
+  "id": "29435519469397224",
+  "name": " Zaple Global Technologies LLC FZ",
+  "description": "Zaple is an all‑in‑one WhatsApp Business platform that helps companies turn messaging into a revenue‑generating, customer‑delighting channel. Zaple unifies marketing broadcasts, AI‑driven chatbots, and a role‑based team inbox in a single, scalable SaaS. From automated campaigns with smart retry logic to rich analytics and industry‑specific add‑ons (property, club management, events), Zaple cuts operational overhead and unlocks personalised customer journeys.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Marketing Automation",
+    "Unified Team Inbox & Support",
+    "AI‑Powered Chatbots & Workflow Builder"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "GOVERNMENT_AND_POLITICS",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "EDUCATION",
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

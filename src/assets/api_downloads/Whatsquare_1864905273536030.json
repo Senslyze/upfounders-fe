@@ -1,0 +1,82 @@
+{
+  "company_website": "https://www.whatsquare.com/",
+  "countries": [
+    "CN",
+    "TW",
+    "HK",
+    "JP",
+    "KR",
+    "SG",
+    "AU",
+    "NZ",
+    "TH",
+    "ID",
+    "MY"
+  ],
+  "id": "1864905273536030",
+  "name": "Whatsquare",
+  "description": "Whatsquare is a service-oriented omni-channel messaging solution helping global business connect with local customers at scale. Powered by proprietary framework plus creative strategy, our specialists personalize chatbots and system integrated platforms enabling conversational commerce, smart product recommendation, automated concierge, and zero-friction marketing campaigns for brands to keep loyalty and meaningful relationship with customers on messengers.\n\nWhatsquare works closely with brands to adopt new digital technologies for real business values, so our solution is trusted by international clients like The Lane Crawford Joyce Group, BMW, Clarins, DHL, L'Oréal Group, LVMH, Richemont, and Shiseido Group etc.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Conversational Commerce",
+    "AI Chatbot",
+    "Enterprise Customization"
+  ],
+  "industries": [
+    "RETAIL",
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ja",
+    "ko",
+    "yue",
+    "zh",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "id",
+    "ms",
+    "th",
+    "zh-hans",
+    "fr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470201787_1682414238971465_6492338694059593073_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=54a_zSY1FL4Q7kNvwFGqcAp&_nc_oc=Adm6RE5xckgW-szWVwnjT-yBuEQM0m3FHAGFp9jV07g8YNGe_GI_ELYMwtl4Pqiu5mg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7jVWe2Dp6-vLv0bC7Sd1Og&oh=00_AfdEduT9e8ue6N4tCGhkmb2GUwR28ULNI9g6-tGanZPoZw&oe=68E9A67D"
+    },
+    "id": "1115383825674512"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

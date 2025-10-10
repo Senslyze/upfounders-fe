@@ -1,0 +1,81 @@
+{
+  "company_website": "https://www.onemarketer.net/",
+  "countries": [
+    "AR",
+    "AW",
+    "BO",
+    "BR",
+    "CL",
+    "CR",
+    "CO",
+    "CW",
+    "DO",
+    "EC",
+    "SV",
+    "DE",
+    "GT",
+    "HN",
+    "JM",
+    "MX",
+    "PA",
+    "PY",
+    "PE",
+    "PT",
+    "ES",
+    "US",
+    "UY"
+  ],
+  "id": "7308577125826666",
+  "name": "OneMarketer",
+  "description": "OneMarketer provides a Multichannel & Saas Platform that enables powerful conversational experiences throughout the entire customer lifecycle & digital channels. Engage with your customers through digital channels like WhatsApp Business API, Facebook Messenger, Instagram and others ensuring One Unified view for every connection.\n\nCreate great customer experiences and enhance your processes through automated workflows and chatbots. Increase your revenue enabling Conversational Commerce and Digital Payments solutions through WhatsApp, all of it in One platform, boosting a quality experience in every dimension of business services. OneMarketer delivers services in more than 16 countries across 12 industries with 8 years in the market, allowing agile integrations with our more than +100 customers.\n\nSome of our solutions: \n-   OneMarketer social CX\n-   WhatsApp Business API client Management\n-   Conversational Commerce \n-   Inside Sales and FlipBooks\n-   URA Calling deflection with AI\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Care",
+    "Conversational Commerce",
+    "Digital Payment Solutions"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "de",
+    "pt",
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/417149220_689833849805821_466336300113633897_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=a4r3Up-OD7gQ7kNvwHxJWip&_nc_oc=AdmDwgOr_K2PaiEtGtDxeu0jGWMbOBsrXdTDrFo03nEp8UJhgLorZhFCl4O7E0qfcTA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=v9q_WLwsSfRFz_RhakYsmw&oh=00_Afdt35EHZzXZGxmL8wITdKPhDWeU2gwLf5ofSzoSItE1FA&oe=68E98F9B"
+    },
+    "id": "689833863139153"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

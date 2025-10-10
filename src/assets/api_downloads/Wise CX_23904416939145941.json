@@ -1,0 +1,67 @@
+{
+  "company_website": "https://wisecx.com/",
+  "countries": [
+    "AR",
+    "ES",
+    "CL",
+    "UY",
+    "PE",
+    "CO",
+    "MX",
+    "US",
+    "BR",
+    "EC",
+    "PY"
+  ],
+  "id": "23904416939145941",
+  "name": "Wise CX",
+  "description": "Wise CX is a leading Latin American software company transforming customer experiences through AI-powered omnichannel solutions. With a proven track record of success and over 900 mid-market and enterprise clients across the Americas and Europe, we empower businesses to build lasting customer relationships, drive growth, and achieve operational excellence.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Communication",
+    "Customer Experience",
+    "AI-Powered Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/557625104_1379016987563432_841494983412252021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zQ46AiEb6EEQ7kNvwFEvfXX&_nc_oc=Adl9db-Gzv4UL7crCYQld-6Pi8MK5H3EKZvIhBbDBku0aXensFhOyNo8ilMLM3PMgOg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=PK_aO20hcOfdTPlZGvE4kA&oh=00_AfdvVhDZMrYqVo8sYzrPrfw2RBsPVhO7oMwQBsKBzxRQHA&oe=68E9925F"
+    },
+    "id": "1379016980896766"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

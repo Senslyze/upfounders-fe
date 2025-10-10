@@ -1,0 +1,63 @@
+{
+  "company_website": "https://zapify.pt/",
+  "countries": [
+    "PT",
+    "BR",
+    "AO",
+    "QA",
+    "AE",
+    "SA"
+  ],
+  "id": "7690236121097777",
+  "name": "Zapify",
+  "description": "A Zapify é a solução completa para empresas que querem transformar o WhatsApp no seu principal canal de vendas, marketing e apoio ao cliente. Ajudamos marcas a criarem experiências de Marketing Conversacional no WhatsApp — desde o primeiro contacto até ao pós-venda.\n\nCrie funis de conversão, campanhas segmentadas, formulários interativos (WhatsApp Flows), integrações com CRMs e sistemas internos, tudo com relatórios em tempo real e suporte dedicado.\n\n✔ Atendimento inteligente com IA e tradução automática\n✔ Automação de mensagens e fluxos com base em ações, datas ou eventos\n✔ Campanhas de marketing segmentadas com histórico e comportamento do utilizador\n✔ Integração nativa com CRMs e sistemas internos\n\nA Zapify é ideal para empresas que querem escalar o atendimento sem perder o toque humano. Mais do que tecnologia, somos o parceiro estratégico para ativar e acelerar a presença da sua marca no WhatsApp.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing Conversacional",
+    "Atendimento com Inteligência Artificial",
+    "Integração de CRMs"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481292653_587780980920269_8561652826323344416_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=z8pveRCb2WQQ7kNvwFsHNg3&_nc_oc=Adk1YQ2qfTomhDMo8xUQQQvcO4JqsExI_9g3DFhbr5gFRU-XHVLGIRAtjHxk64SQFoY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WQwztT0LqNmAHTvBL5pSnw&oh=00_AffTU3nzi0427qfJKGvmAKKwlMBoQpkSKhj0ycmtkExVag&oe=68E99237"
+    },
+    "id": "382882908076745"
+  },
+  "service_models": [
+    "SAAS",
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

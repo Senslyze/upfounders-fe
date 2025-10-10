@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.manthanitsolutions.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "27016383054619319",
+  "name": "Manthan It Solutions",
+  "description": "Manthan IT Solutions is the company who is committed to provide you with an array of highly skilled and professional design based solution that will take your web existence to the next level. Nature of Business: IT Services like WhatsApp Business API, AI Based Chatbot, Bulk SMS, OBD, RCS etc, Application Development & Web Development, Mobile App Development (Android & iOS), CRM, Infra Support (Cloud Services), Digital Marketing.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API, AI Based Chatbot, Bulk SMS, OBD, RCS etc, Application & Web Development, Mobile App Development (Andriod & iOS))"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/471195660_122169794114096774_7848485697063870972_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=xZxAknmfSQIQ7kNvwHgpKAE&_nc_oc=Adlj4dM49S6gskZBzyuqTlliIBJKvdE13rF18WxatdOY42Q6pRg3sVN7q7oKMiLl6bc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Affeb7qls2CTVWkqzLXbN0c_6-0GPmSQ_hoi3lfUV2qB_w&oe=68E98EDF"
+    },
+    "id": "122161314878096774"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

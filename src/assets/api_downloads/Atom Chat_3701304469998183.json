@@ -1,0 +1,98 @@
+{
+  "company_website": "https://atomchat.io/proveedor-oficial-whatsapp-business/",
+  "countries": [
+    "BO",
+    "BR",
+    "CL",
+    "CO",
+    "CR",
+    "DO",
+    "EC",
+    "SV",
+    "GT",
+    "HN",
+    "JM",
+    "MX",
+    "NI",
+    "PA",
+    "PE",
+    "PY",
+    "PR",
+    "VC",
+    "MF",
+    "KN",
+    "ES",
+    "TT",
+    "UM",
+    "VI",
+    "US",
+    "UY",
+    "VE"
+  ],
+  "id": "3701304469998183",
+  "name": "Atom Chat",
+  "description": "Atom automates and personalizes WhatsApp conversations to help businesses generate qualified leads and deliver great customer experiences.\nAI agents integrate with marketing, sales, and service teams to respond instantly, qualify leads, and manage customer journeys—no friction, no forms.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing Automation via WhatsApp Chatbots",
+    "Analitycs and Attribution for WhatsApp integrated to Meta Marketing API",
+    "Native integration to Hubspot and Salesforce"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "es",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/299169419_441178044693018_6638435550984371287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Y7mn6GJY5uQQ7kNvwFXjKcT&_nc_oc=AdmTCoIo2ToUEUeV6cbgAGqBrOvh0xgwaEfGd6Pmqwyjbw3_vGxK4tqh-YRbepSdlxE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=2nRZqS9tri2ZBT_aVcg6BQ&oh=00_AfcYg3CjEdVUJls16q4oqujU2XFdTXfCcamPE7HanaUuyQ&oe=68E9892D"
+    },
+    "id": "441178048026351"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "WA_PAYMENTS_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

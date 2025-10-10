@@ -1,0 +1,55 @@
+{
+  "company_website": "https://talkall.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "10015906245129531",
+  "name": "TalkAll",
+  "description": "TalkAll Solutions: the right choice for your business!\nWe are a multichannel platform designed for companies looking to boost sales and enhance customer loyalty on WhatsApp. Our powerful tools allow multiple agents to work simultaneously with just one number, transforming customer service and fostering efficient engagement.\nBuild real connections, optimize your customer support, and drive results with automation, advanced reporting, and system integration.\n\n\n🇧🇷 TalkAll Soluções: a escolha certa para o seu negócio!\nSomos uma plataforma multicanal ideal para empresas que buscam aumentar vendas e fidelizar clientes no WhatsApp. Oferecemos ferramentas poderosas que permitem múltiplos atendentes trabalharem simultaneamente com apenas um número, transformando o atendimento e promovendo engajamento eficiente.\n\nConstrua conexões reais, otimize seu suporte ao cliente e impulsione resultados com automação, relatórios avançados e integração de sistemas.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento Multicanal: Suporte ao cliente otimizado com múltiplos atendentes usando um único número no WhatsApp.",
+    "Automação e Eficiência: Bots inteligentes e fluxos automatizados para agilizar o atendimento e melhorar a experiência do cliente.",
+    "Campanhas Personalizadas: Disparos com relatórios detalhados para aumentar vendas e engajamento."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480632604_597355173171804_2762949447157486174_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hFVKvlbs6EEQ7kNvwFHEuAW&_nc_oc=AdnDzwjlPYXMwrv56R9QZMA_Gg-iA1jJBgEJyuymGchw99HPFZ0o2XFTWc1dQ0bYvQk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=z2zmwWRsrFIrWItxRgMTfQ&oh=00_AfckQ5TisitfQoz-88g4gXIVwZsbJkdl2zcHkOp8omE-8w&oe=68E990CF"
+    },
+    "id": "346750438232280"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

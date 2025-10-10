@@ -1,0 +1,62 @@
+{
+  "company_website": "https://sabnode.com/",
+  "countries": [
+    "IN",
+    "AU",
+    "GB",
+    "US",
+    "BR"
+  ],
+  "id": "9115617785143263",
+  "name": "Sabnode",
+  "description": "Sabnode is a powerful SaaS platform specializing in WhatsApp and social media automation, designed to help businesses streamline communication and marketing. With advanced tools for automating WhatsApp campaigns, managing social media content, and integrating CRM solutions, Sabnode empowers brands and agencies to save time, enhance engagement, and drive growth. From scheduling posts to nurturing customer relationships and optimizing campaigns, Sabnode simplifies workflows while delivering impactful results. Trusted by forward-thinking businesses, Sabnode is the go-to solution for efficient communication and scalable digital marketing success.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Programmable APIs: WhatsApp & SMS APIs",
+    "Customer Service: Chat, Chatbots & Contact Center",
+    "Marketing: Customer Engagement & Notifications"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "fr",
+    "de",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485154791_627680156704174_2938712648578876972_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=wowb_d5vhqsQ7kNvwE_mR-u&_nc_oc=AdkiU3ZPXh2xJ2TWMtdoFccJp-nzh96SD4Q0wF3_OKdetfXwQcvqxNyP1NM8qW1ncg0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_AffIjXU-zmclr0QiYXloXfLwdsYR_y5hBPlWBRzAbUI4gw&oe=68E996D1"
+    },
+    "id": "549679177837606"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

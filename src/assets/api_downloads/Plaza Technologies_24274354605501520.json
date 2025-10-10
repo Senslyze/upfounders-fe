@@ -1,0 +1,41 @@
+{
+  "company_website": "https://www.useplaza.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "24274354605501520",
+  "name": "Plaza Technologies",
+  "description": "Maya is the flagship AI-powered assistant from Plaza Technologies, built specifically for the real estate industry. It goes far beyond WhatsApp pre-screening, automating both lead qualification and administrative workflows—such as invoice handling, maintenance requests, and contract support—without overloading your team. Available 24/7, Maya engages leads, tenants, and property owners through personalized, efficient interactions on WhatsApp and voice calls. With seamless integrations to CRMs and ERPs, built-in credit analysis, and smart triaging, Maya empowers real estate businesses to boost conversions, reduce manual effort, and deliver faster, more effective service at scale.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI agents to automate real estate operations, boosting efficiency, lead conversion, and customer service at scale.",
+    "Messaging - Manage conversations with costumers at scale. "
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/501194018_122118795224850127_7420112053435206699_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=UdVrfmQslNsQ7kNvwE-jRHr&_nc_oc=Adnn0tMAsVigpgrLcpbp8dwTa2NaH3PjGf6PhVoExR3GTNFeFdszXb6ko-_o8jbnK4M&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=x6E-FTCghcoWnNP8wOnMGQ&oh=00_AfdF3CxThKkGhGaK8U5XPx-ariGQbVv_VavdKF5tBPdPAA&oe=68E9831C"
+    },
+    "id": "122118795218850127"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

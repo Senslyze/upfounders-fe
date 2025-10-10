@@ -1,0 +1,72 @@
+{
+  "company_website": "https://chati.ai/",
+  "countries": [
+    "ID",
+    "IN",
+    "AE",
+    "US",
+    "GB",
+    "BD",
+    "BR",
+    "OM",
+    "SA",
+    "LK",
+    "PH",
+    "IR",
+    "MX",
+    "NP",
+    "NL",
+    "NZ",
+    "QA",
+    "VN",
+    "ZA",
+    "SG",
+    "AU",
+    "AF"
+  ],
+  "id": "6917220968363154",
+  "name": "CHATI",
+  "description": "Meet Chati, your catalyst for digital growth! Our user-friendly WhatsApp communication tool streamlines community connections, providing an efficient channel that not only enhances customer engagement but also boosts your revenue. Chati's seamless integration revolutionizes your communication strategy, bidding farewell to manual processes and ushering in a more efficient and profitable approach. Experience the power of simplified, impactful communication with Chati.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Quick Chatbot Development Solutions",
+    "Revolutionize your customer engagement"
+  ],
+  "industries": [
+    "TELECOM",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "GOVERNMENT_AND_POLITICS",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TRAVEL",
+    "EDUCATION",
+    "HEALTHCARE",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/369316132_266420886176402_7861529855620903379_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Yrf_Mq37sh0Q7kNvwHNbnER&_nc_oc=AdnQ7yIeyYhreADJ8O30PlluYbCKrcxreds4q8qbn8VmsZm6FyJ9eXvtUIESoFCT1KQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0s_BMTYaaJa3cw1AEXFsAQ&oh=00_AfcNHypxJUJXU2h2aPw7VzM83sCj8KkTxrZcgBz-C5vANQ&oe=68E9B060"
+    },
+    "id": "266420892843068"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

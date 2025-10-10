@@ -1,0 +1,56 @@
+{
+  "company_website": "https://jiocx.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7408596679251502",
+  "name": "Jio Things Limited",
+  "description": "Backed by Jio’s decades of telecom experience, JioCX delivers a scalable and cost-efficient Communications Platform as a Service (CPaaS) for organizations of all sizes and sectors. By leveraging multiple channels—SMS, RCS, WhatsApp, Email, and Voice—JioCX facilitates seamless, reliable outreach. JioCX also offer innovative products like EasyPhone and EasyListing to simplify and enhance customer engagements.\n\nJioCX empowers businesses to strengthen client relationships, boost efficiency, and unify diverse communication channels into a streamlined platform. Whether you’re a local company or a global enterprise, JioCX adapts to evolving business requirements. From swift integrations to real-time analytics, JioCX drives meaningful interactions at every touchpoint—turning each customer interaction into a delightful experience.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CPaaS—SMS, RCS, WhatsApp, Email & Voice",
+    "Omnichannel Customer Experience",
+    "Programmable APIs, No-Code platform for campaign design and management"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "RETAIL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/545553906_122163323888585841_5801361023613648366_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=MnHWlfamaF8Q7kNvwEZT4Aa&_nc_oc=AdlX_SVa2mn7jCOqzj-iKrMtIAWEfk2YhYAwis1Js2bVbT7a2LrcXDDdRRtAAx00CTY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Bia_aSWAZIGLgPMqlWb5BA&oh=00_AfebTTxbncmVWwt9iT2rGkcW5Qsvd5yq8FR7n6J45C7wkQ&oe=68E9A4BF"
+    },
+    "id": "122163323882585841"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

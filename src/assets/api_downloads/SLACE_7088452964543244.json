@@ -1,0 +1,85 @@
+{
+  "company_website": "https://slace.com/",
+  "countries": [
+    "AU",
+    "AT",
+    "BE",
+    "BG",
+    "CA",
+    "HR",
+    "CZ",
+    "CY",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IS",
+    "IE",
+    "IT",
+    "LU",
+    "LI",
+    "NL",
+    "NO",
+    "PT",
+    "PL",
+    "RO",
+    "SK",
+    "SI",
+    "ZA",
+    "ES",
+    "CH",
+    "SE",
+    "TR",
+    "GB",
+    "US"
+  ],
+  "id": "7088452964543244",
+  "name": "SLACE",
+  "description": "SLACE is an award-winning Conversational Marketing and Retail Media platform \n- focused on offline-to-online\n- servicing the \"physical world\"\n- especially chained retail with local stores (1 WhatsApp account per local store)\n- and also FMCG/CPG with branded accounts. \n\nSLACE helps to connect the anonymous shopper in their offline context (stores) within 3 seconds (via QR / NFC / Link) ... to make them known and addressable \"forever\" .... starting with a context-aware personalized messenger interaction that builds trust and delivers value in seconds.\n\nSLACE enables contextualized and personalized experiences along the shopper journeys and over the whole lifecycle.... driving measurably business value with \n- more identified customers\n- more store visits\n- higher frequency and CLV",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CONVERSATIONAL RETAIL: Conversational Experiences (CX) along the Shopper Journeys (in-store, connected to POS/CRM, personalized campaigns)",
+    "RETAIL MEDIA: Cooperative Shopper Marketing from FMCG/CPG brands in the WhatsApp reach of retailers. Media Income refinances WhatsApp cost",
+    "GS1 DIGITAL LINK: Shoppers start context-aware Conversational Experience via QR Code on product. Full serialization! GS1 Solution Partner"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENERGY_AND_UTILITIES",
+    "TRAVEL",
+    "RETAIL",
+    "TELECOM",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "pl",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/271235684_5021409184538830_3015494597198518216_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VKrQ5yo80QUQ7kNvwFiitQb&_nc_oc=AdmTlQ8UdcB-slweG9L3UL7xZKrKem7pONwt41dqlv-Yzi4jx4GeIbS1IZ73-E9OH7Q&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=J2RHzChP31bkwJLPnECpDQ&oh=00_AffOiQmd0d5dbaUNnNEHwr6rTH0t35E911u7SKi2Daen6g&oe=68E9975B"
+    },
+    "id": "431799765718392"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

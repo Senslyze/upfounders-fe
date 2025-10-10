@@ -1,0 +1,47 @@
+{
+  "company_website": "https://www.plivo.com/",
+  "countries": [
+    "US",
+    "IN",
+    "BR",
+    "ID",
+    "MX",
+    "GB",
+    "FR",
+    "AU",
+    "CA"
+  ],
+  "id": "6084374375005556",
+  "name": "00001 API Platform by Plivo",
+  "description": "Plivo offers a simple, quick, and scalable way to modernize customer engagement. Businesses of all sizes — from growing startups to public companies — rely on Plivo to deliver better customer experiences.\n\nPlivo's enterprise-grade communications platform includes a premium carrier network with connectivity in more than 190 countries, an API platform for messaging and voice calls, and solutions for sales and support teams. The Plivo team brings deep experience in communications and modern software to address the needs of today's businesses — quality, scale, innovation, and agility.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Programmable APIs: WhatsApp & SMS APIs",
+    "Customer Service: Chat, Chatbots & Contact Center",
+    "Marketing: Customer Engagement & Notifications"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481014310_122163520100291249_5196449133798787450_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=CZJg0Pft0esQ7kNvwH0Y9JR&_nc_oc=AdkFvFYuwfU2_RAJ9iDVYGkrtkBPbxrzR-kvzyN6UQTWQKXsg2lVOe0z3-e48LvLKQc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OR8qV88Rlfp1WXE0nIAvsA&oh=00_AfcF-5H2pUHN-Taw4axT3iwMRNMbhRWyVW9_8rFKGDQ9vA&oe=68E9A386"
+    },
+    "id": "122163520094291249"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

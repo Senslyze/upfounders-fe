@@ -1,0 +1,49 @@
+{
+  "company_website": "https://spotiq.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "24135655066054103",
+  "name": "Spotiq Tecnologia",
+  "description": "A Spotiq é uma plataforma especializada em atendimento ao cliente omnicanal. Nosso objetivo é ajudar empresas a se destacarem no mercado por meio da integração de canais como WhatsApp, Facebook, E-mail e SMS. Combinamos automação inteligente e chatbots para otimizar processos, reduzir custos e gerar insights valiosos que elevam a experiência do cliente.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel",
+    "Customer Service",
+    "Messaging"
+  ],
+  "industries": [
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/549778679_122142014492880169_485174474190125360_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=NKSCQaLjjXMQ7kNvwHJqKeb&_nc_oc=AdkpmKBG4whX-q4IjnMv0lnp0hhVudrtjFJa6E0pwjHDMTbj7J1zMflKefffQEOkoDc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AffKhc_aUWHgbxxyA_wWxFj_OMpJ9CjBqmuxSUp4WhHkpw&oe=68E9B87F"
+    },
+    "id": "122142014486880169"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

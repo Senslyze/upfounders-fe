@@ -1,0 +1,55 @@
+{
+  "company_website": "https://gingerconsultancyservices.com/",
+  "countries": [
+    "IN",
+    "QA"
+  ],
+  "id": "8704859616223746",
+  "name": "Ginger Consultancy Services LLP",
+  "description": "Ginger Consultancy Services LLP is a trusted leader in digital transformation, specialising in messaging solutions through WhatsApp API. \n\nOur comprehensive suite of offerings includes AI-powered chatbots, CRM integration, and advanced bulk messaging automation tailored to meet each client's specific needs. Our WhatsApp API services enable businesses to manage bulk messaging, create targeted campaigns, address customer queries, execute broadcasts and offer round-the-clock support with personalised, scalable and effective solutions. Along with sophisticated statistics for performance monitoring, our services also feature message templates for notifications, appointment reminders, one-time password authentications and payment updates. \n\nTrusted by global clients, we ensure effortless integration, secure messaging, and maximized customer engagement, making us the ideal partner for businesses leveraging WhatsApp for growth.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "AUTOMOTIVE",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/486954392_604084539326923_4374474279318790275_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=_tlhuBhlISIQ7kNvwG5LT2y&_nc_oc=AdkSbGmwaaa_xLBCOfiP1R22CulaFG3Ugl9C7ulwAaab0Pcbt24-ntP0U3PeL1-XjkI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7iwpZPKPrnueY3-CsoEdTA&oh=00_AfcyN4r0RcB-YRrKqBqCaQ8ijA3KfNiD-mr6HArGpEG36A&oe=68E9B941"
+    },
+    "id": "504818099253568"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

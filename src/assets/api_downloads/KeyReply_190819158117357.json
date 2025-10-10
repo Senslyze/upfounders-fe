@@ -1,0 +1,97 @@
+{
+  "company_website": "http://keyreply.com/",
+  "countries": [
+    "SG",
+    "MY",
+    "VN",
+    "TH",
+    "ID",
+    "PH",
+    "IN",
+    "AU",
+    "US"
+  ],
+  "id": "190819158117357",
+  "name": "KeyReply",
+  "description": "KeyReply is an enterprise-grade conversational AI platform to help companies create omnichannel intelligent customer experiences using Artificial Intelligence (AI). Enterprises can chat with their customers securely 24x7 in their preferred channels, automate their customer support with FAQ management, intelligently route issues to appropriate teams, track SLA’s, set up automated responses, and much more.\n\nThe platform's virtual assistants are currently deployed by the Singapore government, AIA Singapore, EPF Malaysia, KK Women’s and Children’s Hospital and many more in the healthcare, banking, insurance, and e-commerce industries.\n\nFocus areas\nChatbot Automation: AI-powered Virtual Assistants to scale your sales, customer support, and CX\nLive Chat & Omnichannel Messaging: Manage all your customer conversations in one platform\nCampaign management for Messenger and WhatsApp Marketing",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "ECOMMERCE",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "id",
+    "ms",
+    "th",
+    "tl",
+    "vi",
+    "zh",
+    "ar",
+    "yue",
+    "cs",
+    "be",
+    "da",
+    "nl",
+    "fa",
+    "fi",
+    "fr",
+    "de",
+    "el",
+    "he",
+    "hi",
+    "hu",
+    "it",
+    "ja",
+    "ko",
+    "mr",
+    "no",
+    "pl",
+    "pa",
+    "pt",
+    "ro",
+    "ru",
+    "zh-hans",
+    "es-419",
+    "es",
+    "sv",
+    "zh-hans-tw",
+    "ta",
+    "te",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "tr",
+    "uk"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/472719079_905750911759764_6135153262280555535_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=J8ewJKXw3HcQ7kNvwF5Esc7&_nc_oc=AdkyzA9FlYfRzeJPqfSy5PmgmIQlgW1uWZbjC30vg8XLDhdqaOIBmv1L-Ai9PXbAoxw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=wRtKS1-Z28b4Ij4PLGalqw&oh=00_AfcDHeKKEyKSKGIGU9H2QB9-ou-jKYwbLSLZe63AjBV63w&oe=68E9ABDF"
+    },
+    "id": "272134291788099"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

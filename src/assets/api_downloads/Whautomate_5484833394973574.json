@@ -1,0 +1,47 @@
+{
+  "company_website": "https://whautomate.com/",
+  "countries": [
+    "SG",
+    "IN"
+  ],
+  "id": "5484833394973574",
+  "name": "Whautomate",
+  "description": "Whautomate offers an omnichannel customer engagement and automation platform for Small and medium businesses to boost sales and engagement using our platform. Whautomate offers a comprehensive solution for SMBs with the following benefits:\n\nOmnichannel Communication: Whautomate enables businesses to interact with their customers across multiple channels from a single platform.\nAutomation: The platform leverages advanced automation capabilities to streamline repetitive tasks, freeing valuable time.\nChatbots: Whautomate allows businesses to create AI-driven conversational experiences tailored to their needs.\nInvoicing and Payments: The platform facilitates seamless invoicing and payment processing, streamlining financial transactions.\nSegmentation and Broadcasting: Whautomate enables businesses to segment their customer base and run targeted marketing campaigns. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Healthcare, Beauty, Spa, Salons, Education, Marketing, Sales and Customer Service"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "TRAVEL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar",
+    "ta"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/324729865_878564633344977_8945528653643208047_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=L0aNirFIMXkQ7kNvwHE3J-g&_nc_oc=AdmOC5Fcu9Ts_Ysvb_pOT9_UlwV6dCtJiCGGF3IRzjjReef5EroSUIYLYaRQGiJ7f1c&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=PK_aO20hcOfdTPlZGvE4kA&oh=00_AfcxT6UuZE3g1BdGh7nawlNNssPQAaAV2WjKAFikCFw4Lg&oe=68E9A733"
+    },
+    "id": "112268841752268"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

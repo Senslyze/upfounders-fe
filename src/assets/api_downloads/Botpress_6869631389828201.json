@@ -1,0 +1,39 @@
+{
+  "company_website": "https://botpress.com/",
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "id": "6869631389828201",
+  "name": "Botpress",
+  "description": "Botpress is a fully extensible chatbot and AI agent platform for enterprises.\n\nOur all-in-one conversational AI Platform-as-a-Service (PaaS) allows companies to build, deploy, and monitor LLM-powered solutions. Applied across industries, use cases, and business processes, Botpress projects are always scalable, secure, and on-brand.\n\nWith 500,000+ users and millions of bots deployed worldwide, Botpress is the platform of choice for companies and developers alike. Our high-level security and dedicated customer success service ensures companies are equipped to deploy enterprise-grade AI chatbots.\n\nBotpress has been deploying AI chatbots since 2017. The company is headquartered is Quebec and raised its Series A funding led by Decibel in 2021.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "fr",
+    "pt",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480784334_122214376184242822_2625476924889947033_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Re5Zd4XncisQ7kNvwFuK7ih&_nc_oc=AdkSR-h9ydF3oM3lR9gukteO2jv4V6SFd6gooXgNmRJGasGKGnzzmh5An7Iy0ahcfYc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_AfcODDmAQQCtU1PSNYb2kdxRGWd_IHDUgz53UVRiiCWjKA&oe=68E9B7FE"
+    },
+    "id": "122183547758242822"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

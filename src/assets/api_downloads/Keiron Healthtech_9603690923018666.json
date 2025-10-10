@@ -1,0 +1,41 @@
+{
+  "company_website": "https://www.keironsalud.com/",
+  "countries": [
+    "CL",
+    "MX",
+    "CO",
+    "PE"
+  ],
+  "id": "9603690923018666",
+  "name": "Keiron Healthtech",
+  "description": "Somos una healthtech enfocada en mejorar el viaje del paciente. Gestionamos tus conversaciones con pacientes a gran escala.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Gestionamos tus conversaciones con pacientes a gran escala"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/487732667_663415633306698_1277479117154022422_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=AJPX6f0Xy8oQ7kNvwHDSPtu&_nc_oc=AdlXqyX0aB5tF8HeDn_0VnBwG-bHR66UpHsNSbGp2ugBAKRIL1pGr4JpSRyoQLhHaaw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=wRtKS1-Z28b4Ij4PLGalqw&oh=00_AfcdEDPM0a09efJQ4gX8I2u1kqymWq4VDbl8kha5CFLShw&oe=68E9B2C0"
+    },
+    "id": "663415629973365"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

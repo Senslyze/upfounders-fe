@@ -1,0 +1,69 @@
+{
+  "company_website": "https://lp.ascsac.com.br/lp-atendimento-via-whatsapp-empresas",
+  "countries": [
+    "BR",
+    "PT"
+  ],
+  "id": "4541144409243559",
+  "name": "ASC Brazil",
+  "description": "ASC delivers innovative digital communication solutions. Using advanced AI, ASC automates and optimizes customer interactions across multiple channels. With secure, efficient, and customizable bots, ASC enables businesses to manage conversations strategically, enhance customer experiences, and drive results.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "customer service",
+    "Sales",
+    "Omnichannel"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/491929074_1848715322585518_3833640458833565559_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=GQe-kIN1MXgQ7kNvwFTex-K&_nc_oc=Admv0t2OeMyXVcysrOTpQUBlkvjfv4rY9MzQXAmDaqYLg7xphEjFN8EavKuehaEY0PQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=2nRZqS9tri2ZBT_aVcg6BQ&oh=00_AfcGFeayTtqKVE0d0IKDAh3hJib0HvG1bQxcPhIJw4WUMw&oe=68E9B49E"
+    },
+    "id": "1848715319252185"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "HOURLY",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "TEMPLATE_MANAGEMENT"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

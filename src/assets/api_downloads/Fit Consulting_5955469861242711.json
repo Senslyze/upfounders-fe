@@ -1,0 +1,110 @@
+{
+  "company_website": "https://pageautoresponder.com/",
+  "countries": [
+    "RO",
+    "GB",
+    "US",
+    "AU",
+    "DE",
+    "AT",
+    "ES",
+    "IT",
+    "CA",
+    "BE",
+    "NL",
+    "NZ",
+    "CH",
+    "FR",
+    "BZ",
+    "VG",
+    "IO",
+    "BG",
+    "KY",
+    "CN",
+    "HR",
+    "CR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FO",
+    "FI",
+    "GF",
+    "PF",
+    "GI",
+    "GR",
+    "HK",
+    "IS",
+    "IL",
+    "KW",
+    "AE",
+    "SA",
+    "LI",
+    "LT",
+    "LV",
+    "MH",
+    "MU",
+    "AN",
+    "NO",
+    "PH",
+    "QA",
+    "SK",
+    "SI",
+    "KR",
+    "SE"
+  ],
+  "id": "5955469861242711",
+  "name": "Fit Consulting",
+  "description": "We create custom Messenger and WhatsApp autoresponder bots. \nWe can integrate any kind of AI bots with Facebook API, Messenger, Instagram and Whatsapp API.\nOn demand we can provide WhatsApp integrations and WhatsApp messaging campaigns for our clients.",
+  "diverse_owned_identities": [
+    "WOMAN",
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Facebook Messenger - comment autoresponders and direct messaging bots",
+    " Whatsapp - comment autoresponders and direct messaging bots",
+    " Instagram - comment autoresponders and direct messaging bots"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ro"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480627356_1306437473740217_6240097013898576017_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=DkUBGuVZHocQ7kNvwF7hEMY&_nc_oc=AdkJhoOEDak2sORCU4CsqtxTwjFw2gwGbXxZIVsf9lgOR1qYUVbMcdxNFrghvwVNH04&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=STVo-7jhQwP4Y3LRopopFg&oh=00_Afc6PDebiqyNJrSlCQK6L7NrZ_oC5tT-El68DmuEFR2LIw&oe=68E98BF3"
+    },
+    "id": "1116867062697260"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

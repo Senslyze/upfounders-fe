@@ -1,0 +1,59 @@
+{
+  "company_website": "https://www.nettyfish.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "6612222132172694",
+  "name": "Nettyfish Solutions",
+  "description": "WACTO powered by Nettyfish Solutions is your ultimate destination for seamless whatsapp messaging solutions, efficient campaign management, and a creative platform like no other!\n\nDiscover the power of effective messaging with our cutting-edge technologies that will elevate your communication game to new heights. Our dedicated team ensures smooth campaign management, allowing you to focus on what truly matters - growing your business!\n\nUnleash your creativity with our platform and craft engaging content that leaves a lasting impression on your audience. Join us on this exciting journey as we revolutionize the way you connect with your customers!",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Messaging",
+    "WhatsApp API integrations for CRMs, ERPs, and other business applications, CPaas",
+    "WhatsApp Partner Solutions for marketplaces and Ecommerce"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "TELECOM",
+    "TECHNOLOGY",
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TRAVEL",
+    "RETAIL",
+    "EDUCATION",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ta",
+    "hi",
+    "te",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/293953874_2193896944104549_8689153852545705300_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Z3PMrOYwLDQQ7kNvwESH53u&_nc_oc=Adk0796ll6Ted1n2DZakZ0YWNchm98NJHPpnDhEFUzxZkSnhUlZ_Mqte9zyNjxixo0g&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_AfcT2DO4dBihjlVa6jOAam2Y_QkHJe4WH50uvB0YD49ZeA&oe=68E98FF5"
+    },
+    "id": "708232261307617"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

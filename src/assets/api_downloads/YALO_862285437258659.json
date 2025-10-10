@@ -1,0 +1,62 @@
+{
+  "company_website": "https://www.yalo.ai/product/sales-desk",
+  "countries": [
+    "MX",
+    "BR",
+    "GT",
+    "CO",
+    "PE",
+    "CL"
+  ],
+  "id": "862285437258659",
+  "name": "YALO",
+  "description": "Yalo is an AI-driven sales platform that uses virtual agents to boost customer relationships and omnichannel sales. Seamlessly integrating marketing, commerce, and service, Yalo empowers businesses to understand customers, recommend products, and drive growth across every channel. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "B2B Enterprise Segment: CPG, Distributors, Automotive, Agro Industries and Construction."
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "AUTOMOTIVE",
+    "RETAIL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470577666_122174413184100657_8588585646210445489_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=VuIX-K_p0HoQ7kNvwEERJm_&_nc_oc=AdnVqqS62Vpvil5hQUrVIImgA-EJFbeKug3uls8Wm0u_CiRy4XnjYrw7llxG4puXRcE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=9NF2ztJyvn3CoWu6FkmvjA&oh=00_AfeHjSR8jR6CgbhiPzR30AE3BkL4DDJHihExvd8Jc_sOvQ&oe=68E98EFA"
+    },
+    "id": "122124783644100657"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_PAYMENTS_API"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

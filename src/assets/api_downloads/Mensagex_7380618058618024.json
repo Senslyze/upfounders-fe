@@ -1,0 +1,48 @@
+{
+  "company_website": "https://mensagex.com.br/",
+  "countries": [
+    "BR",
+    "PT",
+    "AO",
+    "MZ",
+    "CV",
+    "GW",
+    "TL",
+    "ST",
+    "GQ"
+  ],
+  "id": "7380618058618024",
+  "name": "Mensagex",
+  "description": "✨ Recursos pensados para o dia a dia do médico:\n✅ Agendamento de consultas automatizado com IA\n✅ Gestão de agenda direto pelo WhatsApp\n✅ Confirmação, remarcação e cancelamento de consultas automatizados\n✅ Fila de espera inteligente com encaixes e antecipações\n✅ Preparação do paciente antes da consulta\n✅ Pesquisa de satisfação pós-atendimento\n✅ Remarketing para reativar pacientes inativos\n✅ Atendimento por IA integrado ao ChatGPT\n✅ Vários atendentes usando o mesmo número\n✅ Distribuição automática das conversas\n✅ Integração com a Betalabs\n\n🔥 Solução ideal para consultórios que enfrentam:\n✅ Muita burocracia e marcações ineficientes\n✅ Falta de tempo para escalar atendimentos\n✅ Equipe sobrecarregada com tarefas repetitivas\n\n🏆 Resultados reais:\n✅ Redução de custos operacionais\n✅ Mais tempo para atender com qualidade\n✅ Aumento da produtividade da equipe\n✅ Consultório mais eficiente e profissional\n✅ Pacientes mais satisfeitos e engajados\n✅ Base de clientes mais qualificada\n✅ Imagem mais valo",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Inteligência Artificial para Médicos, Consultórios e Clínicas",
+    "Gestão Automatizado para Clínicas e Consultórios Médicos"
+  ],
+  "industries": [
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/494338489_1306115607802639_581569259518185990_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ozs9xE-H5pQQ7kNvwEcji32&_nc_oc=AdnX1clOFt3V5LwMbH94sTNJ-GHB8xYU8KENalycU88QHRe1n618wT23zoHPlJpLm5I&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=sDQ7fnCNqdKdzMSjfz21Og&oh=00_AffC47xTan9m48zQgqMIVhKowUsig7oC0fZazfwpiL11AQ&oe=68E99C7C"
+    },
+    "id": "1306115604469306"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

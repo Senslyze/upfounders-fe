@@ -1,0 +1,61 @@
+{
+  "company_website": "https://www.ameyo.com/",
+  "countries": [
+    "IN",
+    "SA",
+    "PH",
+    "VN",
+    "TH",
+    "KH",
+    "MN",
+    "ZA",
+    "CF"
+  ],
+  "id": "368072847078804",
+  "name": "Ameyo",
+  "description": "Ameyo is an Omnichannel customer engagement platform that helps businesses go remote with its remote-first virtual contact center solutions and help them streamline their customer service, customer support, and collection processes. Ameyo's robust platform is available for on-cloud and on-premise implementation with private, public, as well as hybrid instances. It has pre-built integrations with all significant industry-grade CRMs. Ameyo provides strong omnichannel capabilities of Voice, IVR, ACD, dialers, email, chat, and social media such as Instagram, Google Playstore, Twitter, Facebook & WhatsApp. To know more, visit www.ameyo.com",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Service & Support",
+    "Omnichannel customer engagement",
+    "Notifications, Digital Sales & Debt Collection"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/151694677_104934504974069_5661855497419979161_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=XrvY3FQbVf0Q7kNvwHsreMY&_nc_oc=AdnAZ4YJLTxXZTvX6LJv5cQI7a2Dwt_hG4AogAWkdJE4OVFf-Ps5673ABzJ9Da88b54&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=8nv2rzUZrEGLsjHRN_6BIA&oh=00_Afef2azh06uHvIzLlovgJpKs6gzWTnIlzc48zwtZr9iF6Q&oe=690B3EBA"
+    },
+    "id": "104934501640736"
+  },
+  "service_models": [
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER",
+    "MESSAGING_PAYMENTS"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

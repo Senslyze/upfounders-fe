@@ -1,0 +1,54 @@
+{
+  "company_website": "https://www.voxuy.com/",
+  "countries": [
+    "BR"
+  ],
+  "id": "9850974481630120",
+  "name": "Voxuy Enterprise",
+  "description": "A Voxuy é uma empresa com 5 anos de atuação no mercado, presente em mais de 26 países e com mais de 217 milhões de mensagens enviadas e 41 milhões de contatos atendidos, gerando mais de 23 bilhões de reais recuperados para seus clientes no digital.\n\nApós um ano de desenvolvimento, em janeiro de 2025 lançamos a Voxuy Enterprise, nossa nova plataforma de automação e atendimento via WhatsApp, criada para escalar operações de vendas e suporte com inteligência, eficiência e velocidade.\n\nA Voxuy Enterprise atende empresas que desejam automatizar fluxos de comunicação, integrar sistemas (como CRMs e plataformas de vendas), reduzir perdas operacionais e transformar conversas em resultados reais. Nossa solução combina tecnologia robusta com consultoria estratégica, IA personalizada e suporte completo — do onboarding à escala.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento automatizado no WhatsApp",
+    "Integração com CRMs, ERPs e sistemas de vendas",
+    "Criação de jornadas de atendimento personalizadas"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/489506450_1076452277833436_821420569046522662_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=UiuVaw8jgMoQ7kNvwHkbtOr&_nc_oc=AdnJ28A2wU_f3YILJmxjx_2Q9EBbsLi9JbXNzCp-zmKkqC8zFNgyYaSX3VA64yKfSfo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=VbxrvRXNddeIlTSNq2LFMQ&oh=00_AfcGX2_Nc5GXrBxN2Oo5YTaoQoLwIgP76w28JXes4hBj1w&oe=68E9B432"
+    },
+    "id": "1076452274500103"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

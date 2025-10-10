@@ -1,0 +1,41 @@
+{
+  "company_website": "https://botbiz.io/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7599150826856201",
+  "name": "0 Botbiz",
+  "description": "Botbiz offers a wide range of solutions built on the WhatsApp Business API. It is an Intelligent WhatsApp Engagement Platform that helps businesses broadcast messages, automate notifications, and provide customer support. Botbiz is trusted by enterprises, growing businesses, and SMBs globally. ",
+  "diverse_owned_identities": [
+    "BLACK"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API Solutions: Offering a broad range of services built on top of WhatsApp Business API for enterprises, growing businesse",
+    "Broadcasting and Automation: Assisting businesses in sending bulk messages, automating notifications, and streamlining customer support.",
+    "Customer Engagement: Providing an intelligent platform to enhance customer interaction through live chat, chatbots, and automated workflows."
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/456098185_930273832448140_3253775574248312483_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4fPU-utyW7QQ7kNvwFTZPRT&_nc_oc=Adk9T4waQJ8bSGxl9d4nvo5B2E7gWUt46jqKbjykcMpYWeymCdIrLP0xko80dIngjGg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=-6Fl0GitYnzUOW2mTL0lOw&oh=00_AfdgN_0ZK03D63sHgC11rJhgSU-Zkhxw0w1neCUkgqnRSw&oe=68E9A8CF"
+    },
+    "id": "930273835781473"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

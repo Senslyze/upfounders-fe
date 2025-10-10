@@ -1,0 +1,58 @@
+{
+  "company_website": "https://www.vibtree.com/",
+  "countries": [
+    "US",
+    "IN",
+    "ID",
+    "SG"
+  ],
+  "id": "6961328590588713",
+  "name": "Vibtree",
+  "description": "Vibtree is an award winning Omni-channel cloud communication service provider serving 1000+ users across 20+ countries.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/298920482_1114020692865358_7156876622100618362_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wx_J9tdC8VkQ7kNvwHI-kQN&_nc_oc=AdlttLlRfm2fly_EkcVFXT5rVL0nSQPeu_qWEg9I8IWm4bRKBIuov2iwG9jdw80Qyrc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ugVqchM8pFxIY8LZWG_76Q&oh=00_AfdufEm08COXbv5l7qT3jXQz2SLOkidqWdgegLjek3PlSQ&oe=68E99F3F"
+    },
+    "id": "508975251228538"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

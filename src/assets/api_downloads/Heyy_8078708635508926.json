@@ -1,0 +1,50 @@
+{
+  "company_website": "https://heyy.io/",
+  "countries": [],
+  "id": "8078708635508926",
+  "name": "Heyy",
+  "description": "Heyy is your all-in-one solution for streamlined customer interactions. Our platform centralizes multiple communication channels, providing a unified view of customer journeys. With features like built-in CRM, automation, and rich workflows, you can effortlessly manage customer relationships and boost productivity. Gain valuable insights, personalize interactions, and close deals faster with our intuitive platform. Enjoy the flexibility of our per-seat pricing or tailor a custom enterprise plan to fit your unique business needs. Our dedicated support team is available 24/7 to assist you.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TRAVEL",
+    "TELECOM",
+    "RETAIL",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "he",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/403804369_252466461155045_6971372543156447104_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OOKSzYk9x7IQ7kNvwGHK9M4&_nc_oc=AdkS8R03SbufXrjbIbNEvIuVvF-CwcjE6NEEK7aN3repar6ns3jWZJOSzz2fSJFraMI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=_td1JhhaJ3zu8EeJ5c_Iqg&oh=00_AfdasnnsPm8GDsQi-jGMnYRWD0vsgUakXmwLb4-IqtOwwg&oe=68E9B09E"
+    },
+    "id": "252466467821711"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

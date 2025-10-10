@@ -1,0 +1,67 @@
+{
+  "company_website": "https://ingenium-systems.com.br/",
+  "countries": [
+    "BR",
+    "PT",
+    "US",
+    "AR",
+    "MX",
+    "CO",
+    "CL",
+    "ES",
+    "CA",
+    "AO",
+    "DK",
+    "DE",
+    "BO",
+    "CR",
+    "EC"
+  ],
+  "id": "25250099254578462",
+  "name": "Ingenium Systems",
+  "description": "Digital Intelligence to Connect Businesses and People\n\nAt Ingenium Systems, we build advanced digital solutions that redefine how brands engage, operate, and grow.\nAs a verified partner in the Meta ecosystem, we offer a proprietary omnichannel platform that unifies WhatsApp, Instagram, Facebook Messenger, voice, and more—into a single, intelligent environment.\n\nOur platform enables companies to:\n\t•\t📲 Centralize real-time interactions across messaging and voice\n\t•\t🔗 Integrate with CRMs and APIs for seamless, personalized workflows\n\t•\t🤖 Automate service and sales journeys with AI-powered agents\n\t•\t🧠 Leverage sentiment analysis for smarter customer insights\n\t•\t📈 Unlock actionable data through advanced reporting and dashboards\n\nWhy Ingenium Systems?\nWe combine innovation, scalability, and strategic focus to deliver digital solutions that improve customer experience, optimize operations, and accelerate business growth.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales, Marketing & Billing: Automate sales, lead gen, campaigns, and payments via messaging with AI agents, CTAs, and CRM/API integrations.",
+    "Customer Support & Retention: Omnichannel support with human + AI agents, fast response, winback flows, and satisfaction-focused automation.",
+    "Healthcare Journeys via Messaging Patient onboarding, scheduling, follow-ups, and engagement via WhatsApp and other messaging channels."
+  ],
+  "industries": [
+    "EDUCATION",
+    "ECOMMERCE",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TRAVEL",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/72323434_438381147092712_5823792597574877184_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=zDc7q-39_ccQ7kNvwFu0tSi&_nc_oc=Adke4AEYMrOS82hJjoe2d0zHBKS9R15Kc7hVNhwpPQUCVH75ww4ZUksDWxamgrv7Jzk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=mU_-KLmWnloN6q_V1o7Q7g&oh=00_AfcVJJ6m2CZ-pVZ8bLgLTpD1ZcHOPo-90D-2HmZ6y5rCbQ&oe=690B3840"
+    },
+    "id": "438381143759379"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

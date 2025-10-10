@@ -1,0 +1,60 @@
+{
+  "company_website": "https://smartping.ai/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7228362187293434",
+  "name": "Smartping AI",
+  "description": "Founded in 2015, Smartping is a leading UCaaS (Unified Communication as a Service) platform that empowers pan-Indian businesses with scalable multi-channel communication services. With 5000+ customers, Smartping aims to revolutionize enterprise communication through our advanced capabilities for multi-channel engagement, which are: SMS Solutions, Voice Solutions, WhatsApp Business Messaging, Cloud Contact Center Solutions, Conversational AI & RCS.  \nLeverage Smartping's WhatsApp Business Messaging capabilities to seamlessly manage automated customer conversations, build targeted marketing campaigns & enhance the overall customer experience.  \n\n- Drive large-scale marketing campaigns that convert \n- Provide 1-on-1 personalized experiences \n- Seamless customer assistance with multilingual support and automated replies. \n- Deliver higher ROI and superior customer experiences\n\nConnect with us at hello@smartping.ai and 1800 911 1111 \nVisit our website for more information - www.smartping.ai",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Messaging & Conversational Commerce ",
+    "Customer Experience Management ",
+    "Chatbots "
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "hi",
+    "en",
+    "ta",
+    "mr",
+    "pa"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480167795_122224667852195952_5495787727310251247_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ys-At3orNEsQ7kNvwFCoUK-&_nc_oc=Adno8Zqclj9QJ6q90vQHyCV5yACIAqaa0ANnmbs9ilXntomZtNa4PmpLEc5FTGqXzig&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OtouIrA2rW6AI4OH3VR6lA&oh=00_AfdGarJsBMdYesqHvFC6xdLC1lZsk8ZcexivZ64TBosUJg&oe=68E98F3A"
+    },
+    "id": "122174046404195952"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

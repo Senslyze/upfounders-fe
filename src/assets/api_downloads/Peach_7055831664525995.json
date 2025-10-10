@@ -1,0 +1,50 @@
+{
+  "company_website": "https://trypeach.io/",
+  "countries": [
+    "GB",
+    "AE",
+    "US",
+    "SA",
+    "IN",
+    "ID",
+    "GE",
+    "DE",
+    "NL",
+    "BE",
+    "NG",
+    "KW",
+    "KE",
+    "IT",
+    "IL",
+    "IE",
+    "HK",
+    "GR",
+    "FR"
+  ],
+  "id": "7055831664525995",
+  "name": "Peach",
+  "description": "Peach is a AI agent and app builder for WhatsApp. Turn your WhatsApp Business Account into a Super App for your brand.\nWith Peach, you can build and launch AI agents in minutes, use flows to build native app-like experiences for your customers and run your marketing and support operations with ease.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp AI",
+    "Messaging"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482343134_624677317084387_7262885169063559999_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=CYXsDN48gN4Q7kNvwF4l9JU&_nc_oc=Adkf2hMcXyte_QoefPtZ-e3XswR-b7KH68mdVoVsuHs5aHUoJwPNBCSpdryuglAIEDY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=acp7DzSwk5nCAo_LFkfQuA&oh=00_AfeDQ3Wlr3BT6-GReSDG1Kb9sSWjtCClme_qGL1JDOMJBg&oe=68E99031"
+    },
+    "id": "408958818656239"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

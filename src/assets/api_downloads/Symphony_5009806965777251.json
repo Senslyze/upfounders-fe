@@ -1,0 +1,101 @@
+{
+  "company_website": "https://www.symphony.com/",
+  "countries": [
+    "AU",
+    "AT",
+    "AR",
+    "BR",
+    "DZ",
+    "BH",
+    "BD",
+    "BE",
+    "CA",
+    "CL",
+    "CR",
+    "DK",
+    "EG",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HK",
+    "HU",
+    "IN",
+    "ID",
+    "IE",
+    "IL",
+    "IT",
+    "JP",
+    "JE",
+    "KW",
+    "LB",
+    "LT",
+    "LU",
+    "MO",
+    "MY",
+    "MT",
+    "MU",
+    "MX",
+    "MC",
+    "MA",
+    "NL",
+    "NZ",
+    "NG",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "SG",
+    "ZA",
+    "ES",
+    "LK",
+    "SE",
+    "CH",
+    "TW",
+    "TH",
+    "TR",
+    "UA",
+    "AE",
+    "GB",
+    "US",
+    "UY",
+    "VN"
+  ],
+  "id": "5009806965777251",
+  "name": "Symphony",
+  "description": "Symphony’s modular technology - built for global finance - enables over 1,000 institutions to prioritize data security, navigate complex regulatory compliance and optimize business interactions.\n\nSymphony federates with WhatsApp, enabling regulated users to have high touch client communication with the peace of mind that messages will be secure, captured and retained.\n\nConduct compliance-enabling messaging directly on your clients' preferred platform to reduce friction, enhance engagement, and expedite communication. Leverage Symphony bots to automate routine requests and streamline everyday workflows, freeing teams to focus on higher-value tasks.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/309189826_599533108378760_5794677944516486631_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=BorbfwHKFkgQ7kNvwFKiOWt&_nc_oc=AdnzE1uEhKMk1OmBZwPRLQFtV04hOQX3vF2A_KZa__2MyzauwffogmeDpbl05Ebpd3M&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=z2zmwWRsrFIrWItxRgMTfQ&oh=00_AffhQTnIEIj98tWyeTJUAQ_P6NuvmsWeMK8DsVqBlrXoiA&oe=68E9B226"
+    },
+    "id": "599533118378759"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

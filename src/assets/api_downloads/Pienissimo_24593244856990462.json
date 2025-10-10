@@ -1,0 +1,38 @@
+{
+  "company_website": "https://pienissimo.pro/",
+  "countries": [
+    "IT",
+    "SM"
+  ],
+  "id": "24593244856990462",
+  "name": "Pienissimo",
+  "description": "PIENISSIMO PRO è l'innovativa piattaforma che ti permette di gestire tutte le prenotazioni dei tuoi clienti, sia online che telefoniche. Inoltre, ti permette di avere il pieno controllo della gestione dei tuoi contatti, delle performance del tuo staff e dell'andamento del locale.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API - SMS - Email - Conversational Platform - Marketing Platform"
+  ],
+  "industries": [
+    "ENTERTAINMENT_AND_MEDIA"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "it"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/307343340_454281903411111_576206710169352692_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Fgf82RKlQ_QQ7kNvwH2DZvu&_nc_oc=AdlYQjRIezLBWnqUSs7y3-hjctx3rYRKzNaW1Rop_3Hq4X_-iHZdshB7NG4XcnTUrpk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=acp7DzSwk5nCAo_LFkfQuA&oh=00_AfcZhmxFPgoonXmiYK6bSPVqdpqcufe1-b-VtP2jPhSB0g&oe=68E984A3"
+    },
+    "id": "454281913411110"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,60 @@
+{
+  "company_website": "https://botaty.com/",
+  "countries": [
+    "EG",
+    "LY",
+    "IQ",
+    "SY",
+    "JO",
+    "AE",
+    "QA",
+    "KW",
+    "BH",
+    "OM",
+    "SA",
+    "YE"
+  ],
+  "id": "4958842090819223",
+  "name": "Botaty",
+  "description": "Botaty can provide you with all chatbot solutions on the platforms of Telegram, WhatsApp, website, messenger, Twitter and others … as well as all automation process of your business",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "BLACK",
+    "LATINX",
+    "LGBTQ",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "chatbots"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/104411564_102852454812537_2018373554311903101_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Af36hsuYj6IQ7kNvwFZ0zjv&_nc_oc=Adn6187hQ2J7rjDNoHf3A-ymaonwCzoeW53iIPj7aOsbZfGIAH0k-f7lXj-VcuOT-_A&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Gqy_j0Qm2PX_RWG9tko1cg&oh=00_Afe_VyC_IWcUVEeWdFbHr4Mv9VqSTjY4XTe6KhwxuMOOEA&oe=690B1FE4"
+    },
+    "id": "102852451479204"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

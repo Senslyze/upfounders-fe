@@ -1,0 +1,65 @@
+{
+  "company_website": "https://mgd.im/",
+  "countries": [
+    "CO",
+    "EC",
+    "MX",
+    "PY",
+    "PE",
+    "UY",
+    "AR",
+    "BR",
+    "BO",
+    "CL",
+    "VE"
+  ],
+  "id": "7765885410126387",
+  "name": "MGD Suite by Megadigital SRL",
+  "description": "Llega a más Clientes y Optimiza la Relación con ellos​.\nNuestra Plataforma integra WhatsApp, Facebook e Instagram permitiendo automatizar procesos repetitivos y gestionar de forma eficiente las tareas de tu Equipo de Trabajo de manera 100% digital permitiéndote llegar a más clientes y potenciar la relación con los mismos.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Inbound y Outbound Chatbots (con integración vía API a sistemas externos).",
+    "Gestión de Oportunidades (Leads) más que conversaciones y visión 360 del Cliente.",
+    "Integración nativa con Meta Marketing API para automatizaciones e indicadores de gestión. "
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482355122_1861867797892185_6928463481880687149_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Z7TR4bOr7eQQ7kNvwF3BmLB&_nc_oc=AdmRVtj6CwqAAL9GjIgetkMp7eaB_6pRzuKQkRBPaQ41aOk_cUKaS8f_Wxq0vxldo0E&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=sDQ7fnCNqdKdzMSjfz21Og&oh=00_AfeCXDSJTyTTXHjI-JLcy8PLuQNTkGUWXuDGKexT9HXynA&oe=68E9ACC5"
+    },
+    "id": "1679856246093342"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

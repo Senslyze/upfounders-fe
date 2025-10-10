@@ -1,0 +1,72 @@
+{
+  "company_website": "https://blubash.io/",
+  "countries": [
+    "BR",
+    "CL",
+    "AR",
+    "DE",
+    "PT",
+    "ES",
+    "IT",
+    "US",
+    "GB",
+    "MX",
+    "CA",
+    "UA",
+    "RU"
+  ],
+  "id": "5844753755564374",
+  "name": "BluBash",
+  "description": "BluBash is an AI-First conversational platform that redefines how brands connect with their customers.\nWith highly realistic AI agents, we deliver intelligent and engaging interactions across channels such as WhatsApp, Instagram, and more — seamlessly blending advanced automation with real human service to create high-impact hybrid experiences.\nOur solution unifies AI, Omnichannel, and CRM into a single, professional, and scalable ecosystem — boosting operational efficiency, strengthening customer relationships, and driving results.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Conversational AI & Intelligent Agents",
+    "Omnichannel Customer Engagement",
+    "Hybrid Human + AI Experiences"
+  ],
+  "industries": [
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "ENERGY_AND_UTILITIES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481114811_613048328251788_5384208151102827828_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=j2COATBV8fEQ7kNvwFlVzD9&_nc_oc=Adk2rWXtjEkbt3QbMl6ZmQ-dA3YLwZ9iUSg59a4tStMlcLNQ0Jq5qkmf0y7F6aMWhr8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Gqy_j0Qm2PX_RWG9tko1cg&oh=00_AfcfLBf9eRbo0ucIUzLeU3pyg0ec6rpiYmghm9kHsK5BYg&oe=68E9A35B"
+    },
+    "id": "452540467635909"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

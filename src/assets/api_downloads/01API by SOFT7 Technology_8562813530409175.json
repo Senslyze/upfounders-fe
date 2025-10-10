@@ -1,0 +1,60 @@
+{
+  "company_website": "https://soft7.in/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US"
+  ],
+  "id": "8562813530409175",
+  "name": "01API by SOFT7 Technology",
+  "description": "Turn Conversations into Customers! 🚀 Automate & Elevate Your Sales, Marketing & Support with WhatsApp Business API.\nEnjoy Powerful Features like Multi-Channel Inbox, Auto Replies, Bulk Messaging, Smart Automation & Easy Integrations!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API & Automation: API, CRM auto, lead gen, support, integrate, grow, automate",
+    "WhatsApp Sales & Ecom: Sales auto, ecom flows, conversions, shopify, woo, sales increase",
+    "Chatbots & Engagement: No-code bots, engage, 24/7 support, messaging, interactions, replies"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "GAMING",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr",
+    "ta",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/472532776_122201749094203073_994824161373498290_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=jdjcp1Ei6N0Q7kNvwH0RxE1&_nc_oc=Adl_QiOoDRv2QZXfgU4GDlniimaCznK0hfFNF3CR1zU-pb8ysVNjfVUkEcrrYfj02J4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_Afe7BvVZApmqNuyv6a-3DZOTipy6OseANjCnJ_V_E530_w&oe=68E98F05"
+    },
+    "id": "122176794542203073"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,63 @@
+{
+  "company_website": "https://tryowbot.com/",
+  "countries": [
+    "IN",
+    "CA",
+    "US",
+    "SG",
+    "MY",
+    "AE",
+    "GB"
+  ],
+  "id": "9201690789854917",
+  "name": "Eron Techno Solutions Pvt Ltd",
+  "description": "Introducing TryowBOT (A brand of Eron Techno Solutions Pvt Ltd), Your All-in-One WhatsApp Automation Suite an effective and efficient WhatsApp marketing Platform to take your brand directly to your customers’ most preferred communication channel.\n\nTryowBOT provides a wide range of solutions on the top of WhatsApp Business API. TryowBOT is an Intelligent WhatsApp Engagement Platform that helps to send bulk WhatsApp messages, broadcasts, template messages, build chatbots with a no-code builder and manage customer queries on WhatsApp with a single team inbox, automate notifications, and solve customer support.Trusted by Enterprises, Growing Businesses globally. Also, TryowBOT helps service providers, media agencies, resellers, and technology enablers.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Engagement Platform: Helping Businesses with WhatsApp Broadcasting, Campaign Management & Live Chat",
+    "WhatsApp Cloud API for technology enablers",
+    "No-code Chatbot : CRM and Ecommerce Automation"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "RETAIL",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ta",
+    "en",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/473591949_122146733960438065_8990424387224988390_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=bAyhdX7M_KQQ7kNvwGGdY7R&_nc_oc=AdmwQ-8MDLWIyeo2H6wzyWeXyY6VvhXHHZJxfGlP1EoSKMJ7yIFRAytVc1GvjrSdgfI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_Aff1hrbBiz8GZ_iPvIg-B4CgoFciw_t0yUy-vPBWX1_wUg&oe=68E99E8C"
+    },
+    "id": "122133008162438065"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

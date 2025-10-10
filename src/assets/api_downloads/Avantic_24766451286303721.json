@@ -1,0 +1,66 @@
+{
+  "company_website": "https://avanticglobal.com/",
+  "countries": [
+    "AR",
+    "MX",
+    "CO",
+    "CR",
+    "UY",
+    "VE",
+    "PE",
+    "CL",
+    "EC",
+    "PY",
+    "ES"
+  ],
+  "id": "24766451286303721",
+  "name": "Avantic",
+  "description": "Transforma tu negocio con Avantic: el bot de WhatsApp que impulsa tus ventas y optimiza tus procesos.\n\nPruébalo gratis hoy mismo y lleva tu atención al cliente, productividad y ROI a un nuevo nivel.\nAvantic integra con tu CRM, gestiona conversaciones, segmenta leads y ofrece respuestas automáticas basadas en el análisis de palabras clave.\nAgiliza tus ventas con monitoreo en tiempo real, cierre más rápidamente y mejora el seguimiento de tus ventas.\n\nDescubre el poder de las palabras con Avantic.\n\n\n¡Aprovecha el futuro de las ventas ahora mismo!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp",
+    "WhatsApp API",
+    "WhatsApp Business"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/339252713_226983603200990_4611252671964643270_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=C5ganpAe8MUQ7kNvwEVgNJA&_nc_oc=AdmAd90ebAI5jNMPf4UGlI9_1GdNQiV3aZdT5XFigrlxkhkD7rIpK8Wb541odUUFhIM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=MXK0T1aEFavWS-RCJdIzOQ&oh=00_Aff9Ta50DDrIiK4PzDST_u6Fm_fYNcC8F7NEy5xL6fJIow&oe=68E9B98A"
+    },
+    "id": "151814504482662"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,63 @@
+{
+  "company_website": "https://sellia.com.mx/",
+  "countries": [
+    "MX",
+    "AR",
+    "BO",
+    "CO",
+    "CR",
+    "EC",
+    "SV",
+    "ES",
+    "PA"
+  ],
+  "id": "7845385072194917",
+  "name": "01 Sellia",
+  "description": "Sellia es una plataforma omnicanal que unifica los canales de comunicación y automatiza los flujos de interacción con los clientes, permitiendo a las empresas gestionar conversaciones de manera centralizada, sin importar el canal preferido por el cliente (WhatsApp, Messenger, Instagram, Telegram, Webchat, SMS, Slack, etc.). Con Sellia, las empresas mejoran sus ventas y servicio al cliente utilizando automatización, chatbots y capacidades omnicanal.\nServicios clave:\n\t•\tMensajería omnicanal: Centralización de conversaciones en múltiples plataformas.\n\t•\tCreación de chatbots y flujos automatizados con el ICR Builder.\n\t•\tAsistente virtual impulsado por IA que puede transferir a agentes humanos.\n\t•\tEnvío masivo de mensajes personalizados.\n\t•\tApp móvil para responder en tiempo real.\n\t•\tAnálisis de datos en tiempo real para decisiones informadas.\nCasos de uso: atención al cliente, campañas de marketing, soporte automatizado y gestión de comunicación multicanal.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Engagement, Automated Customer Support",
+    "Marketing Campaigns, Sales and Conversions",
+    "Multi-Channel Communication Management"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481665993_590733280630920_1651813964780700803_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=3yF-1DAGmtQQ7kNvwFmLHyM&_nc_oc=AdklGgfaLqoTIhNCnkC4lA6RWS1pc2H8UisYWJqpQp_op0dFM3RnR7laH4lsayCfcVM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_AfcqM7G-Md4qh6OxiJ-FLnd3sXkM_oe34ceF7BxHetx7pA&oe=68E9893F"
+    },
+    "id": "459838150387101"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

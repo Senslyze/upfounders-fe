@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.xsales.global/",
+  "countries": [
+    "BR"
+  ],
+  "id": "25090036467311071",
+  "name": "Krykto Tecnologia Ltda",
+  "description": "XSales revolutionizes customer engagement through a seamless WhatsApp Business API integration. By combining XSales’s cutting-edge services with highly competitive pricing, we empower companies to elevate their communication and unlock unprecedented business growth.\n\nWith XSales, businesses can effortlessly automate and personalize notifications, ensuring every customer interaction is timely, relevant, and delightful.\n\nOur powerful Chat solution transforms WhatsApp into a smart communication hub — featuring intelligent routing, instant automated responses, advanced data tagging, and actionable analytics. The result? A smoother, faster, and more human customer support experience.\n\nPlus, with our intuitive no-code and low-code workflow builders and chatbots, you can automate routine interactions, freeing your team to focus on what truly matters: building meaningful customer relationships.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Whatsapp Engagement Platform : Helping Businesses with WhatsApp Broadcasting Automation, Live Chat, Chatbots & AI",
+    "WhatsApp Cloud API for technology enablers",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/472571578_122158130444307494_4516511338187078331_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=3OCb-MEJm2UQ7kNvwFdf0zV&_nc_oc=AdnvE87DXXtet_AHxo7laCyeB39T981YR_XFgrXDHUHcuwLXiLBsgW5Hu272oyrUB5A&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=wRtKS1-Z28b4Ij4PLGalqw&oh=00_AffGHkxzyCHXWuOJIlqtSfLRxyIATLw1d3vTbhM4Lf8jRw&oe=68E9A634"
+    },
+    "id": "122153151200307494"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,72 @@
+{
+  "company_website": "https://abracket.com/",
+  "countries": [
+    "IN",
+    "CA",
+    "AE",
+    "BD",
+    "LK",
+    "KE",
+    "GB",
+    "US",
+    "MA",
+    "BR",
+    "CO",
+    "FR",
+    "ZA",
+    "NZ",
+    "DE"
+  ],
+  "id": "25114521901472630",
+  "name": "Abracket Pvt Ltd",
+  "description": "For businesses seeking seamless customer engagement and streamlined operations, our WhatsApp Integrated Customer Engagement Platform offers:\n-- Broadcasting\n-- Lead Interaction\n-- Automated Processes with Chatbots, Triggers, and Events\n-- WhatsApp Catalog for showcasing Products\n-- Customer Management and Integration\n-- Direct Order Management, all accessible and manageable from your phone.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Engagement Platform with Process Automation. ",
+    "Providing Comprehensive Solutions integrated with WhatsApp Cloud API, facilitating end-to-end business processes",
+    "Streamlined Orders Management for direct WhatsApp-based transactions and notifications."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "pa"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475412345_489331074213800_4471008038911973160_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=9vt-esygVmYQ7kNvwEjdXpt&_nc_oc=Adm3UOXPV_Bl4wCxIVmWgtG1FXrVos6amSVF2oA22cHn2Aky-oIEdORKCzDLOF7yt2w&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ZgvCcs9ywvtwAxZWAJRZIw&oh=00_AffVFQg6HnsgMLnBd0itRYzIBCgvocveUGJ8RY0JedqZMw&oe=68E99804"
+    },
+    "id": "272672832546293"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

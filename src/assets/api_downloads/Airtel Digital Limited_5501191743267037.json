@@ -1,0 +1,29 @@
+{
+  "company_website": "https://www.airtel.in/business/b2b/airtel-iq",
+  "countries": [],
+  "id": "5501191743267037",
+  "name": "Airtel Digital Limited",
+  "description": "Airtel IQ is the world’s first network-embedded Communication Platform as a Service (CPaaS) ecosystem. Powered by Airtel’s pan-India, tier-1 network resilience, Airtel IQ offers business communication solutions for real-time, omnichannel customer engagement to more than one million global enterprises via programmable APIs\nIts exclusive solution portfolio includes Voice, SMS, Video and WhatsApp APIs which are backed by Airtel’s strong expertise and experience garnered as a trusted managed service partner across industries. Designed to cater to every enterprise communication need on-demand at optimized costs, Airtel IQ is the one-stop offering to redefine/enhance customer experiences and drive revenues, reach and reliability. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/487797754_508476585664332_5310795012780348747_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ja76OMmY7xMQ7kNvwHj8NFy&_nc_oc=Adl8tS9PeNbE6-YEqRewgNdW1k1og2z6l1CfEPWnrOPWUTtmwuALiZ495Wh1UURKsho&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1mYvAsoAjYY5PVO0-3q0qA&oh=00_Afd5jvwwA84a7U5ejs72Y91thOxtt6tLFA3rRjoqjL3UOQ&oe=68E9A44A"
+    },
+    "id": "508476582330999"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

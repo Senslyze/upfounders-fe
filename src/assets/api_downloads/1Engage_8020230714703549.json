@@ -1,0 +1,43 @@
+{
+  "company_website": "https://www.1engage.ai/",
+  "countries": [
+    "ID",
+    "SG",
+    "MY",
+    "CN",
+    "IN",
+    "PH",
+    "VN",
+    "TH"
+  ],
+  "id": "8020230714703549",
+  "name": "1Engage",
+  "description": "1Engage is a premier Martech company in Indonesia and an official WhatsApp Business Solution Provider (BSP). We deliver a comprehensive suite of WhatsApp Business Messaging services that empower businesses to connect with new audiences, promote their offerings, and engage effectively with customers. Our customer-centric approach enhances engagement through integrated solutions, including innovative digital marketing strategies and AI-driven tools.​\n\nHeadquartered in Jakarta, Indonesia, we specialize in creating and executing impactful campaign strategies that drive meaningful results for our clients, helping them build strong connections with their customers and achieve their marketing objectives.​",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business Messaging",
+    "Digital Marketing Agency",
+    "WhatsApp Business Messaging Platform"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "id",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/517359863_122160693794550481_6921554341966565154_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=4Nm6wCnFZuMQ7kNvwHZZ97S&_nc_oc=Adk9j0dDczw50v2rPSyMhzLfnvXkM6PBrIQREz20QT20uD8zaKMryVhVPlM_gTHvdDA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=IVFmF883mG9fll0DuNs1EQ&oh=00_AfdCy31QzaryK6UzQ12D5xAn5dZH1IxnYaf1KgG1vvdJww&oe=68E99A08"
+    },
+    "id": "122160693788550481"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

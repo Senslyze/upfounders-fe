@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.engagely.ai/",
+  "countries": [
+    "IN",
+    "SG",
+    "SA",
+    "GB",
+    "AE"
+  ],
+  "id": "5252945428127861",
+  "name": "Engagely.AI",
+  "description": "Conversational Chatbot, Voicebot, WhatsApp AI Bot for Business. Generate Leads using Contact Number with double opt-in & use the contextual welcome message to improve customer engagement.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API integrations",
+    "Voice AI, Chatbot, Contac Center Cloud",
+    "CRM, LiveChat, No Code Total CX Automation"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TRAVEL",
+    "CONSUMER_PACKAGED_GOODS",
+    "RETAIL",
+    "TELECOM",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ar"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "PROJECT_BASED",
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

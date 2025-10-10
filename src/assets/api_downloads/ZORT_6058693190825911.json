@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.zortout.com/",
+  "countries": [
+    "TH"
+  ],
+  "id": "6058693190825911",
+  "name": "ZORT",
+  "description": "ZORT ระบบจัดการร้านค้าออนไลน์ เชื่อมต่อได้ทุกแพลตฟอร์ม\n\n- จัดการออเดอร์จากทุกช่องทางการขาย รวมถึงแชทและเปิดบิลกับลูกค้าผ่าน Facebook Messager ได้ผ่านระบบ\n- จัดการสต๊อกสินค้า สามารถเช็กจำนวนสินค้าได้แบบเรียลไทม์\n- เชื่อมต่อระบบขนส่งครบทั้งบริการเข้ารับพัสดุ และการเก็บ เงินปลายทาง\n- เชื่อมต่อระบบ Fulfillment เก็บ-แพ็ค-ส่ง เป็นระบบ\n- รายงานผลการขายอัตโนมัติเพื่อช่วยให้คุณดำเนินธุรกิจได้ อย่างมีประสิทธิภาพ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "จัดการออเดอร์จากทุกช่องทางการขาย"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "TECHNOLOGY",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "th",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/326376123_3426736554224651_2147010041728967601_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ypeK5MuMlKgQ7kNvwE5vljL&_nc_oc=AdlLYdjg704anQB-9RdonnmxopaDbEYuU3jPDeCe0QdXAgYWE6ya_TY_TnJmhmTRkLg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ZTFGVlzpm2y4TVBGe_v6XA&oh=00_AfdLzWtBBXp-qTMpFxEtkYPl4clKvdUuQme9Rh0aRNsQDg&oe=68E997C9"
+    },
+    "id": "245717204461018"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

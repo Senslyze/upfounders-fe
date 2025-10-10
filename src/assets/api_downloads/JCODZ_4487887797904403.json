@@ -1,0 +1,46 @@
+{
+  "company_website": "https://ibots.app/",
+  "countries": [
+    "EG",
+    "AE",
+    "SA"
+  ],
+  "id": "4487887797904403",
+  "name": "JCODZ",
+  "description": "JCODZ is a leading development, training, and digital marketing company based in the Middle East. We are proud to be the first Baget Messenger Business Partner in the region. As the owners of ibots.app, we offer premier AI-powered solutions for conversational e-commerce, chatbots, Omni Chat, and automated comment replies in the Middle East.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE",
+    "TECHNOLOGY",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/205052993_957755561679913_8317820535717321421_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=qSZMBhLJIbYQ7kNvwGgrWv7&_nc_oc=AdlZ8-QgPbQOcEPZubp0VwrnEnC3srNy-OUC_xan-9Y8QbxN-JSo6RGSCNWFXZAz2tk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=e_l0h8h98_W7LZBro4WWMA&oh=00_AfdxkZHe8syI0I3tQvOTfiJCNaLwXErhXRBzWA68fKnFqA&oe=690B4C49"
+    },
+    "id": "957755558346580"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

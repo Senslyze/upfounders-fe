@@ -1,0 +1,104 @@
+{
+  "company_website": "https://aisensy.com/?utm_source=Meta+Partner+Listing&utm_medium=meta+page&utm_campaign=meta_partner_page",
+  "countries": [
+    "IN",
+    "AU",
+    "BD",
+    "BR",
+    "CA",
+    "CO",
+    "FR",
+    "DE",
+    "HK",
+    "ID",
+    "MY",
+    "MV",
+    "MX",
+    "NP",
+    "NZ",
+    "PK",
+    "PT",
+    "ZA",
+    "CH",
+    "SE",
+    "US",
+    "GB",
+    "AE"
+  ],
+  "id": "5757476077679820",
+  "name": "AiSensy",
+  "description": "AiSensy is a WhatsApp engagement and ads platform trusted by 75,000+ businesses in 52+ countries.\nIt enables WhatsApp marketing, customer engagement, click-to-WhatsApp ads, live chat, payments, flows, and easy chatbot building.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER",
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Whatsapp Engagement Platform : Helping Businesses with WhatsApp Broadcasting Automation, Live Chat & Chatbots",
+    "WhatsApp Cloud API for technology enablers ",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr",
+    "ms",
+    "pa",
+    "pt",
+    "te",
+    "ta",
+    "de",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469000275_571506052346966_5597305182165391125_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Bpc-IBfSLWMQ7kNvwFEjO-b&_nc_oc=Adm9-1SPAV4nnRiiZGsN05FfrkBl_cBgI_GaBnqMzgrIyLX-jWJZQPiYR3wC0RHC6Oo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1mYvAsoAjYY5PVO0-3q0qA&oh=00_Afc1WOyOINHLYyArPilFWs6PzhxxAe94hVx1xcxi9a0SJA&oe=68E9A4AC"
+    },
+    "id": "128191973345045"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_PAYMENTS_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER",
+    "COEXISTENCE"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

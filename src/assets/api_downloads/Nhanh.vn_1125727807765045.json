@@ -1,0 +1,41 @@
+{
+  "company_website": "https://nhanh.vn/",
+  "countries": [
+    "VN"
+  ],
+  "id": "1125727807765045",
+  "name": "Nhanh.vn",
+  "description": "Nhanh.vn is the leading OmniChannel solutions in Vietnam.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "POS system",
+    "CRM for Facebook and Instagram (manage all messages and comments)",
+    "E-commerce website design, landing page, Integrate all shipping companies"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "vi",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/348317926_282883004245306_1972345706958841055_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Q6XrFAbYrmAQ7kNvwEnNvvy&_nc_oc=AdmJfuHxDWsIwLrqcqMX935WJsRanwks8beSY5Rfg5xsE-zcEiGe4z1ke4T8I_ga1JU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_AfcfaKgdOuxTyZY-RfG7RD8ZZRo-J2Q_VsNXYtIAyR9bdw&oe=68E9845A"
+    },
+    "id": "282883010911972"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

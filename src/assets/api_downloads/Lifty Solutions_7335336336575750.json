@@ -1,0 +1,43 @@
+{
+  "company_website": "https://lifty.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7335336336575750",
+  "name": "Lifty Solutions",
+  "description": "We are Lifty, partnering with software companies, including ERPs and other enterprises, to provide a white-label messaging solution. Our technology seamlessly integrates into existing systems, offering scalable, customizable, and AI-powered messaging capabilities. This allows our partners to deliver cutting-edge communication tools under their own brand, enhancing business communication, fostering growth, generating new revenue streams, and improving customer retention.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Appointment Scheduling",
+    "Sales and Lead Qualification using AI",
+    "Feedback Collection"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481077088_618558637696063_4972737856861833754_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=lriXdcxyChIQ7kNvwHNobyi&_nc_oc=AdnhAUFyOeAswaYdTAvMS5AMLz86x84fKXRxXYXJAsaQyj0O9SlL4oyY4OxBrVk9_Hw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a0S2FrG0sRacZ0JGOmY-Wg&oh=00_Afe3YyJPfnlH81BHx3_BKRRqBJ8A-0CmEABWg835kLC1mA&oe=68E98512"
+    },
+    "id": "456800430538552"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

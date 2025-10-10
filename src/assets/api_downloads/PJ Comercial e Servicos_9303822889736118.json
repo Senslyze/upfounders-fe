@@ -1,0 +1,36 @@
+{
+  "company_website": "https://pjapi.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "9303822889736118",
+  "name": "PJ Comercial e Servicos",
+  "description": "Bem-vindo à PJ-API, a solução ideal para empresas que buscam modernizar e centralizar o atendimento ao cliente. \n\nCom a PJ-API, sua empresa pode:\n\nGerenciar atendimentos via WhatsApp com rapidez e eficiência.\nCentralizar canais de comunicação em uma única plataforma, reduzindo a complexidade operacional.\nOferecer um atendimento personalizado para novos e antigos clientes, garantindo maior proximidade e satisfação.\nAutomatizar interações repetitivas com chatbots enquanto mantém a possibilidade de intervenções humanas.\nEssa API é ideal para empresas que desejam expandir sua presença digital, proporcionando suporte rápido, preciso e integrado para o cliente final.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

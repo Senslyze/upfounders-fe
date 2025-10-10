@@ -1,0 +1,63 @@
+{
+  "company_website": "https://www.omnichat.ai/",
+  "countries": [
+    "HK",
+    "TW",
+    "MY",
+    "SG",
+    "TH",
+    "ID",
+    "IN",
+    "JP",
+    "GB",
+    "US",
+    "KR",
+    "AU",
+    "CN"
+  ],
+  "id": "4091942227551751",
+  "name": "Omnichat Limited",
+  "description": "Omnichat is a leading omni-channel chat commerce solutions provider in Asia Pacific. Through integrating messages from WhatsApp, Facebook, Instagram, Omnichat offers an all-in-one platform to centralize customer messages with enhanced efficiency. Leveraging the CRM data integration to analyze customer journey and preferences, Omnichat empowers merchants and agencies to achieve deeper customer insights and run the ad campaigns with better ROI. website: https://www.omnichat.ai",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Omnichannel CRM Messaging: Chatbot, Livechat, Customer Service Integration, Social CDP with 360 degree view of customer profile",
+    "Marketing Automation: Personalized Broadcast, Coupon Marketing, Gamification, Abandoned Cart Remarketing",
+    "Online-Merge-Offline Sales: Divert online enquires to store salespeople for follow-up, revenue tracking and conversion measurement"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "CONSUMER_PACKAGED_GOODS",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "zh-hant-tw",
+    "zh-hant-hk",
+    "zh-hans"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/118884928_639524406983066_4583293586475919983_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=wYn0HGqfkC0Q7kNvwHGwamv&_nc_oc=Adm2dHmrUA1LyVfp3hRGrn3l6qXSCjoIpDqrdHQ1GYaB5VG6fVx6psYQmruzxlObXCM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=v9q_WLwsSfRFz_RhakYsmw&oh=00_Afe8vLe4LjLT2eJH0ltvbmfum3sR9-ab-joq5n9T2l4WBw&oe=690B5255"
+    },
+    "id": "639524403649733"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

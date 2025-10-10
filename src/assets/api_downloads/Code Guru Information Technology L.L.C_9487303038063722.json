@@ -1,0 +1,99 @@
+{
+  "company_website": "https://CodeGuru.ae/",
+  "countries": [
+    "AE",
+    "SA",
+    "QA",
+    "BH",
+    "OM",
+    "KW",
+    "GB",
+    "US",
+    "DE",
+    "FR",
+    "ES",
+    "SE",
+    "SZ",
+    "CA",
+    "CN",
+    "CY",
+    "GR",
+    "HK",
+    "HU",
+    "IS",
+    "IR",
+    "IE",
+    "JP",
+    "LV",
+    "NL",
+    "NZ",
+    "NO",
+    "PY",
+    "PE",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "CH",
+    "TR",
+    "UA",
+    "UG",
+    "UY",
+    "UZ",
+    "FI",
+    "BE",
+    "AT",
+    "AU"
+  ],
+  "id": "9487303038063722",
+  "name": "Code Guru Information Technology L.L.C",
+  "description": "Your professional digital partner in providing online solutions from developing websites, mobile applications, e-marketing, SEO and hosting services.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Website development, Website Design, Mobile Application Development, SEO (search engine optimization), UIUX, Branding, Social Media services"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "HEALTHCARE",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "AUTOMOTIVE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TRAVEL",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar",
+    "ru",
+    "tl",
+    "fr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/491745927_122146655912538979_4283235695537544427_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=DG1EdQy9WMYQ7kNvwEncEQB&_nc_oc=AdkM1P1dwIDeXNyyBj54IDUFhXXZCJdhafA5eN9J3_Kdrqhh5VQcgpE56V2kX27v5No&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0fZGfUuktJ1zDFL9CvvsiQ&oh=00_AfdO9mjulw7vs5xhflWgUJzY46qFFFcDMF_FN-gQn51k-A&oe=68E9A08D"
+    },
+    "id": "122146655906538979"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

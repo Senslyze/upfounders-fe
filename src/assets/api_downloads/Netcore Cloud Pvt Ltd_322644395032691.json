@@ -1,0 +1,63 @@
+{
+  "company_website": "https://www.twilio.com/en-us/messaging/channels/whatsapp",
+  "countries": [
+    "VN",
+    "US",
+    "AE",
+    "TH",
+    "SG",
+    "PH",
+    "NG",
+    "MY",
+    "ID",
+    "IN"
+  ],
+  "id": "322644395032691",
+  "name": "Netcore Cloud Pvt Ltd",
+  "description": "",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Customer Engagement",
+    "Product Experience",
+    "Customer Data Platform"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "id",
+    "ta",
+    "te",
+    "th",
+    "vi"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "MULTICHANNEL_MANAGEMENT"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

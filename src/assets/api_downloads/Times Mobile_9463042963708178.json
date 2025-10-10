@@ -1,0 +1,47 @@
+{
+  "company_website": "https://timesmobile.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "9463042963708178",
+  "name": "Times Mobile",
+  "description": "Times Mobile offers seamless messaging service across all communication channels including WhatsApp. Times Mobile provides wide range of Solutions on top of WhatsApp Business API that includes Message broadcasting, drive engagement, Automate customer support. Leverage AI-powered chatbots to automate customer interactions, and help businesses to optimize campaigns with our digital marketing solutions for enhanced reach and conversions.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Whatsapp Engagement Platform : Helping Businesses with WhatsApp Broadcasting, Automation, Live Chat & Chatbots.",
+    "Multi-Channel Communication Management",
+    "Performance Marketing"
+  ],
+  "industries": [
+    "TELECOM",
+    "TECHNOLOGY",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ECOMMERCE",
+    "GAMING",
+    "HEALTHCARE",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/383078936_122116258292035568_5670860841280946698_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jcHiqAvrClsQ7kNvwGZ4gNo&_nc_oc=AdkCzqD5G5yA3NoAeKTe6xJqLtV8hIscgDXrMFcn05Ns1lXz2pzTbGPeuVyvRTno3T4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=qhJod4b3ZJy8D5Xm29sldQ&oh=00_AfcoSNX2G7CNdScLSnaPlxERRpDbhCRuLNMLfBa5JZsdcA&oe=68E9A95D"
+    },
+    "id": "122116258298035568"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,37 @@
+{
+  "company_website": "https://nuacem.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7948087415292815",
+  "name": "Tresm Labs Private Limited",
+  "description": "Nuacem AI (Tresm Labs Company) is a fast-growing company developing conversational AI and automation services for customers in different industries, helping brands create unique conversational experiences and meet their CX goals. Established in 2016, today, it has development centers in multiple locations in India, with a more than 45+ highly competent and proficient workforce that creates conversational experiences for the largest global brands around the globe.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/67541422_110608810259103_3147120574426251264_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Nf_UmzBQG_YQ7kNvwEUNGq6&_nc_oc=AdmUPm_6s7yYrbdg62I3Szy0VckdL1E4_GiFcHYwEC_8qhOSyCHS3OZ-zxERGRkXf6g&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=p8KUFaKq8BKZlajJHmq2Jw&oh=00_Afet2uCMQsOi_lJMPGnVJFvwMBdmbI7Xn7ZfFD9pblxw7g&oe=690B439B"
+    },
+    "id": "110608803592437"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

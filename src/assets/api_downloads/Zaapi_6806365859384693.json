@@ -1,0 +1,61 @@
+{
+  "company_website": "https://www.zaapi.com/",
+  "countries": [
+    "TH",
+    "SG",
+    "PH",
+    "MY",
+    "VN",
+    "ID",
+    "HK"
+  ],
+  "id": "6806365859384693",
+  "name": "Zaapi",
+  "description": "Zaapi is a powerful chat commerce platform that helps e-commerce businesses manage customer interactions across multiple channels like Facebook, Instagram, TikTok, LINE, Lazada, and Shopee. By centralizing conversations into a single inbox, Zaapi streamlines communication and boosts customer support efficiency. Its AI-driven chatbot automates responses, handles inquiries, and escalates complex issues to live agents, ensuring seamless customer experiences. Businesses can enhance collaboration with tools for tagging team members, leaving notes, and assigning chats. Zaapi also offers custom automations, such as welcome messages and out of office messages, and provides actionable analytics to optimize chat performance. Whether you're a startup or a growing brand, Zaapi delivers the tools you need to enhance customer support!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Combine all customer support channels (Facebook, Instagram, TikTok, Shopee, Lazada & LINE OA)",
+    "Monitor chat and agent performance (i.e average response time, number of closed tickets etc.)",
+    "Set up chatbot automations to respond using AI"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "th"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/520599397_739180132386182_1293067711779998258_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=rjM_sGkN_4AQ7kNvwGQzTNc&_nc_oc=Adnsbt4msVMnelMzKEM8uZ8008Q8iKnkXErLC81JGsCA3zlmGSiL9mHFFsHb6e35lao&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WQwztT0LqNmAHTvBL5pSnw&oh=00_AfeDaPmqFxvkpRkcbEP5UYtle6aJb5tvG2KXW83roP0slw&oe=68E9AD7A"
+    },
+    "id": "739180129052849"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

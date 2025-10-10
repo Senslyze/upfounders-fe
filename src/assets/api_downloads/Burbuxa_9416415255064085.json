@@ -1,0 +1,56 @@
+{
+  "company_website": "https://burbuxa.com/",
+  "countries": [
+    "AR",
+    "CO",
+    "CL",
+    "MX",
+    "PE",
+    "UY",
+    "BO",
+    "CR",
+    "PA",
+    "BR",
+    "HN",
+    "GT"
+  ],
+  "id": "9416415255064085",
+  "name": "Burbuxa",
+  "description": "The most comprehensive WhatsApp for ecommerce platform in LATAM. AI agents, automation, campaigns, CRM, reviews and more. Integration available with top e-commerce platforms!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Shopify",
+    "TiendaNube",
+    "eCommerce"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es",
+    "es-419",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484051787_122148150626381587_8012364464321637088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=jEM4EHZRyIQQ7kNvwGT_Yho&_nc_oc=AdmLgrsZ68hUupL5MTOYnHa_9MsgEokFLW7ZHNdvRBinTdrTUXMp3rY1ylaxfqW0rkU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_AffyzPjLvOro2DYn-tbHaawBvjE3lib47dfBKANdf5oPBw&oe=68E99EA2"
+    },
+    "id": "122148150620381587"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

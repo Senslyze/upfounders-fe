@@ -1,0 +1,48 @@
+{
+  "company_website": "https://www.cvortex.io/",
+  "countries": [
+    "BR",
+    "AR",
+    "CL",
+    "CO",
+    "MX",
+    "BO"
+  ],
+  "id": "29381613318092605",
+  "name": "Cvortex Tecnologia",
+  "description": "A cVortex é um CRM SaaS especializado em atendimento omnichannel, permitindo que empresas gerenciem e otimizem interações com clientes por diversos canais, como telefonia pública (voz), SMS, e-mail, Facebook, Instagram, Telegram, WebChat e WhatsApp. Além disso, oferece URA, chatbot e atendimento humano em todos esses canais, garantindo uma experiência completa e integrada.\nCom a cVortex, as empresas se conectam de forma fluida com seus clientes pelo WhatsApp. Como parceiro da Meta, ajudamos a escalar e aprimorar as conversas por meio de automação, mensagens personalizadas e respostas em tempo real.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing",
+    "Vendas",
+    "Suporte e Atendimento em geral ao cliente"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/278932951_111279314893439_5006929809919425389_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ta2psHSkOssQ7kNvwFADGWt&_nc_oc=AdnVU83Qurweobw-cC9WbZ_u_ad2iZnz98hDZWMRgBS_mlMib_zve0BzFnuQM--7TkA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=m9LXemYda8B3phk9BLNmcg&oh=00_AfdfGrL1JPHdSb6y6j81sdcKV278Poe5WPdc-ASigNX_2g&oe=68E99A3A"
+    },
+    "id": "136431382485289"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,49 @@
+{
+  "company_website": "https://thestring.net/",
+  "countries": [
+    "SA"
+  ],
+  "id": "8066129093423040",
+  "name": "The String",
+  "description": "The String is a SAAS / CPAAS Platform that automates marketing and sales processes and communicates with audiences to enhance their experience by making it simple, personalized, customizable, and easy to use.\n\nThe String Platform is a string of stages and actions powered by AI that will work together. It will grow the business through increased conversions and customer acquisition by identifying customer behavior and providing 360-degree views of leads and customers.",
+  "diverse_owned_identities": [
+    "WOMAN",
+    "LGBTQ",
+    "BLACK",
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing Automation",
+    "Marketing Platform",
+    "Communication Platform"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

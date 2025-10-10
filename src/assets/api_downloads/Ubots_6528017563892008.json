@@ -1,0 +1,49 @@
+{
+  "company_website": "https://ubots.com.br/",
+  "countries": [
+    "BR",
+    "MX",
+    "CL",
+    "CO"
+  ],
+  "id": "6528017563892008",
+  "name": "Ubots",
+  "description": "A Ubots é uma plataforma conversacional que ajuda instituições financeiras a transformar suas jornadas digitais. Conectamos canais como o WhatsApp, unindo a automação inteligente e conversas humanas em um único ambiente. Com quase uma década de experiência, a Ubots acumulou um conhecimento profundo sobre o que realmente funciona em processos, estratégias e no uso de inteligência artificial no setor financeiro.\n\nMais do que apenas uma plataforma, oferecemos uma metodologia prática com resultados comprovados em toda a jornada do cliente, desde a prospecção até o pós-venda. Nossa operação é estável e segura, preparada para atender aos altos padrões do setor financeiro. Atuamos de forma consultiva e próxima, acompanhando cada etapa da jornada e evoluindo junto com o cliente.\n\nUtilizamos a tecnologia em prol das experiências para tornar incrível a relação entre marcas e pessoas.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Inteligência Artificial Conversacional",
+    "Centralização de canais",
+    "Experiência do cliente"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/548018424_715786714854154_1731907480927626840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=JikokEitIdsQ7kNvwHon7kw&_nc_oc=AdklNXgNg3BAHOiz1krFsfH50ZvtcHFBVjF58XWIreiX-v1sGT6PrtAuNwSfLttaayE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=D0J0zMojTsRSOfE9NQQaAg&oh=00_AffE6GNsC1kFu9DzRAw3iWA4Ex6CrpPViGElycazG1mRlg&oe=68E98F62"
+    },
+    "id": "715786711520821"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

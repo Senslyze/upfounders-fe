@@ -1,0 +1,59 @@
+{
+  "company_website": "https://ismartcall.com/",
+  "countries": [
+    "AE",
+    "IN",
+    "SA",
+    "QA",
+    "KW",
+    "BH",
+    "PK"
+  ],
+  "id": "10059568974128084",
+  "name": "Smart Call Dubai",
+  "description": "Smart Call Technology is a leading WhatsApp automation platform designed for enterprises, enabling AI-powered chatbots for customer support and sales, without the need for coding. Built on the WhatsApp Cloud API, it offers seamless API integrations, supports multiple custom apps, and includes powerful features such as a shared team inbox, bulk message broadcasting, and automated responses to social media ads. Smart Call Technology empowers businesses to enhance customer engagement, streamline communication, and drive growth through intelligent automation.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI-Driven, No-Code Chatbot Builder – Create powerful chatbots effortlessly, no coding required.",
+    "Advanced REST API Integration – Connect with your existing systems and workflows seamlessly.",
+    "WhatsApp Automation – Automate conversations, lead follow-ups, and customer support."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/302465570_100397102816438_2960796527055826893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cNyhbSZgdXgQ7kNvwFWI2JP&_nc_oc=Adkyy4BHbOOSucVpSAQwBsW4FbXlTKa7IRLyoNyNNjpfK-Jc_vbCrW436RWVcOkqSoo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OtouIrA2rW6AI4OH3VR6lA&oh=00_Affhn-5C9i_Fx_A9UDCfUK2fyi7dzaQrwHfYJIUigyUphQ&oe=68E99F2F"
+    },
+    "id": "117194034465127"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,46 @@
+{
+  "company_website": "https://eloideias.com.br/",
+  "countries": [
+    "BR",
+    "PT"
+  ],
+  "id": "24654272434187517",
+  "name": "Elo Ideias",
+  "description": "Elo Ideias possui 14 anos de experiência e mails de mil clientes ativos, fornecendo Soluções de Comunicação e Organização Empresarial Online, também trabalhamos com Sites e E-commerce. Conheça o EloWorkspace e organize sua comunicação com seus clientes através do whatsapp e e-mail, com automações e organize processos e a comunicação interna da sua empresa de forma definitiva! ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automações em Mensagens via Whatsapp",
+    "Organização interna de processos vinculados a atendimentos - via whatsapp e e-mail"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474988802_1148123206969622_1806874490933692937_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=N3BWq5IKENQQ7kNvwFkuepK&_nc_oc=AdmnoLBSc023WAJbTTAq6P4Kovxh_wipwxs3aYwHptY7_pGr-1y3_JB_6bJROz0R41k&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=YYDOGxlMhSbo4B02FeEh1Q&oh=00_AfcdUu9rEFFgHLkay3uGiihfTeX119MabRQdlk9BXSVFgg&oe=68E9B73A"
+    },
+    "id": "614405963674685"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

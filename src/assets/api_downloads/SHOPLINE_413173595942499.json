@@ -1,0 +1,54 @@
+{
+  "company_website": "https://www.shopline.com/",
+  "countries": [
+    "TW",
+    "HK",
+    "MY",
+    "SG",
+    "AU",
+    "GB",
+    "CN",
+    "US"
+  ],
+  "id": "413173595942499",
+  "name": "SHOPLINE",
+  "description": "Founded in 2013 and a member of the Silicon Valley-based 500 Startups accelerator in 2014, SHOPLINE is a leading smart commerce platform, offering solutions and services to merchants - empowering them to sell everywhere from anywhere, with offices in 13 cities and areas including Greater China, Singapore, Malaysia, Vietnam, Indonesia and Australia etc.SHOPLINE enables merchants with omnichannel solutions so that merchants of all sizes can achieve local and international growth. To date, SHOPLINE has helped over 500,000 merchants start and scale their retail businesses, including well-known brands such as Aukey, Durex, Linsy, Meawow, MedSpa, Olympus and Samebike.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "E-commerce Platform",
+    "POS system",
+    "Marketing Services"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "zh-hans"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/499959704_1114050517422783_6340094148708625719_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WYoAtwNPHe8Q7kNvwE4qmX-&_nc_oc=Adkd-oUBWKxlPBrupz9puA5YR1plaxsIgF6gkk8TeTEAw8VfSe9ogoJEsUNV_clrGNQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=TUJRXZlySYPqEn-s_RJspQ&oh=00_Afdz722XvXlPbWQCeLa3NufwexDisy9IgbFYa3PTj2qLpQ&oe=68E983C3"
+    },
+    "id": "1114050510756117"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING",
+    "PIXEL_PLATFORM",
+    "OFFLINE_CONVERSION"
+  ],
+  "solution_subtypes": [
+    "CONNECT_YOUR_STORE",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

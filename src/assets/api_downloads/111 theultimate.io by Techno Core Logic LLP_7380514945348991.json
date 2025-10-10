@@ -1,0 +1,99 @@
+{
+  "company_website": "https://technocorelogic.com/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US",
+    "AU",
+    "BH",
+    "BT",
+    "BN",
+    "BR",
+    "CA",
+    "CN",
+    "FI",
+    "FR",
+    "DE",
+    "HK",
+    "ID",
+    "PK",
+    "QA",
+    "SA",
+    "SG",
+    "ZA",
+    "LK",
+    "SD",
+    "TH",
+    "UG"
+  ],
+  "id": "7380514945348991",
+  "name": "111 theultimate.io by Techno Core Logic LLP",
+  "description": "Theultimate.io provides wide range of solutions on the top of WhatsApp Business API. Trusted by Enterprises, Growing Businesses and SMBs globally. We help service providers, media agencies, resellers and technology enablers with WhatsApp Business API. Theultimate.io is the right choice for any company looking for reliable and cost-effective WhatsApp Business API access, plus relevant building blocks to manage and scale WhatsApp communication and marketing. We are a workspace to manage all your WhatsApp conversations, sales, and marketing to turn you and your team into revenue champions.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "WOMAN",
+    "BLACK",
+    "LATINX",
+    "LGBTQ"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Whatsapp Engagement Platform: Helping Businesses with WhatsApp Broadcasting Automation, Live Chat, Chatbots & Multi Agent",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers, and Whitelabels",
+    "Drive Transactions & Increase Conversions, WhatsApp Cloud API enablement, WhatsApp inbox and Customer Support - team agents"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "fa",
+    "fi",
+    "fr",
+    "de",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "mr",
+    "pa",
+    "ta",
+    "te",
+    "th",
+    "zh-hant-hk",
+    "zh-hant-tw"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485328418_979564587617898_2967186529476414417_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hsI5PavOArgQ7kNvwGavyIS&_nc_oc=Adlrg8Wt45WVuU7JcQ644zNzvZfB1QYmDd34mbUCFPi8hu77PVuWSsXM1SNB6lRf3cE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=IVFmF883mG9fll0DuNs1EQ&oh=00_AffdQKNSGGt0psl5of7UebE0vge7BmblNal_ecmrR6J9Yw&oe=68E9975E"
+    },
+    "id": "744775631096796"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -2,9 +2,9 @@ import React from 'react';
 import { z } from 'zod';
 import { Link } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
-import SearchBar from '../Molecules/SearchBar';
-import StatsCards from '../Molecules/StatsCards';
-import PartnerGrid from '../Molecules/PartnerGrid';
+import SearchBar from '../../Molecules/SearchBar';
+import StatsCards from '../../Molecules/StatsCards';
+import PartnerGrid from '../../Molecules/PartnerGrid';
 
 // Zod schemas
 const PartnerTypeSchema = z.enum(['Solution Partner', 'Tech Provider', 'Tech Partner']);
@@ -32,54 +32,7 @@ type HomePageProps = {
 };
 type Partner = z.infer<typeof PartnerSchema>;
 
-// Sample partner data
-const samplePartners: Partner[] = [
-  {
-    id: '1',
-    name: 'Rasayel',
-    type: 'Solution Partner',
-    rating: 4.8,
-    reviewCount: 127,
-    platforms: ['WhatsApp'],
-    description: 'Rasayel lets businesses set up WhatsApp quickly and provides a shared inbox, chatbot builder and CRM integrations without extra user or...',
-    keyFeatures: ['Quick WhatsApp setup', 'Shared inbox', 'Chatbot builder', 'CRM integrations'],
-    moreFeatures: 4,
-    pricing: 'Starting at $0.01 per message',
-    location: 'Global',
-    services: ['Onboarding Support', 'Automation Tools', 'CRM Integrations'],
-    moreServices: 4
-  },
-  {
-    id: '2',
-    name: 'ManyChat',
-    type: 'Tech Provider',
-    rating: 4.6,
-    reviewCount: 234,
-    platforms: ['WhatsApp', 'Messenger', 'Instagram'],
-    description: 'ManyChat is a leading chatbot platform that helps businesses automate conversations across WhatsApp, Messenger, and Instagram...',
-    keyFeatures: ['Visual flow builder', 'Multi-channel support', 'E-commerce integrations', 'Advanced automation'],
-    moreFeatures: 3,
-    pricing: 'Free plan available',
-    location: 'Global, North America, Europe',
-    services: ['Chatbot Automation', 'Lead Generation', 'E-commerce Integration'],
-    moreServices: 3
-  },
-  {
-    id: '3',
-    name: 'Twilio',
-    type: 'Tech Partner',
-    rating: 4.7,
-    reviewCount: 456,
-    platforms: ['WhatsApp', 'SMS', 'Voice'],
-    description: 'Twilio provides powerful APIs for WhatsApp Business, enabling developers to build custom messaging solutions with enterprise-grade...',
-    keyFeatures: ['WhatsApp Business API', 'REST API access', 'Webhook support', 'Multi-language SDKs'],
-    moreFeatures: 3,
-    pricing: '$0.0051 per message',
-    location: 'Global',
-    services: ['API Integration', 'Developer Tools', 'Enterprise Solutions'],
-    moreServices: 3
-  }
-];
+// Use real partner data from utils
 
 const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
   return (
@@ -187,7 +140,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch, onFiltersClick }) => {
         {/* Partners Grid */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
           <PartnerGrid 
-            partners={samplePartners}
+            partners={partners}
             onCompareToggle={(partnerId) => console.log('Compare toggle:', partnerId)}
             onViewDetails={(partnerId) => console.log('View details:', partnerId)}
           />

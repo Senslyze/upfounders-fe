@@ -1,0 +1,75 @@
+{
+  "company_website": "https://www.aldeamo.com/",
+  "countries": [
+    "MX",
+    "GT",
+    "HN",
+    "SV",
+    "NI",
+    "CR",
+    "PA",
+    "CO",
+    "PE",
+    "BO",
+    "DO",
+    "EC",
+    "VE",
+    "AR",
+    "PY",
+    "UY",
+    "BR"
+  ],
+  "id": "4894652173933921",
+  "name": "Axesnet S.A.S",
+  "description": "Aldeamo is a leading provider of B2B communication solutions in Latin America, serving over 900 enterprise customers, including more than 30 banks. We offer seamless interaction between businesses and their end customers through channels such as voice, video, chat, SMS, and email, all powered by our custom-made AI-powered bots. \n\nOur services are designed to improve customer service, reduce costs, and drive sales through enhanced two-way engagement. With local operations in 12 countries, we are well-positioned to meet the communication needs of businesses across the region.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Messaging APIs",
+    "Omnichannel communications",
+    "Notifications, OTP, marketing"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es",
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480769119_646277094512818_8798114801305906344_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=drDVLgwiE9kQ7kNvwGBpOHm&_nc_oc=Adl-Lni30ydY92d1O6waEuxgGsDV-asCFQ95_U4T0wgl0298HFb0KYo_uHdf5yPNMXo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_AfdrUmrOVaiumvOcW5CHKl34sBWEHlTt_yVsvT8t9z-jFA&oe=68E98DE1"
+    },
+    "id": "181553940985138"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

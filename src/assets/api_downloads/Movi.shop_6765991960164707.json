@@ -1,0 +1,60 @@
+{
+  "company_website": "https://movi.shop/",
+  "countries": [
+    "MX",
+    "CO",
+    "GT",
+    "SV",
+    "HN",
+    "NI",
+    "CR",
+    "PA",
+    "PE",
+    "VE",
+    "EC",
+    "BO",
+    "CL",
+    "PY",
+    "UY",
+    "AR",
+    "DO",
+    "PR"
+  ],
+  "id": "6765991960164707",
+  "name": "Movi.shop",
+  "description": "La solución más rápida y sin comisiones para vender por WhatsApp, Instagram y Messenger.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Restaurantes",
+    "Retail"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481703978_559601803759759_4920954180756800031_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=qdUDButoVN8Q7kNvwG_-Dkq&_nc_oc=Adn_Jq3KlCJzl81rmkOuVTmysMDdJTvWordZVAk_Ofw2j8D18XO-a88p8uPvWcAnREU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=93YjJ8IP7dCrLm-op7JfNA&oh=00_Afe2jlRoRCyS3k6Er4O1rLkzuE-5Raw46janrmXjPsob_g&oe=68E985C7"
+    },
+    "id": "372819512437990"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

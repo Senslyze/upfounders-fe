@@ -1,0 +1,88 @@
+{
+  "company_website": "https://www.ai-octopus.com/",
+  "countries": [
+    "KW",
+    "IN",
+    "BH",
+    "SA",
+    "AE",
+    "LB",
+    "MY",
+    "NZ",
+    "OM",
+    "PL",
+    "PT",
+    "QA",
+    "SG",
+    "GB",
+    "US",
+    "VA",
+    "YE",
+    "AU",
+    "BE",
+    "BR",
+    "CA",
+    "EG",
+    "FR",
+    "DE",
+    "GR",
+    "GL",
+    "IS",
+    "HU",
+    "IR",
+    "IQ",
+    "IL",
+    "IT",
+    "JP",
+    "JO",
+    "LY",
+    "NL"
+  ],
+  "id": "4191563417542918",
+  "name": "Isoftcells/Ai-Octopus",
+  "description": "Isoftcells provides e-commerce solution through whatsapp business API & also it provides customer relation software for every company needs, we solve challenges for enterprise and SMB advertisers, as well as agencies. We offer market-leading software and managed services for all Facebook, Instagram, Twitter, Whatsapp, Youtube &  web chat solutions. \n\nhttps://ai-octopus.com/\nhttps://tiktik.ai/\nhttps://ready2pick.shop/",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "BLACK",
+    "LATINX",
+    "LGBTQ",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "messaging"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "ta"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481999800_1153699572890396_448927783643969570_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=I3xLkyOJ0DoQ7kNvwHcLGp7&_nc_oc=AdkirxaHhwjgGvTdZQue71f32hgLp4LCyCaCBizfMoXntF1HGDdrB2j9OXsU53tJ-_I&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=e_l0h8h98_W7LZBro4WWMA&oh=00_AfcR1hMWlXVdgS-lyIBZMDnPMq2Fuq02hiOGxIz9Ijqw8Q&oe=68E993F3"
+    },
+    "id": "1133528011574219"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

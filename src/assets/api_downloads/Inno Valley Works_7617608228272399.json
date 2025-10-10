@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.watbox.ai/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US"
+  ],
+  "id": "7617608228272399",
+  "name": "Inno Valley Works",
+  "description": "Salesforce WhatsApp Integration.\n\nWatBox is a product that connects Salesforce and WhatsApp platforms. So a CRM user can use WhatsApp as a channel to reach their customers.\n\nInno Valley Works is a quality-oriented Salesforce Consulting Company that provides end-to-end Salesforce solutions to the corporate, government, and non-profit sectors. \nOur solution integrates Salesforce and WhatsApp and enables seamless communication with customers through WhatsApp from the salesforce CRM.\n\n",
+  "diverse_owned_identities": [
+    "WOMAN",
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business connected with Salesforce CRM",
+    "WhatsApp Business",
+    "Salesforce CRM"
+  ],
+  "industries": [
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/246780093_616809593067009_4934327481959783512_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mZTZEBq1AA4Q7kNvwHkylkg&_nc_oc=AdlsdZ7KiAOWgqMZYVeKF0KGPaC_1GLwyvqVZYuM8YF8ohx9zhpT43cTDENmsZ0686w&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=mU_-KLmWnloN6q_V1o7Q7g&oh=00_Aferw5B1Y29vOjKKwMDAkLavb7a2nT8-8q3q4uBOGLvbMQ&oe=68E98EE6"
+    },
+    "id": "504785854982881"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

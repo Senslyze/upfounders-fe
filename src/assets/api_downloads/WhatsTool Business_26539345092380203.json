@@ -1,0 +1,42 @@
+{
+  "company_website": "https://whatstool.business/",
+  "countries": [
+    "IN"
+  ],
+  "id": "26539345092380203",
+  "name": "WhatsTool Business",
+  "description": "WhatsTool Business is a complete WhatsApp api platform to grow your business with automation and analytics in marketing, sales and support. Drive right engagement, generate and qualify leads, push personalised notification and much more.\n\nBusiness can sell more with personalised communication on WhatsApp with bulk messaging at scale for better results with insightful data. Bring your online shop or Shopify into WhatsApp catalogs with native payments for faster check out. Manage customers easily with Shared Team Inbox for centralised chats and team collaboration. Automate your messages on WhatsApp with no code chatbot builder and Integrate with your CRM, Payments, Google Sheet or any tech stack that you use. With 100+ native integration , we got your business use case covered for any kind of automation requirement. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Shared team Chat for sales and support",
+    "Campaign for marketing and notifications ",
+    "Automation with no code chatbot and apps integration"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485069630_508961792284133_2887965113240181194_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=XMHv7Q2t28QQ7kNvwEqrV3G&_nc_oc=AdkJqUDSiNOSwEreuuOLYbTqlDgGKDio25AZ7x5CvtZJuuZw7rneaqU8QJyq6vHqJ5w&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=PK_aO20hcOfdTPlZGvE4kA&oh=00_AfeGkshcBC-LuEcasVf_WzJrYJxQmmMxNcNme9CcVus9rA&oe=68E9BA94"
+    },
+    "id": "508961788950800"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

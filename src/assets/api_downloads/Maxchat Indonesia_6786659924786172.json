@@ -1,0 +1,41 @@
+{
+  "company_website": "https://maxchat.id/",
+  "countries": [
+    "ID"
+  ],
+  "id": "6786659924786172",
+  "name": "Maxchat Indonesia",
+  "description": "PT Maxchat Inovasi Indonesia provides cutting-edge business solutions for WhatsApp. As an official WhatsApp Business Solutions Provider (BSP WA), they offer advanced WhatsApp API services and comprehensive omnichannel solutions.\n\nThe WhatsApp API allows businesses to communicate with customers more efficiently and seamlessly. PT Maxchat’s omnichannel solutions integrate various communication channels, such as email, social media, and live chat, into a single platform. This integration facilitates the unified management of customer interactions, enhancing both efficiency and customer satisfaction.\n\nIn essence, PT Maxchat Inovasi Indonesia empowers businesses to elevate their communication and customer service capabilities through innovative WhatsApp technology and the integration of diverse communication channels.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Small Medium Business",
+    "Government",
+    "Public Sector"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475066836_954067846694874_1356438361577981830_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hGRLk5-nm5EQ7kNvwFFa7_9&_nc_oc=AdkXq5WHSoNsNTDd94LgkP2Iyqqo34CiOxjR8ug4XPU1bHmSJElves4i08P0fLY3r1c&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=XUm85b6D6zMKPKEPVXzTsA&oh=00_AfdK6NXq6C-62SLFhXy-pQ03wxQmzAszs8aIbiHJWcqzIA&oe=68E99AB2"
+    },
+    "id": "724397432995251"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.eyou.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "26843968171885516",
+  "name": "Eyou",
+  "description": "A Brazilian company that was born from the equity and expertise of its partners, leaders in the provision of mobility services with approximately 24 years of experience in providing services and building platforms that are now renowned in Brazil for their performance, functionality and low implementation impact, in more than 220 large national and international clients. We are providers of mobile solutions and digital messages for all means of communication, SMS, RCS, WhatsApp, email, voice, among others.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Proprietary platform for sending and receiving messages with integration API for legacy and third-party systems, CRM, ERP and OmniChannel",
+    "Platform for sending bulk messages for large volumes with or without integration via API",
+    "Complete Drag-and-Drop BOT with regenerative AI that connects any of our clients' systems to support their customers and transfer them to hu"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470233708_122132731976460418_2346532893973449223_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=8N6X4t6SdXMQ7kNvwH-31Qe&_nc_oc=Adl0ISjuqNwLS7XwNalB62t-vPZL1PfF6ldd42p1zSMZhf_nf5yDdvK44Yy1RgW4AWg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_Afd6W4zhe87W6JWlf5znBa6kO_E1uIzOiMvNkOBrTKLi6A&oe=68E9B6D2"
+    },
+    "id": "122109416468460418"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

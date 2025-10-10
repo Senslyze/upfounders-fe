@@ -1,0 +1,47 @@
+{
+  "company_website": "https://www.zeapl.ai/",
+  "countries": [
+    "IN"
+  ],
+  "id": "25292481197063381",
+  "name": " Zeapl.ai",
+  "description": "Zeapl.ai is an award-winning intelligent end user engagement platform that offers a swift and seamless solution for businesses to connect with their customers, employees, on ground influencers and channel partners facilitating the achievement of business objectives with efficiency and scalability. Our user-centric platform is not only cost-effective but also simple to deploy, ensuring a focus on the customer experience. We proudly serve an array of leading large enterprises, including Fortune 500 companies \n\n Discover more about our services at our website https://zeapl.ai/",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales Automation, Marketing Automation",
+    "Customer engagement, Customer Digital Platform ",
+    "All in One WhatsApp solutions for Enterprises "
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "FINANCIAL_SERVICES",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475960224_1127356025558045_8028244246556457749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=p5YvIQFQx5kQ7kNvwHWG6Y_&_nc_oc=AdlUwvxAXutnVY3TPxciRCb4uEePmzHon5T9tXv740YkdxE6owODfPtG5I7f2uOz1n0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=-6Fl0GitYnzUOW2mTL0lOw&oh=00_AffOUhCPmgxaE9UJ8EzH7ENVDP-xwVGNJ5TflYaGQs20TA&oe=68E9B8D5"
+    },
+    "id": "955566579403658"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

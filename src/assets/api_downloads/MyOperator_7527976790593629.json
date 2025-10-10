@@ -1,0 +1,60 @@
+{
+  "company_website": "https://www.myoperator.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7527976790593629",
+  "name": "MyOperator",
+  "description": "MyOperator is India's Cloud Communications Leader trusted by 10,000+ brands including Amazon, Myntra, Lenskart, Razorpay, IRCTC, Astrotalk and more. \n\nMyOperator help business manage their Call & WhatsApp communication via our unified platform and hence ease managing entire customer journey in one platform. Businesses use MyOperator for their Sales & Customer Service process and be able to see entire journey at one place.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Campaign Management",
+    "Customer Service",
+    "Unified Communication"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ta",
+    "te",
+    "mr",
+    "pa"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484838367_659117820147227_8294447753768587758_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=nfZ9aeiC6GQQ7kNvwGtML3G&_nc_oc=Adlf0kOiUgp4NOSwI01HhsK_T3Krq9wKDgxfFaw4XCRtnpCD62kAaVblgJl3rk644ew&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=4sG3fl4saIJO8rauww2XvQ&oh=00_Afd08RUOi3kW9ghqrY7dXKqJmfnymZvWCzofaPEdwJ8GtA&oe=68E98AD5"
+    },
+    "id": "584736974251979"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

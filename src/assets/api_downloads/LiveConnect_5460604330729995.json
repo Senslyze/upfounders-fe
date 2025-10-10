@@ -1,0 +1,67 @@
+{
+  "company_website": "https://liveconnect.chat/",
+  "countries": [
+    "CO",
+    "US",
+    "PA",
+    "EC",
+    "AR",
+    "HN",
+    "CR",
+    "CL",
+    "BO",
+    "DO",
+    "NI",
+    "PE",
+    "MX"
+  ],
+  "id": "5460604330729995",
+  "name": "LiveConnect",
+  "description": "Somos una plataforma de chat multicanal creada para optimizar e impulsar tus procesos de ventas y servicio al cliente vía chat. Nuestras herramientas y chatbots con IA van a ser tu gran aliado a la hora de automatizar procesos y brindar una atención personalizada 24/7.",
+  "diverse_owned_identities": [
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing Conversacional",
+    "Omnicanalidad",
+    "Atención al Cliente"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/485142603_624431460408381_3459127128240902807_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=U4wQqz0F41YQ7kNvwHzHoS6&_nc_oc=Adkyh7KDL47vZkJphGrLu89Ih-jizbnhKUORwuO5I2YYpsUuNy3rOVw9IqI500qucYE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a0S2FrG0sRacZ0JGOmY-Wg&oh=00_AffioyzDTSf56RFXN0Pjsnx843qODkZBQv6x20cfKIiRsg&oe=68E999BF"
+    },
+    "id": "555067474011447"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

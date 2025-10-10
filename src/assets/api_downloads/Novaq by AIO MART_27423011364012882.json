@@ -1,0 +1,58 @@
+{
+  "company_website": "https://www.aiomart.co.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "27423011364012882",
+  "name": "Novaq by AIO MART",
+  "description": "Novaq offers a comprehensive suite of solutions built on the WhatsApp Business API, designed to enhance customer engagement and streamline business operations. As an innovative WhatsApp Engagement Platform, Novaq empowers businesses to broadcast messages, automate notifications, and deliver exceptional customer support effortlessly. Trusted by enterprises, SMBs, and growing businesses worldwide, Novaq provides robust solutions tailored to various industries. Additionally, Novaq supports service providers, media agencies, resellers, and technology enablers with scalable, cloud-based WhatsApp API solutions to drive business success.\n\n\n\n\n\n\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Engagement Platform: Simplifying business communication with Broadcasting, Automation, Live Chat, and Chatbots.",
+    "WhatsApp Cloud API: Designed for seamless integration, enabling technology enablers to deliver smarter solutions.",
+    "Partner Solutions: Tailored for marketplaces, CRMs, ERPs, and tech platforms to enhance functionality and drive growth."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/473169749_122132736356512890_161821712131796285_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=4UFrdx1zCZ0Q7kNvwHEN6-t&_nc_oc=Adm_Y5BwLyMthcGd91Owe-HTHfvfAhLEeTRBIhEjJYgyLdgHQWwgQB_8WBaLF6ftU6o&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AffOaXxYIavOiKgsOj-AQPYkCISCMndVTenqukMRBH7jdw&oe=68E9B12A"
+    },
+    "id": "122123589986512890"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

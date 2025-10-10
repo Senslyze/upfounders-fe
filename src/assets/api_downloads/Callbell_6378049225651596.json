@@ -1,0 +1,78 @@
+{
+  "company_website": "https://www.callbell.eu/",
+  "countries": [
+    "FR",
+    "AR",
+    "PE",
+    "MX",
+    "PA",
+    "IT",
+    "CR",
+    "DO",
+    "CO",
+    "ES",
+    "CL",
+    "EC",
+    "VE",
+    "BR",
+    "PT",
+    "AE",
+    "HK",
+    "SG"
+  ],
+  "id": "6378049225651596",
+  "name": "Callbell",
+  "description": "Callbell is a cutting-edge software platform that enables seamless customer communication through popular Direct Messaging Apps.\n\nWe empower B2C & B2B businesses to elevate customer service by engaging with clients on their preferred channels, including Whatsapp Business, Facebook Messenger, Instagram Direct, and Telegram.\n\nIn today's instant-gratification era, Direct Messaging Applications are revolutionizing customer support. Callbell simplifies this process with a user-friendly cloud platform that consolidates all communications, allowing Customer Service and Sales teams to effortlessly connect with customers across multiple channels.\n\nCallbell provides support not only in English, Spanish, French, and Italian, but also offers a team across Europe, the Middle East, Brazil, the United States, and Latin America. Our local experts are available to assist with tailored implementations to meet your specific needs.\n\nDiscover more and get started for free at: www.callbell.eu\n",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Software-as-a-service",
+    "Live chat",
+    "WhatsApp Business"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "it",
+    "fr",
+    "es-419",
+    "es",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482240058_1816861805780289_1948333865583399447_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=f6fVq8uzSdkQ7kNvwE_XHbw&_nc_oc=AdkoWBVeEusUZJsBDJSCND9_MM3m7ZPFzfUFHSbkguglmX4wqCKco_sD8GVxDIWD6d0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_Afc-s5ZW4mw_YiQdgBejSFSehnzS_EXAVj6IuEvFFFHo2g&oe=68E9B930"
+    },
+    "id": "1482879565845183"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

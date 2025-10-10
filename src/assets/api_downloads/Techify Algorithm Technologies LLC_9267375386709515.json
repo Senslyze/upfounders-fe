@@ -1,0 +1,52 @@
+{
+  "company_website": "https://www.techify.ae/",
+  "countries": [
+    "AE",
+    "US",
+    "GB",
+    "SA",
+    "OM",
+    "BH",
+    "QA"
+  ],
+  "id": "9267375386709515",
+  "name": "Techify Algorithm Technologies LLC",
+  "description": "Techify is a Dubai based company that provides Information and Communication Technology (ICT) Services and Software Solutions, specialized in providing complex, yet cost effective, cutting-edge technology solutions. In Techify, we believe that Automation is one of the most powerful tools for increased accuracy, visibility and efficiency therefore we have developed several automation applications catering to customer’s complex business requirements. We provide expert system integration solutions that consolidate disparate systems to enhance visibility into the business operations, increase employee productivity, minimize security risk, and reduce operational cost. We have done Integrations with world renowned platforms like Microsoft Dynamics, WhatsApp, Sage, Tally, QuickBooks, Carestream R4 and several other regional EMR, ERP and CRM solutions.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Business Process Automation Solutions & Services.",
+    "Whatsapp based Saas Platform called Techify Smart Assistant.",
+    "Data Integration, Enterprise Application Integration, API Integration & Development."
+  ],
+  "industries": [
+    "HEALTHCARE",
+    "ECOMMERCE",
+    "RETAIL",
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/305965805_453524940129893_5234826781560885882_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dqtKZFv1SNwQ7kNvwEqV974&_nc_oc=Adncr1vEFMpaWJ92PnAHaKaBMk0RHhVimcMPpxAChn_fRYGxEUNHedJRApNpltOMjkA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_AffwvZdVmj-ZVgdstPSfMn_obINT3KH3FjINi5wHK8jPQw&oe=68E99AF4"
+    },
+    "id": "453524953463225"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

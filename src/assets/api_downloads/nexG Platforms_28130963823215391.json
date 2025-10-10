@@ -1,0 +1,48 @@
+{
+  "company_website": "https://nexgplatforms.com/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US",
+    "MY"
+  ],
+  "id": "28130963823215391",
+  "name": "nexG Platforms",
+  "description": "nexG endeavours to provide a communication platform for a quick, seamless and secure flow of conversational interactions & transactions between businesses and consumers through their preferred choice of channel.\nOur team is always synchronized with market needs and empowers companies to make effective, fast-paced communication.\nWe believe that brands in emerging markets will need to build unique customer experiences for different groups of people in order to find the right audience and sustainability for a product.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Simplify and enable intelligent conversational interactions & transactions",
+    "Segmentation & analytics to enhance client’s experience",
+    "Ensure data security and safety"
+  ],
+  "industries": [
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ta",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/310460260_109690411928576_1933766675716286033_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=nWbK7IfB7ckQ7kNvwHL0ivU&_nc_oc=AdmCL1mm9zt_iHfSIg2x39MzyaL1QyYS-ObzWHiLOhOyNUw4UQwGWTFW6Z_bjm6AJNU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_AfeTLCYiM56GxWbC8Z-HG5OhWjIsAONX8X-_XkxXnsdwsQ&oe=68E98A3F"
+    },
+    "id": "110773255162254"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

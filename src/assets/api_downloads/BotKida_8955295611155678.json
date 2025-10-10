@@ -1,0 +1,74 @@
+{
+  "company_website": "https://botkida.com/",
+  "countries": [
+    "IN",
+    "AF",
+    "AU",
+    "BD",
+    "BR",
+    "CA",
+    "FR",
+    "DE",
+    "HK",
+    "ID",
+    "IT",
+    "JP",
+    "KE",
+    "KW",
+    "MY",
+    "MR",
+    "MN",
+    "MM",
+    "NZ",
+    "PH",
+    "QA",
+    "RU",
+    "ZA",
+    "KR",
+    "LK",
+    "TR",
+    "AE",
+    "GB",
+    "US",
+    "VN"
+  ],
+  "id": "8955295611155678",
+  "name": "BotKida",
+  "description": "BotKida is a powerful AI chatbot and automation platform that transforms customer engagement on WhatsApp, Facebook, and Instagram. With intelligent automation, efficient lead generation, and smart sales solutions, BotKida helps businesses connect with customers effortlessly. Whether you're in e-commerce, services, or enterprise, BotKida’s no-code platform enables real-time, personalized interactions that drive conversions and customer loyalty. Trusted by businesses globally, BotKida simplifies operations and enhances brand growth with cutting-edge AI.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "BLACK",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Automation – Bulk messaging, AI replies, catalog sales & 24/7 support.",
+    "Instagram DM & Comments – Auto-replies, story mentions, comment automation & lead capture.",
+    "Facebook Messenger & Comments – Smart chatbots, instant replies & automated comment responses."
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/491939397_1730142777886870_7461869888884150270_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=AtFgLJMBmAkQ7kNvwE3BIFQ&_nc_oc=AdlZY5BskQGOS6jLjW9uUhcw0XjAuCnLb2nDoumbnSMNhsYPQc_QAXPXipsM7KupQLU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Gqy_j0Qm2PX_RWG9tko1cg&oh=00_AffLlsi5CoaJOphSKI6_ShJO0g2lb706ai1QPw6XLUEFWw&oe=68E989CD"
+    },
+    "id": "1730142774553537"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

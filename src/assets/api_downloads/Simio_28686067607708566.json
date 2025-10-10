@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.getsimio.com/",
+  "countries": [
+    "FR",
+    "GB",
+    "IT",
+    "ES",
+    "BE"
+  ],
+  "id": "28686067607708566",
+  "name": "Simio",
+  "description": "Augmentez l'engagement client & boostez vos ventes en humanisant vos relations clients avec Whatsapp\n\nVous perdez des ventes à cause d’une rétention faible et d’un engagement client insuffisant ? Simio utilise WhatsApp pour rendre plus humaines vos relations clients et maximiser vos résultats. Créez des campagnes ciblées via notre éditeur no-code, automatisez les rappels de paniers abandonnés et notifications de restock, et engagez vos clients avec des chatbots personnalisés. Intégrez Simio à votre CRM pour un suivi en temps réel et des conversions optimales.\n\n- Editeur no-code pour des campagnes WhatsApp ciblées et efficaces\n- Automations Whatsapp personnalisables : Panier abandonnés, Back in stock, etc.\n- Intégration complète au CRM (Klaviyo, Hubspot, Adobe, Salesforce) & support client (Alcmeon, Crisp, Gorgias, Zendesk)\n- Suivi des performances en temps réel pour optimiser vos campagnes WhatsApp\n- Support client Français et Anglais disponible et réactif",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "fr",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484800657_122180163836333771_7940862589591029358_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=4tbQBq5pCzkQ7kNvwGDkgKx&_nc_oc=AdmXXeR1LESHOLRtgTh9wRhUbnab1l8ZfTnx_JmYF4l84aYbOONLYhOkeS9RhoVqd68&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=J2RHzChP31bkwJLPnECpDQ&oh=00_AfcM7Nu48hKzUey1bybx1z8QlCALNdh33TUA_861_vcrkQ&oe=68E9A805"
+    },
+    "id": "122180163824333771"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

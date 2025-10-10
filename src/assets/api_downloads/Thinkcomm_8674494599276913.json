@@ -1,0 +1,83 @@
+{
+  "company_website": "https://www.thinkcomm.net/",
+  "countries": [
+    "AR",
+    "BZ",
+    "AW",
+    "BO",
+    "BR",
+    "CA",
+    "CO",
+    "CR",
+    "DM",
+    "CL",
+    "EC",
+    "SV",
+    "US",
+    "ES",
+    "GT",
+    "GP",
+    "HN",
+    "JM",
+    "MX",
+    "NI",
+    "PA",
+    "PY",
+    "PE",
+    "PR",
+    "DO",
+    "UY",
+    "VE"
+  ],
+  "id": "8674494599276913",
+  "name": "Thinkcomm",
+  "description": "Thinkchat es una plataforma SaaS omnicanal que centraliza la gestión de comunicaciones en WhatsApp, Instagram y Facebook. Impulsada por IA, ofrece chatbots inteligentes para mejorar la atención al cliente, automatización para mensajes masivos y recuperación de carritos abandonados.\n\n\nThinkchat is an omnichannel SaaS platform that streamlines communication management across WhatsApp, Instagram, and Facebook. Powered by AI, it offers smart chatbots to enhance customer service, automation for mass messaging, and abandoned cart recovery.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Chatbots con IA",
+    "Atención en vivo",
+    "Soluciones omnicanal para ventas y soporte"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "es",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/466975589_1068266834962633_7390018709759443483_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=m-5LwgUQi7cQ7kNvwEXYTAx&_nc_oc=Adlc8dH7DfAn0VNo5KYKmIeD3YJLKV5PIVEQfVCjz6YndaLVcaOtMTdKNo4JUGoeGWk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=qhJod4b3ZJy8D5Xm29sldQ&oh=00_AffLMax0mcumyDj5U5NpwG6WwWbsjfSFPPlZ5nk-AT8Keg&oe=68E9A89E"
+    },
+    "id": "1068266831629300"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

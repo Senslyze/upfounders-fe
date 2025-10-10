@@ -1,0 +1,92 @@
+{
+  "company_website": "https://chakrahq.com/product/chakra-chat/",
+  "countries": [
+    "IN",
+    "US",
+    "AU",
+    "FR",
+    "FI",
+    "GE",
+    "DE",
+    "GR",
+    "HK",
+    "IS",
+    "HU",
+    "ID",
+    "IT",
+    "JO",
+    "KE",
+    "LU",
+    "LT",
+    "MK",
+    "MY",
+    "MV",
+    "MX",
+    "MU",
+    "NL",
+    "NZ",
+    "NO",
+    "PH",
+    "PL",
+    "PT",
+    "PR",
+    "QA",
+    "RO",
+    "SA",
+    "SG",
+    "ZA",
+    "KR",
+    "ES",
+    "LK",
+    "SE",
+    "CH",
+    "TW",
+    "TH",
+    "VA"
+  ],
+  "id": "8727365103969317",
+  "name": "Chakra HQ",
+  "description": "Chakra unifies marketing, sales, and support on WhatsApp.\nFeatures include bulk messaging, shared team inbox, no-code AI chatbots, sales automation, analytics, payment links, and lead tracking.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Bulk Messaging & Broadcast Campaigns on WhatsApp",
+    "Sales Sequences & Drip Campaigns on WhatsApp",
+    "Shared Team Inbox & Chatbots for WhatsApp Conversations"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/310351086_446087134285075_7513028686442686295_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Q_F9JAoUzmwQ7kNvwGt8uqk&_nc_oc=Adltvn9ulpX_R1-pMV9U-inoIFK8z0n4hfIPjDSx9W_jfxBCoZ0qHXZRy-sMlsPsGpk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=pD74xiFexRO00Zx6UW2vDw&oh=00_Affd6CBNedloElhhtmXnwgxAsD9lxTaM6b1gFSi2DXd4Bg&oe=68E9AD56"
+    },
+    "id": "446087140951741"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,70 @@
+{
+  "company_website": "https://yoizen.com/",
+  "countries": [
+    "AR",
+    "BR",
+    "PY",
+    "UY",
+    "PE",
+    "CO",
+    "MX",
+    "JM",
+    "GT",
+    "BO",
+    "CR",
+    "CL"
+  ],
+  "id": "4340872759267733",
+  "name": "Yoizen",
+  "description": "Yoizen helps leading companies create conversational, customer-centric digital experiences to grow their business. Our SaaS omni-channel platform and bot building solution enable businesses to automate marketing, sales and customer service on multiple digital channels and messaging apps, such as: WhatsApp, Social Media, Email, Web Chat, Google Play, and more to come! \n\nBy using our technology to integrate and automate customer communications, you will:\n\n• optimize your agents’ time\n• reduce operating costs\n• improve customer experience\n• increase customer satisfaction\n• boost productivity\n\nOur platform works in Spanish, Portuguese and English.\n\nWe currently serve clients from multiple industries in Argentina, Colombia, México, Perú, Bolivia, Paraguay, Brazil, Costa Rica, Jamaica, Uruguay and Guatemala.\n\nWe are an Official WhatsApp Business Solution Provider in Latin America.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Customer Service",
+    "Bots & AI (Artificial Intelligence)",
+    "Customer Experience (CX)"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es",
+    "es-419",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/486124527_1774514823281459_2369490173220978339_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=laZgirTcqr4Q7kNvwFCRi-Q&_nc_oc=AdmsOE_sOMVcJEE0QoVFfmKmhv7J2F6wP4TmkZJGRkWVPiaCw4iCidtSvJmbqWKzHEY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=9NF2ztJyvn3CoWu6FkmvjA&oh=00_AfekHxGib4EvDynFrwj8UWPWcF2oWG5EZSppmFl0sQyL4Q&oe=68E99A4E"
+    },
+    "id": "1687403371992605"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,72 @@
+{
+  "company_website": "https://www.instant.com.br/",
+  "countries": [
+    "AO",
+    "AR",
+    "BO",
+    "BR",
+    "CV",
+    "CL",
+    "CO",
+    "EC",
+    "SV",
+    "ES",
+    "GF",
+    "HT",
+    "HN",
+    "MX",
+    "PY",
+    "PE",
+    "PT",
+    "UY",
+    "VE"
+  ],
+  "id": "29293671620248863",
+  "name": "Instant Solutions",
+  "description": "A Instant Solutions é uma empresa brasileira de tecnologia da informação, fundada em 2003, com sede no Rio de Janeiro e escritório em São Paulo. Especializa-se no desenvolvimento de soluções corporativas de comunicação avançada, atendendo principalmente às demandas de atendimento em SACs e call centers. Seu foco está na criação de plataformas integradas que otimizam a experiência do cliente e a eficiência operacional das empresas.​",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Desenvolvimento de plataformas de comunicação corporativa e atendimento multicanal",
+    "Soluções para contact centers e SACs, Monitoramento e auditoria de atendimentos",
+    "Automação do atendimento com IA, Integração de canais de comunicação"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TELECOM",
+    "AUTOMOTIVE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt",
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/312200049_478299100991692_5481385426734076377_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d7yYWLq0AvsQ7kNvwE8mbSh&_nc_oc=AdnaED1FPbCm8z2xF4_Fwgv9LY-j1cROsRSwE6jbOHE9wTM_fT1NVCyRLKa8SwdMI84&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=fP6xm5R0OdMeYn9cPE63yQ&oh=00_AffCG30bi0JQFv25KIbzjtlwJCU1I2VRae5IKIZ4zJiGCg&oe=68E9854D"
+    },
+    "id": "478299127658356"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,55 @@
+{
+  "company_website": "http://skillmedia.com.ar/",
+  "countries": [
+    "AR",
+    "CL",
+    "PE",
+    "CO",
+    "UY",
+    "BO",
+    "EC",
+    "VE",
+    "GT",
+    "MX",
+    "PY",
+    "BR",
+    "PA"
+  ],
+  "id": "7896537867095644",
+  "name": "Skillmedia",
+  "description": "Skillmedia es una empresa dedicada a ofrecer soluciones tecnológicas innovadoras para la comunicación y la digitalización de negocios. Brindamos herramientas que integran inteligencia artificial, automatización y gestión de datos para optimizar procesos y mejorar la experiencia del usuario. Nuestros servicios incluyen plataformas de mensajería masiva, integraciones con WhatsApp Business, desarrollo de flujos automatizados, análisis avanzado de datos y soluciones personalizadas para clubes deportivos, empresas y emprendimientos.\n\nNos enfocamos en brindar tecnología confiable, escalable y fácil de usar, ayudando a nuestros clientes a crecer y mejorar su conexión con sus usuarios.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automatización de comunicación y gestión de datos para empresas."
+  ],
+  "industries": [
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/558034531_780382754813057_5736849315978142157_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=TD6a5xJ5x7sQ7kNvwEclmoq&_nc_oc=AdmzyiImaS5VeznWOpoj6-847jUN7VoplBC8sZsHAbY_4TO9SVP6JpCa62N2wQ4G6Ow&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=J2RHzChP31bkwJLPnECpDQ&oh=00_AfdchJ_JRHRQZzfWS5Qyl9DAh0BrpqcEKC2tGcXV_Lz55w&oe=68E9A37F"
+    },
+    "id": "780382751479724"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

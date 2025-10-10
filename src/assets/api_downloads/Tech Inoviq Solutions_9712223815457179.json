@@ -1,0 +1,69 @@
+{
+  "company_website": "https://wetarseel.ai/",
+  "countries": [
+    "PK",
+    "GB",
+    "AE",
+    "US",
+    "SR",
+    "BH",
+    "QA",
+    "SA",
+    "OM",
+    "SG",
+    "ZA",
+    "LK",
+    "TZ",
+    "TN",
+    "TR",
+    "IN"
+  ],
+  "id": "9712223815457179",
+  "name": "Tech Inoviq Solutions",
+  "description": "Tech Inoviq Solutions (Wetarseel.ai) is a technology-driven company specializing in AI-powered communication, customer engagement, and automation solutions. We empower businesses with cutting-edge tools like WhatsApp Business API, omnichannel communication platforms, and advanced SaaS products to optimize sales, support, and marketing.\n\nOur expertise spans across industries, helping enterprises streamline operations, enhance customer experience, and drive digital transformation. With a presence in multiple regions worldwide, we are committed to delivering scalable, secure, and innovative solutions tailored to our clients’ needs.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API & Omnichannel Communication .Scalable & Secure Digital Transformation",
+    "AI-powered Sales & Support Automation . Cloud-based SaaS Solutions for Enterprises",
+    "Customer Engagement & Retention Solutions .Integration with Banking & Financial Systems (Temenos T24, etc.)"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482211773_122207392070120978_8017473931923376932_n.jpg?stp=cp0_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=-9j-mLX-S_oQ7kNvwFPwzDG&_nc_oc=AdnitHwMJULesmcAaWIirP7JWY1QATomSmTc6YCjy2kQKq7DssjBu9dkHzK4HBh0Qsg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_AfexKsGvNsTa-BA1jZp3Dbkx-XGHttgPZnbrl7QeedavLw&oe=68E98827"
+    },
+    "id": "122207392064120978"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

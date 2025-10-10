@@ -1,0 +1,46 @@
+{
+  "company_website": "https://veblika.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7398161366904727",
+  "name": "AutomateKaro",
+  "description": "Veblika is a software as a service platform for customer communication via Direct Messaging Apps. \n\nVeblika helps B2C & B2B businesses to better serve their customers through their favorite channels, including Whatsapp Business, Facebook Messenger, Instagram Direct and Telegram. \n\nAs we enter the \"now\"​ era, Direct Messaging Applications are becoming the new big customer support paradigm. Thanks to an easy to set-up cloud platform Veblika centralizes all communications in one single place, helping CS and Sales teams to connect to customers across channels.\n\nFind out more and start for free at: https://veblika.com",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "SaaS",
+    "Business Messaging",
+    "ChaBot"
+  ],
+  "industries": [
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469779179_122202839444073428_3333843606784400747_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=QW6WG9ly3PoQ7kNvwFdSws9&_nc_oc=AdmafjH8LhaPnJAcNzM6zOwg-ezpU6VyFbppKrw_tElBPRLdZUJ2Cq2EJ33wLV08_Pg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=MXK0T1aEFavWS-RCJdIzOQ&oh=00_AfckcuWiwWs4XRiNq27zN5JdYwNiiQf5_KIkU48A4KYoZQ&oe=68E987AF"
+    },
+    "id": "122094094454073428"
+  },
+  "service_models": [
+    "MANAGED",
+    "HOURLY",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

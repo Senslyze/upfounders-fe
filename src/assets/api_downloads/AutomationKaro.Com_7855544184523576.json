@@ -1,0 +1,56 @@
+{
+  "company_website": "https://automationkaro.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7855544184523576",
+  "name": "AutomationKaro.Com",
+  "description": "WhatsApp API & Chatbot Automation for Seamless Customer Engagement\n\nUnlock the full potential of WhatsApp with our powerful API and chatbot automation solutions. We help businesses streamline customer interactions, boost engagement, and enhance operational efficiency through tailored WhatsApp experiences. Our integration allows for:\n\nReal-Time Conversations\n\n24/7 Automation\n\nRich Media Support\n\nSeamless API Integration\n\nScalable Solutions\n\nTransform the way you connect with your audience and elevate your business communications with our WhatsApp API and automation services.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Engagement & Support",
+    "Personalized Messaging",
+    "Seamless Integration with CRM and Business Systems"
+  ],
+  "industries": [
+    "GOVERNMENT_AND_POLITICS",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/270004389_5029619527051154_1601820018033376756_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wFDOjQkF4jEQ7kNvwHAyf3Z&_nc_oc=AdkOB338-vTkR8XmK85bNCYnbABLtSMvYYumB1U4ZkMT5wMCDS4pqA4tgv6XKf2b4to&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=MXK0T1aEFavWS-RCJdIzOQ&oh=00_AfdoBEHvIpSgGadFCrKJlqh4ok2O36f91g3Ymh5vO1BHwg&oe=68E9B271"
+    },
+    "id": "437016301773928"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

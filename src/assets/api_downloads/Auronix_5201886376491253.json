@@ -1,0 +1,70 @@
+{
+  "company_website": "https://www.auronix.com/",
+  "countries": [
+    "CO",
+    "PE",
+    "EC",
+    "US",
+    "MX",
+    "ES",
+    "UY",
+    "PY",
+    "CA",
+    "AR",
+    "BO",
+    "CR",
+    "PA"
+  ],
+  "id": "5201886376491253",
+  "name": "Auronix",
+  "description": "Auronix is a Verticalized Software Company that helps large enterprises in Retail, CPG and Financial Services automate and improve conversion on key customer transactions along the customer journey. \n\nOur model revolves around focusing on fewer and larger customers in our industry verticals, working closely to understand their objectives and KPIs and help them achieve them. \n\nOur key differentiators are:\n1. Consultative approach - we work with customers in defining objectives, executing, analyzing results and continuously iterating to improve. \n2. Vertical product and experience - experts in retail, CPG and financial services\n3. Automation for end users - we create experiences that automate key touchpoints in the customer journey, improving customer experience and increasing sales/conversion\n4. We humanize the conversation - we leverage the power of AI\n5. Integ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel conversational experiences (Chatbots)",
+    "Conversational Commerce",
+    "Other use cases: loyalty programs, suggested order, credit applications, account management and collections"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475772285_1123323322865299_7644714096693409211_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=1qZJX3HlsFgQ7kNvwFsK1u8&_nc_oc=AdkXzPycv3cz8f19_HL-hTDfbeFO24FPAmnOf9eKKRJhGbuGF7mtzM4cCVUrp-y8Szo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=2nRZqS9tri2ZBT_aVcg6BQ&oh=00_AfeT_IUP5dHNZFpuk_Zu7YiCyiGZ0nBC9BrSaWQDeMGGhA&oe=68E986BD"
+    },
+    "id": "503614694836168"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,50 @@
+{
+  "company_website": "https://selenebot.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7997103633638323",
+  "name": "Selene bot",
+  "description": "Organizando seu atendimento. Potencializando suas vendas\nUm WhatsApp, Múltiplos Atendentes, Inúmeras Vendas\n\nO ChatBot para WhatsApp com múltiplos atendentes no mesmo número\nSolução inteligente capaz de revolucionar a maneira como sua empresa se comunica com os clientes.\nO SeleneBOT é a resposta para suas necessidades de atendimento ao cliente de forma eficiente, ágil e estratégica.\n\nCrie seus próprios fluxos de atendimento, automatize atividades repetitivas e gere uma experiência única de atendimento para o seu cliente",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470660507_122204791688196184_5710588780679946403_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hl3CB_hb5BsQ7kNvwHan7IP&_nc_oc=AdmSRFiGqWtawb5v_5z8vUb2Sp-OTW6QYStZZ93hYRKzx7ebnaG-fcq7uHrQJS25dSU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=TUJRXZlySYPqEn-s_RJspQ&oh=00_AffTYCbyE43AIY0XOL15LA2lXhDxIJ4VEpFz2VP0r6DgyA&oe=68E98EB0"
+    },
+    "id": "122125966070196184"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

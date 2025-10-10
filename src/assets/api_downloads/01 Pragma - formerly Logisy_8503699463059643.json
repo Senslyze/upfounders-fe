@@ -1,0 +1,40 @@
+{
+  "company_website": "https://bepragma.ai/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8503699463059643",
+  "name": "01 Pragma - formerly Logisy",
+  "description": "Pragma (formerly Logisy) is the most comprehensive D2C super-app that helps D2C merchants to manage their entire operations in one single place! \n\nPre-purchase: Fast Checkout system, Abandoned Cart recovery, Visitor Identification\nPost-purchase: Risk analysis of Orders/Users, Order notifications, NDR Management, CRM and WhatsApp Marketing \nPost-delivery: Myntra-like Returns management, Product reviews, NPS etc. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Fast Checkout & RTO Prevention (Return to Origin)",
+    "Customer Relationship Management & WhatsApp Marketing",
+    "Myntra-like Returns Management "
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484516060_614343288256733_8248600372917349774_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=L8ZSwEVgceMQ7kNvwErR2Dq&_nc_oc=AdmeZKy2YqWb4szCD7YK-CCaq7FxeQMCUxDpHPxWyVoDYod-Mz0x0S826zS0ZcONOTs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_Aff36BNJo92FORFZvotyoyyhOdEleyt4SmI_sBvAjz7HCA&oe=68E99566"
+    },
+    "id": "498003956557334"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,57 @@
+{
+  "company_website": "https://prometheo.ai/",
+  "countries": [
+    "AR",
+    "CO",
+    "MX",
+    "ES",
+    "CL",
+    "UY"
+  ],
+  "id": "24441192048834623",
+  "name": "Prometheo AI",
+  "description": "Platform to create and launch AI agents in 5 minutes. Connect channels like WhatsApp, Instagram, Facebook and TikTok and integrations with Google Calendar, Tienda Nube, Mercado Libre, Tokko, Mercado Pago, WooCommerce, Google Sheets. \n\nFirst 100% AI CRM with native smart tags system for auto classification.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI Agents, Lead Classification, CRM"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/554097961_122220325988139992_6410552817882502262_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=oIC-9aoiMOEQ7kNvwFalk2S&_nc_oc=AdnABLOE46lgJazTsVwSVy7vQMsSOMmiDTCyBy-dOgaXUFUjfsKcfCAMkmil4ujn8CE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=V9l98hoZPAL6cQDvD7l9-A&oh=00_AfdLOIpu50n7ayW1xy7Mpiy03gSibCpku-Gjdus-kZAl0w&oe=68E98BBE"
+    },
+    "id": "122220325982139992"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

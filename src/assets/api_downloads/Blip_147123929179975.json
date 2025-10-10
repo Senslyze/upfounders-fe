@@ -1,0 +1,81 @@
+{
+  "company_website": "https://digital.blip.ai/packs/blip-go-whatsapp-business-partners/?utm_source=meta",
+  "countries": [
+    "UY",
+    "PE",
+    "PY",
+    "MX",
+    "EC",
+    "CO",
+    "CL",
+    "AR",
+    "BR",
+    "PT",
+    "ES"
+  ],
+  "id": "147123929179975",
+  "name": "Blip",
+  "description": "Blip is an all-in-one platform for smart, AI-powered customer conversations.\nIt enables brands to serve, sell, and engage securely and efficiently in one place.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Customer Service",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/354561831_9733015340073016_6643455982474735659_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XYlkgzY3JZQQ7kNvwHcXL-q&_nc_oc=AdkVhAvaDtDUC89Qliy3_kWzUV0Jsh9c7JmfZXof43pdMRfrTuEc18Aw_7y0EAaP-pY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Gqy_j0Qm2PX_RWG9tko1cg&oh=00_AfdQsY4LingjYAQpCu3-GeIu9SPpEoKGnk9zy4MikLT-9A&oe=68E9AABE"
+    },
+    "id": "656816606490317"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER",
+    "COEXISTENCE"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

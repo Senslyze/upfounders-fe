@@ -1,0 +1,36 @@
+{
+  "company_website": "https://www.superfone.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7652849331403761",
+  "name": "Superfone",
+  "description": "Superfone provides a business mobile number that can be shared by your entire team. Use 1 single shared number with your staff to make calls in parallel & manage Whatsapp messages! We also offer a CRM & lead management platform and other capabilities.\n\nOnly Rs. 700/month for 1 number with 3 staff members that supports concurrent calls & Whatsapp API capabilities!! See our website for updated price details",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Shared inbox, Small-medium business, Single shared number for calls and Whatsapp, Integrated & all in one solution"
+  ],
+  "industries": [
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/226329984_105514325129990_1019552339092094187_n.png?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=pVDmk3Zn9hIQ7kNvwEIoTSs&_nc_oc=AdmUOQEefHOyMLNHo1zHS_5EZWKo3c6lwGuK6w4jtR8C8pIYl-IAvYOPOldKGOKQqwU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WOkPBMTnE6i1K7zin63-4w&oh=00_Aff_NSN0PrFVjUqvj2GMua23uiQpaItlSehE9CP-jXsKdg&oe=68E98ABD"
+    },
+    "id": "338778978415851"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

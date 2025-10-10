@@ -1,0 +1,54 @@
+{
+  "company_website": "https://bhashsms.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "6602876449818817",
+  "name": "Bhash Software Labs",
+  "description": "Bhash Software Labs provides a comprehensive suite of solutions built on the WhatsApp Business API. As an intelligent WhatsApp engagement platform, BhashSMS empowers businesses to broadcast messages, automate notifications, and streamline customer support. Trusted by Enterprises, Growing Businesses, and SMBs worldwide, Bhash Software Labs also extends its expertise to service providers, media agencies, resellers, and technology enablers, offering bespoke WhatsApp Business API-based solutions.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Enhance engagement via WhatsApp Broadcasting, Automation, Live Chat, Chatbots, API integrate seamlessly with All platform's."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/486986163_639657549041763_1885209921215599590_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=-yRi3iWxM8IQ7kNvwElP4KC&_nc_oc=AdmUvNGUWHDXhqmTCRBFlDLhwdY2nTHyNngoiDIC6JX4xV19vCiFlN4ICR3WqrWj-Fw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_Afca_UeQpcE7xpXyE2eBJ8hXsElW1ORrLE3V8xKuiDFl7g&oe=68E9A0A0"
+    },
+    "id": "562551940085658"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

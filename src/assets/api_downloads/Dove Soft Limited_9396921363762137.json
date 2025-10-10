@@ -1,0 +1,41 @@
+{
+  "company_website": "https://dovesoft.io/",
+  "countries": [
+    "IN"
+  ],
+  "id": "9396921363762137",
+  "name": "Dove Soft Limited",
+  "description": "At Dovesoft, we believe communication is the backbone of every successful business. We are a full-stack CPaaS (Communication Platform as a Service) company enabling brands to connect, engage, and grow using AI-powered, multi-channel communication tools.\n\nFounded with the vision to simplify enterprise messaging, Dovesoft offers a unified platform that brings together WhatsApp Business API, RCS, SMS, Voice, Email, and more — allowing businesses to scale conversations without complexity.\n\nWhether you're sending transactional alerts, marketing campaigns, surveys, or building AI chatbots, Dovesoft empowers you with the tools to deliver meaningful customer experiences in real time.\n\nOur team of technologists, engineers, and strategists is passionate about building intelligent products — from smart automation and message broadcasting to real-time analytics and AI integrations like FileGPT.\n\nWe’re on a mission to become the world’s leading conversational messaging platform, trusted by startups",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "1) AI & Automation 2) Conversational Messaging 3) Marketing & Campaigns 4) Chatbots for websites, WhatsApp & support channels"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/463338045_3178533815618652_250388073412065180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=68BqvBft5JYQ7kNvwEFTCL0&_nc_oc=AdnAy_Nze4xscAT-0s11CPvZnmzVKpH3gzc06yoRGOzRT2WQ4-y4-3Fj5yy2FkGZdFM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=reoC6E_PJK3NGMGwoPOLpw&oh=00_AfcNR_0SBAtDp6JPnFs9-A2iqk64kEWrSywe3mPYy44Peg&oe=68E9AA61"
+    },
+    "id": "122098978700575813"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

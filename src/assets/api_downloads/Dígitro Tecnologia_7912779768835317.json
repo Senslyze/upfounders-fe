@@ -1,0 +1,64 @@
+{
+  "company_website": "https://digitro.com.br/",
+  "countries": [
+    "BR",
+    "AR",
+    "PT",
+    "AO",
+    "UY",
+    "PY"
+  ],
+  "id": "7912779768835317",
+  "name": "Dígitro Tecnologia",
+  "description": "Um mundo melhor. \nUm mundo conectado, mais seguro e transparente.\n\nIntegramos tecnologias e desenvolvemos soluções que auxiliam empresas na comunicação corporativa e nos processos de inteligência investigativa.\nEstamos presentes em todos os estados brasileiros e ainda em países como Paraguai, Uruguai e Peru e há mais de quatro décadas contribuímos para a construção de uma sociedade mais segura, transparente e conectada. E nos orgulhamos muito disso.\n\nPara empresas da administração pública, somos especializados em segurança e defesa, com um amplo portfólio de soluções de monitoramento, gestão e inteligência investigativa.\nEm virtude do nosso know-how e qualidade da entrega de soluções, somos reconhecidos pelo Ministério Brasileiro de Defesa como Empresa Estratégica de Defesa (EED).\nPara o mercado corporativo, entregamos soluções de comunicação corporativa, sejam elas para uso interno ou para atendimento a clientes.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Comunicação Empresarial",
+    "Gestão de Contact Center"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/240115208_4483601368362915_6749293251525497364_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GlsM4gzIjC4Q7kNvwGD8Mut&_nc_oc=AdnlGwAqwt6sytuKABIkm1drV2EoBcjvsDoZh_4un1ngz5aVsiCjfFQHUZjeZw5YFrk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a8RO8rpneS2yyeEdQ_uWPw&oh=00_AfcZA17KOLOFExCaTXwz_zTAzNjDUC6r0TE2wwz784yrPQ&oe=68E9819D"
+    },
+    "id": "613284743776429"
+  },
+  "service_models": [
+    "MANAGED",
+    "HOURLY",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

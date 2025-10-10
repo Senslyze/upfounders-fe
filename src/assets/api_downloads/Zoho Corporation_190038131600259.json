@@ -1,0 +1,71 @@
+{
+  "company_website": "https://zoho.com/",
+  "countries": [
+    "IN",
+    "GB",
+    "US",
+    "SG",
+    "AU",
+    "CN",
+    "JP",
+    "CA",
+    "AR",
+    "CL",
+    "MX",
+    "PA",
+    "PE",
+    "PR",
+    "AE",
+    "SA",
+    "BH",
+    "QA",
+    "ZA",
+    "EG",
+    "NG",
+    "KE",
+    "FR",
+    "DE",
+    "SE",
+    "IT",
+    "NL",
+    "ES",
+    "BR"
+  ],
+  "id": "190038131600259",
+  "name": "Zoho Corporation",
+  "description": "For more than 25 years, Zoho has been committed to building software and technology that help businesses excel. From small companies to large organizations, 100M+ users worldwide rely on Zoho to get work done. \n\nZoho is privately held and profitable with more than 18,000 employees. Its privacy-first approach, long-term thinking, deep engineering focus, and customer-centric philosophy make it one of the world's most prolific technology companies. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484873452_122096858936813972_5537953224496124204_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zY-hbAjkKOsQ7kNvwHHTRsk&_nc_oc=AdkoEJ5WRX6_4cBX-PdSq9JQ-N2i9DpFNod47knm9GTuek-Ikdk_Wh4ycZXtSPwrysA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WQwztT0LqNmAHTvBL5pSnw&oh=00_Afd9a_o5YcixY_OrZWJ_DYLAZ3IwZAK6GJv8Gz7A7nhxAA&oe=68E9A6EA"
+    },
+    "id": "122096858930813972"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

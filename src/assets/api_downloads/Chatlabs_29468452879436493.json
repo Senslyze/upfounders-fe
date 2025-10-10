@@ -1,0 +1,60 @@
+{
+  "company_website": "https://chatlabs.com.br/",
+  "countries": [
+    "BR",
+    "UY",
+    "US",
+    "PT",
+    "ES",
+    "AR"
+  ],
+  "id": "29468452879436493",
+  "name": "Chatlabs",
+  "description": "🚀 Chatlabs: a evolução do atendimento digital com IA e Omnichannel\n\nA Chatlabs é a plataforma ideal para empresas que buscam agilidade, inteligência e personalização no relacionamento com o cliente. Com uma solução omnichannel completa, reunimos os principais canais — como WhatsApp, Instagram, Messenger e Webchat — em um só lugar, com uma interface intuitiva e fácil de usar.\n\n💡 Destaques que fazem a diferença:\n\nAtendimento unificado via WhatsApp, com um único número para toda a equipe\n\nAutomação com IA: crie fluxos inteligentes e otimize a produtividade do time\n\nHistórico de conversas e dados salvos na nuvem, com segurança e controle de acessos\n\nAnálises integradas que ajudam a identificar dores e oportunidades na jornada do cliente\n\nSeja para pequenas equipes ou grandes operações, a Chatlabs oferece planos flexíveis e escaláveis — com o melhor custo-benefício do mercado",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Service",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/512768367_122117640974885083_893640308260622077_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=LQYQxlscJQwQ7kNvwEH_u7L&_nc_oc=AdneCdffGQYHhs1LWNszCHD-7520-V-3dsDK-im-W-zwC2L_vFnjVqJLq3mZcsh8kSo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0s_BMTYaaJa3cw1AEXFsAQ&oh=00_Afe5P96NF_cDPy3hxkvtU_kNqScrbmjBWJW3YHbLYg7WSg&oe=68E99BBD"
+    },
+    "id": "122117640968885083"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

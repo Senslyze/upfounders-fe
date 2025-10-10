@@ -1,0 +1,41 @@
+{
+  "company_website": "https://atendimento.digital/",
+  "countries": [
+    "BR"
+  ],
+  "id": "10019629204716687",
+  "name": "Meuad Atendimento Digital",
+  "description": "Somos especializados em desenvolver e prover sistemas de atendimento para empresas, com gestão de filas de atendimento, chatbot, integração com IA, PBX-IP, SMS.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "B2B"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/492606046_532857583210888_5118263569450261267_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=BvGASuWFxjQQ7kNvwGr4EW9&_nc_oc=Adls1i0QM8_FR9ooGejDaTmw5h2G6OLOqev87_DLQoVNivdxqtefjI_xaWn5Lxmg5ss&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=sDQ7fnCNqdKdzMSjfz21Og&oh=00_AfdOWndRBbFvu4bwY9B2BT8_q5B6vTbt6TV0EEeYZBycgA&oe=68E9A714"
+    },
+    "id": "532857579877555"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,55 @@
+{
+  "company_website": "https://getgabs.com/",
+  "countries": [
+    "IN",
+    "GB",
+    "AE",
+    "US",
+    "VI",
+    "UM"
+  ],
+  "id": "7939525142815278",
+  "name": "Getgabs LLP",
+  "description": "Getgabs is a WhatsApp business API solution provider with extensive features. Businesses can grow their revenue by 30-50% through this platform. Now, we can acquire high reach, sales, and fantastic conversions! Are you suffering from these problems? No longer customer reach via SMS or Email marketing.\n\nGetgabs LLP is a robust platform designed to enhance business communication through WhatsApp. It allows businesses to:\n\nSend and Receive Bulk Messages: Streamline communication with a large audience for marketing, promotions, or announcements.\nDevelop Custom Integrations: Tailor WhatsApp functionality to merge seamlessly with existing systems.\nAutomate Conversations: Boost efficiency by automating customer support, FAQs, and transactional updates.\nKey Features:\n\nIntegration with existing communication systems.\nApplication in marketing, sales, and customer service.\nContact Details:\n\nAddress: G7, Malviya Nagar Industrial Area, Jaipur 302017.\nMobile: 8000522662.\nEmail: info@getgabs.com",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TRAVEL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "fr",
+    "ms",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/473588570_122159091788302476_2354488651998314508_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=0YMe6tAHnfQQ7kNvwFCLWkP&_nc_oc=AdnlMEqNjm17qf0s0huUzuQoEXd8z7WVLodX0trqkvE-D5OegCMSbMrd23yirHSSoAI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7iwpZPKPrnueY3-CsoEdTA&oh=00_AfdJOkmCZHmuchuweJQtuffNXNrjoiUe9o4L0bEWgR38_w&oe=68E9A3E5"
+    },
+    "id": "122148417776302476"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

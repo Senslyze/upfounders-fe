@@ -1,0 +1,38 @@
+{
+  "company_website": "https://www.techer.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "24358822813762484",
+  "name": "Techer",
+  "description": "Somos uma empresa inovadora, ágil e moderna, focada em solucionar problemas complexos de forma simples e eficiente através do emprego das melhores práticas.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480322261_578235345207123_8570749201318320500_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=U--VccxvSsQQ7kNvwFUfH2W&_nc_oc=Adk2mR_76IiF6BguzsjF3DMD_VaYvhBwgkBkXzQK3BQ_KArkc3CFAPlaZqoYA0F-Trg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_AfcwLh6nMOXmFXuOUcgDXv76zJqS_47O-C67Jjlj30lvbw&oe=68E9ACD0"
+    },
+    "id": "406656519031674"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "HOURLY",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

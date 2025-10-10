@@ -1,0 +1,65 @@
+{
+  "company_website": "https://zwiz.ai/en",
+  "countries": [
+    "TH",
+    "MY"
+  ],
+  "id": "3011764038881572",
+  "name": "ZWIZ AI",
+  "description": "Zwiz.ai is a social media automation tool that helps businesses automate customer communications. \n\nZwiz.ai supports multiple messaging channels such as WhatsApp, Instagram and Messenger. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "e-commerce",
+    "customer support",
+    "hotel&concierge"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "th",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/209151967_996090074496906_3364940376875260632_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=tEIkKj3ykMoQ7kNvwGaswKX&_nc_oc=AdmLC0yNa1CZmbAZnMFRRRwfHaKeD-tirmIU9Qd2v52XbRULZveb2SuWLvZmJFdI8Yg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ZTFGVlzpm2y4TVBGe_v6XA&oh=00_AfebaV4E3fwaG8XMkr3eoelxENdKr_NrOuO8NYN5xzzBzw&oe=690B43F4"
+    },
+    "id": "996090071163573"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MULTICHANNEL_MANAGEMENT",
+    "LEAD_GEN"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

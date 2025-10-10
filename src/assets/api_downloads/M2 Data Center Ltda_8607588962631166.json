@@ -1,0 +1,47 @@
+{
+  "company_website": "https://www.m2datacenter.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8607588962631166",
+  "name": "M2 Data Center Ltda",
+  "description": "​A M2 Data Center é uma empresa sediada em Belo Horizonte, Minas Gerais, especializada no desenvolvimento de tecnologias que agregam valor aos negócios, aprimorando seu posicionamento no mercado.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento Digital"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/38050946_105697020368393_5129445257968091136_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=mGpvmkTBL8cQ7kNvwFxyW50&_nc_oc=AdmwtDEoowaiKVhtY_lvaJtO_4GqOdKbK9zeErllhlNPyh4LPEf5pdOt2gLbvu-sfvA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_AfcT5EEJn2Rg75cpUM7GhcJf9yIMt9Suo-WY-O_-ShDzQg&oe=690B4905"
+    },
+    "id": "105697013701727"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

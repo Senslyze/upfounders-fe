@@ -1,0 +1,53 @@
+{
+  "company_website": "https://islash.io/en",
+  "countries": [
+    "HK",
+    "SG",
+    "MY",
+    "GB",
+    "ID",
+    "IN",
+    "MO",
+    "TW",
+    "CN"
+  ],
+  "id": "5627944140577026",
+  "name": "1Slash Limited",
+  "description": "ISLASH is an omnichannel messaging ,chatbot, and AI as a Service (AIaaS) platform based in Hong Kong that leverages data, analytics, and AI to optimize marketing strategies, track customer interactions, and drive customer loyalty across various messaging platforms such as WhatsApp, Instagram, WeChat, Messenger, ChatGPT.\n\nOur transformative approach to customer engagement emphasizes understanding customer needs and preferences to provide personalized experiences that aim to provide a revolutionary customer journey. This approach is designed to help companies grasp the new wave of AI and accelerate the establishment of automated processes and new services. \n\nISLASH helps business achieve :\n1.Messages for Business and Chat Commerce\n2.No-Code Chatbot and AI Autopilot Assistance\n3.360-degree view of customers\n4.Large Scale WhatsApp Message Broadcast \n\nand more...\nhttps://islash.io/",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Messaging Team Collaborative Inbox, chat commerce , payment through WhatsApp, Messenger, IG, WeChat, Web Plugin",
+    "No Code Chatbot & AI Autopilot Assistance for business automation",
+    "Emerging Solution on WhatsApp API and Facebook Ads Conversion API , WhatApp API Support and Onboarding "
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "zh-hans"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482235054_614193814726567_3862912263125514616_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=UsuTIMb6k78Q7kNvwHs8ajn&_nc_oc=AdmkCNRrtQu62H0oAe0murSbx32ZvOvgl1gmyVm42QOEA7RXn572kesqULwkdMqlku8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=IVFmF883mG9fll0DuNs1EQ&oh=00_Afcl68JIQinQNqnzrfd8VDPNz1RxvIlK9Z0b1wdgEktW0Q&oe=68E9835E"
+    },
+    "id": "397183256427625"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

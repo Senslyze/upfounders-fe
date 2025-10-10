@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.mehery.com/",
+  "countries": [
+    "IN",
+    "KW",
+    "AE",
+    "PH",
+    "CG",
+    "CD",
+    "TZ",
+    "OM",
+    "BH",
+    "QA"
+  ],
+  "id": "9194868790593233",
+  "name": "Mehery Soccom Private Limited",
+  "description": "Mehery Smart Conversations is a multi-channel customer engagement platform that supports both inbound customer interactions and outbound marketing automation.\n\nSupported Channels: WhatsApp Business, Facebook Messenger, Instagram DM, Telegram, Web Chat, App Chat, Email, and SMS.\n\nMarketing Automation: Launch scheduled outbound campaigns and track CTA responses in real-time for optimized engagement.\n\nConversational AI: Seamlessly integrates with OpenAI and Azure OpenAI, enabling you to define bot behavior, leverage trained models, and integrate with backend systems to fetch user-specific data—creating dynamic and engaging customer conversations.\n\nCustomer & Lead Management: Manage customer relationships and leads across social engagements with ease.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Campaign Management. Create, personalise and schedule or launch WhatsApp campaigns effortlessly, with your customer cohorts.",
+    "Lead Management. Easily capture and nurture leads across social media, transforming initial interest into loyal customers.",
+    "Conversation Management. Cross-channel customer profiling, session tags, follow-ups and appointment booking—all work seamlessly together"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/348424156_798145858503711_8880101454249881846_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OloA93N8G4wQ7kNvwGbXzpt&_nc_oc=AdmeqAn1owey8dYvBBqGMaKkHoBrC9CvSAtcsnl7VKor8EMzPJEe-qqzim9cWuwIVsk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=XUm85b6D6zMKPKEPVXzTsA&oh=00_AffwzRImQUdANX3xyipmphoZ71-Asztahjm_ApdQlmvYUg&oe=68E9A1CF"
+    },
+    "id": "619440870236622"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

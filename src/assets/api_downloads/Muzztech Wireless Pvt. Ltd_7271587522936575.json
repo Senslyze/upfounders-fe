@@ -1,0 +1,52 @@
+{
+  "company_website": "https://muzztech.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7271587522936575",
+  "name": "Muzztech Wireless Pvt. Ltd.",
+  "description": "At Muzztech, we are a leading provider of Bulk SMS and IVR (Interactive Voice Response) solutions. With 14 years of experience in the industry, we have established ourselves as a trusted partner for businesses and organizations of all sizes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API ",
+    "Customer Engagement, Customer Satisfaction",
+    "All-In-One WhatsApp Solutions for Enterprises and SMEs"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475402597_1341364313715864_9069003490380353464_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=KZ2KxQYoOEcQ7kNvwEg1a_d&_nc_oc=AdnH4OYsKrZXjUVDjUmeJ8145uxatxeng3UraIRZ9bjoHBSmNX9PEdq2XBDYvhoE2AE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=4sG3fl4saIJO8rauww2XvQ&oh=00_AfcrValuYyFY0I6FdUYZT4hOJYakq1n5o-2IkqP3tRbQcg&oe=68E9AEE8"
+    },
+    "id": "1201334167718880"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

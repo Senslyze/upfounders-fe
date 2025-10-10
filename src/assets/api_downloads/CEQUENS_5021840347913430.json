@@ -1,0 +1,47 @@
+{
+  "company_website": "https://www.cequens.com/",
+  "countries": [
+    "EG",
+    "SA",
+    "PK",
+    "AE",
+    "KW",
+    "QA",
+    "BH",
+    "MA",
+    "GB"
+  ],
+  "id": "5021840347913430",
+  "name": "CEQUENS",
+  "description": "Empowering Business. Inspiring Innovation.\nBridging communication gaps between businesses and their customers.\nFor more than a decade, our innovation has empowered thousands of businesses to create and deliver communication experiences fine-tuned to their industries. We provide the necessary solutions to cross all boundaries. Communication Platform supports the world’s most innovative technologies and combines all possibilities making it a reliable tool for digital transformation and global connectivity.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/325151577_899967344373820_3060098389277880303_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DoWSjijWQRwQ7kNvwGKVEK1&_nc_oc=AdlYsdqPUHr06BL5QpUC1JY3O-E0gEN_ZIkLGoNBzru-RZ3YwZslUBYs-KXdgDXLuBg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_AffnOZZomqShszu1NlLoiaxwz9JTXiilr9W33ykrbMeBbA&oe=68E98D94"
+    },
+    "id": "567721058704818"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

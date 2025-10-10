@@ -1,0 +1,44 @@
+{
+  "company_website": "https://awsales.io/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8761205407313350",
+  "name": "Awsales",
+  "description": "Awsales is revolutionizing how companies connect with their customers — not with generic bots, but through custom-built AI agents designed to drive real results.\n\nWe are a complete platform for smart, humanized conversations, blending the latest in AI innovation with the art of relationship-building. Our technology empowers businesses to serve, sell, and engage more efficiently — all in one place, with security, simplicity, and scalability at the core.\n\nAs we evolve, so does the conversation — becoming more intelligent, more effective, and more aligned with your customer’s journey. With Awsales, your brand doesn’t just talk. It connects.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Service",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "EDUCATION",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/495199632_122148900884393218_4424846210117065638_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=agt2wU_M1OkQ7kNvwEScmai&_nc_oc=AdnCrOxWuKZmJS257fslNiRLbqEJgU8EZKOVTjy2Gs0dDiQ-toY1KCoAbjnCTuOUVUI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=MXK0T1aEFavWS-RCJdIzOQ&oh=00_AfdyQBSPXgRGPIOAlsTiHWtn9n2OKS8S84K366ApLz6cWg&oe=68E9974C"
+    },
+    "id": "122148900878393218"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

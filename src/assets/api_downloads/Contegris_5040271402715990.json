@@ -1,0 +1,59 @@
+{
+  "company_website": "https://www.contegris.com/",
+  "countries": [
+    "PK",
+    "SA",
+    "US",
+    "AE",
+    "GB"
+  ],
+  "id": "5040271402715990",
+  "name": "Contegris",
+  "description": "Intellicon by Contegris is an Omni Channel Contact Center & Customer Engagement Platform which helps businesses optimize their Customer Services, Customer Support, Customer Engagement, Customer Experience, Credit Collection and Sales Outreach Process. Intellicon's feature rich platform is delivered On-Cloud and On-premise models according to the customer requirements. It has One-Click integrations with major ecommerce platforms like Shopify, Magento, Woocommerce and industry CRMs like ZenDesk, ZohoDesk, vTiger and IntelliDesk. Intellicon provides seamless Omnichannel Communication Capabilities of Voice Call, WhatsApp, Telegram, Facebook, Instagram, Twitter, WebChat, SMS, Email, LinkedIn, Google Playstore and Youtube in a single Unified Agent Panel. Please logon to www.intellicon.io for more information.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Services, Customer Support, Customer Engagement & Customer Experience",
+    "WhatsApp Business API, AI Based ChatBot, AutoDialer, Sentiment Analysis, Order Verification, Marketing Campaigns, Voice Broadcasting, IVR",
+    "Global Omni Channel Contact Center, Cloud/On-Premise & Hybrid, CPaaS, CCaaS, CRM for Customer Services and Sales"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/53429899_101806954318532_5712996709219434496_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=CY_-vyENkEkQ7kNvwHQsU6T&_nc_oc=AdlOrPCXwxu93imQEPkM7QAGKaA0I80wP8PAusteCiRsGCzxVI8_KOjvsADgD6F11kE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=U_DVOcKdLZpIkArDTT5kHg&oh=00_AffSnG7S9hr6HWhkK_jNxtpjBsLNSqGj--k4PmrufcDoGw&oe=690B570C"
+    },
+    "id": "101806947651866"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

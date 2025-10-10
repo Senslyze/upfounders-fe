@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.maischat.com/",
+  "countries": [
+    "BO",
+    "AR",
+    "CO",
+    "CL",
+    "BR"
+  ],
+  "id": "7328057710646719",
+  "name": "Mais Chat",
+  "description": "Plataforma de atendimento ao cliente Mais Chat: sua solução completa para um atendimento mais rápido, mais inteligente e mais integrado.\n\nIntegração com os principais canais de atendimento: Instagram, Facebook, WhatsApp, WebChat, E-mail, SMS e Telefonia.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Vendas via WhatsApp, Instagram, Messenger e Chat para site",
+    "CRM, Automações, Suporte e  Tickets ",
+    "Captação de Leads"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/508180242_1824574984768582_7351059319568385154_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=RwIxhGWW4XoQ7kNvwGxLiVZ&_nc_oc=AdkE5-LgbNAx-TS6MzcJ3znVhevhYGvLoopMRzLD7S_zDah1sXipNhiRVCAk3qYXD1E&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Afd20s_xZsFiTz_q2-H-KUzAmlAUOrPO74S9cpotMcKVUA&oe=68E9912D"
+    },
+    "id": "1824574981435249"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

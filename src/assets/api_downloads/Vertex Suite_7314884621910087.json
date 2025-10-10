@@ -1,0 +1,66 @@
+{
+  "company_website": "https://vertexsuite.in/",
+  "countries": [
+    "IN",
+    "AU",
+    "BD",
+    "BR",
+    "CA",
+    "KH",
+    "FR",
+    "DE",
+    "HK",
+    "ID",
+    "MY",
+    "MV",
+    "NP",
+    "NZ",
+    "PK",
+    "PT",
+    "ZA",
+    "SE",
+    "CH",
+    "US",
+    "AE",
+    "GB"
+  ],
+  "id": "7314884621910087",
+  "name": "Vertex Suite",
+  "description": "Vertex Suite is a SaaS platform that transforms how businesses interact with customers using WhatsApp. By integrating brand websites with the WhatsApp Cloud API and Flow Builder, we enable businesses to turn their sites into dynamic WhatsApp stores, revolutionizing the retail experience.\n\nVertex Suite reduces customer acquisition and development costs while boosting engagement and operational efficiency. Our platform offers a complete suite of solutions, including Order Management, Shipment Pooling, Warehouse Management, Marketing, Billing, Analytics, Social Commerce, Communication, Rating, and Multi-Vendor features.\n\nDesigned for universal appeal, Vertex Suite serves diverse industries—from transportation and hospitality to retail and smart automation. It's not just a chatbot; it's a sector-agnostic, user-friendly platform that supports e-commerce evolution.\n",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales Automation, Marketing Automation, Home/Farm/Vehicle Automation",
+    "Customer/ Citizen engagement, Reducing CAC, Accessibility of communication channels"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr",
+    "pa",
+    "ta",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/364770773_128705350288362_7814574087247707933_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ec-7EzS-7mAQ7kNvwH0AKud&_nc_oc=AdnUivoTVqWUE3AQGDEaRv6NhTJSajyZdNUuz74ijD2KI6Gj0RBNjtI7U493wquysCU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ugVqchM8pFxIY8LZWG_76Q&oh=00_AfceYnQ9H_KbmxTihxEh-9N_oF_EPmltm5MqkhaFHaZndw&oe=68E98A01"
+    },
+    "id": "102109389653637"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

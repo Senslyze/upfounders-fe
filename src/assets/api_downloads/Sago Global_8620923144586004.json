@@ -1,0 +1,62 @@
+{
+  "company_website": "https://www.sago.global/",
+  "countries": [
+    "BR",
+    "AR",
+    "BO",
+    "CL",
+    "ES",
+    "PT",
+    "MX",
+    "IT",
+    "UY",
+    "PA",
+    "CR",
+    "DO"
+  ],
+  "id": "8620923144586004",
+  "name": "Sago Global",
+  "description": "A SAGO é especialistas em software para comunicação entre empresas e seus clientes. Fale com seus clientes, por diversos canais (WhatsApp, Facebook Messenger, Instragram Direct, Webchat, E-mail, SMS, Voz, entre outros), em uma única plataforma!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API",
+    "Plataforma Omnichannel",
+    "Chatbots com Inteligência Artificial"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474477439_122147040206368892_2478226751317022850_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=VKu6B6zkSmUQ7kNvwE-nqDz&_nc_oc=Adkrr4OB43Xw3azPOFaQ9a1PQujniyT24xMs6BeJx0qlm9Z8Z-U6UzJpl2SMG7wZeuw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_AfdbNUAvQ7pa-jWaO5w-Nmgj9VQ7f_k87km9LaJ855Je9w&oe=68E9B2F3"
+    },
+    "id": "122122339586368892"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

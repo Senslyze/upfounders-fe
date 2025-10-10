@@ -1,0 +1,69 @@
+{
+  "company_website": "https://xgen.com.br/",
+  "countries": [
+    "BR",
+    "AR",
+    "BO",
+    "CA",
+    "CO",
+    "CL",
+    "EC",
+    "MX",
+    "PY",
+    "PE",
+    "PA",
+    "PT",
+    "PR",
+    "ES",
+    "US",
+    "GB",
+    "UY",
+    "VE"
+  ],
+  "id": "9686389178051076",
+  "name": "XGEN",
+  "description": "Somos uma plataforma de Gestão de Canais digitais com CRM Conversacional e chatbot.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Nossa especialidade são soluções de relacionamento com o cliente, soluções de automação de atendimento, workflow e gestão do conhecimento."
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/483943832_635954395843041_5349825987199610397_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=1OBIIaca1pUQ7kNvwGTc-Ho&_nc_oc=AdmnlfxPvYQykHVRqfNxAzFhAL9Ih7jTYiK0S46rGwXFVVMql1vLr6kD5mGuBuVJj9Q&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=9NF2ztJyvn3CoWu6FkmvjA&oh=00_AfdaRbT99nKo84IfMaeMlx9jl1bKHbxvN7ATUwkH5GtLng&oe=68E9B801"
+    },
+    "id": "635954392509708"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

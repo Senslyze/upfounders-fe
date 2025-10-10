@@ -1,0 +1,52 @@
+{
+  "company_website": "https://www.fala-ia.com.br/",
+  "countries": [
+    "BR",
+    "US",
+    "CO",
+    "AR",
+    "CL"
+  ],
+  "id": "7400535306658622",
+  "name": "FALA IA",
+  "description": "A Fala-IA é um broker de mensageria que integra diretamente a API oficial do WhatsApp, com estabilidade, velocidade e conformidade às políticas da Meta.\nOferecemos IA generativa humanizada, adaptada ao tom de voz da empresa, e soluções personalizadas como automações, geração de arquivos e fluxos no WhatsApp.\n\nFala-IA is a messaging broker that provides direct integration with the official WhatsApp API, ensuring stability, speed, and compliance with Meta policies.\nWe deliver humanized generative AI setup tailored to the company’s tone of voice, along with customized solutions such as automations, file generation, and WhatsApp workflows.\n\nFala-IA es un bróker de mensajería que integra directamente la API oficial de WhatsApp, con estabilidad, velocidad y cumplimiento de las políticas de Meta.\nOfrecemos IA generativa humanizada, adaptada al tono de voz de la empresa, y soluciones personalizadas como automatizaciones, generación de archivos y flujos en WhatsApp.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Integração de Mensageria / Messaging Integration / Integración de Mensajería",
+    "Inteligência Artificial Generativa / Generative Artificial Intelligence / Inteligencia Artificial Generativa",
+    "Soluções Personalizadas / Customized Solutions / Soluciones Personalizadas"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "EDUCATION",
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es-419",
+    "es",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/555917707_750362214652011_5163490994425962310_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=GW-VQTfBemIQ7kNvwG2ydDU&_nc_oc=AdnL5bXY8xf5nFU_m2ZvsdBydBSi3i_T3xAIsCttki_V_LhEdlW0_5NgbKiNPWvRiWM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_Afe3rsvzKHhHXS5tSH5sc1RqlhqsIGQ0iSY1fmWMAi7zLw&oe=68E9821E"
+    },
+    "id": "750362211318678"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

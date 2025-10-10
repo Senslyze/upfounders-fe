@@ -1,0 +1,50 @@
+{
+  "company_website": "http://www.safe.ma/",
+  "countries": [
+    "MA"
+  ],
+  "id": "1725381367600339",
+  "name": "Safe Apps",
+  "description": "We help small business to expand their sales using digital solutions",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Web/Mobile Apps",
+    "Digital Marketing",
+    "E-commerce management software"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GOVERNMENT_AND_POLITICS",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/487239589_2128691777647154_6925820295353625555_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=cHaeSBFfFssQ7kNvwFE-TBb&_nc_oc=AdnaWw25y3GnKrqUEWrIz102TvxqRQhvEodMJo5WSnEC3_exkKy-szxzBzlIXKQ-d8o&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_Afcxt6fO1Ju_UiPD4X8P8hmKToz9fkU2GcI5R8HQKNT8PQ&oe=68E99168"
+    },
+    "id": "1888689201647414"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING",
+    "CAMPAIGN_MANAGEMENT"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

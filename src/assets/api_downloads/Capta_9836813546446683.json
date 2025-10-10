@@ -1,0 +1,31 @@
+{
+  "company_website": "https://capta.co/",
+  "countries": [],
+  "id": "9836813546446683",
+  "name": "Capta",
+  "description": "Capta es una plataforma SaaS que permite automatizar procesos directamente en los canales de comunicación de tu empresa. Te ayuda a estructurar flujos complejos como reclutamiento, gestión de PQRS, procesos de posventa y aprobaciones internas, siempre con trazabilidad y control total.\n\nLa plataforma se conecta con ERP/CRM para decisiones en tiempo real, genera documentos con opción de firma electrónica, agenda citas con IA usando la disponibilidad real de tu calendario y reemplaza formularios por experiencias conversacionales.\n\nEsto y mucho más en capta.co",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automatización de procesos en WhatsApp",
+    "Integraciones en tiempo real con sistemas empresariales (ERP/CRM)",
+    "IA aplicada en puntos críticos sin perder control del proceso"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470475269_122254652750078679_4363936312497770492_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vN7Vz02310AQ7kNvwGZdDuZ&_nc_oc=AdnirJxi8u0uW6H3lXx76UAyHVlwW6dg2hJhKPkdUVlJy0rzr6n_lkDDqOqlyUVIPdY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=RBpztZejxYEexNN9VXZmtQ&oh=00_Afc4ekpckygh1w1XdyFNPm3iz1CAMLWsujK4ZfqlpPPjDA&oe=68E9B2AC"
+    },
+    "id": "122103754178078679"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,52 @@
+{
+  "company_website": "https://omni.chat/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7058392820899314",
+  "name": "OmniChat",
+  "description": "A OmniChat é a plataforma líder em chat commerce no Brasil.\n\nAlém de centralizar a gestão de atendimento de todos os canais de chat em um só lugar, a OmniChat possibilita o fechamento de pedidos e a realização de pagamentos integrados diretamente via chat, sem a necessidade de redirecionar o cliente para um site externo.\n\nCom isso, as empresas maximizam a geração de leads, aumentam a produtividade de seus vendedores e alcançam, em média, uma taxa de conversão de vendas 10x maior que no e-commerce, além de acelerar o ciclo de vendas e proporcionar uma experiência ainda mais conveniente para seus clientes.\n\nNão à toa, já são mais de 500 grandes marcas no país confiando todos os dias na OmniChat para transformar conversas em vendas, como a Arezzo&Co, Decathlon, Cobasi, Telhanorte, L’Oréal e Grupo Vitru (Uniasselvi e UniCesumar).\n\nConheça nossas soluções e experimente também o poder do chat commerce a favor dos seus negócios: https://bit.ly/EspecialistaOmniChat",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API",
+    "Marketing e Vendas",
+    "CRM, Automations e Suporte"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/36349999_112321819678763_184618039642161152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=sdQ2shcSVfoQ7kNvwG_PCg_&_nc_oc=AdmIZ6IPcqgybjP4CniPbhPL-fAGKXqBeyXP2WiJVE_KBnA6yoiKWVzEsks20C1eyjQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=v9q_WLwsSfRFz_RhakYsmw&oh=00_Afc8tIOfTQ0SKX6f986Gx1Lchqr5fStuP4yCR9vuJ9TDsg&oe=690B477E"
+    },
+    "id": "112321813012097"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

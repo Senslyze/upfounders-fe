@@ -1,0 +1,51 @@
+{
+  "company_website": "https://aigreentick.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "24358621213731189",
+  "name": "Ai Green Tick",
+  "description": "AI Green Tick is an authorized partner that offers businesses access to WhatsApp’s official Business API platform. These providers act as intermediaries between WhatsApp and businesses, enabling seamless integration and use of WhatsApp’s messaging infrastructure for customer communication, support, and marketing.\n\nKey features of WhatsApp Official API Providers include:\n\nAPI Integration: They provide businesses with the tools and technical support to integrate WhatsApp Business API into their customer relationship management (CRM) systems or custom applications.\n\nMessage Management: Facilitate the sending and receiving of text messages, multimedia (images, videos, and documents), and templates for notifications or updates.\n\nAI Green Tick is a conversational CRM and CX Suite designed to help businesses scale reach, automation and governance on WhatsApp\n\n24/7 Support: Offer dedicated technical support ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp AI Bots",
+    "WhatsApp Automation",
+    "WhatsApp Campaigns"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/512890133_122113522400904961_2657505619598864602_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=t0x28Xh5ROQQ7kNvwEkJhSb&_nc_oc=AdmT9vJkQd_H-pIweum3vOZ63RT4uksGMUqxnAFtKolpUkjYxF2_XQ77ZZ7zjn621WY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWvqlnnmQ-zlOloXIqaVdg&oh=00_AfeZvZyw8hV-tDNhLrQdRg-pdSKE9-HomK2BLucB1I7C5w&oe=68E9A3EE"
+    },
+    "id": "122113522394904961"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

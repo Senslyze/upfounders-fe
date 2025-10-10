@@ -1,0 +1,85 @@
+{
+  "company_website": "http://www.emma.hk/whatsapp",
+  "countries": [
+    "PK",
+    "MV",
+    "LK",
+    "NP",
+    "BT",
+    "BD",
+    "MM",
+    "VN",
+    "TH",
+    "KH",
+    "TW",
+    "SG",
+    "PH",
+    "MN",
+    "MY",
+    "CN",
+    "BN",
+    "AU",
+    "TL",
+    "KR",
+    "KP",
+    "JP",
+    "VU",
+    "SB",
+    "ID",
+    "HK"
+  ],
+  "id": "1107702962735833",
+  "name": "Emma Global Hong Kong Limited",
+  "description": "We provide the world's most popular communications channels like sms, mms, WhatsApp and Facebook Messengers to enterprise customers via API.\r\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE",
+    "TRAVEL",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "GAMING",
+    "ENTERTAINMENT_AND_MEDIA",
+    "CONSUMER_PACKAGED_GOODS",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "en",
+    "ja",
+    "yue",
+    "zh-hans-tw",
+    "zh-hant-hk",
+    "zh-hant-tw"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/504379157_1417382602615874_1129691593461311925_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=mfa5EBIK5McQ7kNvwHDiGIZ&_nc_oc=AdmAHVHHdijRqzG2_fu_NIU_qwMK9h5GLffp79FUsTF3h2i8jNPRSFBzpI-KWovScTc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=YYDOGxlMhSbo4B02FeEh1Q&oh=00_Afc49bRwW0M8kFnuCdyCzThRIBWDexvQ7BUH59ml7Fj5tA&oe=68E997EA"
+    },
+    "id": "1417382599282541"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

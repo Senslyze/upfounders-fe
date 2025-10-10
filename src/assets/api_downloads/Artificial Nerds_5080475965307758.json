@@ -1,0 +1,63 @@
+{
+  "company_website": "https://nerds.ai/",
+  "countries": [
+    "MX",
+    "ES",
+    "EC",
+    "AR",
+    "CL",
+    "PR",
+    "SV",
+    "HN",
+    "US",
+    "VE",
+    "CU"
+  ],
+  "id": "5080475965307758",
+  "name": "Artificial Nerds",
+  "description": "At Artificial Nerds, we create exceptional AI-driven experiences on WhatsApp for enterprises. Our all-in-one platform provides advanced automation, seamless integrations, and secure conversational payments.\n\n🌐  nerds.ai\n\nWhy Choose Artificial Nerds?\n🤖 AI Agents for Chat & Voice: Custom-built assistants for customer service, sales, and automation.\n\n💬 User-Centric Conversations: Unlike spammy bots, our AI humanizes interactions, making them engaging and natural.\n\n💳 Exclusive Features: No-code automation, real-time customization, and secure payments directly in chat.\n\n🤝 Dedicated Business Support: Our team works closely with you to ensure seamless implementation and ongoing optimization. Book a demo today!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI Agents for chat and voice (Chatbots and Voicebots)",
+    "Contact Center",
+    "Conversational payments"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481261459_1853167162123032_2115162522873805074_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=-_aOjLVSFqwQ7kNvwGXc905&_nc_oc=AdnM3JI56URDF0unjsoZnL8axZfw7fY-cgeCetK1_umG0qqOPiH5Gx3YLC8JfROg704&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=2nRZqS9tri2ZBT_aVcg6BQ&oh=00_AfdtYTjRKM4-WOV-JH_orFM1weyVcJ3hya18zoAM1ZGgiA&oe=68E994BC"
+    },
+    "id": "1661388217967595"
+  },
+  "service_models": [
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

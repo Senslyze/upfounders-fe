@@ -1,0 +1,42 @@
+{
+  "company_website": "https://www.technfest.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7825076900878097",
+  "name": "Technfest",
+  "description": "Transform Messages into Delighted Customers!\n\nLeverage the power of the WhatsApp Business API to automate and enhance your customer support, sales, and marketing efforts. Technfest IT Solution offers a suite of advanced features to streamline your communications and boost efficiency.\n\nKey Features:\n\nAutomated Responses: Ensure timely replies with automated messaging.\nBroadcast Messaging: Easily send updates and announcements to multiple recipients.\n",
+  "diverse_owned_identities": [
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "SAAS",
+    "Live chat & Team Inbox"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/300379438_380077734273559_3798140063254899981_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=h8kTqmfWRocQ7kNvwHbKpZH&_nc_oc=AdlVRtsyoy5G6PhwK2eM4AgdASifEfLZeemIklM-7bFZ81xcrny93FV6iBSSpBTalns&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_Aff5KTBIalzJZHp8o32RZ3mbLf7kx_57nHG3LXjy_Oozww&oe=68E9901E"
+    },
+    "id": "380077747606891"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

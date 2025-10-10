@@ -1,0 +1,41 @@
+{
+  "company_website": "https://www.heltar.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8627398387291025",
+  "name": "Heltar",
+  "description": "Heltar comes with game-changer technology and automation for businesses, taking Customer Relationship and Experience Management space to the next level by blending it seamlessly with WhatsApp Business API. Our platform, HeltarChat, not only simplifies messaging but also supercharges client management, bulk campaigns, real-time analytics and heavy automation. Plus, with our Marketplace, businesses can create, discover and use tailor-made apps providing personalised solutions, pushing innovation to the forefront.\n\nWe aim to level the playing field for SMEs, ensuring that every business, big or small, can grow in the digital age through enhanced connectivity and meaningful conversations.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Broadcast and Bulk Messaging",
+    "Click to WhatsApp Ads",
+    "No Code Chatbot"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/471049521_122144917322349356_3219633796170327623_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=_tMgdYVk0X4Q7kNvwEiEc7L&_nc_oc=AdmFvswGij6gFSJLLMXUBKaV2JNeJxFvKQHgyijOMo2AFzwy6_Snw47oEa9DRpHO1Xw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=_td1JhhaJ3zu8EeJ5c_Iqg&oh=00_AfdG8cv_kyDJwpd_VgpIuo3ku2oo5HsS4616mj5dnZm6LA&oe=68E9868B"
+    },
+    "id": "122128570958349356"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

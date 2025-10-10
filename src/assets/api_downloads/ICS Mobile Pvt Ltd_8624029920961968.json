@@ -1,0 +1,49 @@
+{
+  "company_website": "https://icsmobile.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8624029920961968",
+  "name": "ICS Mobile Pvt Ltd",
+  "description": "At the forefront of digital communication in CPAAS category, ICS Mobile provides businesses with the tools and infrastructure to seamlessly integrate real-time communication solutions into their existing platforms. By leveraging cloud-based technology, CPaaS platforms enable organizations to communicate with customers across multiple channels such as SMS, WhatsApp, voice, Email, RCS and messaging apps through a single, scalable API-driven system.\nICS Mobile primarily serve industries like Retail, BFSI,healthcare, Entertainment, and Automotive, where real-time communication plays a critical role in customer experience and operational efficiency. The ability to integrate services with CRMs, marketing platforms, and mobile apps makes CPaaS a powerful tool for businesses to scale and innovate in the digital age.\n",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Seamless & Secured scalable cPaas Communication across all the channels along with complete technical and operational support Partner detail"
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/337734952_738212694645859_6841636746210495903_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Kccw5LvjfToQ7kNvwHIpDWA&_nc_oc=AdmDueZAqx0l7Aguk6qUvvOql_l3vdMGhI_dpbPfsgOG3koRM3YIvxVC46ug8wxaMik&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AffFw9nl1xFEhv7upxOopvZrRDaKg_hnETrjonogIaCrxQ&oe=68E9922E"
+    },
+    "id": "110983221950701"
+  },
+  "service_models": [
+    "SAAS",
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,64 @@
+{
+  "company_website": "https://escala.com/",
+  "countries": [
+    "CO",
+    "MX",
+    "US",
+    "EC",
+    "PE",
+    "AR",
+    "PA",
+    "CR",
+    "CW",
+    "DO",
+    "SV",
+    "GT",
+    "NI",
+    "PY",
+    "PR",
+    "UY",
+    "VE"
+  ],
+  "id": "8088537294524593",
+  "name": "Escala CRM",
+  "description": "Escala ayuda a las empresas a vender más con menos esfuerzo gracias a un CRM todo-en-uno inteligente que simplifica y potencia la gestión comercial.\n\nCon Escala puedes:\n\t•\tGestionar contactos, oportunidades y procesos en un solo lugar.\n\t•\tCentralizar la comunicación en un Inbox omnicanal (WhatsApp, Instagram, Facebook y más).\n\t•\tAutomatizar seguimientos y tareas que ahorran tiempo.\n\t•\tActivar un Agente de IA que precalifica leads, responde en WhatsApp/Instagram/Facebook, cotiza, agenda citas y distribuye leads estratégicamente.\n\t•\tCrear y lanzar landing pages, formularios y campañas de email marketing en minutos.\n\t•\tMedir resultados en tiempo real con reportes personalizados.\n\nAdemás, ofrecemos acompañamiento de expertos en español para implementar efectivamente y maximizar resultados desde día uno.\n\nHoy, miles de empresas confían en Escala para crecer en el ecosistema de Meta con una plataforma simple, poderosa e inteligente.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing",
+    "Venta",
+    "CRM"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "EDUCATION",
+    "ECOMMERCE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/287576003_583849373275228_8841208491502728797_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HzKbTMtDvx4Q7kNvwF5Wzuh&_nc_oc=AdknOZuEtvtotX9nf0dfvZY7E5GZi9NrQAUJ1Vy6LQNq0Fpdbe6chGpODNrto7WYThQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_AfeK3yGg0vwBnf6y5MrVFhJx0PqLowZB_TIj1ngP5j2TvA&oe=68E9819A"
+    },
+    "id": "721147036682026"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,40 @@
+{
+  "company_website": "https://economicros.com.br/",
+  "countries": [
+    "BR",
+    "PE",
+    "AR",
+    "EC",
+    "DO",
+    "MX",
+    "CO"
+  ],
+  "id": "5092182710857841",
+  "name": "Economicros Tecnologia",
+  "description": "WhatsApp API integrations made simple!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "WhatsApp API integrations",
+    "CRM, LiveChat, Contact Center"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

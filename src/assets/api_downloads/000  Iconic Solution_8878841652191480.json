@@ -1,0 +1,39 @@
+{
+  "company_website": "https://iconicsolution.co.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8878841652191480",
+  "name": "000  Iconic Solution",
+  "description": "ICONIC SOLUTION is an authorized partner that offers businesses access to WhatsApp’s official Business API platform. These providers act as intermediaries between WhatsApp and businesses, enabling seamless integration and use of WhatsApp’s messaging infrastructure for customer communication, support, and marketing.\n\nKey features of WhatsApp Official API Providers include:\n\nAPI Integration: They provide businesses with the tools and technical support to integrate WhatsApp Business API into their customer relationship management (CRM) systems or custom applications.\n\nMessage Management: Facilitate the sending and receiving of text messages, multimedia (images, videos, and documents), and templates for notifications or updates.\n\nCompliance and Security: Ensure that the business adheres to WhatsApp’s guidelines for messaging, including user opt-ins and quality standards. They also maintain secure communication channels to protect user data.\n\n24/7 Support: Offer dedicated technical support ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476285459_1161216215445486_2045626137400545898_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=iKPl_6wyjPQQ7kNvwHQSvCc&_nc_oc=AdnMy1FuHSJ2u6TUBQmR7FriByAyprtsNNl0Qh22c8ekQGyWnDVDOd6hft6sGeycM4c&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OR8qV88Rlfp1WXE0nIAvsA&oh=00_AffEttEK5bBtSGd8JTfVi8jUhme_N_qPgsx6H_vQAgf2UA&oe=68E99629"
+    },
+    "id": "1141660304067744"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,63 @@
+{
+  "company_website": "http://www.agorapulse.com/",
+  "countries": [
+    "FR",
+    "GB",
+    "ES",
+    "MY",
+    "US",
+    "CA",
+    "IE",
+    "DE",
+    "CH",
+    "AT",
+    "AU"
+  ],
+  "id": "299436350567153",
+  "name": "Agorapulse",
+  "description": "Agorapulse is an all-in-one social media management tool that helps businesses and agencies easily publish content on social media, respond to direct messages, comments, and reviews, and measure the return on investment of their hard work.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Social media publishing",
+    "Social media monitoring & listening",
+    "Social media reporting and return on investment"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "RETAIL",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "fr",
+    "de",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/490369511_2143378516092023_5470711291808831875_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=QmY7U81nN4wQ7kNvwHtzWsI&_nc_oc=AdlZgohHwS0BXr34C3s9skIBVHsZl8GDwdWZJi71uu61h_AtIXe61PWzwSchiOAIKsk&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWvqlnnmQ-zlOloXIqaVdg&oh=00_AfcpletvLkCRaYs-O6P9l7l52P-rc7-SgkRFMisqL7icMQ&oe=68E9B713"
+    },
+    "id": "397018974061328"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

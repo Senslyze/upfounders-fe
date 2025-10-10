@@ -1,0 +1,102 @@
+{
+  "company_website": "https://alendei.com/",
+  "countries": [
+    "IN",
+    "SG",
+    "AE",
+    "US",
+    "ID",
+    "HK"
+  ],
+  "id": "7402960046450192",
+  "name": "Alendei Platforms",
+  "description": "Alendei, a CPaaS company based in Vadodara, specializes in customer engagement solutions. We empower businesses to strengthen relations with their clients through tailored communication services. Offering messaging, voice, video, USSD, IP messaging, and chatbot development, we ensure seamless interactions across multiple channels. Our customizable solutions cater to diverse industries, including BFSI, retail, e-commerce, Fintech, EdTech, healthcare, and media. Committed to innovation and client satisfaction, we strive to enhance customer experiences and drive business success.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    " Customer Engagement Solutions",
+    "CPaaS",
+    "Industry Expertise"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "TELECOM",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "fa",
+    "fi",
+    "en",
+    "nl",
+    "da",
+    "cs",
+    "yue",
+    "be",
+    "ar",
+    "fr",
+    "de",
+    "el",
+    "he",
+    "hi",
+    "id",
+    "hu",
+    "it",
+    "ja",
+    "ms",
+    "zh",
+    "no",
+    "pt",
+    "mr",
+    "pl",
+    "pa",
+    "ro",
+    "ru",
+    "ko",
+    "zh-hans",
+    "es-419",
+    "es",
+    "sv",
+    "tl",
+    "zh-hans-tw",
+    "ta",
+    "th",
+    "te",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "tr",
+    "uk",
+    "vi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/376808554_122107696334041876_3773677436833254088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=q4EuUs27Dj4Q7kNvwHCPyjL&_nc_oc=AdmrZ1AegEpVO7-45vVBcvQGqZr9PN3pZW-cvgC-1i7Jwi9KCf4N8Lq7tKLJMzMIQw8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1mYvAsoAjYY5PVO0-3q0qA&oh=00_AfeeIcSQ1plxUvHZdxZ4Iuag1btWxTRHTE-UGYafMxyL6Q&oe=68E9A84C"
+    },
+    "id": "122107696346041876"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

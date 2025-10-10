@@ -1,0 +1,62 @@
+{
+  "company_website": "https://anantya.ai/",
+  "countries": [
+    "IN",
+    "OM",
+    "QA",
+    "SA",
+    "AE",
+    "BH"
+  ],
+  "id": "4336810659772608",
+  "name": "Anantya.ai",
+  "description": "Anantya.ai is a complete WhatsApp engagement platform specializing in optimizing WhatsApp Business API. With features like Broadcasting, Automation, Live Chat, WhatsApp Catalogues, and Click-to-WhatsApp Ads, it streamlines communication and supercharges WhatsApp Marketing efforts for businesses of all sizes.\n\nWith a focus on enhancing WhatsApp Marketing strategies, Anantya.ai provides a comprehensive set of tools designed to elevate communication, streamline processes, and boost engagement.\n\nAnantya.ai also supports service providers, media agencies, resellers, and tech partners with WhatsApp Business API solutions using WhatsApp Cloud API.\n\nPowered By NosNia Tech Pvt Ltd",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API",
+    "Zero Code Chatbot, Conversational Commerce",
+    "Omni Channel, Campaign Broadcasting"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "fr",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481253158_937423828580461_8536072038321360670_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=KAdahlbswogQ7kNvwF-oIng&_nc_oc=AdlTKUMuoMEEVZbTNHskYPtjCaVVhnugJ0A8EuDlOwjMZYVGe1q-IMRdq849OAWiUZc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=8nv2rzUZrEGLsjHRN_6BIA&oh=00_AffctqYUnX2m-I_Pis5_xT-1DMuf90sMKVYDEfeolR-miw&oe=68E9A0E7"
+    },
+    "id": "682942347361945"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

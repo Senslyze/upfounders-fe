@@ -1,0 +1,73 @@
+{
+  "company_website": "https://spoki.com/en/landing-registration",
+  "countries": [
+    "IT",
+    "ES",
+    "DE",
+    "FR",
+    "GR",
+    "AL",
+    "GB",
+    "US",
+    "MX",
+    "BR"
+  ],
+  "id": "7928059437227563",
+  "name": "Spoki",
+  "description": "Spoki is a conversational customer engagement platform for WhatsApp that streamlines and personalizes business-customer interactions.\nIt delivers adaptable, GDPR-compliant solutions for marketing, sales, and support—enhancing every stage of the customer journey.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TRAVEL",
+    "ENERGY_AND_UTILITIES",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "it",
+    "en",
+    "es",
+    "es-419",
+    "pt",
+    "de",
+    "fr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/340080794_574109388031835_8833683238228307975_n.png?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=KGaS4ZXZVvwQ7kNvwEJDQs-&_nc_oc=AdmP7McY6ybUmjVyAzsUr_kyOPrCLDRP7DcNG6NG37kYpQwrWtXGkbDh0Vm_gtGjQm8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AfeupTN617bd7gmKDPQwrBOThaTHzhMi9KFDZ1dpdrHrmw&oe=68E9AA4C"
+    },
+    "id": "637492471724444"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_SERVICE_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

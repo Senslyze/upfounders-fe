@@ -1,0 +1,55 @@
+{
+  "company_website": "https://www.mart2meta.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "9945729778816232",
+  "name": "Mart2Global.Com",
+  "description": "Mart2meta.com is a powerful WhatsApp Business tool developed by Mart2Global to help growing businesses and SMEs to seamlessly connect with customers, automate interactions and scale communication. Mart2meta is designed for businesses of all sizes to enable lead generation, customer support, marketing campaigns and order management through a user-friendly, no-code platform with features like chatbot automation, API integration, CRM integration, broadcast messaging, notification automation and analytics, mart2meta empowers businesses to deliver personalized, real-time engagement with high efficiency and reliability.\n\nMart2Global is a trusted IT services and consulting firm serving clients across India. We specialize in web design & development, SEO, social media marketing, SMS and WhatsApp campaigns, Voice‑Call solutions and other digital tools to help businesses scale seamlessly.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales Automation,Marketing Automation,Customer Engagement, Live Chat Support,WhatsApp CRM,No-code Chatbot,All-in-One WhatsApp Inbox",
+    "Drag & Drop Bot Builder,WhatsApp Cloud API Integration"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "EDUCATION",
+    "TECHNOLOGY",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "TELECOM",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/510330289_122160833366462815_3988181051835477796_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=dFvL8j1gvD8Q7kNvwFSeuaC&_nc_oc=AdnKdiwSMDpMBJEHJr6d_dtDYFYEaSY3rbpCpYgXLcsNXfrZ55fL22wgbvv9Ym26TWs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Affoo2z6uFxN6ZLRhfVp_vomNR9NyxLo8AWOfnGcgvqYzQ&oe=68E9B33B"
+    },
+    "id": "122160833360462815"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

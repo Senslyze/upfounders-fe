@@ -1,0 +1,77 @@
+{
+  "company_website": "https://www.nice.com/",
+  "countries": [
+    "IE",
+    "PT",
+    "GB",
+    "AT",
+    "BE",
+    "BA",
+    "HR",
+    "CZ",
+    "DK",
+    "FR",
+    "DE",
+    "HU",
+    "IT",
+    "LI",
+    "LU",
+    "MC",
+    "NO",
+    "PL",
+    "RS",
+    "SI",
+    "SK",
+    "ES",
+    "SE",
+    "CH",
+    "BG",
+    "FI",
+    "LV",
+    "LT",
+    "MD",
+    "RO",
+    "ZA",
+    "TR",
+    "UA",
+    "SD",
+    "TZ",
+    "RU",
+    "DO",
+    "CA",
+    "US"
+  ],
+  "id": "291296708212741",
+  "name": "NICE CXone",
+  "description": "NICE CXone is the top-rated cloud customer service platform providing integrated 35+ social media channels, instant messaging, live chat, email and AI-powered chatbot service at scale. We are implementation partner for popular channels like WhatsApp, Facebook, Instagram, and Apple Business Chat. We help companies with digital transformation of customer contact centers.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Customer Service",
+    "Social Customer Service",
+    "Digital Transformation"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476968925_650720567522554_8783736001954809738_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ZoRFTwKWhHwQ7kNvwH2OwO9&_nc_oc=AdnelCB4HbXz0DJYZ3YhavXd-R_BbhE0vParQm0JGO-H7BzsS3e4xJyWadyOo9-1Z80&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AfcWytV8oL7Jxqfhk2OcfhgZBdInRDMq0Cwt_EQ-9ZekkA&oe=68E99EC4"
+    },
+    "id": "485849577342988"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,42 @@
+{
+  "company_website": "https://treeone.one/",
+  "countries": [
+    "IN"
+  ],
+  "id": "4073275079373221",
+  "name": "TabTree Software Solutions",
+  "description": "A collective suite of softwares to run your business comprehensively. We have built Best CRM Software that can handle Marketing & Sales, manages Campaign ROI, Improves your business relationship with customer & Realtors and generate detailed reports and future analytics in a Single Window",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Whats App & CRM Solutions"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ta",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/291913184_473366408126765_6411479127099692613_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=z1zXSWCBiuUQ7kNvwHq90tv&_nc_oc=AdnFdpKvZMvOZyWkjTDtcGpcrb5GjPI6tjLp14_MtRnQgAf1hqjJtczKMd3rjE9SMgc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=z2zmwWRsrFIrWItxRgMTfQ&oh=00_AfezvRS_H-b2RPTI0jHQR-ZtiyT0ClHpe3nl3kH4zocS9Q&oe=68E98ED1"
+    },
+    "id": "473366421460097"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

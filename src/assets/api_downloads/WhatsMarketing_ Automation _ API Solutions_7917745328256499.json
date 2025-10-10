@@ -1,0 +1,37 @@
+{
+  "company_website": "https://whatsmarketing.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7917745328256499",
+  "name": "WhatsMarketing: Automation & API Solutions",
+  "description": "WhatsMarketing: Drive WhatsApp sales & automate growth. Leverage our powerful API & no-code chatbots. Integrate e-commerce & CRM. Boost engagement with broadcast messages. Analyze performance & maximize ROI. Book a demo:- https://whatsmarketing.in\n\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API & Automation: API, CRM auto, lead gen, support, integrate, grow, automate",
+    "WhatsApp Sales & Ecom: Sales auto, ecom flows, conversions, shopify, woo, sales increase",
+    "Chatbots & Engagement: No-code bots, engage, 24/7 support, messaging, interactions, replies"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/473579150_122188469750121761_1116339116219118597_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=eXCrpAsAXUwQ7kNvwH0IVwo&_nc_oc=AdlG-TZL6AL4mPvWWOVPgdsby-Hsr31wzM74zEpOnjdh1y_od2IYBttWNYMuVx4mPCY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7jVWe2Dp6-vLv0bC7Sd1Og&oh=00_AfdD7GNgQimoNzgDKSJRXa8j-id-dN6a8TpGsn8bNp9NrQ&oe=68E995B6"
+    },
+    "id": "122151860498121761"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

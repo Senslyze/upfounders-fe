@@ -1,0 +1,38 @@
+{
+  "company_website": "https://www.altimus.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7603575236363284",
+  "name": "Altimus - Sistema para Lojas de Veículos",
+  "description": "A Altimus desenvolve soluções completas para o mercado de lojas de veículos e concessionárias.\nFerramenta web e modular com soluções para Comercial, CRM ( +Whatsapp ), Financeiro, Fiscal, Integrador de Anúncios, Avaliação, Serviços.\n\nA Altimus nasceu da necessidade em facilitar o dia a dia das lojas de veículos. Completamos 15 anos oferecendo a melhor solução em sistemas. Já são mais de 1000 lojas de carros, motos, caminhões ou embarcações utilizando o Altimus diariamente.\n\nReconhecemos que o mercado de veículo tem importante papel na sociedade, seja na realização de sonhos ou proporcionando liberdade às pessoas. E a Altimus com paixão e tecnologia, existe para facilitar e potencializar a conexão entre compradores e vendedores\n\nUma empresa do grupo OLX.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Lojas de Veículo"
+  ],
+  "industries": [
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/451866545_960979966038603_1789424105639197682_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DMuXc2qhhccQ7kNvwE9h4E-&_nc_oc=AdlLQq3cYWsUcwRdY8t7bLLSMocRRYngDgoBjAVqrCLKCwLMrLa7DAHjQD97DebxeGM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=8nv2rzUZrEGLsjHRN_6BIA&oh=00_Afd8lsyLgFiCnQ-0Pbv5gvxElcmj00vHs_DzrAfcfuoDpw&oe=68E98779"
+    },
+    "id": "960979969371936"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

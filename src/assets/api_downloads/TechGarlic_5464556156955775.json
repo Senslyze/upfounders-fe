@@ -1,0 +1,64 @@
+{
+  "company_website": "https://www.techgarlic.com/",
+  "countries": [
+    "BD",
+    "MY",
+    "SG",
+    "US",
+    "CA",
+    "AU",
+    "DK",
+    "FR",
+    "IN",
+    "IE",
+    "NP",
+    "KR"
+  ],
+  "id": "5464556156955775",
+  "name": "TechGarlic",
+  "description": "At TechGarlic Limited, we're passionate about crafting software solutions that redefine Customer Service, Online & Offline Sales, CRM, Order Management, Online Research, and Custom Solutions. Our flagship product, Zerocium, is at the heart of this mission. It's an innovative omnichannel Customer Query Management solution designed to simplify workflow. With Zerocium, queries from platforms like Facebook, WhatsApp, Youtube, Telegram, Viber, Webchat and Instagram are seamlessly integrated into one interface, making management a breeze. Plus, we're proud to say that it slashes response times, averaging just 1.5 minutes per query – that's way ahead of the global standard of 15 minutes!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Social Media & OTT Engagement Platform: Facebook, WhatsApp, Instagram, Youtube, Viber, Telegram, Webchat, Email",
+    "Facebook, Instagram & WhatsApp cloud API for tech enablers",
+    "Managed service for customer support with custom CRM "
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "GAMING",
+    "ENTERTAINMENT_AND_MEDIA",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481938912_1176075817438650_1225348841125920662_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=hi7zop0CFnQQ7kNvwHAmZYK&_nc_oc=AdnQc9XPuOxsTim6rB6d_LRdJtsQWtWgmQ7nDwKN67H3tpKNMOzzZgrvII7Eh4ihpfY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Hy1QOKekynVs72V71AH24Q&oh=00_AfflDjevFISpcrcEW4gShh9K6_Vw4g8JNfYA77BOUEhAYg&oe=68E9926F"
+    },
+    "id": "975189137527320"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

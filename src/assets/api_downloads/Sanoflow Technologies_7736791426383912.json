@@ -1,0 +1,73 @@
+{
+  "company_website": "https://www.sanoflow.io/",
+  "countries": [
+    "AE",
+    "GB",
+    "SA",
+    "KW",
+    "QA",
+    "OM",
+    "BH",
+    "US",
+    "BR",
+    "AR",
+    "CO",
+    "IN",
+    "ID",
+    "MY",
+    "EG",
+    "JO",
+    "LB",
+    "IQ",
+    "DZ",
+    "TR",
+    "TN",
+    "MA",
+    "AU",
+    "RO"
+  ],
+  "id": "7736791426383912",
+  "name": "Sanoflow Technologies",
+  "description": "Sanoflow is an omnichannel conversational commerce platform, that enables businesses to sell, and support better on chat platforms like WhatsApp, instagram, messenger, and more. \n\nUsing Sanoflow's easy to use social CRM, businesses can design and develop seamless conversational journeys through intelligent routing rules, personalized campaign messages, and tailored conversational workflows to drive sales and customer engagement.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Inbox - Handling Inbound Conversations with multiple users from sales, support & other teams",
+    "Social CRM - Lead Management and Marketing via Click-to-Chat Advertising, Lead Generation, Instant Message Broadcast & Promotional Messaging",
+    "Conversational Workflows & Chatbots - Use Triggers, Messages and Actions to Visually Build Omnichannel Conversational Flows"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476799808_122268760514007128_1674318624539988287_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=MzYU6Am-tRcQ7kNvwGDOvMG&_nc_oc=AdkZ_A2b1Sy-DTELjF6TrGDD_OTEBX60Q503I_F5Q2qyLyi5v8-h302nvhGwHJ0HT1Y&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_AffeuJwYI1AWiBScDK5iZ5xiBrwNqHyMh-wzkX00MJLCtQ&oe=68E9B5DD"
+    },
+    "id": "122191076360007128"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

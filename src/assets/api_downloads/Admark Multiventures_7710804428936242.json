@@ -1,0 +1,58 @@
+{
+  "company_website": "https://www.admarksolution.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7710804428936242",
+  "name": "Admark Multiventures",
+  "description": "Admark Multiventures Pvt Ltd provides a wide range of solutions on the top of WhatsApp Business API. Admark is an Intelligent WhatsApp Engagement Platform that helps businesses broadcast messages, automate notifications, and solve customer support. Trusted by Enterprises, Growing Businesses globally. Also, Admark helps service providers, media agencies, resellers, and technology enablers with WhatsApp Business API based Solutions based on WhatsApp Cloud API",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Cloud API for technology enablers",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers",
+    "Whatsapp Engagement Platform : Helping Businesses with WhatsApp Broadcasting Automation, Live Chat & Chatbots"
+  ],
+  "industries": [
+    "TELECOM",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/402086620_852145346918736_2088376481781262002_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d9qzHkHU7EUQ7kNvwEVhV_X&_nc_oc=AdkB_ktMQEeBXzYMhUH7H8xUHyeirDHzsEQQ54w5JOPW4RtQX0RmUclUb3vm6YIHwJA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWvqlnnmQ-zlOloXIqaVdg&oh=00_Afef1x2I6Q6c0xG7tIljtqzFC1ssDoHG7Mn57FXeASKabA&oe=68E98400"
+    },
+    "id": "852145350252069"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

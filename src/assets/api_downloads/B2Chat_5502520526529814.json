@@ -1,0 +1,72 @@
+{
+  "company_website": "https://www.b2chat.io/",
+  "countries": [
+    "CO",
+    "MX",
+    "AR",
+    "EC",
+    "UY",
+    "PA",
+    "CL",
+    "PE",
+    "GT",
+    "CR",
+    "SV",
+    "DO",
+    "ES",
+    "CA",
+    "US",
+    "HN"
+  ],
+  "id": "5502520526529814",
+  "name": "B2Chat",
+  "description": "B2Chat es la plataforma Multiagente y Multicanal con más de 650 empresas en toda Latinoamérica, hacemos que las empresas vendan más y se comuniquen mejor con sus clientes. Con B2Chat las empresas pueden unificar en una misma plataforma: WhatsApp, Facebook Messenger, Instagram Direct, Livechat  y Telegram.\n\nAdemás en B2Chat podrás encontrar la posibilidad de hacer envíos masivos, mensajes de seguimiento automático, auditoría, informes, entre otras funcionalidades que llevarán a tu empresa a  mejorar sus resultados de venta y servicio al cliente. \n\nVe a nuestro sitio web www.b2chat.io",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    " WhatsApp Business API",
+    "ChatBots",
+    "Multiagente y Multicanal"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480687161_1921400102007584_920172291866615207_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=TE0w65TO1gsQ7kNvwEpLFTQ&_nc_oc=AdmEGNHRBUII8iJLi4D6j8zzf3qz_lkixmzEFfkKHmpKDRfQh9eYPlSSkhh4hJ5_KZA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_AfctN8IUfXz9P82r7R9UrzchoVv7ZaMXON522evOw1NLPw&oe=68E9B66E"
+    },
+    "id": "1376400606507539"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

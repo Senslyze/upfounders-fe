@@ -1,0 +1,58 @@
+{
+  "company_website": "https://quiq.com/",
+  "countries": [
+    "US",
+    "GB",
+    "NL",
+    "DE",
+    "FR"
+  ],
+  "id": "5689245024514536",
+  "name": "Quiq",
+  "description": "Quiq is developing the next generation of customer engagement for B2C enterprises based upon text messaging and conversational AI.  Quiq makes it easy for companies to communicate with their customers using the same messaging channels that people use all the time with their family and friends - SMS/Text, WhatsApp, Facebook Messenger, Instagram, Apple Messages for Business,, Google Business Messages and also web chat. Quiq helps upper Midmarket and Enterprise B2C brands by automating ecommerce/pre-sale and support/post-sale interactions with conversational AI bots and escalating complex interactions to human agents working in Quiq’s next generation async contact center platform. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Experience",
+    "Customer Service"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/33574467_126146294924334_311384720938106880_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=YtfREw884O0Q7kNvwFSLjcF&_nc_oc=AdnAvQ0OuSPv7zgqKXR7eDixA7NCRKyEzjUheFHu3ORePDWXlFjJqX6EWsmFDLH9X5g&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5HMGn56Mg_a9HClc7BIRiw&oh=00_AfcQEe-J7XylL0pgw6-9pzD-A-KPZSDYIk_zEiYPBuc7xQ&oe=690B3B49"
+    },
+    "id": "126146291591001"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

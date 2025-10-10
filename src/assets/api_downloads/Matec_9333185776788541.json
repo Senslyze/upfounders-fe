@@ -1,0 +1,58 @@
+{
+  "company_website": "https://matec.ai/",
+  "countries": [
+    "BR"
+  ],
+  "id": "9333185776788541",
+  "name": "Matec",
+  "description": "A Matec é uma empresa especializada em soluções de atendimento omnichannel e inteligência artificial, ajudando negócios a transformar a forma como se comunicam com seus clientes. Nosso principal produto, o Matec Chat, centraliza conversas de WhatsApp, Instagram, Messenger e outros canais em uma única plataforma, oferecendo gestão completa, automações inteligentes e integração com sistemas de CRM e marketing.\nCom foco em inovação, escalabilidade e resultados, a Matec apoia empresas de diversos segmentos a aumentarem eficiência, melhorarem o relacionamento com clientes e conquistarem mais oportunidades de negócios. 🚀",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento omnichannel",
+    "Automação de conversas",
+    " Integrações com CRM e ERP"
+  ],
+  "industries": [
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/555889571_122181650324513715_535554799804646606_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=g2jSD8OYps8Q7kNvwEQTo_N&_nc_oc=AdkfobXbXyegwo_EvmGSeVSvdaIpZEn89O952DmvaTDeImZZutHMnKfZ41hN1DOrH6M&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=XUm85b6D6zMKPKEPVXzTsA&oh=00_Afe7edGUWpLurS0g7kkFwfakT44cK3bcJ-xnyuVqKAuCYw&oe=68E9A3B8"
+    },
+    "id": "122181650318513715"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

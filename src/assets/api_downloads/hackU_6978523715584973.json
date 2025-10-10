@@ -1,0 +1,62 @@
+{
+  "company_website": "https://www.hacku.com/",
+  "countries": [
+    "CO",
+    "MX",
+    "BR",
+    "PE",
+    "US",
+    "CR",
+    "BO",
+    "CL",
+    "AR",
+    "EC"
+  ],
+  "id": "6978523715584973",
+  "name": "hackU",
+  "description": "hackÜ transforma la manera en que las organizaciones y las personas comparten conocimiento e información. Nuestra plataforma optimiza la comunicación, la capacitación y el impacto de cada mensaje a través de herramientas inteligentes, agentes personalizados y contenido visual de alto nivel.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Comunicación y capacitación corporativa.",
+    "AI aplicada a WhatsApp.",
+    "Mensajería masiva por WhatsApp."
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/477737026_1676322746639820_4375547026866951829_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=l9dMku8sj-oQ7kNvwFa73Ix&_nc_oc=AdmZml4aNKBHF4Sl9pUeIOHJFKkIcE9FxhO7WHYWeeLB4AllEZSqWW3vaPe57CDAghU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=q0HI7NhZOmAQ75NIo4vc2w&oh=00_AfcSEveAxtPTirARCcBLQn5YLa0x-9eF8tzAmlLYqKcoMA&oe=68E98ABB"
+    },
+    "id": "1603116677293761"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

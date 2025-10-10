@@ -1,0 +1,58 @@
+{
+  "company_website": "https://www.superare.co/",
+  "countries": [
+    "BR"
+  ],
+  "id": "671405006383037",
+  "name": "Superare",
+  "description": "Superare is a technology company that works with chatbots solutions for customer care, sales, gamefication and service automation.\n\nSuperare solutions: Chatbot development with AI, Data Analytics, Web Production\n\nSuperare has the technology to build your chatbot and also a specialized team to managed services that provides a great experience for your customers. ",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/492096519_661646089958081_1242533519554031102_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=EA9QLza6irMQ7kNvwG_JQKo&_nc_oc=Adn7qDnITMDX16iNtsbt56wDUSMwuusV9jwWZXyw0zaXCxnk1vrZHqnPfGvDeoU8USs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WOkPBMTnE6i1K7zin63-4w&oh=00_AffLeoghoVUZBZz5nf6FwkFbrYJnBPX9PDmEOEn3flpmqA&oe=68E9B326"
+    },
+    "id": "661646086624748"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

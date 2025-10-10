@@ -1,0 +1,109 @@
+{
+  "company_website": "https://ociotechnology.com/",
+  "countries": [
+    "IN",
+    "BD",
+    "DK",
+    "US",
+    "SA",
+    "AE",
+    "CN",
+    "CL",
+    "PT"
+  ],
+  "id": "9256680154368597",
+  "name": "OCIO Technology Private Limited",
+  "description": "OCIO Technology is the leading enterprise mobile messaging service that provides all preferred means of communication - text,voice all in one encrypted platform. OCIO Technology offer best-in-class instant messaging features via the cloud—equipping your organization with both the security and agility it takes to achieve true business advantage.\n\n\nMARKETING IS CHANGING!\n\nCommunication in today's market is changing. Email, a proven effective tool must make room for the new revolution. So what is the most effective way to reach the echo-boomers?\n\nMessaging! Text messaging is taking quantum leaps in leading marketing strategies as it has proven itself to be a more effective approach to reaching today's youthful customer.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "LATINX",
+    "LGBTQ"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WHATSAPP BUSINESS API",
+    "BULK SMS",
+    "RCS"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar",
+    "be",
+    "yue",
+    "cs",
+    "da",
+    "nl",
+    "fa",
+    "fi",
+    "fr",
+    "de",
+    "el",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "ms",
+    "zh",
+    "mr",
+    "no",
+    "pl",
+    "pt",
+    "pa",
+    "ro",
+    "ru",
+    "zh-hans",
+    "es-419",
+    "es",
+    "sv",
+    "tl",
+    "zh-hans-tw",
+    "ta",
+    "te",
+    "th",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "tr",
+    "uk",
+    "vi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/429769499_122101158248226376_989545808124589546_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IIU5q-pyfYMQ7kNvwH4y64N&_nc_oc=Adk5w0VZvRX3id8NIyb1Iyloym-CMMCrOxmqzmUm8EphzFP0tqB_E5euh3z-T_jBtW8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=v9q_WLwsSfRFz_RhakYsmw&oh=00_AfcweHAAfay2QHYK-It2Dj4GSsKLuNHE-wKq_PZXYSgTWw&oe=68E9AA06"
+    },
+    "id": "122101158254226376"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

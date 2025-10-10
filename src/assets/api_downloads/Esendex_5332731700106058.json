@@ -1,0 +1,68 @@
+{
+  "company_website": "https://www.esendex.com/",
+  "countries": [
+    "GB",
+    "ES",
+    "FR",
+    "NL",
+    "IT",
+    "DE",
+    "AU",
+    "US"
+  ],
+  "id": "5332731700106058",
+  "name": "Esendex",
+  "description": "From advanced mobile messaging like WhatsApp, RCS and mobile journeys to send in seconds SMS, Esendex helps businesses to send friction-free customer support, notifications and reminders, collections and payments, and marketing and promotions that delight.\nAs a frontrunner in the messaging space for over twenty years, we’ve never stood still, and continue to support over 46,000 customers to send more than 5 billion messages a year across any - or all - of their customers’ preferred channels.\n \nWith a quick-start platform, best-in-class API plus flexible integration options, we support one or two-way communication that feels as natural as talking to family and friends.\n\nFrom global resilient routing and regulatory compliance to in-country expertise, our customers partner with us for our person-to-person support.  ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Smarter support: save time and resources, and smooth customer journeys, with automated prompts and reminders, time-sensitive messaging,  IVR",
+    "Conversational marketing: increase conversions and loyalty with messages, push notifications, order updates, delivery alerts and next-level ",
+    "Frictionless commerce: provide conversational customer support at checkout, encourage purchase, support multi-factor authentication, collect"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "GAMING",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "nl",
+    "es",
+    "fr",
+    "it",
+    "de"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474949641_630806052677186_7796490716472815710_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vaVVMBvoe8YQ7kNvwG15-1p&_nc_oc=AdkH0x-0QXozN7fnUpUJAe8RhuxAi_rDI3mYIPyTlaj6yCVRbshX-EenlIVHa6M14t4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_AfcYrcw_bJek0FZfAKU9HIQAJVoO0Gml8IyyvXTcYwRu1g&oe=68E98E55"
+    },
+    "id": "288471093577352"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

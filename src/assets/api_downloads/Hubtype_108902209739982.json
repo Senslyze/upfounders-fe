@@ -1,0 +1,92 @@
+{
+  "company_website": "https://hubtype.com/",
+  "countries": [
+    "GB",
+    "AE",
+    "UA",
+    "TR",
+    "CH",
+    "SE",
+    "ES",
+    "ZA",
+    "SI",
+    "SK",
+    "SA",
+    "RU",
+    "RO",
+    "PT",
+    "PL",
+    "NO",
+    "NL",
+    "LU",
+    "LT",
+    "LV",
+    "IT",
+    "IL",
+    "PS",
+    "IE",
+    "IS",
+    "HU",
+    "GR",
+    "DE",
+    "FR",
+    "FI",
+    "EE",
+    "DK",
+    "CZ",
+    "BG",
+    "BY",
+    "BE"
+  ],
+  "id": "108902209739982",
+  "name": "Hubtype",
+  "description": "Hubtype helps global brands transition from traditional communication channels to messaging apps by building, designing and scaling conversations through conversational apps.   We help your developers build conversational apps in a language they love to use and save them the trouble of spending months developing new tools from scratch. Having ready-made tools allows your team to quickly develop product-ready conversational experiences and launch within a couple of weeks.  Built for developers and designed for enterprise-level service, Hubtype is the leading developer platform for building conversational apps, combining meaningful automation with human handoff. We provide the full set of tools required to build UX-focused conversational experiences on messaging apps.  Build meaningful multichannel conversational experiences with react and at scale.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automation",
+    "Virtual Agents",
+    "Conversational Apps"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ENERGY_AND_UTILITIES",
+    "HEALTHCARE",
+    "RETAIL",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "it",
+    "ro"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475897268_1654648645429414_7446921088522613273_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Ar7e3VEQTAgQ7kNvwGtRjvQ&_nc_oc=AdnczG_dFIXZmdA_ito55A-W0FMCbrrkFAjCchoil8vVa66fKsZZW95v3xMOp3ZjV7M&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AfdncMq7qLeGQt91rOq7i5SORmSOzXaZVM4BCCIMECJANQ&oe=68E98D90"
+    },
+    "id": "1212009709693312"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

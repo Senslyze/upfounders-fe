@@ -1,0 +1,58 @@
+{
+  "company_website": "https://speedly.ly/",
+  "countries": [
+    "GB",
+    "AE",
+    "US",
+    "LB",
+    "LY",
+    "TN",
+    "DZ",
+    "MA",
+    "IQ",
+    "SA",
+    "OM",
+    "JO",
+    "ES",
+    "TR",
+    "SY",
+    "KW",
+    "BH",
+    "EG",
+    "SD"
+  ],
+  "id": "6788546991262771",
+  "name": "Speedly",
+  "description": "Speedly is a cutting-edge marketing and customer service tool that empowers businesses of all sizes to automate and create chatbots with ease. Trusted by small and medium-sized businesses as well as some of the world’s leading brands, Speedly ensures 100% safety and reliability. Our platform simplifies the process of building chatbots of any complexity, helping you attract more customers, boost engagement, and drive sales.\n\nسبيدلي هي أداة مبتكرة للتسويق وخدمة العملاء تمكّن الشركات من جميع الأحجام من أتمتة وإنشاء برامج الدردشة الآلية بكل سهولة. موثوق بها من قبل الشركات الصغيرة والمتوسطة وكذلك العلامات التجارية الرائدة عالميًا، توفر سبيدلي أمانًا بنسبة 100٪. منصتنا تُبسّط عملية بناء روبوتات دردشة بأي مستوى من التعقيد، مما يساعدك على جذب المزيد من العملاء، وتعزيز التفاعل، وزيادة المبيعات.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "fr",
+    "es",
+    "tr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475120804_922819510063807_640352324100766161_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7yBIuNQl4RkQ7kNvwHj4odk&_nc_oc=AdlT6YVPIUqxHbfM2bRKWu6VKyTixAoohbmWcC-8nZ3RqWmNzh_DN0s8uKPtkYAmbJM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AfedVnLwMqVqnqQgwlutygstDKU6xD0Zf2vYK4JDD1pJxA&oe=68E9992D"
+    },
+    "id": "922819506730474"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

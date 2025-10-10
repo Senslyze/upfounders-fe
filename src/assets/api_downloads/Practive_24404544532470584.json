@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.practive.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "24404544532470584",
+  "name": "Practive",
+  "description": "Practive is a cloud-based office management platform designed for accounting firms and CAs, featuring an AI-powered WhatsApp chatbot, automated task and invoice generation, smart reminders, invoicing with client ledger tracking, document and DSC management, team access control, multi-entity billing, advanced dashboard attendance tracking, custom reporting, and secure client portal access. It streamlines workflows, improves accountability, and keeps practices organised.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Messaging",
+    "WhatsApp AI Assistant",
+    "Office Management Software for Chartered Accountants"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/335630170_861206728314188_632182061089208166_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=CV2WYq7FE3sQ7kNvwEbOZ8Z&_nc_oc=Adk9SGDSVQ7DnUrJwrrgXgsG8P3YLqRQ8YzmvWclyg4Q1Bov51tp9_f7kaoGFzMI2K8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=V9l98hoZPAL6cQDvD7l9-A&oh=00_AfcftWQ5rmdg9MgNbLcUuYJnDViPtbhODI75d7ljtTR18w&oe=68E9B23C"
+    },
+    "id": "169950139186572"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

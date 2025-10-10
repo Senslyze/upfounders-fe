@@ -1,0 +1,43 @@
+{
+  "company_website": "https://halosis.co.id/",
+  "countries": [
+    "ID"
+  ],
+  "id": "6018538008262377",
+  "name": "Halosis - PT Hasil Sukses Indonesia",
+  "description": "Halosis help Social Media sellers grow their sales via WhatsApp, transform customers' inquiry conversations into sales, and increase  sales & customer service quality for your business. Halosis is a one complete Solution for WhatsApp Commerce, CRM & Ads ROI.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Commerce (automated)",
+    "WhatsApp Campaign / Broadcast / Blast",
+    "Facebook & Instagram Ads"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/92734359_660470204726312_3966990862994374656_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=AZzfmjFoXe0Q7kNvwGkeYRV&_nc_oc=AdkPAhQ630UNqOUi0gKWMFfXMgFbEa3Cdi2GZNw_7idzOBxcC2jK_bKlQtBZG5oJfcg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=q0HI7NhZOmAQ75NIo4vc2w&oh=00_AffsUHp83hnMvKTgv0tWt-m556D20DR0yNvwXuo1rLAVzA&oe=690B2440"
+    },
+    "id": "660470201392979"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

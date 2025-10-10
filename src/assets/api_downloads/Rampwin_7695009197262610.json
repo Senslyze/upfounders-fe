@@ -1,0 +1,46 @@
+{
+  "company_website": "https://rampwin.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "7695009197262610",
+  "name": "Rampwin",
+  "description": "Welcome to Rampwin – Your Partner in Seamless WhatsApp Automation\n\nAt Rampwin, our mission is crystal clear: \"Automating Communication, Amplifying Impact.\" We go beyond simple integrations to craft intelligent WhatsApp automation experiences tailored for your business.\n\nRampwin is built to make your customer interactions faster, smarter, and more effective—so you can focus on what matters most: growing your business. Whether you're streamlining support, driving sales, or nurturing leads, we empower you to automate with precision and ease.\n\nThink of Rampwin as your automation ally—simplifying complexity and turning every WhatsApp interaction into a strategic opportunity.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Conversational Automation - Create dynamic, multi-step flows that handle support, onboarding, booking, sales, and more—automatically.",
+    "Lead Capture & Nurturing: Convert WhatsApp chats into qualified leads and engage them through smart, timed follow-ups.",
+    "Campaign Management: Launch targeted, rule-based WhatsApp campaigns with measurable results."
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "he",
+    "zh-hant-hk",
+    "zh-hans",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480768964_628034200175051_3130416139864179928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=fl7VWW2BclsQ7kNvwHcBkKq&_nc_oc=Adk09Wf1CIBor_sDbfl0fpaMafcPMdyCQNmW0wK1Qh3mK041I1KwZTckKDJIFTY3FlY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5HMGn56Mg_a9HClc7BIRiw&oh=00_AfeH9F7rcNh99hf-Jc-8dtyqIQKWXNiVxp4K05nIspsaLQ&oe=68E9A776"
+    },
+    "id": "441189612192845"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

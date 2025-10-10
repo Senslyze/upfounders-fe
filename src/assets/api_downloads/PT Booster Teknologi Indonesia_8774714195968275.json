@@ -1,0 +1,39 @@
+{
+  "company_website": "https://socialchat.id/",
+  "countries": [
+    "ID"
+  ],
+  "id": "8774714195968275",
+  "name": "PT Booster Teknologi Indonesia",
+  "description": "PT Booster Teknologi Indonesia adalah perusahaan teknologi yang berfokus pada pengembangan aplikasi untuk mempermudah dan mempercepat pekerjaan pengguna. Berdiri dengan tujuan menghadirkan solusi digital yang andal dan efisien, kami terus berinovasi dalam memberikan layanan teknologi yang disesuaikan dengan kebutuhan pasar.\n\nBooster hadir untuk membantu bisnis Anda beradaptasi dengan perubahan teknologi yang semakin dinamis. Dengan fokus pada efisiensi, keamanan, dan kemudahan penggunaan, kami berkomitmen mendampingi setiap langkah Anda dalam memanfaatkan teknologi secara maksimal, sehingga dapat meningkatkan produktivitas, memperkuat daya saing, dan menciptakan nilai tambah yang berkelanjutan bagi perusahaan Anda.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel CRM Platform",
+    "WhatsApp Broadcast / Blast",
+    "Chatbot AI "
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481898769_598121756376930_6180113960715331364_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=X_GuM8j8f-8Q7kNvwHYcmK4&_nc_oc=AdktkxHJRLB9S3zUFCQiUZnnzxfvoDyPtZpMfpUm02uluz_YtwuTiQaSkGHRMXuUzzA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=SjpPAhhge0EtzKh3UnS2TQ&oh=00_Afe-56o-H9NxZVszatgd0cWB7rfKhFWvPy0MwM9fSPBtGg&oe=68E9AC0E"
+    },
+    "id": "524462817076158"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

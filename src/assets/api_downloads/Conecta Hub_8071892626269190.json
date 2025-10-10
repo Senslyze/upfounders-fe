@@ -1,0 +1,36 @@
+{
+  "company_website": "https://connectahub.io/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8071892626269190",
+  "name": "Conecta Hub",
+  "description": "Somos uma empresa de tecnologia dedicada a inovar.\n🚀 Revolucione a forma de verificar dados e credenciais!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/483540318_1335499594235927_1157910348015703102_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Ee0eBKwrBDgQ7kNvwGH_CrM&_nc_oc=AdmCfKBTxfcG-jul5HEHNbL--T-1sQZsqmo760nNax7OZtxGRG71fOm4Hb0w-LID4BI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=U_DVOcKdLZpIkArDTT5kHg&oh=00_AfcJne6tplD0TfYaubN52CmUmRugm13A-L9C6PxkFsDHlA&oe=68E9A632"
+    },
+    "id": "1335499587569261"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

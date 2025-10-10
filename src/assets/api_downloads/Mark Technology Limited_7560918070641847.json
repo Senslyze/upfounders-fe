@@ -1,0 +1,49 @@
+{
+  "company_website": "https://nowaittech.com/",
+  "countries": [
+    "HK",
+    "MY",
+    "SG",
+    "GB"
+  ],
+  "id": "7560918070641847",
+  "name": "Mark Technology Limited",
+  "description": "NoWait is our flagship all-in-one platform that empowers businesses to seamlessly engage customers, distribute encrypted digital coupons, and complete secure payments—all within a single WhatsApp conversation. NoWait’s patented technology integrates FPS payments directly into WhatsApp, enabling a seamless customer journey from inquiry, digital coupon distribution, and online payment to offline verification and receipt printing via POS devices. This all-in-one solution boosts efficiency, ensures secure transactions, and delivers a smooth digital shopping experience with high ROI and return rates",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API with Payment",
+    "e-commerce",
+    "FPS payment with POS"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "zh",
+    "yue"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474915018_122188577240046849_1771780349895432872_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ohVSFN-slhMQ7kNvwH48JEK&_nc_oc=AdkcqNOKoCQg6YVmuDTS8Xj3Db-lLenEZ-yGTbHb32CUIK4ZzW51b-5Nwad1wC0j3ug&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Afd7kx3hb_HR1xGw_IWgs-NvZiWD2TontSkTSSfS-6LmCQ&oe=68E9AF8B"
+    },
+    "id": "122164718120046849"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

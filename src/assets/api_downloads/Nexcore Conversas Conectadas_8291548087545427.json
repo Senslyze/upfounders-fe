@@ -1,0 +1,52 @@
+{
+  "company_website": "https://nexcore.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8291548087545427",
+  "name": "Nexcore Conversas Conectadas",
+  "description": "Nexcore by Selbetti, há 46 anos a trabalhando para revolucionar o serviço de atendimento ao cliente. Nós transformamos a experiência de pessoas e empresas a partir de uma única plataforma. Conectamos, concentramos e organizamos conversas no canal em que o cliente preferir, personalizando soluções às necessidades da sua empresa. Nascemos no Brasil e conectamos você ao mundo.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Faça e receba chamadas em qualquer lugar do mundo, crie campanhas envolventes com torpedos de voz e estabeleça uma conexão com seus clientes",
+    "Adeque e automatize seu atendimento utilizando assistentes de chat disponíveis 24/7, criando uma experiência personalizada e humanizada",
+    "O Discador Automático visa acelerar o processo de discagem, reduzir o tempo ocioso e identificar números ativos e inativos de maneira eficaz"
+  ],
+  "industries": [
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470204038_1264140211401489_3916426530339245822_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Cu41pJXTxNkQ7kNvwG3F9wo&_nc_oc=AdkgJhbGOcFGaMGncPQhZvL6apJv3Y4_5Y8Yb5wakbjR0ZuZ0IAjVs4Hz135kbrjtOQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_AfdxGv-kSAHOkoOSLzxMjOT2pPVrZpDZlepA2JqfJf-TGQ&oe=68E9B35D"
+    },
+    "id": "710826150066234"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

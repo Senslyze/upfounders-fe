@@ -1,0 +1,42 @@
+{
+  "company_website": "https://cero.ai/",
+  "countries": [
+    "CL"
+  ],
+  "id": "24448611061390404",
+  "name": "Cero",
+  "description": "At Cero, we help clinics and hospitals see more patients and reduce missed appointments. We coordinate medical care by communicating with each patient. Our mission is to increase access to healthcare by optimizing communication processes between patients and hospitals, ensuring that no patient goes without care when they need it.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Messaging",
+    "Patient care",
+    "No-show reduction"
+  ],
+  "industries": [
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480827054_1165170331731554_5086303156443046549_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=egj_tkkwct4Q7kNvwHmKu7N&_nc_oc=Adl9v9yG6EAVf9cMWnt2S-A4F7ZLvlGWOrBzrfWXsBqs7TW9xZ8rWgCsknMzpGQvdPc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=pD74xiFexRO00Zx6UW2vDw&oh=00_AffhuAOESRM2-85-UTxJB6iS453_353zzIQhwvRi-FsVVg&oe=68E9998E"
+    },
+    "id": "1094165218832066"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

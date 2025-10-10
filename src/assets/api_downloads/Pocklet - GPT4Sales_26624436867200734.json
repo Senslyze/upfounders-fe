@@ -1,0 +1,60 @@
+{
+  "company_website": "https://gpt4sales.ai/",
+  "countries": [
+    "MX",
+    "US",
+    "CO",
+    "EC",
+    "AR",
+    "DO",
+    "SV",
+    "PE",
+    "CL",
+    "GT",
+    "ES",
+    "IT",
+    "BZ",
+    "UY",
+    "VE"
+  ],
+  "id": "26624436867200734",
+  "name": "Pocklet - GPT4Sales",
+  "description": "🤖 Automatiza tus citas y ventas con un agente de inteligencia artificial que se integra a tu WhatsApp o Instagram en menos de 3 minutos ⏱️📲\n\n✨ ¿Qué puede hacer tu agente IA?\n\n📂 Entrénalo con solo cargar la info de tu negocio\n📣 Lanza campañas masivas por WhatsApp\n🧠 Responde como tu mejor vendedor (¡pero 24/7!)\n🔗 Conéctalo a WhatsApp o Instagram con 1 clic\n📝 Entiende texto, imágenes y notas de voz\n🖼️ Responde con fotos, videos, documentos o audios\n📅 Conéctalo a tu Google Calendar\n🛒 Vincúlalo con tu catálogo de productos",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atención a clientes",
+    "Agenda de citas para consultorios",
+    "Venta de productos y servicios"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "it",
+    "fr",
+    "pt",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/552904139_811154338042199_4345138750342331715_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Aw2zUi8wULoQ7kNvwFi-mQY&_nc_oc=AdlNH7Syxf1vVGKcidPpueUmC5bX-9aHwIOSRXFa9N2DDomF22k7ikGLUTNaqebd5EQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=x6E-FTCghcoWnNP8wOnMGQ&oh=00_AfcvEU1pv1x9lVAxC-BwSuNNenfYQYMhXwbvPVeQuAR5yA&oe=68E98373"
+    },
+    "id": "811154334708866"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

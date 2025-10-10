@@ -1,0 +1,37 @@
+{
+  "company_website": "https://appout.co/",
+  "countries": [
+    "EG"
+  ],
+  "id": "9005474636231567",
+  "name": "Appout",
+  "description": "Appout provides solutions to support business in workflow management and customer communication with a special focus on data and analytics power. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Provide AI-Enabled software solutions that help companies take better decisions and operate efficiency."
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/333358343_701815414975300_1773355353517395160_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ePZvf913gZYQ7kNvwHFilRN&_nc_oc=AdlyrD2EbT52k3fLEXjj1Mhz2PfLkM0oTBEoMxCP0qNcy-OeZ_RlM31HCOzLDzq_830&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=8nv2rzUZrEGLsjHRN_6BIA&oh=00_Afd1thFJYutIIup7QwFu83XBWkDcrd0pegEOQrBuxX3UVQ&oe=68E9B28B"
+    },
+    "id": "638870011580160"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

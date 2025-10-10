@@ -1,0 +1,44 @@
+{
+  "company_website": "https://wabridge.com/",
+  "countries": [
+    "IN",
+    "AE",
+    "AU",
+    "US"
+  ],
+  "id": "7624648064267116",
+  "name": "01 WA Bridge By Hence Digital",
+  "description": "WA Bridge By Hence Digital  is a fast-growing company in bulk SMS, Whatsapp & mobile value-added services (VAS) since 2017, Having Offices In Yamuna Nagar & Gurgaon, UAE. As the company is pioneering for bulk SMS service, Whatsapp Message, IVR, Call Center Solutions. We help businesses implement bulk SMS, Whatsapp messaging services aimed to increase revenues, improve brand strategy, optimizing business performance, and developing public services through mobile media from the last 6 Years.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API",
+    "No Code Chatbot Automations",
+    "CRM, LiveChat, No Code Total CX Automation"
+  ],
+  "industries": [
+    "TELECOM",
+    "ECOMMERCE",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/302056563_518694133593486_3884876248904566623_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4szUxLng2j4Q7kNvwG8fF4u&_nc_oc=AdkGpOSzPahOtrZAN1atMUJIdAATQbgJGOMSGX0VIt1b3FihSajpR0P4-i_-9-Lz8Wc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=f5VhjN4YvwcvG0L6JsqsXA&oh=00_AfehRy1qrzpdAS_S_S70a2QWKiHt6HVsYn8rm4l9nraTYg&oe=68E9B0D6"
+    },
+    "id": "518694146926818"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

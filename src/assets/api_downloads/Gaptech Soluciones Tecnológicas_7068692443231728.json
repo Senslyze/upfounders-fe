@@ -1,0 +1,40 @@
+{
+  "company_website": "https://gaptech.cl/",
+  "countries": [
+    "CL",
+    "AR"
+  ],
+  "id": "7068692443231728",
+  "name": "Gaptech Soluciones Tecnológicas",
+  "description": "En Gaptech somos especialistas en soluciones personalizadas para implementar WhatsApp Business integrado a tu CRM u otros sistemas de gestión. Desarrollamos el Bot center personalizado con reglas de negocios automatizadas, encuestas de satisfacción, filtro de leads, enriquecimiento de leads, campañas masivas de ventas, invitaciones a eventos y mucho más.\n\nSi necesitas integrar sistemas tecnológicos, en Gaptech tenemos la solución de integración, personalizada a medida, con CRM, ERP, DMS, bases de datos y otras plataformas.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Bots & AI (Artificial Intelligence)",
+    "Omnichannel Customer Service Bots"
+  ],
+  "industries": [
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/491345244_1230578779074762_7275007414909852013_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Lyh_JjBJPQ4Q7kNvwGFH2zC&_nc_oc=AdkrT9ij5SFU3yaSL1Vnk_CgCn_18YYmD2N4KTTkJJIjtO-GDPrDybfH7JgNk0zM63s&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=7iwpZPKPrnueY3-CsoEdTA&oh=00_AfenKUCCaw3K03byhXx0P7KkPUuGgLKEPd7cztsq_FFbWw&oe=68E9B04D"
+    },
+    "id": "991026743029968"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

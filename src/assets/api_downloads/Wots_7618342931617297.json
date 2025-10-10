@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.getwots.com/",
+  "countries": [
+    "CL",
+    "PE",
+    "MX",
+    "CO",
+    "CR"
+  ],
+  "id": "7618342931617297",
+  "name": "Wots",
+  "description": "Creamos canales de WhatsApp con inteligencia artificial para construir las mejores experiencias conversacionales a nivel mundial  ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENERGY_AND_UTILITIES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481333774_626550656819727_8843533591782194405_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=n1XZvV3VencQ7kNvwErgGiC&_nc_oc=AdmGYPk4WnAJGU0okf0YAP3OYdfCiirZG_kkFQVVNLBUTDTWb3c3We4bB9Q-oX3pb54&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=9NF2ztJyvn3CoWu6FkmvjA&oh=00_AfdKD2yuerAgbvw4oyPuPcdqFFbq8YRjNNshgj0_rUe_xw&oe=68E98926"
+    },
+    "id": "626550653486394"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS",
+    "HOURLY",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

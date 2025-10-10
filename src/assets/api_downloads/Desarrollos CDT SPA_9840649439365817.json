@@ -1,0 +1,48 @@
+{
+  "company_website": "https://www.trybulk.cl/",
+  "countries": [
+    "CL"
+  ],
+  "id": "9840649439365817",
+  "name": "Desarrollos CDT SPA",
+  "description": "Bulk is a SaaS platform that integrates, controls, streamlines and improves business communications. It uses AI tools to provide a better experience for our client´s customers and resolves their queries in real time. It also provides valuable reporting for decision-making.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "SaaS ",
+    "Whatsapp API",
+    "AI Omni Channel Platform"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/516117225_122168620568377766_3002876293432040837_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=V2IvbrM25OgQ7kNvwHwFncV&_nc_oc=AdkONjZ_TEfD9QFtysiWoGGhsmU3cTuAddL7mVSxMHbDyo-kQp_9LTwNLMSpI-xM0H8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=reoC6E_PJK3NGMGwoPOLpw&oh=00_AfdH4ONPX7pvN252P1HZgrNmOtNRJvxNPbCT8fTGWxjGfA&oe=68E99517"
+    },
+    "id": "122168620562377766"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,36 @@
+{
+  "company_website": "https://cf-shops.com/",
+  "countries": [
+    "TH"
+  ],
+  "id": "9869669986419074",
+  "name": "Hyphen Plus Co.,Ltd.",
+  "description": "- LIVE Commerce\n- e-Commerce\n- Order Management System",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "th"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/493029979_1386058802707360_6287291641059331171_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=FQYHEIy1asQQ7kNvwHO6h2F&_nc_oc=AdnDxnOD4wNzBFODgSycNl10O-rKjBMamPgzz9BAK5Vwsfl3O9ZOp-IGeJZAMwXALXc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AffN9HDMaW16_Fg7oVeVa2wuRpppI9vg0GV8nzPYW_iLdg&oe=68E99568"
+    },
+    "id": "1386058799374027"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

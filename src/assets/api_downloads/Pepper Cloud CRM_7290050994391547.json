@@ -1,0 +1,53 @@
+{
+  "company_website": "https://peppercloud.com/",
+  "countries": [
+    "SG",
+    "MY",
+    "PH",
+    "IN",
+    "CA"
+  ],
+  "id": "7290050994391547",
+  "name": "Pepper Cloud CRM",
+  "description": "Pepper Cloud is an AI-powered WhatsApp CRM designed for SMEs across industries to simplify sales and customer support. It offers a reliable, affordable, and easy-to-use CRM to manage your leads, contacts, accounts, opportunities, customer service, and conversations — all in one place.\n\nWith powerful features for sales management, marketing automation, customer service, and business analytics, Pepper Cloud makes it easy to boost productivity and grow smarter.\n\nSeamlessly integrated with WhatsApp, Facebook, Instagram, Telegram, Xero, MailChimp, Zoom, Google Drive, Outlook, and more, our CRM eliminates app-switching and streamlines your workflow.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales: Auto-lead capture, Customisable pipelines, Sales forecast, Workflow automation, Sales performance, & more.",
+    "Customer Service: 24/7 response with Chatbots, auto-assignment & escalation, SLA tracking, Multi-agent access, & more.",
+    "AI features: Knowledge base, Sentiment analysis, Task management, Complete lead profile, Conversation summaries & insights, & more. "
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/468296202_584909720702188_1271529781966124403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=fYZMjZtdSbUQ7kNvwFtc0Vz&_nc_oc=AdlghRA09XijKPi3p6GC5oirXTZss6ssqhZwUueKCiF1jZifi83aC9_alhsa6OuHubA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=acp7DzSwk5nCAo_LFkfQuA&oh=00_Afd68ufDItRCeDO2Fwj_iew8m8RsvE36BMAtyRgX42wqsg&oe=68E9B819"
+    },
+    "id": "101134435746388"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

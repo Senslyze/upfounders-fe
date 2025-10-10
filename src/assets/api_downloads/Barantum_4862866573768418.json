@@ -1,0 +1,46 @@
+{
+  "company_website": "https://www.barantum.com/",
+  "countries": [
+    "ID"
+  ],
+  "id": "4862866573768418",
+  "name": "Barantum",
+  "description": "Barantum is one stop solution for CRM, Call Center, and Chat (Omnichannel) solution based in Indonesia.\nBarantum serves both SME & Enterprise clients and help them to manage salesforce and customer service more effectively. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CRM",
+    "Call Center",
+    "Whatsapp API"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480785842_1130637388959945_5702621245013578471_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=JhUq5R8d7zgQ7kNvwFFHzSN&_nc_oc=AdlJNets96Y_ifaY8q5VPTGfHR9kW_qLA2ckWpyCvLXSW61MP9575du5tSBotXN5KLs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_Afcv6cF54knzAOdUSm9T9BG-X4hjZ0qNGQ2TV7bz8ZxW1w&oe=68E9AC5D"
+    },
+    "id": "1057849902905361"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

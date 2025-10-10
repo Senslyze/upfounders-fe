@@ -1,0 +1,95 @@
+{
+  "company_website": "https://www.interakt.shop/whatsapp-business-api/",
+  "countries": [
+    "US",
+    "IN",
+    "SG",
+    "MY",
+    "ID",
+    "PH",
+    "ZA",
+    "GB",
+    "BR"
+  ],
+  "id": "479429246073454",
+  "name": "Haptik",
+  "description": "Haptik’s Interakt is an all-in-one platform for marketing, sales, and support on WhatsApp and Instagram.\nIt offers automation, shared inboxes, and product catalog integration to help brands engage, convert, and support customers at scale.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Drive sales & grow your business- Run marketing campaigns, offer discounts and send abandoned cart messages to convert leads into customers",
+    "Engage customers- Keep customers well-informed with reminders and automated notifications about shipments and deliveries.",
+    "Better serve your customers-  Offer customer support through automated chatbots or AI-powered agents"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL",
+    "ECOMMERCE",
+    "GAMING",
+    "EDUCATION",
+    "HEALTHCARE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENTERTAINMENT_AND_MEDIA",
+    "TECHNOLOGY",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "fr",
+    "pa",
+    "ta",
+    "te",
+    "mr",
+    "ar",
+    "ms",
+    "id",
+    "es",
+    "es-419",
+    "nl",
+    "de",
+    "tr",
+    "tl",
+    "zh",
+    "it",
+    "fi",
+    "pl",
+    "pt",
+    "sv",
+    "th"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/498541178_122112094604860498_3763379806472927032_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=fajsRNqsueMQ7kNvwEEo8X8&_nc_oc=AdmfV_Z5TxvhUpP41BFPkXND7-dricJSAOnq_pMIXyEOH7SbExKyGGyKOAamptYbhZc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=q0HI7NhZOmAQ75NIo4vc2w&oh=00_Afc-6x4pS1GTwAyZHOtDBsB2vNz06oVFRLPFumZqJYLzdA&oe=68E99DDC"
+    },
+    "id": "122112094598860498"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MULTICHANNEL_MANAGEMENT",
+    "LEAD_GEN",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER",
+    "COEXISTENCE"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

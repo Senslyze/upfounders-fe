@@ -1,0 +1,62 @@
+{
+  "company_website": "https://www.indew.co.in/",
+  "countries": [
+    "IN",
+    "AE",
+    "US",
+    "IL",
+    "MY",
+    "SG"
+  ],
+  "id": "9045382402173554",
+  "name": "Indew Technology1",
+  "description": "Indew Technology is a digital solutions provider specializing in modern communication tools for businesses. With expertise in WhatsApp Business API integration, Indew Technology helps businesses enhance customer engagement, automate workflows, and deliver personalized experiences. The company focuses on empowering organizations to leverage WhatsApp as a powerful channel for customer support, marketing, and transactional messaging.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API Setup & Integration",
+    "Automated Customer Engagement Solutions",
+    "Chatbots & Workflow Automation"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480885882_122221072418222241_2873524710283375113_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=aObpxGzb_EwQ7kNvwGbgurO&_nc_oc=Adkf5WhpNp61ipXRJoa9RQWLoeoqhXzl6z7WtnpzJgftIK0m5kTzRalNdr8dr6nMg3Q&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=mU_-KLmWnloN6q_V1o7Q7g&oh=00_AfcsYpaZo_0yo0qUxQmLHl6mKt5dJoRiYNJtdZKNA3W51w&oe=68E99EF0"
+    },
+    "id": "122210822138222241"
+  },
+  "service_models": [
+    "SAAS",
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,45 @@
+{
+  "company_website": "https://www.botalite.es/",
+  "countries": [
+    "ES",
+    "CO",
+    "AR",
+    "US",
+    "DE",
+    "NL",
+    "AU"
+  ],
+  "id": "6947304475331974",
+  "name": "Botalite SL",
+  "description": "Botalite is an AI-supported private messaging chatbot tool that builds, strengthens, and transforms the relations of media outlets, CSOs, and other community-oriented organization’s with their communities.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Media & Fact-checking",
+    "NGO's",
+    "Education & Chatbots"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/368193370_237277225943557_6322672413720878513_n.jpg?stp=cp0_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=GZELPe2T0HgQ7kNvwESAQSa&_nc_oc=AdmrLj77cOq-8WYtfOwYsVc-oK-UCjVuOS9qG9d1KrkxTMES29sQJZlSXghyA28Vqvw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Gqy_j0Qm2PX_RWG9tko1cg&oh=00_Afc1BwsHmwyldHX-FGCat_v-GPUFsTp9oiB97_O8hrBOTA&oe=68E98802"
+    },
+    "id": "237277229276890"
+  },
+  "service_models": [
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

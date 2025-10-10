@@ -1,0 +1,56 @@
+{
+  "company_website": "https://www.salesmartly.com/",
+  "countries": [
+    "HK",
+    "CN",
+    "MO",
+    "CA",
+    "ID",
+    "TW",
+    "BR",
+    "SG",
+    "JP",
+    "KH",
+    "TH",
+    "MM",
+    "PH",
+    "VN"
+  ],
+  "id": "24351498037798391",
+  "name": "SaleSmartly",
+  "description": "",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "yue",
+    "en",
+    "id",
+    "zh-hans",
+    "zh-hant-hk",
+    "zh-hant-tw",
+    "vi",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469953819_122183822336158531_3075398979942988966_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=76l1u5jPldcQ7kNvwGIJZH8&_nc_oc=AdlxoZVVrzdJTFEhYOadMTEzWxNi2G59xkk6IQFVwG6KA6nMRt6KHQtXw8a1-y3yl-U&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_Afc-s_mhQwZgKu2BDhR55XjV4zFce5iiBhav98lXQxqpNw&oe=68E98F53"
+    },
+    "id": "122095473884158531"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

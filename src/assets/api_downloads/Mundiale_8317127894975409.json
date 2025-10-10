@@ -1,0 +1,52 @@
+{
+  "company_website": "https://www.mundiale.ai/",
+  "countries": [
+    "BR",
+    "MX",
+    "CO",
+    "AR"
+  ],
+  "id": "8317127894975409",
+  "name": "Mundiale",
+  "description": "A Mundiale é especialista em transformar canais de mensageria, em um ferramenta completa de vendas e/ou atendimento, com gestão completa e muita inteligência artificial embarcada.\nCobrimos todas as funcionalidades disponíveis, para oferecer experiências fluídas e humanas.\nNossas soluções entendem voz, texto e documentos, identificam intenções, automatizam processos e geram insights em tempo real.\nAssim, ajudamos empresas a vender mais, atender melhor e gerir suas operações de ponta a ponta.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Enterprise",
+    "Telecom",
+    "Seguros"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "EDUCATION",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476829459_1339943813854857_3610825733764339601_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=m8Yn4944z1gQ7kNvwHJ6-bp&_nc_oc=Adni0A0LSi2xerGzNg0zqn43pn4T90az4_t0O1t87ugkFCuzzexzOwfRwz8SptsAYGM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=4sG3fl4saIJO8rauww2XvQ&oh=00_AfdVgV1mXjDsnP5xzb7Kmjs285mTGsVfv0CzmVQ3FD1uTQ&oe=68E98903"
+    },
+    "id": "1221312225718017"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

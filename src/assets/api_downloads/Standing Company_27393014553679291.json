@@ -1,0 +1,58 @@
+{
+  "company_website": "https://standingtech.com/",
+  "countries": [
+    "IQ"
+  ],
+  "id": "27393014553679291",
+  "name": "Standing Company",
+  "description": "Standing Company provides secure and scalable communication APIs for businesses. Our platform enables SMS, OTP verification, WhatsApp, Viber, and other omnichannel messaging from a single interface. We support fast delivery, branded sender IDs, and two-factor authentication with automatic fallback. Standing Company also offers AI-powered chatbots that integrate with customer service and sales channels to automate responses and improve engagement. Developers can easily connect using our RESTful APIs.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "1. Messaging & OTP Infrastructure",
+    "2. Omnichannel Communication APIs",
+    "3. AI Chatbots & Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM",
+    "GOVERNMENT_AND_POLITICS",
+    "EDUCATION",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GAMING",
+    "RETAIL",
+    "HEALTHCARE",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/352548274_792360762474395_136294211428110004_n.png?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=1g3CWtl1eSsQ7kNvwETqPI-&_nc_oc=AdnrYE3mAROnk0nm59up8MCPmREC6nL77ZPTOp1yZP4lCiN1fjxw8wVqOKYGlsBk25w&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AfdHaIjcCMziaN3-FrQZ7JFAmyXqCpSBZsXGTpor7fBq4g&oe=68E99E01"
+    },
+    "id": "656855836478419"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

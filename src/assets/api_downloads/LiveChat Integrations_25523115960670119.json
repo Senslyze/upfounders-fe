@@ -1,0 +1,51 @@
+{
+  "company_website": "https://www.livechat-integrations.com/",
+  "countries": [],
+  "id": "25523115960670119",
+  "name": "LiveChat Integrations",
+  "description": "We help brands provide dazzling conversational experience at scale. We consolidate all major instant messaging channels (WhatsApp, Apple Messages for Business, Facebook Messenger, Telegram, and more) and traditional channels (email, SMS, and webchat) into a single, user-friendly solution.\n\nOur key focus is conversational commerce, where we help guide customers through the entire marketing and sales funnel using their favorite digital channels to create superb, memorable experiences and accelerate our customer's growth.\n\nWe are a technology provider that thrives on collaboration. Our greatest passion is helping businesses achieve breakthroughs in understanding their customers and markets, fostering loyalty through empathy and insight.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Creating Conversations Inbound experiences for users to interact with sales, support & other teams.",
+    "Marketing via Click-to-Chat Advertising, Lead Generation, Instant Message Broadcast & Promotional Messaging.",
+    "Omnichannel Automations with deep chatbot integrations"
+  ],
+  "industries": [
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pl",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484328239_564903536608980_7525179280243692142_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=V2Jb5T1ZQoQQ7kNvwFOQ5X3&_nc_oc=AdnD0BpR4tnwunJWnlA1AGu3awC_3ND2EhGmpRj72oatAisiJ5zvxNz5tjJtCKs2-D4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a0S2FrG0sRacZ0JGOmY-Wg&oh=00_AffsDWAmdhA8uElXyHi9jES8vimP7IDAyzUwnig60vdz_g&oe=68E987C7"
+    },
+    "id": "367889729643696"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

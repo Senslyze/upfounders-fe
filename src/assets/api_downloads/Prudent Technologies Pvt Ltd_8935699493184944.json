@@ -1,0 +1,37 @@
+{
+  "company_website": "https://prutech.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8935699493184944",
+  "name": "Prudent Technologies Pvt Ltd",
+  "description": "Our vision is to lead the transformation of global communications, empowering enterprises and industries to innovate and connect seamlessly. We believe that effective communication drives progress, enabling organizations to bridge gaps and collaborate without boundaries. Through constant innovation and a focus on customer-centric solutions, we aim to create a world where communication fuels success in every sector.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ta"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/277786091_411511210783280_5426291736480704943_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=8kiUis2bRBoQ7kNvwHsjXVL&_nc_oc=Adl0mXNFGT1-_F_AZYmZSRJQGYrY-3a12NtTwR34R2aGeUbXzCmSBsaut_grQeLgd2c&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=V9l98hoZPAL6cQDvD7l9-A&oh=00_AfdtZcD2TNEwen9OSGwtFZNM8pkh4zXCP8auJnxQf1IQFw&oe=68E984A0"
+    },
+    "id": "411511217449946"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

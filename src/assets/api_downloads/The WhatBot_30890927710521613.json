@@ -1,0 +1,58 @@
+{
+  "company_website": "https://thewhatbot.com/",
+  "countries": [
+    "PK",
+    "AE",
+    "IN",
+    "GB",
+    "MY",
+    "US",
+    "ID"
+  ],
+  "id": "30890927710521613",
+  "name": "The WhatBot",
+  "description": "The WhatBot is your all-in-one, no-code chatbot platform for WhatsApp, Instagram, Facebook, and web. Automate marketing, sales, and support with AI (ChatGPT, Claude, Gemini), broadcasts, flows, and multi-agent inbox. Integrate Shopify, WooCommerce, Google Sheets, and APIs. Launch fast, scale confidently, and deliver instant, 24/7 customer conversations with implementation support nationwide.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Message Automation",
+    "Instagram Comments & DM Automation",
+    "Messenger Comments & DM Automation"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/555447981_122193540086546495_7223102961774605297_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=TcgVGnHybM0Q7kNvwEe2R53&_nc_oc=AdklTcX-dUTrOCSJErDeewgpFwss_97c_xnw5MlruDb1MDKpIyO8cdCx0E20E1StZVQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=qhJod4b3ZJy8D5Xm29sldQ&oh=00_Afffm9FGMVdYD2yM54ttnnr0Xto1PQ8lju7a5ivauPLTUQ&oe=68E98968"
+    },
+    "id": "122193540080546495"
+  },
+  "service_models": [
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

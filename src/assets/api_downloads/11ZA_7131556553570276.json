@@ -1,0 +1,46 @@
+{
+  "company_website": "https://11za.com/",
+  "countries": [
+    "IN",
+    "AE"
+  ],
+  "id": "7131556553570276",
+  "name": "11ZA",
+  "description": "11za is Saas based solution connected with WhatsApp Business API. With Features like Multiple Agents Access, Auto Reply, Interactive Messages, Bulk Broadcast campaign etc. Our Platform works as a CRM tool for MSME Business to organize their customer conversation at one place.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Bots, Automations, Integrations with 100+ Apps.",
+    "WhatsApp API integrations, Commerce",
+    "Deliver Exceptional Customer Support"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481121690_557077787358066_770320084935228512_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=6o0celZ43OsQ7kNvwGc0WMM&_nc_oc=AdlgDrInFWa9laolGKVOyf_Dk27FYWT1orNS41Yocb3L7tJJQG24Au5-9Gee_YaTbzg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=IVFmF883mG9fll0DuNs1EQ&oh=00_AfdChgQ0Dnypn-NFeh9SWQXwIYQAnVfCxMWFnDmb2hCJjQ&oe=68E99EFC"
+    },
+    "id": "372768959122284"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

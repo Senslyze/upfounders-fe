@@ -1,0 +1,34 @@
+{
+  "company_website": "https://everpro.id/",
+  "countries": [
+    "ID"
+  ],
+  "id": "24566534526281202",
+  "name": "PT Setiap Hari Dipakai - Everpro",
+  "description": "Everpro adalah platform yang menyediakan solusi untuk para pebisnis online untuk meraih dalam mengembangkan usaha. Melalui layanan canggih dan lengkap. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "id",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/503649250_122162362760388170_3887211858902713909_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=YWgke_RFf4AQ7kNvwHRmzPn&_nc_oc=Admsynt8advqCq_kxjFGrpZ0LAgrPgJl48ZJewMEUHkXcFI1HtsT_KG4VWPMCcNXUL4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=SjpPAhhge0EtzKh3UnS2TQ&oh=00_AffcEbB8NQek9z4i0z0Jkq_n4mDsVAvOgr_iAUBY-DrsKA&oe=68E99593"
+    },
+    "id": "122162362748388170"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

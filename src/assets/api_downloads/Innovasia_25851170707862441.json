@@ -1,0 +1,49 @@
+{
+  "company_website": "https://innovasia.id/",
+  "countries": [
+    "ID"
+  ],
+  "id": "25851170707862441",
+  "name": "Innovasia",
+  "description": "Perusahaan startup teknologi yang menghadirkan solusi pembayaran dan pengelolaan data & pelanggan berbasis WhatsApp Terverifikasi\n\nKami berdiri dengan komitmen\nKami yakin, masa depan transaksi dimulai dari percakapan dan WhatsApp akan menjadi ruang utama di mana semua itu terjadi.\n\n1. Inovasi Fokus berbasis WhatsApp\nBerinovasi sepenuhnya dari basis data pelanggan WhatsApp. Bukan menjadi omnichannel, bukan multi-platform.\n\n2. Inisiator Perubahan\nInnovasia hadir bukan hanya sebagai solusi teknis, tapi sebagai inisiator perubahan. Kami ingin bisnis tak lagi bingung antara komunikasi dan pembayaran. Semua terhubung, semua terstruktur, semua bisa dieksekusi, cukup dari satu ruang: WhatsApp.\n",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Data & Customer Hub > Membangun profiling pelanggan secara otomatis berbasis interaksi dalam percakapan",
+    "Customer Journey > Mempersingkat dan mempermudah perjalanan pelanggan saat berinteraksi dengna bisnis tanpa tambahan aplikasi cukup di WA",
+    "Payment On WhatsApp > Menghadirkan pembayaran dalam percakapan, memudahkan konversi tanpa berganti aplikasi"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "EDUCATION",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "GOVERNMENT_AND_POLITICS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/418287843_284320667959086_5644148866466629003_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WGMHRI5Hz9MQ7kNvwEmJbSL&_nc_oc=AdmyJFAv8_8lyxfqOgwYy1dhLiqnQQY1c0eoFGiDf57TAAitnpKFUe2TOH2e1z1egb0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=fP6xm5R0OdMeYn9cPE63yQ&oh=00_Aff_LrerG0uUwmT8Vr790wdasCxDr88Qoi2nSUIje-ixuA&oe=68E99C5A"
+    },
+    "id": "122102037002177190"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

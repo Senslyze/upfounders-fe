@@ -1,0 +1,50 @@
+{
+  "company_website": "https://www.jambolive.tv/",
+  "countries": [
+    "TW",
+    "MY",
+    "SG",
+    "HK",
+    "TH"
+  ],
+  "id": "6604551279576809",
+  "name": "JamboLive",
+  "description": "JamboLive, one of the best order management service of live streaming in south eastern Asia Pacific and Top 1 player in Taiwan with 100% accuracy with advanced technology. The orders could be gathered via various social media platforms into one back-end. Including special assistance for sales & marketing. Furthermore, creating promotional campaigns and participation to customers.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "live Commerce",
+    "Social Commerce",
+    "E-Commerce"
+  ],
+  "industries": [
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "th",
+    "ms",
+    "zh"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/477447075_1642207616679974_2986729183058587908_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=2wQHSlPAeLoQ7kNvwFB4c9n&_nc_oc=AdliL4Uo6OpRpHH7R4zn_XXr71FzNnyIuioCPDMQu8-l-zKmUz6WjruTmhnIsuCGIsM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=e_l0h8h98_W7LZBro4WWMA&oh=00_AffZdmM3hVTXSQ-Ch92KVULUfRdUXsDKERpkQnh0m1nzdQ&oe=68E9B8B4"
+    },
+    "id": "1270723207161752"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

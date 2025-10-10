@@ -1,0 +1,44 @@
+{
+  "company_website": "https://www.chatbee.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "5985704784858100",
+  "name": "Chatbee Soluções Inteligentes",
+  "description": "ChatBee has the complete solution for your company to serve your customers quickly and efficiently. High service availability. Offer an efficient and agile service to your customers, in several contact channels, at any time of the day. Optimize your service operation with automatic and intelligent distribution of contacts and streamline your team's work. Automate interaction with customers, answering frequently asked questions and providing basic information about products and services. Track the performance of your operation with metrics and indicators, and optimize your service with accurate reports. With the ChatBee platform, it is possible to reduce operational costs, such as the need to maintain multiple teams and service tools. Store important information about your customers and their preferences to customize your approach and improve your effectiveness.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Support",
+    "Sales",
+    "Omnichannel"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484210589_681875357866716_4075255165657854587_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=6QBzBTwk4MwQ7kNvwF4Wh22&_nc_oc=AdlVC4W_dWSf27FTvA3M4pcUsJM1JVmwxDBUNqXfQVQGLp_RrUWL9GVGLeBQDBeIdLg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=pD74xiFexRO00Zx6UW2vDw&oh=00_AfcV_NxKeQAsLrA2nAQvqxflwg52EdemM4-nNUoBvuvdMQ&oe=68E99D81"
+    },
+    "id": "657279320326320"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

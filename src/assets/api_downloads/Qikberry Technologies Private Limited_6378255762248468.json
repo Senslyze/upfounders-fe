@@ -1,0 +1,54 @@
+{
+  "company_website": "https://qikberry.ai/",
+  "countries": [
+    "IN"
+  ],
+  "id": "6378255762248468",
+  "name": "Qikberry Technologies Private Limited",
+  "description": "Qikberry offers a diverse array of solutions leveraging the WhatsApp Business API. Qikberry serves as a Smart WhatsApp Engagement Platform, facilitating businesses in broadcasting messages, automating notifications, and addressing customer support needs efficiently. Qikberry assists service providers, media agencies, resellers, and technology enablers with WhatsApp Business API-centric solutions through the WhatsApp Cloud API.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API",
+    "Integrated communication across multiple channels",
+    "Messaging for notifications and OTP's"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481660418_1095179509288132_6036029685781328351_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=83tKmcqpdhUQ7kNvwGHL8DA&_nc_oc=AdnxzOHYdEIzJ4OWnSUppBTXl8vAH26bVfU0XUyk45N5MqYsM9_4C-xhoIZlv7eMhlg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=SjpPAhhge0EtzKh3UnS2TQ&oh=00_AfezsEDE2gc6sAmqt5sCyGDpIjYiy7fqxY1o4VGVSq2HUw&oe=68E9A0B5"
+    },
+    "id": "1095179505954799"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

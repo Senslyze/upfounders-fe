@@ -1,0 +1,57 @@
+{
+  "company_website": "https://notificamehub.com.br/",
+  "countries": [
+    "BR",
+    "AR",
+    "UY",
+    "IN"
+  ],
+  "id": "8224138551025477",
+  "name": "NotificaMe Hub",
+  "description": "O NotificaMe Hub é uma plataforma que centraliza diversos canais de comunicação, como WhatsApp, Facebook, Instagram e outros, em um único ambiente. Isso permite que empresas e equipes gerenciem interações com clientes de forma mais eficiente, utilizando atribuições automáticas de chats e anotações internas. \nNOTIFICAME HUB\n\nAlém disso, o NotificaMe Hub oferece integrações com serviços como Salesforce e HubSpot, facilitando fluxos de trabalho aprimorados, re-marketing e promoções direcionadas. A plataforma também possibilita o envio de mensagens em massa via API do WhatsApp Business e a realização de pagamentos instantâneos diretamente pelo chat. \nNOTIFICAME HUB\n\nPara desenvolvedores, o NotificaMe Hub disponibiliza APIs robustas e documentação detalhada, simplificando a integração de notificações em aplicativos. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/470187422_122183320466137345_6967741576110804414_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=6SRJDAOHDGUQ7kNvwGHW0Y9&_nc_oc=AdkbovGMBSI5OV0gsfCkSugQP9-BHl35GRIr9eogbvgPHl4eXOc15dzcE25ptUbT4Uw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AfeEwq8tE6USZu_Uir8tCzwqk8iDfmFUnjCBjRDN4BLDKQ&oe=68E98332"
+    },
+    "id": "122114446664137345"
+  },
+  "service_models": [
+    "HOURLY",
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

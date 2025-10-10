@@ -1,0 +1,41 @@
+{
+  "company_website": "https://www.pedbot.net/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7549875831740686",
+  "name": "PedBot",
+  "description": "Pedbot is the largest service and relationship platform in the Brazilian health and pharmaceutical market. We are a startup founded by curious young people who believe that technology and innovation can change the world. We aim to empower companies through technology, enabling them to offer the best conditions and services to consumers.\n\nIn a short time in the market, we have developed two solutions focused on the pharmaceutical industry: PedApp and PedBot. By leveraging advanced technology and a customer-centric approach, we have brought these solutions to hundreds of companies across all Brazilian states, enabling millions of people to shop from home and receive personalized service.\n\nAs we continue to grow, we increasingly believe that success is not just about technology or companies—it’s about enhancing people’s lives!\n\nPedbot recently partnered with Funcional Health Tech, one of the largest health technology companies in Brazil",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Service",
+    "Marketing",
+    "Sales"
+  ],
+  "industries": [
+    "RETAIL",
+    "HEALTHCARE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/274184348_502849764875032_6308385491005243262_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4W7H9NBXc7gQ7kNvwFZxST6&_nc_oc=AdnenSAnQUSYTYyg1L72uXp7A6uFNMXeegjIJccwhjmN3BdgafUaDe5vbLupnZTj_HU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=acp7DzSwk5nCAo_LFkfQuA&oh=00_AfefjSaXfL4dWZg3LGobJLde_gRd2Fta2jND48EwGYBgIg&oe=68E98849"
+    },
+    "id": "471579901656012"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

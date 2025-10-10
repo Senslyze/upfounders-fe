@@ -1,0 +1,86 @@
+{
+  "company_website": "https://materiais.robbu.global/whatsapp-calling",
+  "countries": [
+    "BR",
+    "ES",
+    "PT",
+    "VE",
+    "UY",
+    "SR",
+    "PE",
+    "PY",
+    "PA",
+    "NI",
+    "MX",
+    "HN",
+    "GY",
+    "GT",
+    "SV",
+    "EC",
+    "CR",
+    "CO",
+    "CL",
+    "BO",
+    "BZ",
+    "AR"
+  ],
+  "id": "225426795144832",
+  "name": "Robbu  - Positus Provider",
+  "description": "Robbu’ communications platform allows clients of any size to embed their messaging (SMS, email, Whatsapp, Webchat, RCS, Viber, Email, Telegram, SMS, and voice) to customize how businesses communicate with their clients. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Messaging",
+    "Chatbots",
+    "Omnichannel"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "it",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482015969_122160383054431865_3977391537194212383_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=-8-tBhx9cFgQ7kNvwHvidUk&_nc_oc=Adl92sKRPj9YD0WXmj-otH1CWIHOEuTcMo66CMnnPAotbSy5-gMCTPSOYp0HoljXLlU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5TMVtLa4bE8yik3AEzkT7Q&oh=00_AffL23ZiwLqY3VGUeW84AkcbAQpM0BpnPekYCpGsqY_UVg&oe=68E9A42A"
+    },
+    "id": "122160383048431865"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "WA_PAYMENTS_API"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,46 @@
+{
+  "company_website": "https://escale.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "3662284163823616",
+  "name": "Escale Tecnologia e Marketing",
+  "description": "At Escale, we specialize in digitizing complex acquisition journeys. We combine our proprietary technology and UX expertise with an advanced technology and data platform, leveraging the potential of generative AI to maximize your lead performance. We use our innovative solutions to create personalized and engaging user experiences, significantly enhancing the effectiveness of online marketing and sales campaigns. Our integrated approach ensures that every digital touchpoint is optimized to convert visitors into customers, increasing conversion rates and lowering CAC, delivering exceptional results for our partners and clients.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Performance-Focused Digital Sales Solutions",
+    "Integration of AI with WhatsApp for Enhanced Customer Engagement",
+    "Comprehensive One-Stop-Shop (Platform, Channels, Integrations, and Chatbot)"
+  ],
+  "industries": [
+    "HEALTHCARE",
+    "TECHNOLOGY",
+    "TELECOM",
+    "EDUCATION",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480250389_581922008175712_8635913641915572945_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Y5nktli1L3IQ7kNvwEtsE-p&_nc_oc=AdlsdvIgcEbm3hsHjNYHoeYX5wj3qLaW3YkvFz7gf8IqagljQeOXSHnITSQ6M1CBots&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_AfefOLDMoKnxn8VFZMJdP-jUl-Re0k72RZm_EIypL620nQ&oe=68E987A0"
+    },
+    "id": "540303485670898"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

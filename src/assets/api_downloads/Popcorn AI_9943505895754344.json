@@ -1,0 +1,67 @@
+{
+  "company_website": "https://trypopcorn.ai/",
+  "countries": [
+    "SA",
+    "AE",
+    "US",
+    "GB",
+    "FR",
+    "OM",
+    "BH",
+    "QA",
+    "KW",
+    "RO"
+  ],
+  "id": "9943505895754344",
+  "name": "Popcorn AI",
+  "description": "Popcorn AI is the conversational commerce platform that transforms how businesses sell and serve customers through messaging. Our intelligent AI agents enable businesses to accept orders, handle customer support, and drive revenue across WhatsApp and other messaging channels. We're building the infrastructure for the future of commerce as customers increasingly prefer messaging over traditional e-commerce experiences. Our AI agents understand commerce, speak naturally with customers, and seamlessly integrate with business systems to turn conversations into measurable revenue. The platform includes WhatsApp Business API integration, deep e-commerce platform connections Shopify, Zid, Seller, marketing automation, team collaboration tools, and comprehensive analytics with revenue attribution. Using our flexible credit system, businesses can scale conversational operations while reducing complexity through intelligent automation.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Conversational Commerce AI Agents: Intelligent AI agents trained for e-commerce that handle orders, support, and drive sales through chat.",
+    "E-commerce Platform Connectivity Seamless integration with Shopify, Zid, Salla with automated order creation, and payment coordination.",
+    "Native WhatsApp Business API integration with multi-number management, message routing, and rich media support."
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "GOVERNMENT_AND_POLITICS",
+    "ENTERTAINMENT_AND_MEDIA",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "da",
+    "nl",
+    "en",
+    "fr",
+    "de",
+    "es-419",
+    "es",
+    "ru",
+    "ro",
+    "pt",
+    "sv"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/517401693_122229941150183700_5867821582224452912_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=iab38b2QVaoQ7kNvwEFJ4qe&_nc_oc=AdlQx2IS0I7Rdfi9s0lAIKBxXkFiUwDUwY41umfp9_CMolvkdgFKeZP8nNn9mQIKu_U&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=x6E-FTCghcoWnNP8wOnMGQ&oh=00_AfepgJr7fx_7faEjjg2nQ0zO09DVUb5QU67l25390h2Qlg&oe=68E9869B"
+    },
+    "id": "122229941144183700"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

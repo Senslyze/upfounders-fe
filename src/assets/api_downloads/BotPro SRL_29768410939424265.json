@@ -1,0 +1,59 @@
+{
+  "company_website": "https://botpro.ai/",
+  "countries": [
+    "DO",
+    "US",
+    "GT",
+    "MX",
+    "HN",
+    "SV",
+    "CO",
+    "PA",
+    "PE",
+    "EC",
+    "BO",
+    "CL",
+    "ES"
+  ],
+  "id": "29768410939424265",
+  "name": "BotPro SRL",
+  "description": "BotPro is a B2B company specialized in omnichannel communication tools, including META solutions. It offers an advanced portfolio that facilitates the adoption of SMS, email, voice notifications, and AI chatbots. Its value proposition includes both software and consulting services, ensuring a relevant and effective experience for corporate clients and public service institutions. BotPro focuses on optimizing digital communication and strengthening relationships with users through a personalized and strategic approach.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel IA ChatBot ",
+    "Omnichannel livehelp",
+    "Generative IA ChatBot"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es",
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/506454862_122158747544525639_2735350588065025197_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=gDxKlLjsPwQQ7kNvwHqBGOH&_nc_oc=Adl9XC4O3Fg_qMzhftjmGLp3GjaEib-AHNQEEPvHjkfQNq3bRbOrY3Kqh63247g8LQI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_Afd0HRlzLmqoV79Q3Q1ZwLhLiExW4dcVF0kt8RrQYu4Xmw&oe=68E9921B"
+    },
+    "id": "122158747538525639"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

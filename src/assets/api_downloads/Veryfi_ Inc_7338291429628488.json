@@ -1,0 +1,47 @@
+{
+  "company_website": "https://www.veryfi.com/",
+  "countries": [
+    "CO",
+    "US",
+    "BR",
+    "MX",
+    "PE",
+    "AE"
+  ],
+  "id": "7338291429628488",
+  "name": "Veryfi, Inc.",
+  "description": "Veryfi empowers businesses with AI-driven data extraction solutions, transforming unstructured documents into structured data in real time. Our cutting-edge technology automates receipt, invoice, and document processing, eliminating manual data entry and reducing errors. Through our WhatsApp automation solutions, we enhance customer engagement by enabling loyalty programs, instant rewards campaigns, and seamless document validation. Companies leverage Veryfi’s API and SDKs to integrate AI-powered OCR, boosting efficiency across finance, retail, and logistics. Our WhatsApp bots simplify customer interactions, automating tasks like purchase verification, rewards redemption, and identity validation. Trusted by global enterprises, Veryfi accelerates workflows, improves accuracy, and delivers superior customer experiences. With a focus on innovation, we provide businesses with the tools they need to streamline operations and drive growth effortlessly",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Loyalty Programs and Campaigns",
+    "AI OCR Extraction for Receipts and Promotional Codes"
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "FINANCIAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/474874851_122159645576348837_3811508466560598157_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=AnHjau2AXPAQ7kNvwHxWuqI&_nc_oc=AdkMYiOpbXP6l9eRtpZxiiviBOY2kkIz8x53MD3glcNImSAckMlGN4APwEE5cT5-d0U&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ugVqchM8pFxIY8LZWG_76Q&oh=00_Afdpa3yI6TL70C7gRndR6u_30YBc99P5VSQGNMsfCrObwQ&oe=68E9875E"
+    },
+    "id": "122159645570348837"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

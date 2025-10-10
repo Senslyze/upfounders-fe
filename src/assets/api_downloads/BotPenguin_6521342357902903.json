@@ -1,0 +1,99 @@
+{
+  "company_website": "https://botpenguin.com/",
+  "countries": [
+    "IN",
+    "US",
+    "AE",
+    "GB",
+    "BR",
+    "CA",
+    "CR",
+    "HR",
+    "CU",
+    "FR",
+    "DE",
+    "HK",
+    "ID",
+    "IT",
+    "IL",
+    "MY",
+    "MX",
+    "NZ",
+    "PK",
+    "PL",
+    "PT",
+    "SG",
+    "ZA",
+    "KR",
+    "ES",
+    "LK",
+    "UA",
+    "TR",
+    "CH",
+    "SE"
+  ],
+  "id": "6521342357902903",
+  "name": "BotPenguin",
+  "description": "BotPenguin is the generative AI-powered, no-code chatbot builder that aims to provide uniquely crafted intelligent chatbot solutions for lead generation, appointment booking, customer support, and more, that cater to your business needs. \nWith over 80+ third-party native app integrations. BotPenguin serves, over 40000+ businesses worldwide providing seamless integration across multiple channels like WhatsApp, Instagram, and Facebook with a unified inbox. Enable live chat support across all channels to handle customer queries efficiently. \nThread the path of Automation with BotPenguin to improve efficiency, reduce cost, save time, and provide a better customer experience.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI Bot Training: Enhance customer engagement by giving your AI chatbot a custom personality and training it on your data.",
+    "Marketing Automation: Effortlessly execute Broadcasts and Drip Campaigns via WhatsApp, Facebook, and Instagram to generate more leads",
+    "Appointment Bookings: Enable direct appointment bookings through the bot."
+  ],
+  "industries": [
+    "EDUCATION",
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ar",
+    "nl",
+    "fa",
+    "de",
+    "el",
+    "he",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "ms",
+    "zh",
+    "pl",
+    "pt",
+    "ro",
+    "ru",
+    "es-419",
+    "es",
+    "tr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/454579494_950034700470049_4110555716132616059_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aPfUCsZ9dvYQ7kNvwFgewe_&_nc_oc=AdkF51aAY_WCSQIc2bpa2OGEoSNpXyYx6-yUxbtqjYqykY2NLCTv8CNzetgQahglbrU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_AfexlAWjeI-M2e7ZM0l2xZT1sRj4h1PuNt5QSy4vv3LImw&oe=68E990F6"
+    },
+    "id": "950034703803382"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

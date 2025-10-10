@@ -1,0 +1,60 @@
+{
+  "company_website": "https://ahachat.com/",
+  "countries": [
+    "VN",
+    "TH",
+    "PH"
+  ],
+  "id": "4405847059459330",
+  "name": "AhaChat",
+  "description": "AhaChat, a chatbot company, lets people create Messenger bot for marketing, sales and support. It`s easy and free. AhaChat powers over 50'000 bots on Facebook Messenger and is the leader in Messenger Marketing space of Vietnam.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Chatbot Viral",
+    "Messenger Marketing",
+    "Messenger Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "RETAIL",
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "vi",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/336644547_491496833192254_2043550897017924784_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=W_wcoIRYD2MQ7kNvwHqDh8e&_nc_oc=AdmMvEll6bu6dlIlE1Tf_3AOFcwt0adz4-BSKsT3tGgXte-5KJgmVswDXNgcdPFuEOE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWvqlnnmQ-zlOloXIqaVdg&oh=00_AffKRxzq3LjDfZTO3MT_G_LSNngx-2-88pPkvDh6eVMnnQ&oe=68E99A77"
+    },
+    "id": "621697683303577"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "MARKETING_MESSENGER_ONLY",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

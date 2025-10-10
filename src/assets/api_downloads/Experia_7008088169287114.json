@@ -1,0 +1,65 @@
+{
+  "company_website": "https://experiaapp.com/",
+  "countries": [
+    "SA",
+    "KW",
+    "BH",
+    "QA",
+    "AE",
+    "OM",
+    "JO",
+    "EG",
+    "MA"
+  ],
+  "id": "7008088169287114",
+  "name": "Experia",
+  "description": "Customer Engagement platform and API with zero-code automation capabilities.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "messaging",
+    "automation",
+    "live agent"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476917257_510054952118733_4898099917597177813_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=g7uA1wuEQe8Q7kNvwFMV3Ey&_nc_oc=AdkcyrBJovS9RFSEByJ9jn5zy8T6YB2OUeJlDx7p-lk9E-sAJyc-tjZsKv11PUbRY7I&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_AfdwZu6GqRl0M7jnci6xuzkWarceM-FAHG-oCdZ7RFP83w&oe=68E99CA2"
+    },
+    "id": "420617347729161"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,97 @@
+{
+  "company_website": "https://botmaker.com/en/channels/whatsapp/",
+  "countries": [
+    "VE",
+    "UY",
+    "PE",
+    "PY",
+    "PA",
+    "MX",
+    "HN",
+    "GT",
+    "SV",
+    "EC",
+    "DM",
+    "CR",
+    "CO",
+    "CL",
+    "BR",
+    "BO",
+    "AR",
+    "US",
+    "DO",
+    "CA",
+    "FR",
+    "ES",
+    "PT",
+    "GB",
+    "VI",
+    "UM",
+    "PR"
+  ],
+  "id": "439246419792656",
+  "name": "Botmaker",
+  "description": "Botmaker is a sales and customer service automation platform.\n\nWe are an official WhatsApp Solution Provider, Instagram and Messenger Partner. Our bots work fully automated or in combination with live chat.\n\nWe serve a wide arrange of verticals in Latin America, United States and Europe, from large media outlets to financial services, telecommunications, consumer packaged goods, retail, travel and government.\n\nOur platform works for bots in Spanish, Portuguese, English and French.\n\nWe currently serve clients in the United States, Argentina, Brazil, Chile, Colombia, Ecuador, Costa Rica, Dominicana, Honduras, Panama, Peru, Spain, Uruguay among others.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sales Automation",
+    "Customer Service Automation",
+    "Help Desk Automation"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "TELECOM",
+    "TECHNOLOGY",
+    "GOVERNMENT_AND_POLITICS",
+    "ECOMMERCE",
+    "ENTERTAINMENT_AND_MEDIA",
+    "HEALTHCARE",
+    "RETAIL",
+    "TRAVEL",
+    "EDUCATION",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/261449074_1567219780293021_6910851933319082241_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=H_W6hYax3ycQ7kNvwFr6jiZ&_nc_oc=Adl8ICSUuC3gyf_1145lZMVxpN-6Iwu1HIs9eBeMQvbJ9ogQ4t4G2ThHQBc3k5hOwEM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_AffzLEI03Oe2DuX4WQdJ2oiF87yWwwFYHO0UPezRrnFp-A&oe=68E9B6EC"
+    },
+    "id": "749152957214567"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "WA_PAYMENTS_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

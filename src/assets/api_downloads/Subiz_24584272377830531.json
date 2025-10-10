@@ -1,0 +1,37 @@
+{
+  "company_website": "https://subiz.com.vn/",
+  "countries": [
+    "VN",
+    "TH",
+    "ID",
+    "PH"
+  ],
+  "id": "24584272377830531",
+  "name": "Subiz",
+  "description": "Chúng tôi là những chuyên gia trong lĩnh vực cung cấp các giải pháp đột phá trong tương tác giữa doanh nghiệp và khách hàng.\n\nSubiz là nền tảng giao tiếp khách hàng, giúp các doanh nghiệp trên toàn cầu đem đến trải nghiệm khách hàng tuyệt vời. Chúng tôi biến các tương tác trong bán hàng, chăm sóc khách hàng, marketing và quản lý trở nên thuận tiện và hiệu quả.\n\nSubiz luôn nghiên cứu và phát triển sản phẩm để mang đến những giá trị vượt trên những kỳ vọng cho doanh nghiệp của bạn!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Giao tiếp khách hàng"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "vi",
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

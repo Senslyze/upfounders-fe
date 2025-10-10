@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.crmbonus.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "23909523832042639",
+  "name": "CRMBonus",
+  "description": "A CRMBonus é uma plataforma que utiliza dados e inteligência artificial para maximizar as relações de empresas com seus clientes, transformando cada interação em mais geração de valor para todas as partes envolvidas: crescimento para negócios e felicidade para consumidores.\n\nCriada em 2018 com o lançamento do Giftback, uma inteligente e eficiente solução de retenção para o varejo, hoje a CRMBonus apoia a empresas de todos os setores e tamanhos a também atrair e engajar clientes com mais duas avenidas de soluções: o Vale Bonus e o CRM Ads.\n\nA CRMBonus tem hoje mais de 350 especialistas que se dividem entre São Paulo e Joinville, e já levantou R$ 680 milhões de alguns dos mais respeitados fundos de investimento em venture capital como BOND, Igah, Riverwood, Softbank e Valor Capital Group.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing",
+    "Varejo",
+    "E-commerce"
+  ],
+  "industries": [
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/442410412_489448570272200_9141843250962850620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oQq4cDeHJwMQ7kNvwGlzc5_&_nc_oc=AdlgkRqpD1GKorR2hG5NalI-BWp51q0-aHZaeZ_YC0hQ9jA5sfAL7M7_74ahDWNFKpA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=m9LXemYda8B3phk9BLNmcg&oh=00_AfcWVJeJBEkMyNhhj9u50GAB5nziA5jK7DSNW27Cx2L0DQ&oe=68E9A51B"
+    },
+    "id": "489448573605533"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

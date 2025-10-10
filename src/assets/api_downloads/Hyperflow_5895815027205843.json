@@ -1,0 +1,53 @@
+{
+  "company_website": "https://hyperflow.global/",
+  "countries": [
+    "BR"
+  ],
+  "id": "5895815027205843",
+  "name": "Hyperflow",
+  "description": "O Hyperflow é uma das plataformas pioneiras em hiperautomação, que oferece um conjunto de tecnologias com alto poder de integração: inteligente, ágil e não invasiva. \nCom o Hyperflow você orquestra seus processos de negócio na velocidade que a sua empresa precisa: low-code, drag’n’drop e visão end-to-end.\n\nA tecnologia está transformando o mundo. Nós estamos transformando a forma de fazer tecnologia. Venha fazer parte desta transformação.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Integration Platform as a Service",
+    "Conversational Platform as a Service",
+    "WhatsApp Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ECOMMERCE",
+    "TELECOM",
+    "RETAIL",
+    "FINANCIAL_SERVICES",
+    "ENERGY_AND_UTILITIES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/316821870_105903865688798_5747675579162862914_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=tCIO5OSWjboQ7kNvwHJbCBw&_nc_oc=AdnuR7qL_eSqOyHH-RJTVzVQqBvbkoqAY0OFRkqLK91qavN9IP0JKrsZSD6G3MHBzzI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AffH3FTZ8CQOGspBkEqNy7aIKrk-tpvuwfwreHrm07BOYw&oe=68E98347"
+    },
+    "id": "105903869022131"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

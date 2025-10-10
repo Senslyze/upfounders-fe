@@ -1,0 +1,26 @@
+{
+  "company_website": "https://instaleap.io/",
+  "countries": [],
+  "id": "7410536229036932",
+  "name": "Instaleap LLC",
+  "description": "We are the #1 platform for Supermarkets, Pharmacies and other Retailers to boost their online operations.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "tech",
+    "Retail",
+    "Supermarkets"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": null,
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

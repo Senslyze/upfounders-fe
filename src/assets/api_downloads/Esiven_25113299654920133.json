@@ -1,0 +1,44 @@
+{
+  "company_website": "https://antecit.com/",
+  "countries": [],
+  "id": "25113299654920133",
+  "name": "Esiven",
+  "description": "Creamos integraciones personalizadas y escalables entre diferentes sistemas, plataformas y herramientas, permitiendo que todos los procesos de tu negocio estén perfectamente conectados.\nIntegramos desde sistemas internos (ERP, CRM, POS, etc.) hasta plataformas como WhatsApp Business, Facebook, Instagram, entre otros.\nIntegramos  inteligencia artificial\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/508590360_122102563538909244_2516172963712222490_n.webp?stp=dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ry4nQjj8hS4Q7kNvwEHzFrJ&_nc_oc=Adk5_Z6xWMLgPmmNU-eyDj6FGbj0ZqZ_MU6lqbWIBdHdTzHTiLnOHVNxF5wd44uBcew&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_AfdV_fMnaqjK2V0vW1OAbDXVamulQguxY3nkHOj4MwMULA&oe=68E99D0C"
+    },
+    "id": "122102563532909244"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

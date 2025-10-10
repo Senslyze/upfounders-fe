@@ -1,0 +1,48 @@
+{
+  "company_website": "https://trustsignal.io/",
+  "countries": [
+    "IN",
+    "AE",
+    "US"
+  ],
+  "id": "8038121069548973",
+  "name": "TrustSignal",
+  "description": "We focus on giving you a great platform with programmable APIs that\nmakes integration easy while helping you reach, manage and engage your customers instantly.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "SMS",
+    "WhatsApp Messaging",
+    "RCS Messaging"
+  ],
+  "industries": [
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484349661_614892434707887_6760481190556433915_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=O1enllkGLowQ7kNvwEKUUnz&_nc_oc=Adluh4jw3pa1xH0wkrjpN7R0xSY546fOkQxh-pEWFIsEgC9WN0RjSrKbajVDFwfmG2E&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=p8KUFaKq8BKZlajJHmq2Jw&oh=00_Afe-BUO8osl6Fx5Ay-SFga_aIMZOY03ME7LzdIlHufpGmw&oe=68E9976F"
+    },
+    "id": "409911675205965"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,55 @@
+{
+  "company_website": "https://www.fast2sms.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "10055413047913271",
+  "name": "Fast2SMS",
+  "description": "Fast2SMS is a trusted provider of bulk SMS services, ensuring quality and reliability in every message. Since 2011, we’ve been helping businesses efficiently connect with customers through scalable, cost-effective messaging solutions.\n\nWe offer multi-channel API integration with SMS, RCS, and WhatsApp Business API, allowing businesses to reach their customers through diverse platforms. Our flexible pay-as-you-go pricing model ensures businesses only pay for what they use, with no monthly fees, making it a perfect fit for companies of all sizes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CPaaS Platform with multiple channel support",
+    "WhatsApp Marketing Automation",
+    "Programmable APIs: WhatsApp, RCS & SMS APIs"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469524926_605182745794875_7518079360687297212_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=oucqiTCPb-4Q7kNvwEr2pzi&_nc_oc=Adm29JGDJAi-LmZNZbTim3vb9lLXQAEWz536kpIZzxWo_PW1a_P1EwqHEgj-AhU8dgc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0LyUokF9docYtuUj5UeRAQ&oh=00_Afek3NoQI68UqQGYWdfK7MRsYAtcUNZY-kWkHL_KqCkPzg&oe=68E989E6"
+    },
+    "id": "109012572078564"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

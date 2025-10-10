@@ -1,0 +1,55 @@
+{
+  "company_website": "https://msg24x7.com/",
+  "countries": [
+    "AU",
+    "IN",
+    "US",
+    "MY"
+  ],
+  "id": "24602422779372801",
+  "name": "MSG24x7 Communications by Digintra Inc.",
+  "description": "MSG24x7 Communications by DIGINTRA Inc. is a global leader in WhatsApp Business API solutions, trusted worldwide. Our platform enhances digital engagement for enterprises and SMBs with key services such as message broadcasting, automated notifications, and comprehensive customer support. MSG24x7 also caters to a diverse clientele, including service providers, media agencies, and resellers, providing them with advanced automation tools, live chat capabilities, and AI-powered chatbots. Specializing in tailored communication strategies, we focus on industries like real estate, jewelry, and education, optimizing WhatsApp to drive business growth and improve engagement.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API Onboarding Services",
+    "Whatsapp Engagement Platform : Helping enterprises with WhatsApp Broadcasting Automation, Inbox, Chatbots & CTWA",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/486564363_1859605018136459_1221874555076723683_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=0b0tLJJVas8Q7kNvwFTIcnk&_nc_oc=AdkuV_QAkmpo4nb0Vpv2jtXK5r92wFTi5kFBBwmt_hU9xQg1dG0Al0mqRtvQxyCAO5Q&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=93YjJ8IP7dCrLm-op7JfNA&oh=00_Afd9UcX9OBUXuj9zJoMiYFogtGUbLNmOLRgxrl9oB-QVsQ&oe=68E98DD8"
+    },
+    "id": "1674866773276952"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

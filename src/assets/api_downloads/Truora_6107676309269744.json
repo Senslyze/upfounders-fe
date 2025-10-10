@@ -1,0 +1,63 @@
+{
+  "company_website": "https://www.truora.com/en/products/whatsapp-engagement?utm_source=metapartner",
+  "countries": [
+    "CO",
+    "MX",
+    "BR",
+    "CL",
+    "US",
+    "CA",
+    "AR",
+    "PE",
+    "EC",
+    "SV",
+    "GT",
+    "CR",
+    "PA"
+  ],
+  "id": "6107676309269744",
+  "name": "Truora",
+  "description": "Increase your sales and customer engagement levels with Customer Engagement by Truora\n\nOur no-code solution enables you to create engaging WhatsApp conversations with your users, enhancing their experience and driving greater conversion rates and engagement. \n\n- Create WhatsApp chatbots in minutes and benefit from Artificial Intelligence models \n- Send campaigns and connect with your audience at the right time trough their favorite channel. \n- Reduce your operational costs by automating your sales processes with instant messaging. \n- Tailor your users experiences by scheduling customized responses or directing conversations to a virtual assistant.\n- Revolutionize the way you interact with your users by using AI and creating closer and more effective conversations with your users",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Artificial Intelligence to scale sales and customer support in WhatsApp",
+    "WhatsApp chatbots"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "GAMING"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "es",
+    "es-419",
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

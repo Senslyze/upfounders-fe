@@ -1,0 +1,36 @@
+{
+  "company_website": "https://routemobile.com/products/enhanced-business-messaging/whatsapp-business-solution/",
+  "countries": [
+    "TH"
+  ],
+  "id": "2385148295032185",
+  "name": "Kaojao",
+  "description": "",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Social Commerce",
+    "Multi-Channel Auto-Responder",
+    "Facebook Ads"
+  ],
+  "industries": [
+    "RETAIL",
+    "ECOMMERCE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "th",
+    "zh"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,71 @@
+{
+  "company_website": "https://www.moveo.ai/",
+  "countries": [
+    "US",
+    "BR",
+    "GR"
+  ],
+  "id": "7350742304961218",
+  "name": "Moveo.AI",
+  "description": "Moveo.AI is a complete Customer Experience (CX) platform that brings Generative AI to the Enterprise. Our mission is to make complex AI technology accessible and simple to use, empowering enterprises to make the most of their data, scale their operations and offer immersive customer experiences. We use proprietary Large Language Models (LLMs) trained on historical and real-time data to create self-improving GenAI agents that deliver end-to-end customer and employee experiences.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Marketing & Automation",
+    "Customer Experience ",
+    "GenAI-powered automation"
+  ],
+  "industries": [
+    "EDUCATION",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "el",
+    "it",
+    "pt",
+    "es-419",
+    "es",
+    "zh-hans",
+    "ar",
+    "cs",
+    "de",
+    "fr",
+    "id",
+    "ja",
+    "nl",
+    "pl",
+    "ro",
+    "ru",
+    "sv",
+    "tr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480441140_1125785782664624_6693946543734617879_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vx7yOEMI-1oQ7kNvwFpoKDD&_nc_oc=AdmyReWjvU065y_HFcUX04QSmYQOBzbj7ejmwr4o-GmJ61DjDddxBzUURajwfXRhkZs&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=93YjJ8IP7dCrLm-op7JfNA&oh=00_Afd81O8PBKgGCC07dfx1jm220imri8l3zL0SQtG5wGfx2Q&oe=68E99140"
+    },
+    "id": "476620257581183"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

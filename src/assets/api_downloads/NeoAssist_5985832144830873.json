@@ -1,0 +1,51 @@
+{
+  "company_website": "https://www.neoassist.com/",
+  "countries": [
+    "BR"
+  ],
+  "id": "5985832144830873",
+  "name": "NeoAssist",
+  "description": "Plataforma de Atendimento Omnichannel\nSolução omnichannel para otimizar o atendimento da sua empresa e melhorar o relacionamento com seus clientes.",
+  "diverse_owned_identities": [
+    "BLACK",
+    "LGBTQ",
+    "LATINX",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento Omnichannel",
+    "Social Commerce",
+    "Chatbot "
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/424627785_1103748900776010_206211328243561372_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eePj9j-Agf0Q7kNvwEp4nIj&_nc_oc=AdlQxPllpACVLChmsowySCSCL8AKji_F8H75As7VtDig3PFzBTVwobIBFu0xjHnLaYA&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=4sG3fl4saIJO8rauww2XvQ&oh=00_AfcYIuRTa2wFQcoRxPf7aiCrIcCfSshuehVuKLX9Q4HMjQ&oe=68E9B986"
+    },
+    "id": "1103748904109343"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,123 @@
+{
+  "company_website": "https://www.take.app/",
+  "countries": [
+    "SG",
+    "MY",
+    "ZA",
+    "IN",
+    "JM",
+    "GB",
+    "AE",
+    "US",
+    "ID",
+    "PH",
+    "LK",
+    "FR",
+    "MX",
+    "NG",
+    "KE",
+    "BR",
+    "BN",
+    "CA",
+    "CM",
+    "CL",
+    "CD",
+    "CZ",
+    "EG",
+    "ET",
+    "FI",
+    "DE",
+    "GH",
+    "HT",
+    "HN",
+    "HK",
+    "IE",
+    "CI",
+    "IT",
+    "JO",
+    "LT",
+    "MW",
+    "MV",
+    "ML",
+    "MT",
+    "MU",
+    "MA",
+    "MZ",
+    "NP",
+    "NL",
+    "NZ",
+    "NO",
+    "PA",
+    "PE",
+    "PY",
+    "PG",
+    "PL",
+    "PR",
+    "RW",
+    "RO",
+    "SA",
+    "SI",
+    "SK",
+    "SO",
+    "ES",
+    "SR",
+    "TW",
+    "TZ",
+    "TH",
+    "TL",
+    "TR",
+    "UA",
+    "UZ",
+    "VN",
+    "ZW",
+    "VE"
+  ],
+  "id": "5550086555078592",
+  "name": "Take App",
+  "description": "Create ecommerce for WhatsApp. We simplify WhatsApp ordering and operations for merchants. ",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Ecommerce website and checkout",
+    "WhatsApp messaging workflow",
+    "ERP and CRM operations with WhatsApp"
+  ],
+  "industries": [
+    "RETAIL",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "fr",
+    "he",
+    "id",
+    "ko",
+    "zh",
+    "pt",
+    "ru",
+    "zh-hans",
+    "es",
+    "zh-hant-tw"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/367747647_789468646521443_2491241051618452937_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_SkZQbZ5MrwQ7kNvwEnRkbr&_nc_oc=Adlzo-Vr0o63jFv9YaXBbk7QpNVblCetwvkcOpOzHtYaw56gHimHKAH1WOJYF9ZoxoY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=z2zmwWRsrFIrWItxRgMTfQ&oh=00_Aff2BRt3ujzWjuHXGsJ79FSEhgnaylATt1RdjRXP1fRgEw&oe=68E9AE88"
+    },
+    "id": "789468649854776"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

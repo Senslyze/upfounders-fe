@@ -1,0 +1,55 @@
+{
+  "company_website": "https://xpressbot.org/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8007945982606187",
+  "name": "                      000000 API Platform by XpressBot",
+  "description": "XpressBot is revolutionizing the way businesses conduct operations on WhatsApp with its comprehensive marketing platform. This tool offers a wide range of features, including connecting to Telegram and WhatsApp chatbots, visual drag-and-drop flow builders, team member and segment management, and sales analytics tools.\n\nOne of the standout features of XpressBot is the WhatsApp Catalog, which allows businesses to create a full-fledged eCommerce store within Telegram for seamless selling. The tool also integrates OpenAI’s language processing technology for more personalized interactions and AI bot replies.\n\nXpressBot further enhances the user experience with WhatsApp Catalog integration, enabling businesses to showcase and sell products within WhatsApp easily. Additionally, the tool offers integration with third-party webhook providers such as Typeform, Google Forms, WooCommerce, and Shopify for sending messages to WhatsApp based on webhook data.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp",
+    "Messenger",
+    "Instagram"
+  ],
+  "industries": [
+    "TRAVEL",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469943836_122209095566075656_5647564254913903308_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=xdh0U01ePT4Q7kNvwH_b8v5&_nc_oc=Adkowwf6M1FemzmN9ePMst9cTg2AQgAo1pjLiNT0XsM0z2vwUQWXwnb6MLCdBlIkD2A&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=-6Fl0GitYnzUOW2mTL0lOw&oh=00_AfcG9QwVbyZCYZ4uHrPb-oinwVBRLr5UfsvAyE9LMsh0NA&oe=68E9B2D4"
+    },
+    "id": "122120024102075656"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

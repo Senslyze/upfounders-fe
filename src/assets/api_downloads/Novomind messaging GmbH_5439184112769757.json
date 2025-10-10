@@ -1,0 +1,29 @@
+{
+  "company_website": "https://www.novomind-messaging.com/",
+  "countries": [],
+  "id": "5439184112769757",
+  "name": "Novomind messaging GmbH",
+  "description": "We, novomind messaging GmbH, are your experts for messaging solutions. With our messaging solutions, we create an even more personal connection between you and your customers. Our solutions make popular messengers such as WhatsApp, Facebook or Google Messages usable for professional customer communication. Instant messaging allows you to communicate with your target group in real time and at eye level, giving your business a personal touch.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/62541027_150067022788184_8560213572930502656_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=wNMiWhgb31oQ7kNvwF8pg2U&_nc_oc=Adltl1dFTYhW4K6RuAcuhMonVulWeBRdnWyA375zs1u3NBFrviueLXW0sBbb9TPfNoo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AffrZs-OhiStgEO7VXAUHetRjdyGoNppREM-2diO5sasbQ&oe=690B53AF"
+    },
+    "id": "150067019454851"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

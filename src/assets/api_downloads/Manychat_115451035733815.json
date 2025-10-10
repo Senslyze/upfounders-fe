@@ -1,0 +1,81 @@
+{
+  "company_website": "https://manychat.com/product/whatsapp",
+  "countries": [
+    "US",
+    "CA",
+    "GB",
+    "BR",
+    "ID",
+    "PH",
+    "UA",
+    "MX",
+    "IT",
+    "MY",
+    "DE",
+    "AU",
+    "NZ",
+    "IL"
+  ],
+  "id": "115451035733815",
+  "name": "Manychat",
+  "description": "Manychat turns WhatsApp into a sales and automation platform, enabling businesses to qualify leads, engage customers, and drive revenue automatically.\nSell more with broadcasts, always-on lead qualification, and a 360° sales hub.\nSecure, scalable, and easy to integrate—AI chatbots require no coding.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Messenger Marketing",
+    "Chatbots",
+    "Messenger Automation"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "ECOMMERCE",
+    "EDUCATION",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "HEALTHCARE",
+    "TRAVEL",
+    "TELECOM",
+    "CONSUMER_PACKAGED_GOODS",
+    "ENERGY_AND_UTILITIES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/442434895_414430571503701_447766730157335396_n.jpg?stp=cp0_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=StNrF6sFCqoQ7kNvwGfwSXr&_nc_oc=Adka0CWa4ZHwHWeGmdFrKAEDnUVoKDfxSph9xGaZcyg4u8A4pYPQlcCpVuVDyJxudho&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Afdb1NPpsOSXQB2ikzSWU1mSldXWfZZXMgs_EvqGKcP0Tg&oe=68E9B1FA"
+    },
+    "id": "414430574837034"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MULTICHANNEL_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "WA_PAYMENTS_API",
+    "MM_LITE_API"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

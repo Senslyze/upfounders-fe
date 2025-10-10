@@ -1,0 +1,63 @@
+{
+  "company_website": "https://sgrcreations.com/",
+  "countries": [
+    "US",
+    "GB",
+    "AE",
+    "IN"
+  ],
+  "id": "7470676136359950",
+  "name": "Bulkwise by SGR Creations",
+  "description": "SGR CREATIONS offers various solutions built on the WhatsApp Business API. It is an Intelligent WhatsApp Engagement Platform that helps businesses broadcast messages, automate notifications, and provide customer support. Bulkwise is trusted by enterprises, growing companies, and SMBs globally.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Internet Service Providers",
+    "E-commerce",
+    "MSME Business"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ta",
+    "en",
+    "te",
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/482205929_559855830445513_6310054961041641789_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=WHWshXfOzMEQ7kNvwECSa99&_nc_oc=AdlKigSsLaw7gng66q9qYDwKUBWKgdU8NSiNEp0TsueQ7DJTXOaVTTog47CK_DVd9io&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_Aff8zyyi71TAVXDQraKqFjnDWMFc-CVsci2u0wXeW77dlg&oe=68E9A464"
+    },
+    "id": "535363602894736"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,55 @@
+{
+  "company_website": "https://www.kokatto.com/",
+  "countries": [
+    "ID",
+    "MY",
+    "SG",
+    "KR",
+    "AU",
+    "PH"
+  ],
+  "id": "2605079269820574",
+  "name": "Kokatto Teknologi Global",
+  "description": "Kokatto is a pioneer in automated voice notification in Indonesia. Providing automated solutions including Voice, SMS, WhatsApp Solution, OTP (voice, SMS, WA), Email, and Software Development",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Care ",
+    "Notifications ",
+    "Online Ordering and Payment"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "TELECOM",
+    "RETAIL",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/457869963_1273418177401757_2450048551504658827_n.jpg?stp=cp0_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vSqV8kuwMhMQ7kNvwGiw6z7&_nc_oc=AdlJ8wX0n720s-hJIYRZJxRVntwRCOAN5avVm-TGVrpaxMU843hg7x78RuHZb-2Bq1Y&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=wRtKS1-Z28b4Ij4PLGalqw&oh=00_AfePntrmYJsu7LLJ2AKgfW4o5NqtyWNZQaO3iKqtgiCAHg&oe=68E9B8D9"
+    },
+    "id": "1273418170735091"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "NOTIFICATIONS",
+    "CUSTOMER_CARE",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

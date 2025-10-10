@@ -1,0 +1,52 @@
+{
+  "company_website": "https://xeroneit.net/",
+  "countries": [
+    "BD",
+    "GB",
+    "AE",
+    "US",
+    "IN",
+    "PK",
+    "MY",
+    "BR",
+    "ID",
+    "PH"
+  ],
+  "id": "7966117180135528",
+  "name": "Xerone IT",
+  "description": "BotSailor ( https://botsailor.com/ ) is a premier WhatsApp Chatbot marketing software developed by Xerone IT, a leading company in innovative tech solutions. Our software empowers businesses to seamlessly engage with customers, streamline communications, and drive marketing efforts through WhatsApp. At Xerone IT, we are dedicated to delivering top-tier, user-friendly tools that help our clients achieve their goals with ease and efficiency.",
+  "diverse_owned_identities": [
+    "WOMAN",
+    "BLACK",
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Business Marketing",
+    "Chatbots",
+    "Messenger Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/475845471_1351489699372669_224441465753103583_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=rQbRz4felPUQ7kNvwFk8vjZ&_nc_oc=AdmRPV02wYaAqgD-0jMVZ-eAKHt0SxslYfqjEUx1T8RW07otx85rYJEeo0eQfFLvIWQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=9NF2ztJyvn3CoWu6FkmvjA&oh=00_Afeq81s_IVjB16moFhiQp_OKzS2Ka1Jsf2iu7fWQE_ys9g&oe=68E9A31E"
+    },
+    "id": "988631338991842"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

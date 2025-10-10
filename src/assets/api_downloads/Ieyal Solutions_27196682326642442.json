@@ -1,0 +1,45 @@
+{
+  "company_website": "https://ownchat.app/",
+  "countries": [
+    "IN",
+    "SG",
+    "AE"
+  ],
+  "id": "27196682326642442",
+  "name": "Ieyal Solutions",
+  "description": "OwnChat is an innovative WhatsApp marketing and automation tool designed to revolutionize customer interaction and drive business growth. It serves as a comprehensive tool for businesses to manage and automate various aspects of customer communication, from inquiries to transactions, all within the WhatsApp ecosystem.",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Create automated journeys with our drag-and-drop builder. Connect WhatsApp to CRM, ERP, or eCommerce apps using no-code flow Builders.",
+    "WhatsApp Store with Ownchat—sync stores like Shopify or WordPress or create one using our catalog manager to collect orders.",
+    "WhatsApp Payments: Connect your payment gateway to send payment links, reminders, and updates directly through WhatsApp."
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480431308_637534025403513_6668369534763292840_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=edAqBY5GBksQ7kNvwFawQbT&_nc_oc=AdnUpjpYcka2JONo1R0-dOGjhdKcZB9KyZ0XMh6HuXBiNL1cp7WzEHQO3l2YeosMQPE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_Aff1G2iDczykolV3qEN9yth9qG2ar364bQUk3xj6wEuepw&oe=68E98E6A"
+    },
+    "id": "617553544068228"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

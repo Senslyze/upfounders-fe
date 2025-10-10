@@ -1,0 +1,55 @@
+{
+  "company_website": "https://en.kommo.com/whatsapp-cloud-api/?utm_source&utm_campaign=listing-en&utm_medium=referral&utm_content=meta-directory-lp",
+  "countries": [],
+  "id": "4488493901278076",
+  "name": "Kommo",
+  "description": "Kommo is an AI-powered CRM that streamlines marketing, sales, and customer engagement across Instagram, Facebook Messenger, and WhatsApp.\nIt automates conversations, qualifies leads, and boosts ad performance with features like Conversion API, WhatsApp Broadcast, Flows, List Messages, and automated follow-ups—all in one platform.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "CRM",
+    "Messenger-based sales",
+    "Chatbots"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "ru",
+    "en",
+    "es-419",
+    "es",
+    "pt",
+    "id"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/472982135_1045336697398163_9113701368472805008_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=i-PPvhRDo9QQ7kNvwFI8ihJ&_nc_oc=AdlNpscJmH4WFl9aE7HwWAgHVXoISMSwrVR_CqClabXL62bZEijD5qCWrC3RjTcvrY8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=wRtKS1-Z28b4Ij4PLGalqw&oh=00_AfdUIBwhfs9_e13Ga58oLB4XC7bABlNwI9yZl1-2YWv7TA&oe=68E98D7C"
+    },
+    "id": "550041623594342"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_UTILITY_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER",
+    "COEXISTENCE"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

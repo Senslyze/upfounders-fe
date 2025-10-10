@@ -1,0 +1,48 @@
+{
+  "company_website": "https://www.botolon.com/",
+  "countries": [
+    "TR",
+    "AE",
+    "SA",
+    "EG",
+    "KW",
+    "IQ",
+    "QA",
+    "AU",
+    "GB"
+  ],
+  "id": "8823163397701362",
+  "name": "Botolon LTD",
+  "description": "Botolon a chatbot platform connected to meta networks, Botolon users can use Facebook, Instagram and Messenger Automate pages in a way that returns a lot of time and expenses to employers and users. Botolon's working style is very nice, simple and easy, and everyone can easily use and view the tutorials on YouTube.\n\nBotolon was founded inJanuary 2021 by Iraqi businessman Bakhtyar Aziz, Bakhtyar Aziz is an Iraqi young man of Kurdish descent and was born on 29/07/2003 in Kalar city in Sulaymaniyah governorate, Botolon is also one of the Tech Providers of Meta Company in the Middle East\nBotolon's staff plan is to expand their platform by 2024, in a way that, apart from chatbot creation services for Facebook and Instagram networks, will add chatbot services to Whats App, Viber and other popular networks to their platform",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Middle East"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/398669703_310702638380681_1480424171322296961_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zq62Lnxa8D8Q7kNvwGhmYLo&_nc_oc=Adm0hnURl5gR9E97Ee6Ey3jvDnl64gFUFJH9TX9hPO8ChRCA4q2epLjh5nt-hDQWPmQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=08XiXVH42SCySRmbCKtA7A&oh=00_Afdbbbd4Hdw2ZEWBexSpu6JkU8By_iKJFW5f9-o16LrX2Q&oe=68E9A5CF"
+    },
+    "id": "310702648380680"
+  },
+  "service_models": [
+    "MANAGED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

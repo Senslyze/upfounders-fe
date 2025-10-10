@@ -1,0 +1,41 @@
+{
+  "company_website": "https://kanaryo.com/",
+  "countries": [
+    "US",
+    "CO"
+  ],
+  "id": "25488348404082306",
+  "name": "Kanaryo",
+  "description": "Connecting businesses with their customers...Forever.\n\nAt Kanaryo, we go beyond traditional language processing to revolutionize business communication. Powered by advanced AI, our platforms not only provides accurate, timely, and personalized responses but also creates custom predictive analytics and models tailored to your business needs. Designed for companies that demand excellence in every interaction, Kanaryo ensures perfect answers—no matter the context. Whether it's customer support, sales, or internal communication, we empower businesses to stay ahead, anticipate needs, and build stronger connections.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Communication Management",
+    "AI-Powered Customer Support",
+    "Predictive Customer Engagement"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481960110_936846898606917_5989611315865513887_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=0HEhtlwYS_gQ7kNvwF4NQuc&_nc_oc=AdkjFSKoaFt_YehGsYh4Xj2JvtjKGgFl0pCR-GirMHitumf5-fb2OjbClWMBkE-JtM4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Bia_aSWAZIGLgPMqlWb5BA&oh=00_AffUav8Bp3BgjP8ZdnCwsw6hDcpSKP7WZRdEwRJIYLdw7Q&oe=68E98A2F"
+    },
+    "id": "830227332602208"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

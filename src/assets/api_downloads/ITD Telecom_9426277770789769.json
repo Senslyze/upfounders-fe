@@ -1,0 +1,47 @@
+{
+  "company_website": "https://itdtelecom.com/",
+  "countries": [
+    "CL",
+    "PE",
+    "AR",
+    "CO",
+    "MX",
+    "EC",
+    "BR",
+    "DO"
+  ],
+  "id": "9426277770789769",
+  "name": "ITD Telecom",
+  "description": "ITD Telecom es un proveedor tecnológico con operación directa en la nube de Meta, especializado en soluciones multicanal de mensajería para empresas de todos los tamaños y en toda America Latina. Nuestra plataforma propia, IDA, permite a las marcas automatizar, escalar y personalizar la comunicación con sus clientes a través de:\n- WhatsApp Business API\n- SMS Masivos\n- Mailing\n- Llamadas de Voz\n- Workflows automatizados e integraciones\n\nNos diferenciamos por nuestra atención consultiva, acompañamiento técnico, foco en calidad de servicio y rapidez de implementación. ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Mensajería multicanal",
+    "Automatización",
+    "Consultoría"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/491224538_663343649653153_4820648897972573114_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=5_aLogScemQQ7kNvwFehBqM&_nc_oc=AdlGrD_sge5dEMPWrVitMVbqIce4eq9kh9WshIDt5F4TKn0noW_xthMDc4RJbOGiTRg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=e_l0h8h98_W7LZBro4WWMA&oh=00_AfcnGfsUM2An--fkz1gAjWeh9DKhJTNhL82LNfP7kOZk7w&oe=68E9A08B"
+    },
+    "id": "663343642986487"
+  },
+  "service_models": [
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

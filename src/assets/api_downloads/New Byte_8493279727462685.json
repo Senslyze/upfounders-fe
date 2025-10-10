@@ -1,0 +1,39 @@
+{
+  "company_website": "https://www.newbyte.net.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8493279727462685",
+  "name": "New Byte",
+  "description": "A New Byte é uma empresa de tecnologia especializada em soluções SaaS de atendimento omnichannel e automação para o mercado de aluguel por temporada. Nossa plataforma conecta WhatsApp, Instagram, Facebook, Airbnb, Booking e outros canais em um só lugar, oferecendo chatbots com inteligência artificial, múltiplos usuários, automações personalizadas e integrações diretas com os principais channel managers do mercado (como Stays e Ayrton). Atendemos anfitriões profissionais e gestores de propriedades, ajudando-os a reduzir tarefas manuais, aumentar conversões e oferecer uma experiência de comunicação ágil e eficiente para hóspedes e clientes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Soluções de atendimento para anfitriões profissionais",
+    "Aluguel de temporada"
+  ],
+  "industries": [
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/500365782_1130025619171895_7277686048131846920_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=3lHy_C0UFnoQ7kNvwH1D_1l&_nc_oc=Adm0OUe45MJ7ZM-gocsTVEycHILsvNLJ69iqOLGwc23Ti-zLBcWcKlRxaK1n7cz-MMU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=UsR3bT8R66EoGfoZ5QNckA&oh=00_Afcm4e4T4Ydp5aerXeKOQvsSnVLBLQVhNWnHk8v6gNdizA&oe=68E9AB5C"
+    },
+    "id": "1130025615838562"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,41 @@
+{
+  "company_website": "https://shimliapp.com/",
+  "countries": [
+    "HN",
+    "US"
+  ],
+  "id": "7132021876837036",
+  "name": "Shimli",
+  "description": "Shimli es una plataforma inteligente que automatiza hasta el 70% de las consultas de clientes sin intervención humana, aumentando las ventas y la productividad. Facilita la gestión de múltiples conversaciones a través de IA, ofreciendo respuestas contextuales y personalizadas. Permite diseñar chatbots sin programar, configurar disparadores y acciones para una gestión eficiente de ventas y servicios, incluyendo catálogos de productos y pagos directos en el chat. Ideal para diversos sectores, Shimli mejora la asistencia sin incrementar personal, integrándose con sistemas empresariales y bases de datos, lo que maximiza la satisfacción del cliente y optimiza los recursos de la empresa.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/488640485_2279578222438651_3425733612564550454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vtRBHCkgKyQQ7kNvwH9KQzW&_nc_oc=Adm1h0A3SHFHboie3YktzZ912IJ-vHSF6iq2QK_qjEky07tudHp2k1enY5ac_p5hVG4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=TUJRXZlySYPqEn-s_RJspQ&oh=00_AfcK9T7pCJrf-ZMCAMK1Cp-OoGbsdg1HmXWotoezXBl85A&oe=68E9B3A5"
+    },
+    "id": "2028409820888827"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

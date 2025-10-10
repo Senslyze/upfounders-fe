@@ -1,0 +1,53 @@
+{
+  "company_website": "https://fusiontc.com/",
+  "countries": [
+    "IN",
+    "KE",
+    "AE",
+    "TZ",
+    "SA"
+  ],
+  "id": "9810484692385575",
+  "name": "Fusion Tech",
+  "description": "Fusion Technologies is a Meta Business Solutions Partner helping businesses connect, engage, and grow using the official WhatsApp Business API and Meta advertising tools. We provide end-to-end solutions for customer engagement, automation, campaign integration, and conversational commerce. Our expertise spans from API integration to chatbot development and Meta Ads optimization.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Engagement Platform – Solutions for automation, broadcasting, live chat, and customer support.",
+    "Meta Ads Integration – Click-to-WhatsApp ad setup, campaign tracking, and lead conversion funnels",
+    "CRM/API Integrations & Partner Enablement – Scalable offerings for resellers, technology providers, and marketplaces."
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "mr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/508833084_122193723464359940_1396946079358644416_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1e617a&_nc_ohc=JU8JHzF5C_gQ7kNvwE42sev&_nc_oc=Adnfi93sWCXs3JQtT2e21dbpdZMjibJPRkK1ZBseOPPU9Rn8KMFINxRxek0h9YjJkM0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=STVo-7jhQwP4Y3LRopopFg&oh=00_AffcylsXum_TZIZLKugNlCYJ1cXhw3I75S_uUL6JHDD5BQ&oe=68E992D1"
+    },
+    "id": "122193723458359940"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED",
+    "HOURLY"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

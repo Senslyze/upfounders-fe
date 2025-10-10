@@ -1,0 +1,48 @@
+{
+  "company_website": "https://clickmassa.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8779618018809902",
+  "name": "VectaX Conversas",
+  "description": "A ClickMassa é uma plataforma brasileira de automação de atendimento, CRM e marketing conversacional. Oferece soluções para otimizar a comunicação e aumentar as vendas via WhatsApp, Instagram, Facebook, Telegram e webchat. \n\nSeus principais recursos incluem chatbot inteligente, multiatendimento, centralização de canais, mensagens automáticas e dashboards para monitoramento de métricas. Já conta com mais de 4 mil empresas, realizando 8 milhões de atendimentos mensais e mais de 25.000 usuários ativos.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Vendas",
+    "Chatbot",
+    "Business Messaging"
+  ],
+  "industries": [
+    "TELECOM",
+    "TRAVEL",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/490651496_696898203002262_9148738364088594082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ujxes0usIrwQ7kNvwHWzlso&_nc_oc=AdmITpZAaq-zEsRBO6kPiqDq98C4VX9BGzuswa0X7u8S6-rlRpvw0T0ntQ5NNb8wIvU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ugVqchM8pFxIY8LZWG_76Q&oh=00_Afdw5F16ZtoTXsmWy0cKhQFowyY4E7GnHybQcC6Sj81PpQ&oe=68E9B9D6"
+    },
+    "id": "674065591952190"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

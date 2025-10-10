@@ -1,0 +1,44 @@
+{
+  "company_website": "https://www.relif.cl/welcome",
+  "countries": [
+    "CL",
+    "PE"
+  ],
+  "id": "24362364246691324",
+  "name": "Relif",
+  "description": "Aplicaciones de IA y Open Data para transformar industrias ligadas al financiamiento.\nSoluciones para el rubro automotriz, seguros y bancario.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Lead management",
+    "WhatsApp AI messaging",
+    "Conversions API / server side tracking"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/528553110_721307584236530_7406638247064019593_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=O-wVqNZijV8Q7kNvwEwNKCv&_nc_oc=Adluo6VmY4Lh9G4sJiwwOlXvPQg1vH2smxiZshAS-sRyQF5sSkJqWcE_QH8HS3YwO7Q&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5TMVtLa4bE8yik3AEzkT7Q&oh=00_AfdJeg07pM-f-z0h_eo6Cj8TfFB1C2BZMmCQkMt70G_Njg&oe=68E9BA25"
+    },
+    "id": "721307580903197"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

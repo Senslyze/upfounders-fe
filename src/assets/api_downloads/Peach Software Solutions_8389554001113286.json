@@ -1,0 +1,39 @@
+{
+  "company_website": "https://www.peachss.co.za/",
+  "countries": [
+    "ZA"
+  ],
+  "id": "8389554001113286",
+  "name": "Peach Software Solutions",
+  "description": "Peach Software Solutions is a technology company specializing in providing custom WhatsApp integration solutions tailored to meet the unique communication needs of businesses. Our solutions enable seamless integration of WhatsApp into your existing systems, whether it's for customer support, sales, or marketing. We focus on automating customer interactions, sending bulk messages, and providing personalized, real-time communication with clients through WhatsApp.\n\nOur services are designed to improve customer engagement, streamline business operations, and enhance communication efficiency. With deep expertise in WhatsApp API, chatbots, and automated messaging, we empower businesses to leverage WhatsApp as a powerful tool for customer interaction, offering flexible and scalable solutions to meet diverse business requirements. Whether you need a simple notification system or an advanced AI-driven chatbot for customer service, Peach Software Solutions has you covered.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp integration",
+    "Messaging Automation and Chatbots",
+    "Customer Satisfaction Index over WhatsApp"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "ENERGY_AND_UTILITIES",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

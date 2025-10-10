@@ -1,0 +1,86 @@
+{
+  "company_website": "https://app.d7networks.com/",
+  "countries": [
+    "AE",
+    "AU",
+    "BG",
+    "CA",
+    "IN",
+    "ID",
+    "IE",
+    "KW",
+    "KG",
+    "MY",
+    "MM",
+    "NP",
+    "NL",
+    "NZ",
+    "OM",
+    "QA",
+    "ES",
+    "CH",
+    "GB",
+    "SG",
+    "TJ"
+  ],
+  "id": "7068495919875619",
+  "name": "Direct7 Networks",
+  "description": "Direct7 Networks is a global CPaaS provider that streamlines multi-channel business communications. Our unified cloud platform enables effortless customer engagement across SMS, WhatsApp, Viber, and more through a single API. Real-time analytics and reporting help optimize interactions and drive results.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Chatbot Builder",
+    "App Notifications",
+    "Marketing Campaigns"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM",
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/469961003_1092062612930796_7920711686993370035_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=hJb9dGiaWigQ7kNvwG0wsUK&_nc_oc=AdmjIM_DJp6V6uKgBQ3JWCJxAWE_zYpWb4ViozByPFKjG0rT6o3Kok-iIeEouUfOHdc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=reoC6E_PJK3NGMGwoPOLpw&oh=00_Afd1rDr3kud2r4wBvFlgMnDz-3vdatGIwtikS7kY7iNlGg&oe=68E9A3FF"
+    },
+    "id": "1092062609597463"
+  },
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "WA_SERVICE_MESSAGES",
+    "WA_VERIFICATION_MESSAGES",
+    "CHATBOT",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

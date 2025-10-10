@@ -1,0 +1,53 @@
+{
+  "company_website": "https://chatlabs.com.br/",
+  "countries": [
+    "BR",
+    "US",
+    "PT",
+    "ES",
+    "AR",
+    "UY"
+  ],
+  "id": "6771063263015634",
+  "name": "Chatlabs",
+  "description": "Resolva todos seus problemas de atendimentos com o chatlabs, a sua plataforma de conversas inteligentes",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Tecnologia"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "RETAIL",
+    "TELECOM",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484025061_1145346013800073_8943267152704400943_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Ptk4ykVcWfgQ7kNvwHFtqgf&_nc_oc=Adk0zZ9VN38TWE5OL2Sw9Bsh6e6fHpviLKtmWK_WISheOfw7RcprCVZS8-79U-CpSv8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=0s_BMTYaaJa3cw1AEXFsAQ&oh=00_AffuzvZxgD5yPjTxroZx44OAziciK-fWxVKua9ipLKtEKA&oe=68E9B04E"
+    },
+    "id": "1065292758472066"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

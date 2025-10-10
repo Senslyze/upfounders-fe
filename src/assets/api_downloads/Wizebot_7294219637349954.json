@@ -1,0 +1,41 @@
+{
+  "company_website": "https://wizebot.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7294219637349954",
+  "name": "Wizebot",
+  "description": "A Wizebot é uma empresa 100% brasileira especializada em automação de WhatsApp para negócios. Oferecemos soluções seguras e eficientes com a API oficial do WhatsApp, permitindo disparos em massa, integração com plataformas como Hotmart e Shopify, e atendimento automatizado com inteligência artificial. Sem taxas adicionais, nossa plataforma ajuda empresas a aumentar suas vendas, melhorar o atendimento e otimizar campanhas de marketing, tudo dentro das diretrizes do WhatsApp. Com a Wizebot, seu WhatsApp se torna uma poderosa ferramenta de vendas.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automação de Vendas e Marketing Usamos a API oficial do WhatsApp para campanhas automatizadas, segmentadas e em massa, com alta performance",
+    "Integração com Plataformas de E-commerce Integramos com Hotmart, Kiwify, WooCommerce e Shopify, automatizando envio de produtos e links",
+    "Atendimento Automatizado com IA Integrando o ChatGPT, oferecemos atendimento automatizado 24h, melhorando a experiência do cliente"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480747075_562770153459176_6489987954450923357_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=9dxeCnjIRo0Q7kNvwGgriSZ&_nc_oc=AdkuTDzT-coe2hd0gMMD-wTonBdjY0V1gKeFWKX25UceSw_xPNqQ447sKTzScvhMu4I&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=PK_aO20hcOfdTPlZGvE4kA&oh=00_AffHUAUDrQw6bvToM_qeozpfJQtb-vBODKk2OksWFC4sjQ&oe=68E9AFF1"
+    },
+    "id": "403397206063139"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

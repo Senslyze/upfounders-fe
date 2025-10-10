@@ -1,0 +1,60 @@
+{
+  "company_website": "https://www.devoficial.com.br/",
+  "countries": [
+    "BR",
+    "AR",
+    "CL",
+    "MX",
+    "CO",
+    "ES"
+  ],
+  "id": "8815324485177562",
+  "name": "DEVOficial",
+  "description": "Na DevOficial, oferecemos suporte completo para que sua empresa integre a Cloud API do WhatsApp de forma eficiente. Embora você ou sua equipe sejam responsáveis pela criação dos fluxos de conversa, nossa plataforma conta com todas as ferramentas necessárias para facilitar esse processo.\n\nDentro da nossa plataforma, você poderá criar e gerenciar as mensagens templates que serão utilizadas nas conversas, integrar botões interativos para oferecer uma experiência mais dinâmica e até configurar os flows automatizados do WhatsApp. Fornecemos o suporte necessário para garantir que tudo funcione perfeitamente, desde a configuração inicial até a personalização das automações.\n\nCom a DevOficial, você terá todo o auxílio para criar uma comunicação ágil e automatizada, otimizando o atendimento ao cliente sem complicações.\n\nEntre em contato e descubra como podemos facilitar a implementação da Cloud API do WhatsApp para sua empresa!",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Marketing Digital: Automação de campanhas e interações para aumentar o engajamento com seu público.",
+    "Vendas: Gerencie leads e automatize o processo de vendas, facilitando o contato com clientes.",
+    "Atendimento ao Cliente: Respostas rápidas e personalizadas para melhorar a satisfação do cliente."
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TRAVEL",
+    "TELECOM",
+    "RETAIL",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en",
+    "es",
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/464979463_856086740029417_2231010825162313707_n.jpg?stp=cp0_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=xjYgzC1X0voQ7kNvwHYJgkr&_nc_oc=Adnj2IRR9WjTDp52HnVgbmwCJkFnJG42_Gyj-bkanmJZfFMVMGjW2Mw4M93Ito0iQ5k&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=reoC6E_PJK3NGMGwoPOLpw&oh=00_Afe1l5g8ZdWaxyFVhcEWFmZIL0pixsXSN0I1wv-04R5dDg&oe=68E9A568"
+    },
+    "id": "856086736696084"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

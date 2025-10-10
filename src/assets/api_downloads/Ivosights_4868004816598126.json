@@ -1,0 +1,47 @@
+{
+  "company_website": "https://ivosights.com/",
+  "countries": [
+    "ID"
+  ],
+  "id": "4868004816598126",
+  "name": "Ivosights",
+  "description": "Ivosights is a company that provides an integrated customer engagement platforms to help clients manage their interaction with the customers across customer journeys and online channels.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Sosial Media Monitoring ",
+    "Omnichannel Customer Service ",
+    "WhatsApp Business API"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "id",
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS",
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

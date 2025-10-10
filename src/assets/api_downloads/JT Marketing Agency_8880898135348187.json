@@ -1,0 +1,55 @@
+{
+  "company_website": "https://www.jt-marketing.co/",
+  "countries": [
+    "IQ",
+    "AE",
+    "SA",
+    "JO",
+    "KW",
+    "OM",
+    "BH",
+    "QA"
+  ],
+  "id": "8880898135348187",
+  "name": "JT Marketing Agency",
+  "description": "JT Marketing is Iraq’s first Meta-verified digital solutions provider, empowering businesses across the MENA region to build trust, automate communication, and achieve measurable growth.\n\nWe specialize in delivering AI-powered and automation-based tools that help brands connect with customers at scale and drive long-term success:\n\n• Meta & WhatsApp Business Verification\n• WhatsApp API & Cloud Messaging\n• Bulk WhatsApp Sender Portal\n• Custom Chatbots (Facebook, Instagram, WhatsApp, Telegram, Web)\n• Data Collection & Analytics from Social Media & Websites\n• Website Design & Development\n\nWith a proven track record, JT Marketing helps organizations boost visibility, automate processes, and achieve sustainable growth — powered by verified tools, local expertise, and innovative technology.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Meta verification",
+    "WhatsApp API, WhatsApp Sender Portal",
+    "AI-powered Chatbots, Digital Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "GOVERNMENT_AND_POLITICS",
+    "ECOMMERCE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/467255124_122105346818615678_9099212609125670088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vMoS7cIgTXgQ7kNvwGlaMRi&_nc_oc=AdkHPLVEWu2pw4m75QRb097HOV_-XEFTaRuLwYOd3glKkYrROxAy1Otb2lSfFmPKlIE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Bia_aSWAZIGLgPMqlWb5BA&oh=00_AffPq1DQTu_4Fd2nQZyRNXuHuANT6F3FzSTmUvB6soptTg&oe=68E98B56"
+    },
+    "id": "122105346806615678"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

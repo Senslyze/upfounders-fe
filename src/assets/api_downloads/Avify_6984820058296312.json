@@ -1,0 +1,57 @@
+{
+  "company_website": "https://avify.com/",
+  "countries": [
+    "CR",
+    "MX",
+    "GT",
+    "SV",
+    "HN",
+    "NI",
+    "PA",
+    "DO",
+    "PE",
+    "CL",
+    "CO",
+    "EC",
+    "UY",
+    "AR",
+    "VE",
+    "ES"
+  ],
+  "id": "6984820058296312",
+  "name": "Avify",
+  "description": "Avify es un CRM especializado para PYMES en el sector retail, que permite conectar a WhatsApp en tiempo real toda la estructura de inventario  bodegas, tienda en linea, tiendas físicas, sistemas de pago, facturación y logística, permitiendo desde un Chat Center que los vendedores por WhatsApp creen ordenes que actualizan en tiempo real el inventario y genera trazabilidad 360° de cualquier movimiento de productos permitiendo gestionar desabastecimiento y pronosticar órdenes de pedido para tener inventario disponible en todos los canales.\n\nAvify permite el envío de campañas masivas, manejo de listas, etiquetas, embudos, AI conversacional para cierre de ventas automatizado y múltiples módulos de tipo ERP que permiten que las PYMES de mercados emergentes puedan tener en un CRM funcionalidades para escalar sus operaciones. \n",
+  "diverse_owned_identities": [
+    "LATINX",
+    "WOMAN"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CRM para PYMES que venden productos con inventario"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "RETAIL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/337367412_614176867220065_4322521679607784737_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AURt93BPx80Q7kNvwGSTCah&_nc_oc=AdmpclA5ppBWRjd1uJsIYU11ZyNlfDkQO1rxslI4CIG4qcaFumQA8E-im3GMrHfLAxY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=MXK0T1aEFavWS-RCJdIzOQ&oh=00_AfdJUmcw1MuNc_o5ul85g_5GYRje8VW7INhFV_uXxEso9Q&oe=68E98DE8"
+    },
+    "id": "627015389439427"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

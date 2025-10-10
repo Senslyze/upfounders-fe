@@ -1,0 +1,61 @@
+{
+  "company_website": "https://www.sprouto.net/",
+  "countries": [
+    "IN",
+    "ID",
+    "GB",
+    "AE",
+    "US",
+    "ZA",
+    "SG",
+    "MY",
+    "PK",
+    "TR",
+    "BR",
+    "FR",
+    "CN"
+  ],
+  "id": "7415102975202755",
+  "name": "Sprouto InfoSolutions",
+  "description": "Growby.net (a product of Sprouto InfoSolutions Pvt. Ltd) provides a wide range of exciting business solutions on the top of WhatsApp Business API. Growby provides a smart broadcasting platform, with an AI Chatbot & Inbox. Businesses can broadcast messages, and send automated replies for marketing. Several businesses worldwide trust the Growby.net platform to promote their own businesses. Further, Growby provides reseller solutions to digital marketing companies, service providers, and technology enablers with WhatsApp Business Platform for scalability.\n\nVisit us at: https://www.growby.net\n",
+  "diverse_owned_identities": [
+    "ASIAN_AND_PACIFIC_ISLANDER"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Marketing Platform: Grow with WhatsApp Broadcasting, AI Chatbot, & Inbox",
+    "WhatsApp Reseller platform: Resell the WhatsApp marketing platform to delight your customer and grow businesses with the power of WhatsApp"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "PROFESSIONAL_SERVICES",
+    "TRAVEL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484795825_667110619597495_4105748970645427599_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=AHvp9NL3j_QQ7kNvwF1fRAy&_nc_oc=AdkaxtDQ53i2mQUJjD8pJtxglrbKdBFtjXohIqoyZfAPtTbs5SBEU-fdmNabj-ylpe0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AffOdEFdda66CZSDyXWz9vibQLbBtth_P4Mmra3X_us4qw&oe=68E9AD1C"
+    },
+    "id": "435240386117854"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,72 @@
+{
+  "company_website": "https://pancake.biz/platform/whatsapp",
+  "countries": [
+    "VN",
+    "TH",
+    "PH",
+    "ID",
+    "IN",
+    "CO",
+    "BR",
+    "PY",
+    "EC",
+    "PE",
+    "MX",
+    "MY",
+    "CL",
+    "VE",
+    "ES",
+    "PT",
+    "NG",
+    "AR"
+  ],
+  "id": "690743751294643",
+  "name": "Pancake",
+  "description": "Pancake is a leading omnichannel sales and management platform. It streamlines messaging, automation, and cross-platform management for retail and professional services. With advanced data marketing integration and Meta-driven optimization, Pancake empowers businesses to boost sales and accelerate growth.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Social Commerce Solution",
+    "Messenger Chatbot Platform ",
+    "E-commerce Platform"
+  ],
+  "industries": [
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "vi",
+    "th",
+    "id",
+    "es",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/41585430_261446651374550_9004303269962448896_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1e617a&_nc_ohc=TV69Bf7NevcQ7kNvwEwKu_m&_nc_oc=Adk-NaQlL0oX6V7_CAFBMxyyAazI-5OueXFKRUqD7DcwRAgYOh5ZnF1qhSF9yV_-DNE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=acp7DzSwk5nCAo_LFkfQuA&oh=00_AffY4kOjvwM8zVGNG_m1YepYZoYvxHv7yNwtcfnqwjlqdQ&oe=690B350D"
+    },
+    "id": "261446644707884"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "WA_MARKETING_MESSAGES",
+    "CHATBOT",
+    "CTX_ADS_INTEGRATION",
+    "CONVERSIONS_API_INTEGRATION",
+    "MEASUREMENT",
+    "MULTICHANNEL_MANAGEMENT",
+    "TEMPLATE_MANAGEMENT",
+    "LEAD_GEN",
+    "WA_CALLING_API",
+    "MM_LITE_API",
+    "JOURNEY_BUILDER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

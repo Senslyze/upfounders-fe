@@ -1,0 +1,52 @@
+{
+  "company_website": "https://www.meritto.com/",
+  "countries": [
+    "DE",
+    "IN",
+    "ID",
+    "MY",
+    "NP",
+    "PH",
+    "LK",
+    "AE",
+    "GB",
+    "US"
+  ],
+  "id": "9538574946208202",
+  "name": "NoPaperForms",
+  "description": "Meritto, the flagship product of NoPaperForms, is the Operating System for Student Recruitment and Enrollment, empowering over 1200 educational organizations globally. With a suite of purpose-built solutions, including the Enrollment Cloud, Education CRM, Application Platform, Education Payment Cloud, and Modern Engagement Suite, Meritto redefines the enrollment journey across all verticals of the education industry, right from pre-schools,  K-12 schools, higher education institutions, EdTech firms, to study abroad consultancies.\n\nWe believe the future of student engagement lies in being real-time, contextual, and effortlessly personal. That’s why we’ve reimagined how institutions interact with their prospects by integrating the power of the WhatsApp Business API directly into our unified enrollment platform, that's trusted by over 1200 educational organizations across the globe. \n\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Notify & Interactive Messaging",
+    "Live Agent Chat",
+    "Student Engagement & Enrollment Marketing"
+  ],
+  "industries": [
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "ms",
+    "ta",
+    "te"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/463457394_961834819292398_5600907892510351012_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=bWdZ4oN2ndMQ7kNvwGE8lrP&_nc_oc=Adl6E4n__RR8snn8acuKVtdlavvf7SynhQdKj361I1r-FQlDo3eyF3SbUBw0YklFIGY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_Aff9XIfFjPG2TlQR3mBiwaijA9DtS90Mo6nCBLVfRG4zoQ&oe=68E99E75"
+    },
+    "id": "961834812625732"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

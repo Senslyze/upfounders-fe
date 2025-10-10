@@ -1,0 +1,55 @@
+{
+  "company_website": "https://devsky.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7089404357837780",
+  "name": "Devsky",
+  "description": "Somos uma empresa engajada no desenvolvimento de soluções tecnológicas e inovadoras, com foco na gestão e otimização de atendimentos, com o objetivo de prover maior facilidade durante o suporte e atendimento ao cliente, estreitando as relações entre a empresa e o cliente final.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Automação de Atendimento ao Cliente",
+    "Gestão de Atendimentos",
+    "Chatbot"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "HEALTHCARE",
+    "GOVERNMENT_AND_POLITICS",
+    "GAMING",
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/468969948_540666992138827_6532952553593763967_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Yyzyb9n0EekQ7kNvwHNaZRG&_nc_oc=Admlp9dafJsgi4CQcmvFTl82LfOg-sOA95Tc1rxm_UpU9FCjqmu6Lsq1CGaUnx8JYhM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=reoC6E_PJK3NGMGwoPOLpw&oh=00_AfclA6-TS3ZynDEsqI1TaYRVQB3RhHH6qi9FfEDZYFseGA&oe=68E9A3AC"
+    },
+    "id": "110772601794937"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

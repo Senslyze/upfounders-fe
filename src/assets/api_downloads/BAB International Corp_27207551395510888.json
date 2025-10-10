@@ -1,0 +1,35 @@
+{
+  "company_website": "https://www.bab.com.sa/",
+  "countries": [
+    "SA"
+  ],
+  "id": "27207551395510888",
+  "name": "BAB International Corp",
+  "description": "اول شركة سعودية في مجال الرسائل الرقمية تاسست عام1999 ، تملك منتجات خاصة بها ابرزها منصات وحلول الذكاء الصناعي التوليدي ، وبرامج معالجة اللغات المحلية والعربية والعالمية ، الصوتية والنصية والصورية\n \nكما توفر حلول متكاملة لمراكز الإتصال الصوتي والرقمي وقنوات التواصل الإجتماعي في منصة موحدة ومرتبطة بمعظم أنظمة العناية بالعملاء العالمية\n\nThe first Saudi Company in the Digital Messaging, founded in 1999, developed its own products, i.e Generative AI Platform, Natural Language Processing (local and Global) in all formats (Voice, Text, and Image) \nIn addition, the company provides an omni-channels contact center solution (Voice, Digital, Social Media), integrated with most of international customer relation management platforms.\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Generative AI الذكاء الصناعي التوليدي ",
+    "NLP/NLU/ChatBot منتجات فهم اللغة ومعالجتها واتمتة المحادثات ",
+    "Omni-Channels Contact Center مراكز الإتصال الموحدة المتعددة القنوات"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [
+    "ar"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/455022428_474631388750723_3016569602384375403_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=WD4PXiqa7rUQ7kNvwH5hGn-&_nc_oc=AdmgYmLE-YbPK3ga8lrEkJKREro_Hiq9o_g7xBXvKYg_7pS8442FpMNa8xXBjOseKZ4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_AffVfsnu2tInpwu5eI9LX_1-izeI49XfJmPSyloZ2sPnLw&oe=68E9A726"
+    },
+    "id": "474631392084056"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

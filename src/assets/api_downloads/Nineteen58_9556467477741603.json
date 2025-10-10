@@ -1,0 +1,49 @@
+{
+  "company_website": "https://agents.nineteen58.co.za/",
+  "countries": [
+    "ZA",
+    "GB",
+    "US"
+  ],
+  "id": "9556467477741603",
+  "name": "Nineteen58",
+  "description": "Nineteen58 builds advanced AI agents that handle real customer interactions across voice, WhatsApp, and chat. Our agents act as digital representatives — managing sales, support, and collections — with the ability to learn over time, handle multi-channel conversations, and escalate when needed. We provide persistent, objective-driven AI agents backed by a powerful orchestration platform that ensures human-like conversations while maintaining strict control and compliance.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "AI-powered customer engagement and automation across voice, WhatsApp, and chat."
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "RETAIL",
+    "TRAVEL",
+    "EDUCATION"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/513993949_122237066192210623_2239499093128095713_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e617a&_nc_ohc=mNsE3UtMvNAQ7kNvwHQhTX0&_nc_oc=Adn-q-IFW-ywzqN04Ga2CSuMPL2g3U40ShbxZLTCY_Xi98Wq8vq7eQzWLH0Jjge7Jvg&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OkqpLI7phlwlIGin8x9SwA&oh=00_AfeWuytqlDn21DxODA2E9yXoeLeH-EiHSQHfKdfhCtqE4A&oe=68E9A330"
+    },
+    "id": "122237066186210623"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

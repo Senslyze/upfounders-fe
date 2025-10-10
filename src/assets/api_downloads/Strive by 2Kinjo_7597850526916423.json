@@ -1,0 +1,50 @@
+{
+  "company_website": "https://strive.asia/",
+  "countries": [
+    "MY"
+  ],
+  "id": "7597850526916423",
+  "name": "Strive by 2Kinjo",
+  "description": "Chatbot automation platform for service providers to automate & simplify repetitive conversation flow",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "All-in-one inbox for WhatsApp & Messenger",
+    "No code bot and Flowbuilder",
+    "Customer Relationship Management"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "EDUCATION",
+    "ECOMMERCE",
+    "FINANCIAL_SERVICES",
+    "RETAIL",
+    "HEALTHCARE",
+    "TRAVEL",
+    "TECHNOLOGY",
+    "CONSUMER_PACKAGED_GOODS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "zh-hans",
+    "ms",
+    "yue"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481448362_1150956436662698_929770412951444408_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1e617a&_nc_ohc=vxYDhWSha7QQ7kNvwH57kx-&_nc_oc=AdkO7Byux-WX6Aracdcx39baEWcQd0YMuc6v7myHs4ElrQif2Od4rvGlV2qf4fTkZ0M&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=WOkPBMTnE6i1K7zin63-4w&oh=00_AfeYxcRXbUCE5SPPXIAH8f7-oFfXoUOhRuFT5TbhzT48jA&oe=68E98DE1"
+    },
+    "id": "990291979395812"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

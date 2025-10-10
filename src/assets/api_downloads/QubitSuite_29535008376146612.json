@@ -1,0 +1,45 @@
+{
+  "company_website": "https://qubitsuite.com/",
+  "countries": [
+    "CL",
+    "CO",
+    "AR",
+    "MX",
+    "ES"
+  ],
+  "id": "29535008376146612",
+  "name": "QubitSuite",
+  "description": "Entregamos herramientas de automatización para tus canales de venta y atención al cliente, potenciadas por IA.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Inteligencia Artificial",
+    "Ventas online",
+    "Atención al cliente"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/499454879_122133012044757646_5139748189978044421_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=sUdc9sas0gwQ7kNvwGBCqiO&_nc_oc=Adl1T0xUg4eIvqIR3VVksPeZve_hHs-RLHzTgV1128I2OKqoi2GFHVLykqec5IdPZFI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5HMGn56Mg_a9HClc7BIRiw&oh=00_Afe1HkDgyHdTbUYP5Kc5fRoZGZz_iaavNOLCVPfuTYsMLA&oe=68E990E3"
+    },
+    "id": "122133012038757646"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

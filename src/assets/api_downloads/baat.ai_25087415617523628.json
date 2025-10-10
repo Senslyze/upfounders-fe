@@ -1,0 +1,58 @@
+{
+  "company_website": "https://www.baat.ai/",
+  "countries": [
+    "AF",
+    "IN",
+    "ID",
+    "PK",
+    "LK",
+    "GB",
+    "US",
+    "SG"
+  ],
+  "id": "25087415617523628",
+  "name": "baat.ai",
+  "description": "Baat.ai offers a diverse array of solutions leveraging the popular WhatsApp Business API. Its applications extend beyond e-commerce websites, facilitating instant transactional notifications and abandoned cart messages for enhanced sales. The versatility of Baat.ai isn't restricted to businesses with websites. WhatsApp can be harnessed independently to present catalogs, showcase services, schedule appointments, or deploy chat-based solutions for sales, marketing, and customer support. This adaptability makes Baat.ai a valuable asset across industries, catering to businesses of all sizes—small, medium, or large enterprises.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Shared Agent Inbox for efficient collaboration and chatting",
+    "Running Marketing campaign and monitoring conversions",
+    "AI based chatbot solutions "
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/367459033_253217530941705_4830506813451270785_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YSrEVCFhRSwQ7kNvwENrQJu&_nc_oc=AdmzExNcj6Zr4n_U1f6WaoFk_hbPCz1LVMkR02H3tIscX-5MzLwDBrGfLDitwGI74w8&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=viBEwqcFJfh1dPgmb0LpqA&oh=00_AfdyuysaJtF01igZDwL-aaFebNLkIK-9sW_64VY-U1ZGmA&oe=68E9B217"
+    },
+    "id": "253217534275038"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

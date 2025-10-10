@@ -1,0 +1,45 @@
+{
+  "company_website": "https://schoollog.in/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8209291979118330",
+  "name": "Schoollog",
+  "description": "Schoollog is a comprehensive Institute management solution that simplifies communication and administration for educational institutions. Our platform enables seamless daily interactions between schools, parents, and students through channels like WhatsApp, SMS, and email.\n\nWith advanced WhatsApp integration, we manage templates, automate webhooks, and provide live chat functionality, enhancing real-time engagement. Additionally, Schoollog offers ERP features such as fee management, attendance tracking, and academic reporting, tailored to meet schools’ specific needs.\n\nEmpowering schools with efficient tools, Schoollog fosters stronger connections between educators and families, driving better educational outcomes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Communication & Resources management in education sector.",
+    "Leveraging WhatsApp for automated and real-time engagement.",
+    "Enhancing parent-school collaboration to improve educational outcomes."
+  ],
+  "industries": [
+    "EDUCATION",
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TRAVEL",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/480774166_122213488910207039_5333558316844068331_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=OGB3q8yJn30Q7kNvwFkDcYf&_nc_oc=AdmPnPL_u3iL7YtMLpUT5bz612M_OOFZtnCjOP2pFpLn77pgE1MQAv_pOV9TU0id__I&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nWHYPlb0_5tJ4rDqzQSQbA&oh=00_AffpTRAVVIX2bQcFOyJCdhIkoFhWmTWqBPtvblcK8h4e5g&oe=68E9AC58"
+    },
+    "id": "122201760740207039"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

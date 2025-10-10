@@ -1,0 +1,47 @@
+{
+  "company_website": "https://elmujib.com/",
+  "countries": [
+    "EG",
+    "SA",
+    "AE",
+    "JO",
+    "KW",
+    "BH"
+  ],
+  "id": "24928903903379617",
+  "name": "El Mujib",
+  "description": "Al-Mujeb is a comprehensive WhatsApp Business solution that revolutionizes customer communication through advanced automation and AI-powered features. The platform provides businesses with official WhatsApp API access to create sophisticated customer service workflows and marketing campaigns.\n\nKey Features & Services:\n\n🤖 Automated Chat Bot for Customer Support\nOfficial WhatsApp API integration with pre-designed response templates\n\n🎙️ AI-Powered Voice & Text Response Bot\nAdvanced artificial intelligence for virtual customer service representatives\n\n📢 Licensed Advertising Campaigns\nMeta-approved promotional campaigns through WhatsApp\n\n📋 Intelligent Conversation Management\nAutomatic message distribution across departments (support, sales, etc.)\n\n👥 Unlimited Contacts & Communication\nUnlimited contact management through official WhatsApp Business\n\n💻 Multi-Device & Staff Management\nTeam collaboration across multiple devices\n\n🔗 API & Webhook Integration\n\n🛍️ Shopify Store Integration\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Al-Mujeb is a comprehensive WhatsApp Business solution that revolutionizes customer communication through advanced automation and AI-powered",
+    "and AI-powered features. The platform provides businesses with official WhatsApp API access to create sophisticated customer service ",
+    "workflows and marketing campaigns."
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "PROFESSIONAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/524195741_1824499261833094_1794712616981368254_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=1e617a&_nc_ohc=7s405XzPfJ4Q7kNvwHmN7Ok&_nc_oc=Adnq80lIlyWvYX-T_IeuBvaPRnDBmjFCntPYld1IuAro5oezzBl1lgaeeVYZkdIWrfQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a8RO8rpneS2yyeEdQ_uWPw&oh=00_AfcB7liJyekTMq3NoLo7OT6JP0Ubu5sjcLAQp2FCwTcEPw&oe=68E99EA2"
+    },
+    "id": "1824499258499761"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

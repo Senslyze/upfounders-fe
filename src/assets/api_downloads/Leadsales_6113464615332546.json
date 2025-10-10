@@ -1,0 +1,66 @@
+{
+  "company_website": "https://leadsales.io/",
+  "countries": [
+    "CO",
+    "PE",
+    "BR",
+    "CR",
+    "PA",
+    "HN",
+    "VE",
+    "NI",
+    "AR",
+    "CL",
+    "EC",
+    "SV",
+    "GT",
+    "BO",
+    "UY",
+    "MX"
+  ],
+  "id": "6113464615332546",
+  "name": "Leadsales",
+  "description": "Commerce is being revolutionized throughout Latin America. Increasingly, SMBs are restructuring themselves to rely on online conversational platforms (like WhatsApp) as their primary channel for acquiring and servicing their clients. LeadSales is building the platform that will be the dominant operating system for this entire new industry - and will help businesses manage all of their interactions with consumers ranging from conversational sales, CRM, to order fulfillment, even to payments.",
+  "diverse_owned_identities": [
+    "LATINX"
+  ],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "SMBs in LatAm focused on conversational sales who want to scale their operations through click-to-chat ads on WhatsApp, Facebook & Instagram"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TRAVEL",
+    "EDUCATION",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "AUTOMOTIVE",
+    "FINANCIAL_SERVICES"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "es-419",
+    "es",
+    "en",
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/476642801_1415049096570383_6063370469413845791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=Hwj6WKiYNEUQ7kNvwEprCP6&_nc_oc=Adl08NFZJ5tHKBYR2RMPs_01bnHOO8qcVaBo7x3thSrfC1_o40CuBbjohUt4HZthOTI&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=a0S2FrG0sRacZ0JGOmY-Wg&oh=00_AffdOGCbkRyy_pWK2aUSWxay6Lc8iQaLUN-vDEwtd2lzhg&oe=68E99051"
+    },
+    "id": "947751883300109"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

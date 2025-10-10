@@ -1,0 +1,57 @@
+{
+  "company_website": "https://traidy.io/",
+  "countries": [
+    "DZ",
+    "KW",
+    "LB",
+    "EG",
+    "LY",
+    "QA",
+    "SA",
+    "AE",
+    "SY",
+    "OM",
+    "BH",
+    "TN",
+    "MA",
+    "SD",
+    "SS",
+    "IQ",
+    "MY",
+    "ET",
+    "PS",
+    "TR",
+    "YE"
+  ],
+  "id": "9275809732436641",
+  "name": "Traidy",
+  "description": "Traidy is a company based in Cairo, Egypt that specializes in chatbot technology for Facebook and Instagram. We help businesses improve their customer engagement by providing customized chatbots that automate customer service and sales processes. Our team of experts will work with you to create a chatbot that fits your business needs and delivers personalized messaging to your customers.\n\nIn addition to chatbots, we also offer services for solving advertising problems. Our team has extensive experience in creating and managing ads on various platforms, including Facebook, Instagram, and Google. We understand the challenges that businesses face when it comes to advertising, and we work to provide solutions that are both efficient and effective.\n\nAt Traidy, we are dedicated to helping businesses grow and succeed. We believe that technology can be a powerful tool for achieving this goal, and we work hard to stay at the forefront of the latest trends in chatbot technology and advertising.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Messenger Marketing",
+    "Chatbots",
+    "Messenger Automation"
+  ],
+  "industries": [
+    "TECHNOLOGY",
+    "ECOMMERCE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "en"
+  ],
+  "msp_profile_picture": null,
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

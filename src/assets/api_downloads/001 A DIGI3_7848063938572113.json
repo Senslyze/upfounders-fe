@@ -1,0 +1,61 @@
+{
+  "company_website": "HTTP://DIGI3.IN/",
+  "countries": [
+    "CA",
+    "IN",
+    "AU",
+    "NL",
+    "NP",
+    "AE",
+    "GB",
+    "US"
+  ],
+  "id": "7848063938572113",
+  "name": "001 A DIGI3",
+  "description": "Digi3 is a renowned provider of WhatsApp Business API solutions that help businesses worldwide improve communication and engagement. Digi3's intelligent WhatsApp platform empowers businesses to streamline messaging, notifications, and customer support. By leveraging automation, live chat, and AI chatbots, Digi3 enables enterprises, growing businesses, and SMBs to enhance their WhatsApp presence and access specialized marketing solutions tailored to their unique needs.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Engagement Platform: Solutions for broadcasting automation, Live Chat, Chatbots for enhanced customer engagement and support",
+    "Simple and Easy integration of the WhatsApp Cloud API",
+    "WhatsApp Partner Solutions for Technology enablers, CRMs, Resellers, ERPs and Marketplaces"
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "ENERGY_AND_UTILITIES",
+    "ECOMMERCE",
+    "EDUCATION",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE",
+    "GAMING",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/486070463_1211289510713416_4701409371026001550_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1e617a&_nc_ohc=5DC9F5iUm0oQ7kNvwEOZ_ZY&_nc_oc=AdlgiIS0ujGfmLOiXuHGIYL4hL4tFt04fimfgJehjm_FAF5JFaAvcRopBOWiyrzPZc0&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OR8qV88Rlfp1WXE0nIAvsA&oh=00_AfeGycXC-Wn5lOAYtvZxCbqOy6lnvUezRwLvgmX3zPlQ6A&oe=68E9ADC5"
+    },
+    "id": "1027333079109061"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED",
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

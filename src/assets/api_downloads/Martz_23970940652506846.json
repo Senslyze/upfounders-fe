@@ -1,0 +1,40 @@
+{
+  "company_website": "https://www.martz.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "23970940652506846",
+  "name": "Martz",
+  "description": "O melhor CRM para retenção de clientes em e-commerces.\n\nTenha os dados da sua loja facilmente disponíveis e segmentados para criar campanhas inteligentes de relacionamento e impulsionar suas vendas recorrentes.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "CRM",
+    "Pós-vendas",
+    "Comunicação"
+  ],
+  "industries": [
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/309877759_490075323132651_5248197983725298577_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aFutxhZcdacQ7kNvwGv0djc&_nc_oc=Admv6A1BuH77Tj3SIuBFDPsDP3zN8YhNFrn7nnqZzMRBaYJu4hiuYW5w-OSHvQSw-pY&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=1JurkntSN_HqabK4FI-Zlg&oh=00_Afe-tDCAfZ4fKVqP0lDuRVWe9hl_xsPMxoVoU9Uc29fJ4Q&oe=68E99EE8"
+    },
+    "id": "490075326465984"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

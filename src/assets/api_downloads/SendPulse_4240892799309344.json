@@ -1,0 +1,123 @@
+{
+  "company_website": "https://sendpulse.com/features/chatbot?utm_source=fb-partner-directory",
+  "countries": [
+    "AR",
+    "AM",
+    "AU",
+    "AZ",
+    "BY",
+    "BE",
+    "BA",
+    "BR",
+    "BG",
+    "CA",
+    "CF",
+    "CL",
+    "CO",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "GE",
+    "DE",
+    "GR",
+    "HK",
+    "HU",
+    "IN",
+    "ID",
+    "IL",
+    "IT",
+    "KZ",
+    "KG",
+    "LV",
+    "LT",
+    "MX",
+    "MD",
+    "ME",
+    "NL",
+    "NZ",
+    "NO",
+    "PY",
+    "PE",
+    "PL",
+    "PT",
+    "PR",
+    "RO",
+    "RS",
+    "SK",
+    "SI",
+    "ZA",
+    "KR",
+    "ES",
+    "SE",
+    "CH",
+    "TJ",
+    "TR",
+    "UA",
+    "GB",
+    "US",
+    "VI",
+    "UM",
+    "UZ"
+  ],
+  "id": "4240892799309344",
+  "name": "SendPulse",
+  "description": "SendPulse is an omnichannel marketing automation platform that allows businesses of any size to effectively engage with their customers using email, SMS, and chatbots for Facebook Messenger, WhatsApp, Instagram, and Telegram. All customers enjoy: \n- no setup fee or any other additional monthly fees for using the WhatsApp Business API;\n- Facebook Messenger, WhatsApp, Instagram, and Telegram chatbots starting at just $9.85/month;\n- 24/7 customer support via live chat and email. \n\nWith a developer-friendly API, you can easily integrate chatbots into your existing solutions. For more information, visit: https://sendpulse.com/features/chatbot",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "WhatsApp Business API integrations",
+    "Chatbot Development Platform",
+    "Omnichannel communications"
+  ],
+  "industries": [
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "RETAIL",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "ENERGY_AND_UTILITIES",
+    "CONSUMER_PACKAGED_GOODS",
+    "AUTOMOTIVE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "es-419",
+    "pt",
+    "ru",
+    "es",
+    "uk",
+    "de"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/44681526_178469433092937_6823687681600389120_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=xf0XJPWVlXgQ7kNvwHigjA0&_nc_oc=AdmwncGbOSepcDX-Jbxs7zhU3boV4mhKUY5KKfVS7F6mUtI0wDf_4mVEX0vmucpId74&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=TUJRXZlySYPqEn-s_RJspQ&oh=00_Afe38bVxYW-rkBbBRWewv8Ud_Qy9mODf4GhjL55HoM1kpg&oe=690B3A6A"
+    },
+    "id": "178469429759604"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

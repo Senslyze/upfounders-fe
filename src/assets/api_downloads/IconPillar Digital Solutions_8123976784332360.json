@@ -1,0 +1,55 @@
+{
+  "company_website": "https://www.wappcloud.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "8123976784332360",
+  "name": "IconPillar Digital Solutions",
+  "description": "WappCloud is a robust WhatsApp Cloud API platform built to enhance customer engagement and marketing automation. Beyond ready-to-use features like contact management, audience segmentation, personalized messaging, and campaign analytics, we specialize in delivering tailor-made solutions to meet unique business needs. Whether it’s custom CRM integrations, chatbot workflows, or advanced automation, WappCloud empowers businesses with flexible, scalable, and customizable WhatsApp communication solutions.\n\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp API Integration & Custom Development",
+    "CRM & Third-Party Tool Integrations",
+    "Chatbot & Flow Builder Solutions"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/484073819_122194706114046502_2519465571664079104_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1e617a&_nc_ohc=aEwcTgpOszMQ7kNvwH4HU9A&_nc_oc=Admvl_FU37WM9UTdLbbgB_QZyrj9dmGR6IzjWWRClIUKb9OEpyzCw6A6EoiFiyfp8E4&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=nSBZ3fOaKLgWXnPnylzwng&oh=00_AfdNAPCmmjxkdgaTa8Vi8Eg2XV6zZJ4L61427F7Xb3yQOg&oe=68E9AF24"
+    },
+    "id": "122194706108046502"
+  },
+  "service_models": [
+    "PROJECT_BASED",
+    "SAAS",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

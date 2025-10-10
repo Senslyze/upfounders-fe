@@ -1,0 +1,47 @@
+{
+  "company_website": "https://smartspace.com.br/",
+  "countries": [
+    "BR"
+  ],
+  "id": "8198106580297988",
+  "name": "Smartspace",
+  "description": "Smartspace specializes in Omnichannel Customer Service (CCaaS), Telephony and Unified Communications (UCaaS) and Customer Relationship (CRM) solutions for companies and government agencies that seek to elevate the customer and citizen service experience and improve efficiency and collaboration between teams and servers. With complete integration of all service channels (WhatsApp, Voice, Webchat, E-mail and Social Networks) and internal communication, including telephony, chat and video, Smartspace offers a unified, integrated and efficient experience for customers and employees.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Omnichannel Customer Service",
+    "Voice and Chat Virtual Assistants",
+    "Unified Communications and collaboration"
+  ],
+  "industries": [
+    "EDUCATION",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/530707583_1287193159889799_6469846797118225177_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eSScRtQ5fjIQ7kNvwETBrIy&_nc_oc=AdkLNKJWtbolQWXC8NCPMFSWuOzB5gXSi51k49-POFB34WvXDd-0eaKFa3jPI05W4aU&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=OtouIrA2rW6AI4OH3VR6lA&oh=00_AfeV_GFdDDBZCRk8ee7QUblk8f22XxDIPbZ2a2NTp7_OPw&oe=68E998D6"
+    },
+    "id": "1287193156556466"
+  },
+  "service_models": [
+    "MANAGED",
+    "PROJECT_BASED"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

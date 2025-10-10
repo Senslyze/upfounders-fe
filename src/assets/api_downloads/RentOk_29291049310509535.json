@@ -1,0 +1,44 @@
+{
+  "company_website": "https://rentok.com/",
+  "countries": [
+    "IN"
+  ],
+  "id": "29291049310509535",
+  "name": "RentOk",
+  "description": "RentOk is a modern rental and property management app designed to simplify the lives of landlords, property managers, and tenants. With RentOk, you can manage rent collection, tenant communication, maintenance requests, and property records all in one place. The app offers automated rent reminders, digital receipts, lease tracking, and real-time updates to ensure smooth and transparent property management. Whether you're handling a single unit or multiple properties, RentOk helps you save time, stay organized, and get paid on time—without the hassle of paperwork or chasing tenants.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Property Management",
+    "Rental Management",
+    "Saas"
+  ],
+  "industries": [
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi",
+    "te",
+    "ta",
+    "mr",
+    "pa"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/526984178_1930208571710594_8301455155747818660_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e617a&_nc_ohc=C9ztWu7qyCoQ7kNvwF4OqAO&_nc_oc=AdkymvlbT9sV94g4Z2vVzJOLGy6FFQs5roPXlgyEkI6aJheFIR3vzXkcJ9gT5-1mHoQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=5TMVtLa4bE8yik3AEzkT7Q&oh=00_AfdvdEdLjiAlUGcfmuiJHF1xU-n8OAVR2T84YhpHmBqxTA&oe=68E9995B"
+    },
+    "id": "1930208568377261"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

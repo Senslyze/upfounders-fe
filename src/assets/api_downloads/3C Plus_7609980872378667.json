@@ -1,0 +1,41 @@
+{
+  "company_website": "https://3cplusnow.com/",
+  "countries": [
+    "BR"
+  ],
+  "id": "7609980872378667",
+  "name": "3C Plus",
+  "description": "Nossa solução é para todo negócio que necessita de comunicação omnichannel sem comprometer a produtividade. Seja para inside sales, call centers, centros de atendimento ao cliente, comércios ou instituições de ensino, a 3C Plus otimiza as suas atividades de telefonia e mensagens do seu atendimento.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Atendimento ao cliente",
+    "Parceiro de soluções",
+    "WhatsApp para empresas"
+  ],
+  "industries": [
+    "PROFESSIONAL_SERVICES",
+    "TELECOM",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "pt"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/298964413_3239893712898984_4970287583386597390_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Twq8R92oEm0Q7kNvwFb16b2&_nc_oc=Adk-NOtVfIDBcAlagANSCPQmQCdRzZItRP8UfFvulSfTyuVV2aK5Nm32-ZmQW3kgjrQ&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ZgvCcs9ywvtwAxZWAJRZIw&oh=00_Aff42x5O-M_HQP5G0MOo20Aclu3ECZQgoqrBY6YNbO3A_Q&oe=68E9AE84"
+    },
+    "id": "623046522560619"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

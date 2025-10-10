@@ -1,0 +1,89 @@
+{
+  "company_website": "https://www.puresocial.cx/",
+  "countries": [
+    "BR",
+    "CA",
+    "CL",
+    "CN",
+    "CO",
+    "CR",
+    "EC",
+    "SV",
+    "ES",
+    "US",
+    "FR",
+    "HN",
+    "IN",
+    "IQ",
+    "IL",
+    "IT",
+    "JP",
+    "MX",
+    "PA",
+    "PE",
+    "ZA",
+    "UY",
+    "DE",
+    "AU",
+    "AR",
+    "AE",
+    "GT",
+    "ID",
+    "LU",
+    "NI",
+    "SE",
+    "CH",
+    "VE"
+  ],
+  "id": "5664850353585295",
+  "name": "Sixbell",
+  "description": "Integrate all your digital channels\nEnrich your Genesys Contact Center by integrating social networks, digital messaging and video calls.\n\nPureSocial enriches your Genesys Contact Center, adding powerful functionalities, such as:\n\nVideo call: allow your agents to escalate to a video call from chat, email, voice, or social media. Video calls are compatible with the most used devices and operating systems, including iOS and Android.\nSocial Media integration: Enable Social Customer Care. Receive feedback from your customers on your Social Media channels:\nFacebook Wall\nTwitter (Mentions and Direct Messages)\nInstagram (Public Messages)\nYoutube\nDigital Messaging integration: Let your clients reach your business through:\nFacebook Messenger\nWhatsApp\nTelegram\nViber\n",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Customer Engagement",
+    "Contact Center",
+    "Customer Services"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "FINANCIAL_SERVICES",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "de",
+    "it",
+    "ko",
+    "pt",
+    "es-419",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/205579498_538917630472125_4462341736766171017_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=w39b5M_Bg_MQ7kNvwHY7oBD&_nc_oc=Adn04ky68QOtLOXNPbUR8rtFlVpaCh3QGQn3RO4lKJek2k8QFclCWY5QMfxf3-ZdkDc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=J2RHzChP31bkwJLPnECpDQ&oh=00_AfdAPqetxrQV8S2_UxM62YhX5PnatzXpsiWePO6iTfsDFA&oe=690B2338"
+    },
+    "id": "538917627138792"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,93 @@
+{
+  "company_website": "https://www.sprinklr.com/",
+  "countries": [
+    "FR",
+    "DE",
+    "JP",
+    "GB",
+    "US",
+    "AE",
+    "CH",
+    "ES",
+    "SG",
+    "NL",
+    "CN",
+    "IN",
+    "BR",
+    "AU",
+    "CA"
+  ],
+  "id": "370380470078909",
+  "name": "Sprinklr",
+  "description": "Sprinklr is the unified platform for all customer-facing functions. We call it unified customer experience management (Unified-CXM). We help companies deliver human experiences to every customer, every time, across any modern channel, at a once impossible scale. Headquartered in New York City with over 2,400 employees globally, Sprinklr works with more than 1,000 of the world's most valuable enterprises — global brands like Microsoft, P&G, Samsung and more than 50% of the Fortune 100.  ",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Increase Revenues (Enterprise)",
+    "Reduce Costs (Enterprise)",
+    "Reduce Risks (Enterprise)"
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL",
+    "AUTOMOTIVE",
+    "ECOMMERCE",
+    "HEALTHCARE",
+    "PROFESSIONAL_SERVICES",
+    "EDUCATION",
+    "ORGANIZATIONS_AND_ASSOCIATIONS"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "pl",
+    "pt",
+    "ru",
+    "yue",
+    "zh",
+    "zh-hans-tw",
+    "zh-hant-hk",
+    "zh-hant-tw"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/366543899_669465008560165_6010644016664039407_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=KaB5YGA0QJQQ7kNvwFNpjZ_&_nc_oc=AdmE7n92VIjuCO3dznzp8AaQ33EPCVbhlPRHWUIfhmQPvPBnaBff7lz2xeMQGGcBjNo&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AfevN9yQzWmDilGE7DtvCUHwjJtkRKvDa7GbRcT1OmdQkg&oe=68E987D5"
+    },
+    "id": "669465011893498"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "CREATIVE_PLATFORM",
+    "MESSAGING",
+    "CAMPAIGN_MANAGEMENT"
+  ],
+  "solution_subtypes": [
+    "ASSET_MANAGEMENT",
+    "CUSTOMER_CARE",
+    "SOLUTION_PARTNER",
+    "MESSAGING_PAYMENTS"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,65 @@
+{
+  "company_website": "https://sproutsocial.com/",
+  "countries": [
+    "AU",
+    "CA",
+    "IN",
+    "IE",
+    "SG",
+    "GB",
+    "US"
+  ],
+  "id": "8805213749549721",
+  "name": "Sprout Social",
+  "description": "Sprout Social offers an end to end social media management platform, enabling over 30,000 brands and agencies to manage all aspects of their Social Media strategy, including content publishing, social media analytics, customer care, influencer marketing, community management, paid advertising, competitive insights, commerce, and employee advocacy.\n\nSprout’s unified platform integrates the power of social throughout every aspect of a business and enables social leaders at every level to extract valuable data and insights that drive their business forward. Sprout operates on Meta (Facebook, Instagram, Threads, and WhatsApp) as well as other major social media networks, including TikTok, LinkedIn, YouTube, X, Reddit and Pinterest.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Publishing and advertising on Facebook & Instagram",
+    "Influencer marketing, including creator discovery and campaign management",
+    "Analysis, insights and reporting to measure the ROI of social"
+  ],
+  "industries": [
+    "AUTOMOTIVE",
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "EDUCATION",
+    "ENERGY_AND_UTILITIES",
+    "ENTERTAINMENT_AND_MEDIA",
+    "FINANCIAL_SERVICES",
+    "GAMING",
+    "GOVERNMENT_AND_POLITICS",
+    "HEALTHCARE",
+    "ORGANIZATIONS_AND_ASSOCIATIONS",
+    "PROFESSIONAL_SERVICES",
+    "RETAIL",
+    "TECHNOLOGY",
+    "TELECOM",
+    "TRAVEL"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "fr",
+    "it",
+    "pt",
+    "es"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t1.6435-9/32085069_368444886984821_6417796341367308288_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1e617a&_nc_ohc=voqP6sGMAoIQ7kNvwGKTdNa&_nc_oc=AdmtFvWI16DST2WrZaPHOvVV3R5qaH0b5Id2R_GB6cCC_J7kHTrp7JT9sCmcwT-GumE&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=FAFr7sA1Hc_3zI1vh9E8CA&oh=00_AfdjAUSHVwFYhnAyi1KMvhqr0i0PewpRf7KiC4oi3UTZVA&oe=690B3B87"
+    },
+    "id": "368444883651488"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "CAMPAIGN_MANAGEMENT",
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

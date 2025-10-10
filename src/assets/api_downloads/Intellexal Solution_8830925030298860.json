@@ -1,0 +1,50 @@
+{
+  "company_website": "https://its.com.pk/",
+  "countries": [
+    "PK",
+    "GB",
+    "AE",
+    "US"
+  ],
+  "id": "8830925030298860",
+  "name": "Intellexal Solution",
+  "description": "Intellexal Solutions is a leading provider of mobile value-added services, a digital engagement agency, and a pioneer in omni-channel cloud communication platforms. We empower businesses to deliver seamless customer experiences through effortless, contextual interactions across preferred channels.\n\nOur unified platform offers omni-channel engagement, user authentication, security, and a multi-channel engagement suite. These tools help businesses build scalable relationships via chatbots and live agents on WhatsApp, Facebook Messenger, Instagram, SMS, and Voice Calls.\n\nPartnering with mobile operators, messaging platforms, financial institutions, social networks, tech companies, and aggregators, Intellexal Solutions drives impactful interactions. Supporting 500+ businesses, we enable engagement across Marketing, Service Delivery, and Customer Support through APIs and intuitive applications, ensuring exceptional value at every touchpoint.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "Messaging APIs: Integrate powerful messaging capabilities into your apps and business platforms.",
+    "Digital Connect: Modern customer support through channels like WhatsApp, Facebook massager, and Instagram.",
+    "Automation: Use Chatbot Builder & C-Manager for automated support and data-driven campaigns."
+  ],
+  "industries": [
+    "FINANCIAL_SERVICES",
+    "ECOMMERCE",
+    "AUTOMOTIVE",
+    "TELECOM",
+    "TECHNOLOGY",
+    "RETAIL",
+    "PROFESSIONAL_SERVICES",
+    "HEALTHCARE"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "en",
+    "hi"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/479193671_122121809258619605_6556367918454973294_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1e617a&_nc_ohc=ZlsG5OVjDtkQ7kNvwHfISEg&_nc_oc=Admq9wLgoUpdWlbDd5_CdVQVfBkV2yPPbG85eSMZ3Iq-x3qeDe0xrravmaUr_Y3_GBw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=fP6xm5R0OdMeYn9cPE63yQ&oh=00_AfcHU5umNbWHOGOKyyBiQ-IBCtT8wA5cpjKJqyAIQBCaXQ&oe=68E9B7A3"
+    },
+    "id": "122121809252619605"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

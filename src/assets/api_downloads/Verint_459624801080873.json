@@ -1,0 +1,65 @@
+{
+  "company_website": "https://www.verint.com/",
+  "countries": [
+    "IT",
+    "GB",
+    "US",
+    "JP",
+    "AU",
+    "BR",
+    "AR",
+    "IN",
+    "MX",
+    "NL",
+    "ZA"
+  ],
+  "id": "459624801080873",
+  "name": "Verint",
+  "description": "Verint is the Customer Engagement Company, enabling brands to build 1:1 relationships with customers via Messaging. \n\nDelivering a unified approach to customer experiences across Messenger, WhatsApp, and Instagram Messages, Verint enables global brands including Google, Tesco and Hertz to drive profitable and lasting customer relationships on Messaging channels.",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP",
+    "MESSENGER"
+  ],
+  "focus_areas": [
+    "Business Messaging",
+    "Conversational AI / Bots",
+    "Customer Engagement"
+  ],
+  "industries": [
+    "RETAIL",
+    "TRAVEL",
+    "HEALTHCARE",
+    "FINANCIAL_SERVICES",
+    "ENERGY_AND_UTILITIES",
+    "TELECOM"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "de",
+    "en",
+    "es-419",
+    "fr",
+    "it",
+    "pt",
+    "tr"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/329136961_520414193524698_6645676996221171887_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=S6ISRBPLyNcQ7kNvwHkKWFn&_nc_oc=AdnUKwMpGdHNs-xjySeFwgP8CwfuFQbxHoqx80XkgmCUfjBOvKc8SHobSxGpN0UAhNw&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=ugVqchM8pFxIY8LZWG_76Q&oh=00_AfeMbvcNNRA70MI8CiRRmSSQ5Mjk1TdQPNYfUIGMvLR6MQ&oe=68E98B7D"
+    },
+    "id": "970117780968377"
+  },
+  "service_models": [
+    "SAAS"
+  ],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [
+    "CUSTOMER_CARE",
+    "NOTIFICATIONS",
+    "SOLUTION_PARTNER"
+  ],
+  "__typename": "MarketingSolutionProvider"
+}

@@ -1,0 +1,31 @@
+{
+  "company_website": "https://sevenomedia.com/",
+  "countries": [],
+  "id": "8486423598113302",
+  "name": "Seven Oceans Teleservices Pvt Ltd",
+  "description": "Established in 2017, Seven Oceans Teleservices is a prominent Cloud Communications Platform provider, offering innovative business messaging solutions. Our product stack empowers global businesses with WhatsApp, RCS, SMS, and more for impactful messaging experiences. Seven Oceans transforms customer engagement with the WhatsApp Business API, providing Rich Messages, swift responses, and personalized interactions. \n\nWhy Choose Seven Oceans WhatsApp Business Platform?\n1.\tBuild Custom Integrations effortlessly\n2.\tUser-friendly Dashboard with the latest WhatsApp features\n3.\tAccess Advanced Reporting & Analytics\n5.\tWhatsApp Onboarding Support\n6.\tDedicated Customer Support\n\nElevate your Tech Stack by integrating WhatsApp with Seven Oceans! For inquiries, contact us at nirav@sevenomedia.com. Visit: https://www.sevenomedia..com",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "WhatsApp Cloud API for technology enablers ",
+    "WhatsApp Partner Solutions for marketplaces, CRMs, ERPs and technology enablers",
+    "Business Messaging, Messaging Commerce"
+  ],
+  "industries": [],
+  "is_badged": true,
+  "language_tags": [],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/481704127_1377665933401770_7105863404272806149_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1e617a&_nc_ohc=magw-zN2MwQQ7kNvwEr00Ux&_nc_oc=AdlnxRepFFBVKzJb_2imdsq942T7gxASSTzXF2W36KyTQb1sttg6hsgv7K1dx2l7Rvc&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=TUJRXZlySYPqEn-s_RJspQ&oh=00_Afej-IfFcXnU30w-gUQtZzBQEORHA7VTAl5DB1TWmr2hFA&oe=68E98D7C"
+    },
+    "id": "1302347760933588"
+  },
+  "service_models": [],
+  "solution_types": [
+    "MESSAGING"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}

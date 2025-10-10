@@ -1,0 +1,56 @@
+{
+  "company_website": "https://karzoun.chat/",
+  "countries": [
+    "EG",
+    "SA",
+    "AE",
+    "QA",
+    "BH",
+    "OM",
+    "JO",
+    "KW",
+    "IQ",
+    "TR"
+  ],
+  "id": "5766011806783954",
+  "name": "Karzoun LLC",
+  "description": "تعتبر شركة كرزون رائدة في مجال توفير خدمات الواتساب المتخصصة، حيث نجمع بين الاحترافية والابتكار لتلبية احتياجات عملائنا بطريقة فعّالة ومبتكرة. نهدف إلى مساعدة الشركات والمؤسسات على الاستفادة القصوى من إمكانيات واتساب لتعزيز أعمالهم وتحسين تواصلهم مع العملاء.\n\nما يميز شركة كرزون:\n\nخبرة عميقة: يتمتع فريقنا بخبرة ممتدة في مجال توفير خدمات الواتساب، ونفهم تمامًا كيفية استخدام هذه المنصة بكفاءة لتحقيق أهداف الأعمال.\n\nحلول مخصصة: نقدم حلاً مخصصًا لكل عميل يتناسب مع احتياجاته الفريدة. سواء كنت بحاجة إلى خدمات تسويق عبر واتساب أو إدارة الرسائل الجماعية أو دمج واتساب مع أنظمتك الداخلية، فإننا نقدم لك الحلاول المناسبة.\n\nأمان وخصوصية: نعتبر الأمان وحفظ خصوصية البيانات من أقصى الأولويات. نتبع أفضل الممارسات في حماية بيانات عملائنا وضمان سرية المحادثات\n\nدعم ممتاز: فريق دعم عملاءنا دائمًا متاح للإجابة على استفساراتك ومساعدتك في حل المشكلات بفاعلية\nإذا كنت تبحث عن شريك موثوق ومحترف لتوفير خدمات الواتساب، فشركة كرزون هي الخيار الأمثل. اتصل بنا اليوم لمعرفة المزيد حول كيف يمكننا مساعدتك في تحقيق أهدافك",
+  "diverse_owned_identities": [],
+  "facebook_platforms": [
+    "WHATSAPP"
+  ],
+  "focus_areas": [
+    "التسويق عبر واتساب",
+    "ادارة علاقات العملاء CRM",
+    "الأتمتة و البوتات الذكية"
+  ],
+  "industries": [
+    "CONSUMER_PACKAGED_GOODS",
+    "ECOMMERCE",
+    "RETAIL",
+    "TECHNOLOGY"
+  ],
+  "is_badged": true,
+  "language_tags": [
+    "ar",
+    "tr",
+    "en"
+  ],
+  "msp_profile_picture": {
+    "image": {
+      "uri": "https://scontent.fnag7-1.fna.fbcdn.net/v/t39.30808-6/537309484_1569999584058494_7763480821040025691_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=qFhGSy1ax-MQ7kNvwG9gngA&_nc_oc=AdlrI6zwMqh_fYkC4qPgyUgOMF3s8exiKOgCj6odLj1FloqUHdcVQx8LYaLSxj9m7YM&_nc_zt=23&_nc_ht=scontent.fnag7-1.fna&_nc_gid=Bia_aSWAZIGLgPMqlWb5BA&oh=00_AffVctn2Ufb2vjqW7_KmqJjQvo9-DK5_CTO4s8xzewIT2g&oe=68E9B969"
+    },
+    "id": "1569999574058495"
+  },
+  "service_models": [
+    "SAAS",
+    "PROJECT_BASED",
+    "MANAGED"
+  ],
+  "solution_types": [
+    "MESSAGING",
+    "CAMPAIGN_MANAGEMENT"
+  ],
+  "solution_subtypes": [],
+  "__typename": "MarketingSolutionProvider"
+}
