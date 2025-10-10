@@ -1,6 +1,6 @@
 import Header from './design-system/Organisms/Header'
 import Footer from './design-system/Organisms/Footer'
-import HomePage from './design-system/Organisms/HomePage'
+import HomePage from './design-system/templates/HomePage'
 import './App.css'
 
 function App() {
