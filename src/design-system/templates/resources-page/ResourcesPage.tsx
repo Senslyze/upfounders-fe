@@ -1,9 +1,10 @@
 import React from 'react';
-import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle2, MessageCircleQuestion, Bot, Plug, LifeBuoy } from 'lucide-react';
+import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle2 } from 'lucide-react';
 import MetaPartnerTypeCard from '../../Molecules/MetaPartnerTypeCard';
 import PricingModelCard from '../../Molecules/PricingModelCard';
 import RequiredSignupStepsCard from '../../Molecules/RequiredSignupStepsCard';
 import ConsiderationPartnerCard from '../../Molecules/ConsiderationPartnerCard';
+import CallToActionBanner from '../../Molecules/CallToActionBanner';
 
 const ResourcesPage: React.FC = () => {
   return (
@@ -265,6 +266,9 @@ const ResourcesPage: React.FC = () => {
                 'Response times: SLA commitments and support hours',
               ]}
             />
+          </div>
+          <div className="mt-10">
+            <CallToActionBanner />
           </div>
         </div>
       </div>
