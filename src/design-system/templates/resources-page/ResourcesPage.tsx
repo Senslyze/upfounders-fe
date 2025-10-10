@@ -1,8 +1,9 @@
 import React from 'react';
-import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle2 } from 'lucide-react';
+import { BookOpen, Users, Zap, Shield, DollarSign, User2, ShieldCheck, Users2, CheckCircle2, MessageCircleQuestion, Bot, Plug, LifeBuoy } from 'lucide-react';
 import MetaPartnerTypeCard from '../../Molecules/MetaPartnerTypeCard';
 import PricingModelCard from '../../Molecules/PricingModelCard';
 import RequiredSignupStepsCard from '../../Molecules/RequiredSignupStepsCard';
+import ConsiderationPartnerCard from '../../Molecules/ConsiderationPartnerCard';
 
 const ResourcesPage: React.FC = () => {
   return (
@@ -215,6 +216,55 @@ const ResourcesPage: React.FC = () => {
                 requirements={card.requirements}
               />
             ))}
+          </div>
+        </div>
+
+        {/* Considerations when choosing a partner */}
+        <div className="mt-16">
+          <h2 className="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-6">
+            Key Considerations When Choosing a Partner
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+            <ConsiderationPartnerCard
+              title="Message Volume"
+              description="Consider your expected message volume when choosing a pricing model"
+              icon={<Zap className="w-5 h-5" />}
+              bullets={[
+                'Low volume (< 1K/month): Per message or pay-as-you-go',
+                'Medium volume (1K–10K/month): Bundle or per contact',
+                'High volume (> 10K/month): Volume discounts or enterprise pricing',
+              ]}
+            />
+            <ConsiderationPartnerCard
+              title="Automation Requirements"
+              description="Evaluate your automation needs and choose partners accordingly"
+              icon={<Zap className="w-5 h-5" />}
+              bullets={[
+                'Basic automation: Most partners support this',
+                'Advanced workflows: Look for visual builders and integrations',
+                'AI-powered features: Check for chatbot and NLP capabilities',
+              ]}
+            />
+            <ConsiderationPartnerCard
+              title="Integration Needs"
+              description="Consider your existing tech stack and integration requirements"
+              icon={<Zap className="w-5 h-5" />}
+              bullets={[
+                'CRM integration: Check for native connectors',
+                'API requirements: Evaluate documentation and support',
+                'Webhook support: Ensure real-time data flow',
+              ]}
+            />
+            <ConsiderationPartnerCard
+              title="Support Requirements"
+              description="Assess your support needs and partner capabilities"
+              icon={<Users2 className="w-5 h-5" />}
+              bullets={[
+                'Documentation quality: Check available guides and tutorials',
+                'Support channels: Email, chat, phone availability',
+                'Response times: SLA commitments and support hours',
+              ]}
+            />
           </div>
         </div>
       </div>
