@@ -16,7 +16,7 @@ const ConsiderationPartnerCard: React.FC<ConsiderationPartnerCardProps> = ({ tit
     <div className="rounded-2xl border border-gray-200 bg-white p-6 md:p-8 shadow-sm">
       {/* Header */}
       <div className="flex items-center gap-3 mb-3">
-        <div className="w-8 h-8 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center">
+        <div className="flex items-center justify-center text-blue-600">
           {icon}
         </div>
         <h3 className="text-xl font-bold text-gray-900">{title}</h3>

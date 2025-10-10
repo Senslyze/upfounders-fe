@@ -25,7 +25,7 @@ const RequiredSignupStepsCard: React.FC<RequiredSignupStepsCardProps> = ({ step,
       <div className="flex-1 bg-white p-6 rounded-lg border border-gray-200 shadow-sm">
         {/* Header */}
         <div className="flex items-center gap-3 mb-2">
-          <div className="w-8 h-8 rounded-lg bg-blue-50 text-blue-600 flex items-center justify-center">
+          <div className="flex items-center justify-center text-blue-600">
             {icon}
           </div>
           <h3 className="text-xl font-medium text-gray-900">{title}</h3>

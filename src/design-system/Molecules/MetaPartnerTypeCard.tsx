@@ -32,7 +32,7 @@ const MetaPartnerTypeCard: React.FC<MetaPartnerTypeCardProps> = ({ title, descri
   return (
     <div className={`rounded-2xl border border-gray-200 ${toneClasses} p-6 md:p-7`}>
       <div className="flex items-center gap-3 mb-3">
-        <div className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/60">
+        <div className="flex items-center justify-center">
           {icon}
         </div>
         <h3 className="text-xl font-medium text-gray-900">{title}</h3>

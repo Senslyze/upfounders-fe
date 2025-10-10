@@ -29,7 +29,7 @@ const PricingModelCard: React.FC<PricingModelCardProps> = ({ title, description,
     <div className="rounded-2xl border border-gray-200 bg-white p-6 md:p-8">
       {/* Header */}
       <div className="flex items-center gap-3 mb-3">
-        <div className="w-9 h-9 flex items-center justify-center rounded-lg bg-blue-50 text-blue-600">
+        <div className="flex items-center justify-center text-blue-600">
           {icon}
         </div>
         <h3 className="text-xl font-medium text-gray-900">{title}</h3>
