@@ -2,9 +2,9 @@ import React from 'react';
 import { z } from 'zod';
 import { Link } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
-import SearchBar from '../Molecules/SearchBar';
-import StatsCards from '../Molecules/StatsCards';
-import PartnerGrid from '../Molecules/PartnerGrid';
+import SearchBar from '../../Molecules/SearchBar';
+import StatsCards from '../../Molecules/StatsCards';
+import PartnerGrid from '../../Molecules/PartnerGrid';
 
 // Zod schemas
 const PartnerTypeSchema = z.enum(['Solution Partner', 'Tech Provider', 'Tech Partner']);
