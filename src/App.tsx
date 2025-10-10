@@ -2,6 +2,7 @@ import Header from './design-system/Organisms/Header'
 import Footer from './design-system/Organisms/Footer'
 import HomePage from './design-system/templates/home-page/HomePage'
 import ComparePage from './design-system/templates/compare-page/ComparePage'
+import ResourcesPage from './design-system/templates/resources-page/ResourcesPage'
 import { Routes, Route, useLocation } from 'react-router-dom'
 import './App.css'
 
@@ -30,9 +31,10 @@ function App() {
             }
           />
           <Route path="/compare" element={<ComparePage />} />
+          <Route path="/resources" element={<ResourcesPage />} />
         </Routes>
       </main>
-      {location.pathname !== '/compare' && <Footer />}
+      {location.pathname !== '/compare' && location.pathname !== '/resources' && <Footer />}
     </div>
   )
 }
