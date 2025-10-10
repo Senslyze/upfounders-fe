@@ -42,7 +42,7 @@ const NewsLtterCard: React.FC = () => {
         {/* Categories */}
         <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-4 text-white">
           {CATEGORIES.map((cat) => (
-            <label key={cat.id} className="inline-flex items-center gap-3 select-none">
+            <label key={cat.id} className="inline-flex items-center gap-3 select-none cursor-pointer">
               <input
                 type="checkbox"
                 checked={!!selected[cat.id]}
@@ -57,8 +57,9 @@ const NewsLtterCard: React.FC = () => {
         {/* Button */}
         <div className="mt-8 flex justify-center">
           <button
-            className="inline-flex items-center gap-2 bg-white text-blue-700 font-semibold px-6 py-3 rounded-md hover:bg-gray-50 transition-colors"
+            className="inline-flex items-center gap-2 bg-white text-blue-700 font-semibold px-6 py-3 rounded-md transition-colors disabled:opacity-60 disabled:cursor-not-allowed hover:bg-gray-50"
             type="button"
+            disabled={!Object.values(selected).some(Boolean)}
           >
             <Mail className="w-5 h-5" /> Subscribe to Updates
           </button>
