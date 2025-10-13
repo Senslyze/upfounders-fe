@@ -32,7 +32,7 @@ const ComparePage: React.FC = () => {
         <div className="mt-8">
           <div className="bg-white border border-gray-200 rounded-2xl p-8 md:p-12 shadow-sm">
             <div className="flex flex-col items-center text-center">
-              <div className="rounded-full bg-gray-100 p-3 mb-4">
+              <div className="mb-4">
                 <Users2 className="w-8 h-8 text-gray-400" />
               </div>
               <h2 className="text-lg font-semibold text-gray-900 mb-2">No Partners Selected</h2>
