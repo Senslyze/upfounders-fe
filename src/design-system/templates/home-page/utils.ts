@@ -149,21 +149,33 @@ export const getPaginatedPartners = async (page: number = 1, searchQuery?: strin
     // Filter by service models (instead of fake partner types)
     if (filters.partnerTypes && filters.partnerTypes.length > 0) {
       filteredPartners = filteredPartners.filter(partner => 
-        partner.service_models.some(model => filters.partnerTypes!.includes(model))
+        partner.service_models.some(model => 
+          filters.partnerTypes!.some(filterType => 
+            model.toLowerCase() === filterType.toLowerCase()
+          )
+        )
       );
     }
     
     // Filter by products/platforms
     if (filters.products && filters.products.length > 0) {
       filteredPartners = filteredPartners.filter(partner => 
-        partner.facebook_platforms.some(platform => filters.products!.includes(platform))
+        partner.facebook_platforms.some(platform => 
+          filters.products!.some(filterProduct => 
+            platform.toLowerCase() === filterProduct.toLowerCase()
+          )
+        )
       );
     }
     
     // Filter by service models (instead of fake pricing)
     if (filters.pricingModels && filters.pricingModels.length > 0) {
       filteredPartners = filteredPartners.filter(partner => 
-        partner.service_models.some(model => filters.pricingModels!.includes(model))
+        partner.service_models.some(model => 
+          filters.pricingModels!.some(filterPricing => 
+            model.toLowerCase() === filterPricing.toLowerCase()
+          )
+        )
       );
     }
     

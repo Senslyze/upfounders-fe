@@ -189,7 +189,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
             size="sm"
             onClick={() => partner.website ? window.open(partner.website, '_blank') : onViewDetails?.(partner.id)}
           >
-            {partner.website ? 'Visit Website' : 'View Details'}
+            { 'View Details'}
           </Button>
         </div>
       </CardContent>

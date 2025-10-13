@@ -81,13 +81,13 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     setCurrentPage(1);
     loadPartners(1, query, filters);
     onSearch?.(query);
-  }, [filters, loadPartners, onSearch]);
+  }, [filters, onSearch]);
 
   const handleFiltersChange = useCallback((newFilters: FilterOptions) => {
     setFilters(newFilters);
     setCurrentPage(1);
     loadPartners(1, searchQuery, newFilters);
-  }, [searchQuery, loadPartners]);
+  }, [searchQuery]);
 
   const handleClearFilters = useCallback(() => {
     const emptyFilters: FilterOptions = {
@@ -100,7 +100,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     setFilters(emptyFilters);
     setCurrentPage(1);
     loadPartners(1, searchQuery, emptyFilters);
-  }, [searchQuery, loadPartners]);
+  }, [searchQuery]);
 
 
 
@@ -109,7 +109,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     if (!isLoading && hasMore) {
       loadPartners(currentPage + 1, searchQuery, filters);
     }
-  }, [currentPage, searchQuery, filters, hasMore, isLoading, loadPartners]);
+  }, [currentPage, searchQuery, filters, hasMore, isLoading]);
 
   // Infinite scroll handler
   useEffect(() => {

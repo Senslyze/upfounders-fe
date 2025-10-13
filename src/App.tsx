@@ -23,7 +23,6 @@ function App() {
             element={
               <HomePage 
                 onSearch={handleSearch}
-                onFiltersClick={handleFiltersClick}
               />
             }
           />

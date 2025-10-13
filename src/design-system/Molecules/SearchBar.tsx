@@ -46,7 +46,8 @@ const SearchBar: React.FC<SearchBarProps> = ({
     }, 300);
 
     return () => clearTimeout(timeoutId);
-  }, [searchQuery, onSearch]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [searchQuery]);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchQuery(e.target.value);
@@ -221,27 +222,18 @@ const SearchBar: React.FC<SearchBarProps> = ({
                 options={['WhatsApp', 'Instagram', 'Messenger', 'Ads Manager']}
               />
 
-              {/* Partner Type */}
+              {/* partnerTypes */}
               <FilterSection
                 title="Partner Type"
                 category="partnerTypes"
-                options={['Solution Partner', 'Tech Provider', 'Tech Partner']}
+                options={['Solution Partner', 'Technical Provider', 'Technical Partner']}
               />
 
-              {/* Pricing Model */}
+              {/* Service Models (Pricing) */}
               <FilterSection
-                title="Pricing Model"
+                title="Service Models"
                 category="pricingModels"
-                options={[
-                  'Per Message',
-                  'Per User',
-                  'Per Contact',
-                  'Monthly Active Users',
-                  'Conversation Based',
-                  'Bundle Based',
-                  'Pay-as-you-go',
-                  'One-time Fee'
-                ]}
+                options={['SAAS', 'MANAGED', 'PROJECT_BASED', 'HOURLY']}
               />
 
               {/* Regions */}
