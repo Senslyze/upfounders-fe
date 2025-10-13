@@ -4,7 +4,8 @@ import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
-import { getPaginatedPartners, type Partner, partners as allPartners } from './utils';
+import { getPaginatedPartners, type Partner } from './utils';
+import { useCompanies } from '../../../hooks/useCompanies';
 
 type HomePageProps = {
   onSearch?: (query: string) => void;
@@ -25,25 +26,33 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   });
   const [totalCount, setTotalCount] = useState(0);
 
+  // Get all partners for stats
+  const { partners: allPartners } = useCompanies();
+
   // Load initial data
   useEffect(() => {
     loadPartners(1, '', {});
   }, []);
 
-  const loadPartners = useCallback((page: number, query: string = '', filterOptions: any = {}) => {
+  const loadPartners = useCallback(async (page: number, query: string = '', filterOptions: any = {}) => {
     setIsLoading(true);
-    const result = getPaginatedPartners(page, query, filterOptions);
-    
-    if (page === 1) {
-      setPartners(result.partners);
-    } else {
-      setPartners(prev => [...prev, ...result.partners]);
+    try {
+      const result = await getPaginatedPartners(page, query, filterOptions);
+      
+      if (page === 1) {
+        setPartners(result.partners);
+      } else {
+        setPartners(prev => [...prev, ...result.partners]);
+      }
+      
+      setHasMore(result.hasMore);
+      setTotalCount(result.totalCount);
+      setCurrentPage(page);
+    } catch (error) {
+      console.error('Error loading partners:', error);
+    } finally {
+      setIsLoading(false);
     }
-    
-    setHasMore(result.hasMore);
-    setTotalCount(result.totalCount);
-    setCurrentPage(page);
-    setIsLoading(false);
   }, []);
 
   const handleSearch = useCallback((query: string) => {
@@ -163,7 +172,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Consultancy Banner */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <div className="bg-gradient-to-r from-blue-50 to-purple-50 border border-blue-200 rounded-xl p-6">
             <div className="text-center">
               <h2 className="text-2xl font-bold text-gray-900 mb-2">
@@ -185,7 +194,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Search Bar with Integrated Filters */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <SearchBar 
             onSearch={handleSearch}
             onFiltersChange={handleFiltersChange}
@@ -195,12 +204,12 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Stats Cards */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <StatsCards partners={allPartners} />
         </div>
 
         {/* Partners Grid */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
           <PartnerGrid 
             partners={partners}
             onCompareToggle={(partnerId) => console.log('Compare toggle:', partnerId)}

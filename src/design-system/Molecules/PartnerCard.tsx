@@ -1,5 +1,5 @@
 import React from 'react';
-import { Star, Users, DollarSign, Globe, MessageCircle, Instagram, Phone } from 'lucide-react';
+import { Users, Globe, MessageCircle, Instagram, Phone, ChevronDown, ChevronUp } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
 import { Badge } from '@/design-system/Atoms/badge';
 import { Button } from '@/design-system/Atoms/button';
@@ -17,6 +17,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
   onViewDetails,
   isInComparison = false
 }) => {
+  const [showAllIndustries, setShowAllIndustries] = React.useState(false);
   const getTypeVariant = (type: string) => {
     switch (type) {
       case 'Solution Partner':
@@ -48,10 +49,10 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
   };
 
   return (
-    <Card className="hover:shadow-md transition-shadow">
+    <Card className="hover:shadow-md transition-shadow w-full max-w-sm">
       <CardHeader className="pb-4">
         <div className="flex items-start justify-between">
-          <div className="flex-1">
+          <div className="flex-1 min-w-0">
             <div className="flex items-center space-x-3 mb-2">
               {partner.profileImage && (
                 <img 
@@ -60,32 +61,29 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
                   className="w-10 h-10 rounded-lg object-cover"
                 />
               )}
-              <div>
-                <h3 className="text-xl font-bold text-gray-900">{partner.name}</h3>
+              <div className="min-w-0 flex-1">
+                <h3 className="text-lg font-bold text-gray-900 break-words leading-tight">{partner.name}</h3>
                 {partner.isBadged && (
                   <span className="text-xs text-blue-600 font-medium">✓ Verified Partner</span>
                 )}
               </div>
             </div>
-            <div className="flex items-center space-x-3 mb-3">
-              <Badge variant={getTypeVariant(partner.type)}>
-                {partner.type}
-              </Badge>
-              <div className="flex items-center space-x-1">
-                <Star className="w-4 h-4 text-yellow-400 fill-current" />
-                <span className="text-sm font-medium text-gray-900">{partner.rating}</span>
-                <span className="text-sm text-gray-500">({partner.reviewCount} reviews)</span>
-              </div>
+            <div className="flex flex-wrap gap-2 mb-3">
+              {partner.service_models.map((model, index) => (
+                <Badge key={index} variant={getTypeVariant(model)} className="text-xs">
+                  {model}
+                </Badge>
+              ))}
             </div>
           </div>
         </div>
       </CardHeader>
 
-      <CardContent className="space-y-4">
+      <CardContent className="space-y-4 overflow-hidden">
 
         {/* Supported Platforms */}
         <div className="flex flex-wrap gap-2">
-          {partner.platforms.map((platform, index) => (
+          {partner.facebook_platforms.map((platform, index) => (
             <Badge key={index} variant="outline" className="flex items-center space-x-1">
               {getPlatformIcon(platform)}
               <span>{platform}</span>
@@ -98,44 +96,79 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           {partner.description}
         </p>
 
-        {/* Key Features */}
+        {/* Focus Areas */}
         <div>
-          <h4 className="text-sm font-bold text-gray-900 mb-2">Key Features</h4>
+          <h4 className="text-sm font-bold text-gray-900 mb-2">Focus Areas</h4>
           <div className="flex flex-wrap gap-2">
-            {partner.keyFeatures.map((feature, index) => (
+            {partner.focus_areas.slice(0, 3).map((area, index) => (
               <Badge key={index} variant="secondary" className="bg-blue-50 text-blue-700">
-                {feature}
+                {area.length > 30 ? area.substring(0, 30) + '...' : area}
               </Badge>
             ))}
-            {partner.moreFeatures > 0 && (
-              <span className="text-gray-500 text-xs">+{partner.moreFeatures} more</span>
+            {partner.focus_areas.length > 3 && (
+              <span className="text-gray-500 text-xs">+{partner.focus_areas.length - 3} more</span>
             )}
           </div>
         </div>
 
-        {/* Pricing and Location */}
-        <div className="flex items-center justify-between text-sm">
-          <div className="flex items-center space-x-1">
-            <DollarSign className="w-4 h-4 text-green-600" />
-            <span className="text-gray-700">{partner.pricing}</span>
+        {/* Service Models and Countries */}
+        <div className="space-y-3 text-sm">
+          <div>
+            <h4 className="text-sm font-bold text-gray-900 mb-2">Service Models</h4>
+            <div className="flex flex-wrap gap-1">
+              {partner.service_models.map((model, index) => (
+                <Badge key={index} variant="outline" className="bg-green-50 text-green-700 text-xs">
+                  {model}
+                </Badge>
+              ))}
+            </div>
           </div>
-          <div className="flex items-center space-x-1">
-            <Globe className="w-4 h-4 text-blue-600" />
-            <span className="text-gray-700">{partner.location}</span>
+          <div>
+            <h4 className="text-sm font-bold text-gray-900 mb-2 flex items-center">
+              <Globe className="w-4 h-4 text-blue-600 mr-1" />
+              Countries
+            </h4>
+            <div className="flex flex-wrap gap-1">
+              {partner.countries.slice(0, 3).map((country, index) => (
+                <Badge key={index} variant="outline" className="bg-blue-50 text-blue-700 text-xs">
+                  {country}
+                </Badge>
+              ))}
+              {partner.countries.length > 3 && (
+                <Badge variant="outline" className="bg-gray-50 text-gray-600 text-xs">
+                  +{partner.countries.length - 3} more
+                </Badge>
+              )}
+            </div>
           </div>
         </div>
 
-        {/* Services */}
+        {/* Industries */}
         <div>
-          <h4 className="text-sm font-bold text-gray-900 mb-2">Services</h4>
+          <h4 className="text-sm font-bold text-gray-900 mb-2">Industries</h4>
           <div className="flex flex-wrap gap-2">
-            {partner.services.map((service, index) => (
+            {(showAllIndustries ? partner.industries : partner.industries.slice(0, 3)).map((industry, index) => (
               <Badge key={index} variant="outline" className="bg-gray-100 text-gray-700">
-                {service}
+                {industry}
               </Badge>
             ))}
-            {partner.moreServices > 0 && (
-              <span className="text-gray-500 text-xs">+{partner.moreServices} more</span>
+            {partner.industries.length > 3 && (
+              <button
+                onClick={() => setShowAllIndustries(!showAllIndustries)}
+                className="flex items-center space-x-1 text-xs text-blue-600 hover:text-blue-800 transition-colors"
+              >
+                {showAllIndustries ? (
+                  <>
+                    <ChevronUp className="w-3 h-3" />
+                    <span>Show Less</span>
+                  </>
+                ) : (
+                  <>
+                    <ChevronDown className="w-3 h-3" />
+                    <span>+{partner.industries.length - 3} More</span>
+                  </>
+                )}
+              </button>
             )}
           </div>
         </div>

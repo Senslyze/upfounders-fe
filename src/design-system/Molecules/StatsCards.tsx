@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, TrendingUp, Star, Filter } from 'lucide-react';
+import { Users, TrendingUp, Filter, Globe } from 'lucide-react';
 import { type Partner } from '../templates/home-page/utils';
 
 type StatCardProps = {
@@ -31,17 +31,17 @@ const StatCard: React.FC<StatCardProps> = ({ icon, value, label, iconColor }) =>
 };
 
 const StatsCards: React.FC<StatsCardsProps> = ({ partners, className = "" }) => {
-  // Calculate dynamic statistics
+  // Calculate dynamic statistics using only real API data
   const totalPartners = partners.length;
   
-  const solutionPartners = partners.filter(partner => partner.type === 'Solution Partner').length;
-  
-  const averageRating = partners.length > 0 
-    ? (partners.reduce((sum, partner) => sum + partner.rating, 0) / partners.length).toFixed(1)
-    : '0.0';
+  // Count partners with SAAS service model
+  const saasPartners = partners.filter(partner => partner.service_models.includes('SAAS')).length;
   
   // Count unique platforms across all partners
-  const uniquePlatforms = new Set(partners.flatMap(partner => partner.platforms)).size;
+  const uniquePlatforms = new Set(partners.flatMap(partner => partner.facebook_platforms)).size;
+  
+  // Count unique countries
+  const uniqueCountries = new Set(partners.flatMap(partner => partner.countries)).size;
 
   const stats = [
     {
@@ -52,21 +52,21 @@ const StatsCards: React.FC<StatsCardsProps> = ({ partners, className = "" }) => 
     },
     {
       icon: <TrendingUp className="w-6 h-6 text-green-600" />,
-      value: solutionPartners.toLocaleString(),
-      label: "Solution Partners",
+      value: saasPartners.toLocaleString(),
+      label: "SAAS Partners",
       iconColor: "bg-green-50"
-    },
-    {
-      icon: <Star className="w-6 h-6 text-yellow-600" />,
-      value: averageRating,
-      label: "Average Rating",
-      iconColor: "bg-yellow-50"
     },
     {
       icon: <Filter className="w-6 h-6 text-purple-600" />,
       value: uniquePlatforms,
       label: "Platforms Supported",
       iconColor: "bg-purple-50"
+    },
+    {
+      icon: <Globe className="w-6 h-6 text-orange-600" />,
+      value: uniqueCountries,
+      label: "Countries Covered",
+      iconColor: "bg-orange-50"
     }
   ];
 
