@@ -31,16 +31,31 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
       {/* Results Count */}
       <div className="flex justify-between items-center">
         <p className="text-gray-600">
-          {searchQuery && searchQuery.trim() ? (
-            totalCount && totalCount > 0 ? 
-              `Showing ${partners.length} of ${totalCount} partners for "${searchQuery}"` : 
-              `Showing ${partners.length} partners for "${searchQuery}"`
-          ) : (
-            totalCount && totalCount > 0 ? 
-              `Showing ${partners.length} of ${totalCount} partners` : 
-              `Showing ${partners.length} partners`
-          )}
+          {comparisonItems.length === 0 ? (
+            searchQuery && searchQuery.trim() ? (
+              totalCount && totalCount > 0 ? 
+                `Showing ${partners.length} of ${totalCount} partners for "${searchQuery}"` : 
+                `Showing ${partners.length} partners for "${searchQuery}"`
+            ) : (
+              totalCount && totalCount > 0 ? 
+                `Showing ${partners.length} of ${totalCount} partners` : 
+                `Showing ${partners.length} partners`
+            )
+          ) : null}
         </p>
+        {comparisonItems.length > 0 && (
+          <div className="flex items-center gap-3">
+            <p className="text-gray-600">
+              {`${comparisonItems.length} ${comparisonItems.length === 1 ? 'partner' : 'partners'} selected for comparison`}
+            </p>
+            <a
+              href="/compare"
+              className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors shadow-md"
+            >
+              Compare Now
+            </a>
+          </div>
+        )}
       </div>
 
       {/* Partners Grid */}
