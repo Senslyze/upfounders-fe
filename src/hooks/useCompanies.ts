@@ -93,7 +93,8 @@ export const useCompany = (id: string): UseCompanyState => {
 export const usePaginatedPartners = (
   page: number = 1,
   searchQuery?: string,
-  filters?: FilterOptions
+  filters?: FilterOptions,
+  priorityCompanies?: string[]
 ): UsePaginatedPartnersState => {
   const [partners, setPartners] = useState<any>(null);
   const [loading, setLoading] = useState(true);
@@ -103,7 +104,7 @@ export const usePaginatedPartners = (
     try {
       setLoading(true);
       setError(null);
-      const data = await getPaginatedPartners(page, searchQuery, filters);
+      const data = await getPaginatedPartners(page, searchQuery, filters, priorityCompanies);
       setPartners(data);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to fetch partners');
@@ -111,7 +112,7 @@ export const usePaginatedPartners = (
     } finally {
       setLoading(false);
     }
-  }, [page, searchQuery, filters]);
+  }, [page, searchQuery, filters, priorityCompanies]);
 
   useEffect(() => {
     fetchPaginatedPartners();
@@ -122,6 +123,90 @@ export const usePaginatedPartners = (
     loading,
     error,
     refetch: fetchPaginatedPartners,
+  };
+};
+
+// Hook for infinite scroll with accumulated data
+export const useInfinitePartners = (
+  searchQuery?: string,
+  filters?: FilterOptions,
+  priorityCompanies?: string[]
+): {
+  partners: any[];
+  loading: boolean;
+  error: string | null;
+  hasMore: boolean;
+  totalCount: number;
+  loadMore: () => void;
+  refetch: () => void;
+} => {
+  const [allPartners, setAllPartners] = useState<any[]>([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [hasMore, setHasMore] = useState(true);
+  const [totalCount, setTotalCount] = useState(0);
+
+  const loadMore = useCallback(async () => {
+    if (loading || !hasMore) return;
+    
+    setLoading(true);
+    setError(null);
+    
+    try {
+      const result = await getPaginatedPartners(currentPage, searchQuery, filters, priorityCompanies);
+      
+      if (currentPage === 1) {
+        setAllPartners(result.partners);
+      } else {
+        setAllPartners(prev => [...prev, ...result.partners]);
+      }
+      
+      setHasMore(result.hasMore);
+      setTotalCount(result.totalCount);
+      setCurrentPage(prev => prev + 1);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to fetch partners');
+      console.error('Error fetching partners:', err);
+    } finally {
+      setLoading(false);
+    }
+  }, [currentPage, searchQuery, filters, priorityCompanies, loading, hasMore]);
+
+  const refetch = useCallback(async () => {
+    setCurrentPage(1);
+    setAllPartners([]);
+    setHasMore(true);
+    setError(null);
+    setLoading(true);
+    
+    try {
+      const result = await getPaginatedPartners(1, searchQuery, filters, priorityCompanies);
+      setAllPartners(result.partners);
+      setHasMore(result.hasMore);
+      setTotalCount(result.totalCount);
+      setCurrentPage(2); // Next page to load
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to fetch partners');
+      console.error('Error fetching partners:', err);
+    } finally {
+      setLoading(false);
+    }
+  }, [searchQuery, filters, priorityCompanies]);
+
+  // Load initial data
+  useEffect(() => {
+    refetch();
+  }, [refetch]);
+
+  return {
+    partners: allPartners,
+    loading,
+    error,
+    hasMore,
+    totalCount,
+    loadMore,
+    refetch,
   };
 };
 

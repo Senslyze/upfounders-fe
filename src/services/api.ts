@@ -1,11 +1,9 @@
 import axios from 'axios';
-
-// API base configuration
-const API_BASE_URL = 'http://[::1]:3000';
+import { baseURL } from '@/util/config';
 
 // Create axios instance with default config
 const apiClient = axios.create({
-  baseURL: API_BASE_URL,
+  baseURL: baseURL,
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',

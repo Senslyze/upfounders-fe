@@ -119,6 +119,20 @@ export const getPartners = async (): Promise<ReturnType<typeof transformApiPartn
 // Pagination and infinite scroll utilities
 export const ITEMS_PER_PAGE = 12;
 
+// Priority companies to show at the top in specific order
+export const PRIORITY_COMPANIES = [
+  'Zixflow',
+  'Twilio',
+  'Intrakt',
+  'WATI',
+  'SleekFlow',
+  'AiSensy',
+  'Rasayel',
+  'Infobip',
+  'BotSpace',
+  'iMBrace'
+];
+
 export interface FilterOptions {
   products: string[];
   partnerTypes: string[];
@@ -127,20 +141,44 @@ export interface FilterOptions {
   keyServices: string[];
 }
 
-export const getPaginatedPartners = async (page: number = 1, searchQuery?: string, filters?: FilterOptions) => {
+// Function to sort partners with priority companies at the top in specific order
+const sortPartnersWithPriority = (partners: ReturnType<typeof transformApiPartnerToPartner>[], priorityCompanyNames?: string[]) => {
+  if (!priorityCompanyNames || priorityCompanyNames.length === 0) return partners;
+  
+  const priorityPartners: ReturnType<typeof transformApiPartnerToPartner>[] = [];
+  const otherPartners: ReturnType<typeof transformApiPartnerToPartner>[] = [];
+  
+  // Create a set of priority company names for faster lookup
+  const priorityNamesSet = new Set(priorityCompanyNames.map(name => name.toLowerCase()));
+  
+  // Separate priority and non-priority partners
+  partners.forEach(partner => {
+    if (priorityNamesSet.has(partner.name.toLowerCase())) {
+      priorityPartners.push(partner);
+    } else {
+      otherPartners.push(partner);
+    }
+  });
+  
+  // Sort priority partners according to the specified order
+  const sortedPriorityPartners = priorityCompanyNames
+    .map(name => priorityPartners.find(partner => 
+      partner.name.toLowerCase() === name.toLowerCase()
+    ))
+    .filter(Boolean) as ReturnType<typeof transformApiPartnerToPartner>[];
+  
+  return [...sortedPriorityPartners, ...otherPartners];
+};
+
+export const getPaginatedPartners = async (page: number = 1, searchQuery?: string, filters?: FilterOptions, priorityCompanies?: string[]) => {
   const allPartners = await getPartners();
   let filteredPartners = allPartners;
   
-  // Apply search filter - using only real API data
+  // Apply search filter - only return results for complete company names
   if (searchQuery && searchQuery.trim()) {
     const query = searchQuery.toLowerCase().trim();
     filteredPartners = filteredPartners.filter(partner => 
-      partner.name.toLowerCase().includes(query) ||
-      partner.description.toLowerCase().includes(query) ||
-      partner.industries.some(industry => industry.toLowerCase().includes(query)) ||
-      partner.focus_areas.some(area => area.toLowerCase().includes(query)) ||
-      partner.facebook_platforms.some(platform => platform.toLowerCase().includes(query)) ||
-      partner.service_models.some(model => model.toLowerCase().includes(query))
+      partner.name.toLowerCase() === query
     );
   }
   
@@ -197,6 +235,9 @@ export const getPaginatedPartners = async (page: number = 1, searchQuery?: strin
       });
     }
   }
+  
+  // Apply priority sorting if specified
+  filteredPartners = sortPartnersWithPriority(filteredPartners, priorityCompanies);
   
   const startIndex = (page - 1) * ITEMS_PER_PAGE;
   const endIndex = startIndex + ITEMS_PER_PAGE;
