@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
+import { z } from 'zod';
 import { Link } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
@@ -6,6 +7,26 @@ import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
 import { getPaginatedPartners, type Partner } from './utils';
 import { useCompanies } from '../../../hooks/useCompanies';
+
+// Zod schemas
+const PartnerTypeSchema = z.enum(['Solution Partner', 'Tech Provider', 'Tech Partner']);
+const PlatformSchema = z.enum(['WhatsApp', 'Messenger', 'Instagram', 'SMS', 'Voice']);
+
+const PartnerSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  type: PartnerTypeSchema,
+  rating: z.number().min(0).max(5),
+  reviewCount: z.number().min(0),
+  platforms: z.array(PlatformSchema),
+  description: z.string(),
+  keyFeatures: z.array(z.string()),
+  moreFeatures: z.number().min(0),
+  pricing: z.string(),
+  location: z.string(),
+  services: z.array(z.string()),
+  moreServices: z.number().min(0),
+});
 
 type HomePageProps = {
   onSearch?: (query: string) => void;
