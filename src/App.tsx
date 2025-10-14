@@ -4,6 +4,7 @@ import HomePage from './design-system/templates/home-page/HomePage'
 import ComparePage from './design-system/templates/compare-page/ComparePage'
 import ResourcesPage from './design-system/templates/resources-page/ResourcesPage'
 import NewsletterPage from './design-system/templates/newsletter/NewsletterPage'
+import PartnerDetailPage from './design-system/templates/partner-detail/PartnerDetailPage'
 import { Routes, Route, useLocation } from 'react-router-dom'
 import './App.css'
 
@@ -29,9 +30,10 @@ function App() {
           <Route path="/compare" element={<ComparePage />} />
           <Route path="/resources" element={<ResourcesPage />} />
           <Route path="/newsletter" element={<NewsletterPage />} />
+          <Route path="/partner/:companyId" element={<PartnerDetailPage />} />
         </Routes>
       </main>
-      {location.pathname !== '/compare' && location.pathname !== '/resources' && location.pathname !== '/newsletter' && <Footer />}
+      {location.pathname !== '/compare' && location.pathname !== '/resources' && location.pathname !== '/newsletter' && !location.pathname.startsWith('/partner/') && <Footer />}
     </div>
   )
 }

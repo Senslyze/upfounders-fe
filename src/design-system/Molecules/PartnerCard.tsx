@@ -187,7 +187,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <Button
             variant="secondary"
             size="sm"
-            onClick={() => partner.website ? window.open(partner.website, '_blank') : onViewDetails?.(partner.id)}
+            onClick={() => onViewDetails?.(partner.id)}
           >
             { 'View Details'}
           </Button>

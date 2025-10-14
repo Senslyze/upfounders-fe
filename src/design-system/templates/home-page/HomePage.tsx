@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
@@ -13,6 +13,7 @@ type HomePageProps = {
 };
 
 const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
+  const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
   const [filters, setFilters] = useState<FilterOptions>({
     products: [],
@@ -59,6 +60,11 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     };
     setFilters(emptyFilters);
   }, []);
+
+  const handleViewDetails = useCallback((partnerId: string) => {
+    // Navigate to partner detail page using the company ID
+    navigate(`/partner/${partnerId}`);
+  }, [navigate]);
 
   // Infinite scroll handler
   useEffect(() => {
@@ -183,7 +189,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
           <PartnerGrid 
             partners={partners}
             onCompareToggle={(partnerId) => console.log('Compare toggle:', partnerId)}
-            onViewDetails={(partnerId) => console.log('View details:', partnerId)}
+            onViewDetails={handleViewDetails}
             totalCount={totalCount}
             isLoading={isLoading}
             hasMore={hasMore}
