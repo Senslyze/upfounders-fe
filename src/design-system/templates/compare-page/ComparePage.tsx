@@ -1,11 +1,12 @@
 import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { Users2, ArrowLeft } from 'lucide-react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { Users2, ArrowLeft, DollarSign, Zap, Clock } from 'lucide-react';
 import { companyApi, type Company } from '@/services/api';
 import { Badge } from '@/design-system/Atoms/badge';
 
 const ComparePage: React.FC = () => {
   const location = useLocation();
+  const navigate = useNavigate();
   const state = location.state as { selectedIds?: string[] } | null;
   const selectedIds = state?.selectedIds ?? [];
 
@@ -32,9 +33,20 @@ const ComparePage: React.FC = () => {
     fetchCompanies();
   }, [selectedIds]);
 
+  // Tabs
+  type TabKey = 'overview' | 'pricing' | 'features' | 'onboarding';
+  const [activeTab, setActiveTab] = React.useState<TabKey>('overview');
+
+  const clearAll = () => {
+    setCompanies([]);
+    setError(null);
+    setActiveTab('overview');
+    navigate('.', { replace: true, state: { selectedIds: [] } });
+  };
+
   return (
     <div className="bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Back link */}
         <div className="mb-6">
           <Link to="/" className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium">
@@ -67,65 +79,135 @@ const ComparePage: React.FC = () => {
 
           {!isLoading && companies.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-8 shadow-sm">
-              <h2 className="text-xl font-semibold text-gray-900 mb-6">Selected Partners</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {companies.map((c) => (
-                  <div key={c.id} className="border border-gray-200 rounded-xl p-4">
-                    <h3 className="text-lg font-bold text-gray-900 mb-1">{c.name}</h3>
-                    {c.company_website && (
-                      <a href={c.company_website} target="_blank" rel="noreferrer" className="text-blue-600 text-sm">{c.company_website}</a>
-                    )}
-                    <p className="text-gray-600 text-sm mt-3 mb-4 line-clamp-4">{c.description}</p>
+              <div className="flex items-center justify-between mb-4">
+                <h2 className="text-2xl font-semibold text-gray-900">Compare Partners</h2>
+                <button onClick={clearAll} className="text-red-600 text-sm">Clear All</button>
+              </div>
 
-                    <div className="space-y-3">
-                      <div>
-                        <div className="text-sm font-semibold text-gray-900 mb-1">Service Models</div>
-                        <div className="flex flex-wrap gap-2">
-                          {c.service_models?.map((item, idx) => (
-                            <Badge key={idx} variant="outline" className="bg-blue-50 text-blue-700 text-xs">{item}</Badge>
-                          ))}
-                        </div>
-                      </div>
+              {/* Tabs */}
+              <div className="flex items-center gap-3 bg-gray-100 rounded-xl p-2 mb-6 text-sm">
+                <button
+                  onClick={() => setActiveTab('overview')}
+                  aria-selected={activeTab==='overview'}
+                  className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='overview' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                >
+                  <Users2 className={`w-4 h-4 ${activeTab==='overview' ? 'text-blue-600' : 'text-gray-500'}`} />
+                  Overview
+                </button>
+                <button
+                  onClick={() => setActiveTab('pricing')}
+                  aria-selected={activeTab==='pricing'}
+                  className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='pricing' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                >
+                  <DollarSign className={`w-4 h-4 ${activeTab==='pricing' ? 'text-blue-600' : 'text-gray-500'}`} />
+                  Pricing
+                </button>
+                <button
+                  onClick={() => setActiveTab('features')}
+                  aria-selected={activeTab==='features'}
+                  className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='features' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                >
+                  <Zap className={`w-4 h-4 ${activeTab==='features' ? 'text-blue-600' : 'text-gray-500'}`} />
+                  Features
+                </button>
+                <button
+                  onClick={() => setActiveTab('onboarding')}
+                  aria-selected={activeTab==='onboarding'}
+                  className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='onboarding' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                >
+                  <Clock className={`w-4 h-4 ${activeTab==='onboarding' ? 'text-blue-600' : 'text-gray-500'}`} />
+                  Onboarding
+                </button>
+              </div>
 
-                      <div>
-                        <div className="text-sm font-semibold text-gray-900 mb-1">Platforms</div>
-                        <div className="flex flex-wrap gap-2">
-                          {c.facebook_platforms?.map((item, idx) => (
-                            <Badge key={idx} variant="outline" className="bg-gray-100 text-gray-700 text-xs">{item}</Badge>
-                          ))}
+              {/* Overview Tab */}
+              {activeTab === 'overview' && (
+                <div className="space-y-8">
+                  {/* Basic Information */}
+                  <div>
+                    <h3 className="text-base font-semibold text-gray-900 mb-3">Basic Information</h3>
+                    <div className={`grid gap-4`} style={{gridTemplateColumns:`repeat(${companies.length}, minmax(0, 1fr))`}}>
+                      {companies.map((c) => (
+                        <div key={c.id} className="bg-gray-50 rounded-xl p-4">
+                          <div className="text-lg font-bold text-gray-900">{c.name}</div>
+                          <div className="mt-3 text-sm text-gray-700">
+                            <div className="flex items-center justify-between py-1">
+                              <span className="text-gray-500">Partner Type:</span>
+                              <span className="font-medium">{c.solution_types?.[0] || '—'}</span>
+                            </div>
+                            <div className="flex items-center justify-between py-1">
+                              <span className="text-gray-500">Regions:</span>
+                              <span className="font-medium truncate max-w-[60%]" title={c.countries?.join(', ')}>{c.countries?.slice(0,3).join(', ') || '—'}</span>
+                            </div>
+                          </div>
                         </div>
-                      </div>
-
-                      <div>
-                        <div className="text-sm font-semibold text-gray-900 mb-1">Focus Areas</div>
-                        <div className="flex flex-wrap gap-2">
-                          {c.focus_areas?.map((item, idx) => (
-                            <Badge key={idx} variant="outline" className="bg-green-50 text-green-700 text-xs">{item}</Badge>
-                          ))}
-                        </div>
-                      </div>
-
-                      <div>
-                        <div className="text-sm font-semibold text-gray-900 mb-1">Industries</div>
-                        <div className="flex flex-wrap gap-2">
-                          {c.industries?.map((item, idx) => (
-                            <Badge key={idx} variant="outline" className="bg-gray-50 text-gray-700 text-xs">{item}</Badge>
-                          ))}
-                        </div>
-                      </div>
-
-                      <div>
-                        <div className="text-sm font-semibold text-gray-900 mb-1">Countries</div>
-                        <div className="flex flex-wrap gap-2">
-                          {c.countries?.map((item, idx) => (
-                            <Badge key={idx} variant="outline" className="bg-purple-50 text-purple-700 text-xs">{item}</Badge>
-                          ))}
-                        </div>
-                      </div>
+                      ))}
                     </div>
                   </div>
-                ))}
-              </div>
+
+                  {/* Supported Products */}
+                  <div>
+                    <h3 className="text-base font-semibold text-gray-900 mb-3">Supported Products</h3>
+                    <div className={`grid gap-4`} style={{gridTemplateColumns:`repeat(${companies.length}, minmax(0, 1fr))`}}>
+                      {companies.map((c) => (
+                        <div key={c.id} className="bg-gray-50 rounded-xl p-4">
+                          <div className="text-sm font-semibold text-gray-900 mb-2">{c.name}</div>
+                          <div className="flex flex-wrap gap-2">
+                            {c.facebook_platforms?.map((item, idx) => (
+                              <Badge key={idx} variant="outline" className="bg-blue-50 text-blue-700 text-xs">{item}</Badge>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Focus Areas */}
+                  <div>
+                    <h3 className="text-base font-semibold text-gray-900 mb-3">Focus Areas</h3>
+                    <div className={`grid gap-4`} style={{gridTemplateColumns:`repeat(${companies.length}, minmax(0, 1fr))`}}>
+                      {companies.map((c) => (
+                        <div key={c.id} className="bg-gray-50 rounded-xl p-4">
+                          <div className="text-sm font-semibold text-gray-900 mb-2">{c.name}</div>
+                          <div className="flex flex-wrap gap-2 overflow-hidden">
+                            {c.focus_areas?.map((item, idx) => (
+                              <Badge
+                                key={idx}
+                                variant="outline"
+                                className="bg-green-50 text-green-700 text-xs block whitespace-normal break-words max-w-full text-left"
+                              >
+                                {item}
+                              </Badge>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Industries */}
+                  <div>
+                    <h3 className="text-base font-semibold text-gray-900 mb-3">Industries</h3>
+                    <div className={`grid gap-4`} style={{gridTemplateColumns:`repeat(${companies.length}, minmax(0, 1fr))`}}>
+                      {companies.map((c) => (
+                        <div key={c.id} className="bg-gray-50 rounded-xl p-4">
+                          <div className="text-sm font-semibold text-gray-900 mb-2">{c.name}</div>
+                          <div className="flex flex-wrap gap-2">
+                            {c.industries?.map((item, idx) => (
+                              <Badge key={idx} variant="outline" className="bg-gray-50 text-gray-700 text-xs">{item}</Badge>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Placeholder tabs */}
+              {activeTab !== 'overview' && (
+                <div className="text-gray-600 text-sm">This section will be available soon.</div>
+              )}
             </div>
           )}
 
