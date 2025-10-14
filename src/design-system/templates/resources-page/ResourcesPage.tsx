@@ -9,7 +9,7 @@ import CallToActionBanner from '../../Molecules/CallToActionBanner';
 const ResourcesPage: React.FC = () => {
   return (
     <div className="bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/** Build steps data to auto-generate step numbers */}
         {(() => {
           /* no-op IIFE to keep simple constant definition inside JSX scope */
