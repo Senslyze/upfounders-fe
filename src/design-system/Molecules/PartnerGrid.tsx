@@ -2,6 +2,7 @@ import React from 'react';
 import PartnerCard from './PartnerCard';
 import { type Partner } from '../templates/home-page/utils';
 import { Link } from 'react-router-dom';
+import { Users2 } from 'lucide-react';
 type PartnerGridProps = {
   partners: Partner[];
   onCompareToggle?: (partnerId: string) => void;
@@ -96,6 +97,22 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
         <div className="text-center py-8">
           <p className="text-gray-500">You've reached the end of the list</p>
         </div>
+      )}
+
+      {comparisonItems.length > 0 && (
+        <Link
+          to="/compare"
+          state={{ selectedIds: comparisonItems }}
+          className="fixed bottom-6 right-6 z-50"
+        >
+          <div className="flex items-start gap-3 px-5 py-4 bg-blue-600 text-white rounded-xl shadow-xl hover:bg-blue-700 transition-colors">
+            <Users2 className="w-6 h-6 mt-0.5" />
+            <div className="leading-tight">
+              <div className="text-base">{`Compare ${comparisonItems.length} ${comparisonItems.length === 1 ? 'Partner' : 'Partners'}`}</div>
+              <div className="text-sm">Click to view comparison</div>
+            </div>
+          </div>
+        </Link>
       )}
     </div>
   );
