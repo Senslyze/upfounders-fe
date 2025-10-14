@@ -24,7 +24,8 @@ const Header: React.FC<HeaderProps> = () => {
     { to: '/', label: 'Directory' },
     { to: '/compare', label: 'Compare' },
     { to: '/resources', label: 'Resources' },
-    { to: '/newsletter', label: 'Updates' }
+    { to: '/newsletter', label: 'Updates' },
+    { to: '/contact', label: 'Contact Us' }
   ];
 
   const consultationHref = '/?contact=open';
