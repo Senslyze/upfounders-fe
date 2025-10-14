@@ -1,6 +1,7 @@
 import React from 'react';
 import PartnerCard from './PartnerCard';
 import { type Partner } from '../templates/home-page/utils';
+import { Link } from 'react-router-dom';
 type PartnerGridProps = {
   partners: Partner[];
   onCompareToggle?: (partnerId: string) => void;
@@ -48,12 +49,13 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
             <p className="text-gray-600">
               {`${comparisonItems.length} ${comparisonItems.length === 1 ? 'partner' : 'partners'} selected for comparison`}
             </p>
-            <a
-              href="/compare"
+            <Link
+              to="/compare"
+              state={{ selectedIds: comparisonItems }}
               className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors shadow-md"
             >
               Compare Now
-            </a>
+            </Link>
           </div>
         )}
       </div>
