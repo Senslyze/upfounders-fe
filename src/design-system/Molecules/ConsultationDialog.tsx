@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { createPortal } from 'react-dom';
 import { X, User, Mail, Building, Send } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -91,13 +92,13 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
     }
   };
 
-  return (
+  return createPortal(
     <AnimatePresence>
       {isOpen && (
         <>
           {/* Backdrop */}
           <motion.div
-            className="fixed inset-0 bg-black/50 z-[9999]"
+            className="fixed inset-0 bg-black/50 z-[99999]"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -106,7 +107,7 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
 
           {/* Dialog */}
           <motion.div
-            className="fixed inset-0 z-[9999] flex items-center justify-center p-4"
+            className="fixed inset-0 z-[99999] flex items-center justify-center p-4"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
@@ -305,7 +306,8 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
           </motion.div>
         </>
       )}
-    </AnimatePresence>
+    </AnimatePresence>,
+    document.body
   );
 };
 

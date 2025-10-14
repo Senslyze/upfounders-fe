@@ -183,8 +183,9 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           >
             <Users className="w-4 h-4" />
             <span>Compare</span>
-          </Button>
+          </Button >
           <Button
+            className='cursor-pointer'
             variant="secondary"
             size="sm"
             onClick={() => onViewDetails?.(partner.id)}

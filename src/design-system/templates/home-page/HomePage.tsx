@@ -162,7 +162,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
               </p>
               <button
                 onClick={() => setIsConsultationDialogOpen(true)}
-                className="inline-flex items-center justify-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
+                className="inline-flex items-center justify-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl cursor-pointer"
               >
                 <Mail size={20} className="mr-2" />
                 Get Consultation
