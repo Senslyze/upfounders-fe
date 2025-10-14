@@ -3,6 +3,7 @@ import { z } from 'zod';
 import { Link } from 'react-router-dom';
 import { Mail, Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import ConsultationDialog from '../Molecules/ConsultationDialog';
 
 // Zod schemas
 const NavItemSchema = z.object({
@@ -19,6 +20,7 @@ type HeaderProps = z.infer<typeof HeaderPropsSchema>;
 
 const Header: React.FC<HeaderProps> = () => {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
+  const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
 
   const navItems: NavItem[] = [
     { to: '/', label: 'Directory' },
@@ -28,7 +30,9 @@ const Header: React.FC<HeaderProps> = () => {
     { to: '/contact', label: 'Contact Us' }
   ];
 
-  const consultationHref = '/?contact=open';
+  const handleConsultationClick = () => {
+    setIsConsultationDialogOpen(true);
+  };
 
   return (
     <header className="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-40">
@@ -53,10 +57,13 @@ const Header: React.FC<HeaderProps> = () => {
 
           {/* Consultancy Contact Button */}
           <div className="hidden md:flex items-center space-x-4">
-            <Link to={consultationHref} className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 font-medium transition-colors">
+            <button 
+              onClick={handleConsultationClick}
+              className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 font-medium transition-colors"
+            >
               <Mail size={18} />
               <span>Get Consultancy</span>
-            </Link>
+            </button>
           </div>
 
           {/* Mobile menu button */}
@@ -123,18 +130,26 @@ const Header: React.FC<HeaderProps> = () => {
               </nav>
 
               <div className="px-5 pb-6">
-                <Link
-                  to={consultationHref}
-                  onClick={() => setIsMobileOpen(false)}
+                <button
+                  onClick={() => {
+                    setIsMobileOpen(false);
+                    handleConsultationClick();
+                  }}
                   className="w-full inline-flex items-center justify-center gap-2 px-4 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg shadow hover:opacity-95"
                 >
                   <Mail className="w-5 h-5" /> Get Consultation
-                </Link>
+                </button>
               </div>
             </motion.aside>
           </>
         )}
       </AnimatePresence>
+
+      {/* Consultation Dialog */}
+      <ConsultationDialog 
+        isOpen={isConsultationDialogOpen} 
+        onClose={() => setIsConsultationDialogOpen(false)} 
+      />
     </header>
   );
 };

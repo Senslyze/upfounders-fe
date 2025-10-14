@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
+import ConsultationDialog from '../../Molecules/ConsultationDialog';
 import { PRIORITY_COMPANIES } from './utils';
 import { useCompanies, useInfinitePartners } from '../../../hooks/useCompanies';
 
@@ -22,6 +23,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     regions: [],
     keyServices: []
   });
+  const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
 
   // Get all partners for stats
   const { partners: allPartners } = useCompanies();
@@ -158,13 +160,13 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
                 Our Meta partnership experts can help you identify the perfect solution provider 
                 for your business needs. Get personalized recommendations and strategic guidance.
               </p>
-              <Link
-                to="/?contact=open"
+              <button
+                onClick={() => setIsConsultationDialogOpen(true)}
                 className="inline-flex items-center justify-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
               >
                 <Mail size={20} className="mr-2" />
                 Get Consultation
-              </Link>
+              </button>
             </div>
           </div>
         </div>
@@ -198,6 +200,12 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
           />
         </div>
       </div>
+
+      {/* Consultation Dialog */}
+      <ConsultationDialog 
+        isOpen={isConsultationDialogOpen} 
+        onClose={() => setIsConsultationDialogOpen(false)} 
+      />
     </div>
   );
 };

@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { z } from 'zod';
 import { Link } from 'react-router-dom';
 import { Mail, Phone, MessageCircle, Megaphone, Instagram } from 'lucide-react';
+import ConsultationDialog from '../Molecules/ConsultationDialog';
 
 // Zod schemas
 const FooterPropsSchema = z.object({
@@ -11,9 +12,17 @@ const FooterPropsSchema = z.object({
 type FooterProps = z.infer<typeof FooterPropsSchema>;
 
 const Footer: React.FC<FooterProps> = () => {
+  const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
+
+  const handleConsultationClick = () => {
+    console.log('Footer consultation button clicked');
+    setIsConsultationDialogOpen(true);
+  };
+
+  console.log('Footer component rendered, dialog state:', isConsultationDialogOpen);
 
   return (
-    <footer className="relative bg-gray-50 overflow-hidden ">
+    <footer className="relative bg-gray-50 z-10">
       {/* Background decorative icons */}
       <div className="absolute inset-0 opacity-5 ">
         <div className="absolute top-10 left-10">
@@ -94,13 +103,21 @@ const Footer: React.FC<FooterProps> = () => {
                 <p className="text-blue-100 mb-4 text-sm leading-relaxed">
                   Not sure which partner is the right fit? Get tailored guidance from our partnership experts.
                 </p>
-                <Link
-                  to="/?contact=open"
-                  className="inline-flex items-center px-4 py-2 bg-white text-blue-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
+                <button
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    console.log('Button clicked directly');
+                    handleConsultationClick();
+                  }}
+                  onMouseDown={() => console.log('Button mouse down')}
+                  onMouseUp={() => console.log('Button mouse up')}
+                  className="inline-flex items-center px-4 py-2 bg-white text-blue-700 font-semibold rounded-lg hover:bg-gray-100 transition-colors cursor-pointer relative z-20"
+                  style={{ pointerEvents: 'auto' }}
                 >
                   <Mail size={16} className="mr-2" />
                   Get Consultation
-                </Link>
+                </button>
               </div>
             </div>
           </div>
@@ -118,6 +135,12 @@ const Footer: React.FC<FooterProps> = () => {
           </div>
         </div>
       </div>
+
+      {/* Consultation Dialog */}
+      <ConsultationDialog 
+        isOpen={isConsultationDialogOpen} 
+        onClose={() => setIsConsultationDialogOpen(false)} 
+      />
     </footer>
   );
 };
