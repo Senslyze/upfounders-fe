@@ -18,6 +18,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
   isInComparison = false
 }) => {
   const [showAllIndustries, setShowAllIndustries] = React.useState(false);
+  const [compareSelected, setCompareSelected] = React.useState(false);
   const getTypeVariant = (type: string) => {
     switch (type) {
       case 'Solution Partner':
@@ -178,12 +179,15 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <Button
             variant={isInComparison ? "default" : "outline"}
             size="sm"
-            onClick={() => onCompareToggle?.(partner.id)}
-            className="flex items-center space-x-2"
+            onClick={() => {
+              setCompareSelected(!compareSelected);
+              onCompareToggle?.(partner.id);
+            }}
+            className={`flex items-center space-x-2 hover:text-current ${(compareSelected || isInComparison) ? 'bg-[#2563eb] text-white hover:bg-[#1d4ed8] hover:text-white border-transparent' : ''}`}
           >
-            <Users className="w-4 h-4" />
-            <span>Compare</span>
-          </Button >
+            <Users className={`w-4 h-4 ${(compareSelected || isInComparison) ? 'text-white' : ''}`} />
+            <span>{compareSelected ? 'Selected' : 'Compare'}</span>
+          </Button>
           <Button
             className='cursor-pointer'
             variant="secondary"

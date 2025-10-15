@@ -11,7 +11,7 @@ const NewsletterPage: React.FC = () => {
   };
   return (
     <div className="bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Hero */}
         <div className="flex flex-col items-center text-center gap-4 mb-10">
           <div className="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center">

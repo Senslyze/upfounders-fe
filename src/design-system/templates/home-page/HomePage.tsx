@@ -41,7 +41,18 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     PRIORITY_COMPANIES
   );
 
+  // Comparison selection state
+  const [comparisonItems, setComparisonItems] = useState<string[]>([]);
 
+  const handleCompareToggle = useCallback((partnerId: string) => {
+    setComparisonItems((prev) => {
+      const isSelected = prev.includes(partnerId);
+      if (isSelected) {
+        return prev.filter((id) => id !== partnerId);
+      }
+      return [...prev, partnerId];
+    });
+  }, []);
 
   const handleSearch = useCallback((query: string) => {
     setSearchQuery(query);
@@ -190,8 +201,9 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
           <PartnerGrid 
             partners={partners}
-            onCompareToggle={(partnerId) => console.log('Compare toggle:', partnerId)}
+            onCompareToggle={handleCompareToggle}
             onViewDetails={handleViewDetails}
+            comparisonItems={comparisonItems}
             totalCount={totalCount}
             isLoading={isLoading}
             hasMore={hasMore}
