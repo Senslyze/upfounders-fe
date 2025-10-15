@@ -8,6 +8,7 @@ const ApiPartnerSchema = z.object({
   name: z.string(),
   description: z.string(),
   company_website: z.string(),
+  minimum_spend: z.number().optional(),
   countries: z.array(z.string()),
   facebook_platforms: z.array(z.string()),
   focus_areas: z.array(z.string()),
@@ -43,6 +44,7 @@ const transformApiPartnerToPartner = (apiPartner: ApiPartner) => {
     name: apiPartner.name,
     description: apiPartner.description,
     website: apiPartner.company_website,
+    minimum_spend: apiPartner.minimum_spend,
     profileImage: apiPartner.msp_profile_picture?.image?.uri,
     isBadged: apiPartner.is_badged,
     

@@ -49,6 +49,7 @@ export interface Company {
   name: string;
   description: string;
   company_website: string;
+  minimum_spend?: number;
   countries: string[];
   facebook_platforms: string[];
   focus_areas: string[];
