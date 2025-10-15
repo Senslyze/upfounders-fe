@@ -310,7 +310,23 @@ const PartnerDetailPage: React.FC = () => {
               <h2 className="text-xl font-bold text-gray-900">Pricing Information</h2>
             </CardHeader>
             <CardContent>
-              <p className="text-gray-600">Pricing details will be available soon.</p>
+              <div className="space-y-6">
+                {/* Starting Price label */}
+                <div>
+                  <p className="text-sm font-semibold text-gray-700 mb-1">Starting Price</p>
+                  <p className="text-2xl md:text-3xl text-green-600 tracking-tight">
+                    {typeof partner.minimum_spend === 'number'
+                      ? (partner.minimum_spend === 0 || partner.minimum_spend === -1
+                          ? 'Free plan available'
+                          : `Starting at ${new Intl.NumberFormat('en-US', {
+                              style: 'currency',
+                              currency: 'USD',
+                              maximumFractionDigits: 2,
+                            }).format(partner.minimum_spend)} per message`)
+                      : 'Contact for pricing'}
+                  </p>
+                </div>
+              </div>
             </CardContent>
           </Card>
         )}
