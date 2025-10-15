@@ -81,7 +81,7 @@ const ComparePage: React.FC = () => {
             <div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-8 shadow-sm">
               <div className="flex items-center justify-between mb-4">
                 <h2 className="text-2xl font-semibold text-gray-900">Compare Partners</h2>
-                <button onClick={clearAll} className="text-red-600 text-sm">Clear All</button>
+                <button onClick={clearAll} className="text-red-600 text-sm cursor-pointer">Clear All</button>
               </div>
 
               {/* Tabs */}
