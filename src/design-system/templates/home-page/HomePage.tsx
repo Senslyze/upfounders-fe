@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import { Mail, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
@@ -15,6 +15,7 @@ type HomePageProps = {
 
 const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   const navigate = useNavigate();
+  const location = useLocation();
   const [searchQuery, setSearchQuery] = useState('');
   const [filters, setFilters] = useState<FilterOptions>({
     products: [],
@@ -42,7 +43,38 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   );
 
   // Comparison selection state
-  const [comparisonItems, setComparisonItems] = useState<string[]>([]);
+  const [comparisonItems, setComparisonItems] = useState<string[]>(() => {
+    const state = location.state as { selectedIds?: string[] } | null;
+    return state?.selectedIds ?? [];
+  });
+
+  // When navigated from a detail page with a preselected partner, scroll to that card
+  useEffect(() => {
+    const state = location.state as { selectedIds?: string[] } | null;
+    const targetId = state?.selectedIds && state.selectedIds[0];
+    if (!targetId) return;
+
+    const tryScroll = () => {
+      const el = document.getElementById(`partner-${targetId}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return true;
+      }
+      return false;
+    };
+
+    // Try immediately, then a few retries to handle async rendering
+    if (!tryScroll()) {
+      let attempts = 0;
+      const interval = setInterval(() => {
+        attempts += 1;
+        if (tryScroll() || attempts > 20) {
+          clearInterval(interval);
+        }
+      }, 100);
+      return () => clearInterval(interval);
+    }
+  }, [location.state]);
 
   const handleCompareToggle = useCallback((partnerId: string) => {
     setComparisonItems((prev) => {
@@ -53,6 +85,14 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
       return [...prev, partnerId];
     });
   }, []);
+
+  // Clear the selectedIds in history after using them once, to avoid persistent selection on hard refreshes
+  useEffect(() => {
+    const state = location.state as { selectedIds?: string[] } | null;
+    if (state?.selectedIds) {
+      navigate(location.pathname, { replace: true, state: {} });
+    }
+  }, [location.pathname, location.state, navigate]);
 
   const handleSearch = useCallback((query: string) => {
     setSearchQuery(query);

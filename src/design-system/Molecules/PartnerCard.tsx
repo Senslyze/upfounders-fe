@@ -49,8 +49,10 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
     }
   };
 
+  const isSelected = compareSelected || isInComparison;
+
   return (
-    <Card className="hover:shadow-md transition-shadow w-full max-w-sm">
+    <Card id={`partner-${partner.id}`} className="hover:shadow-md transition-shadow w-full max-w-sm">
       <CardHeader className="pb-4">
         <div className="flex items-start justify-between">
           <div className="flex-1 min-w-0">
@@ -177,16 +179,16 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
         {/* Action Buttons */}
         <div className="flex items-center justify-between pt-4">
           <Button
-            variant={isInComparison ? "default" : "outline"}
+            variant={isSelected ? "default" : "outline"}
             size="sm"
             onClick={() => {
-              setCompareSelected(!compareSelected);
+              setCompareSelected(!isSelected);
               onCompareToggle?.(partner.id);
             }}
-            className={`flex items-center space-x-2 hover:text-current ${(compareSelected || isInComparison) ? 'bg-[#2563eb] text-white hover:bg-[#1d4ed8] hover:text-white border-transparent' : ''}`}
+            className={`flex items-center space-x-2 hover:text-current ${isSelected ? 'bg-[#2563eb] text-white hover:bg-[#1d4ed8] hover:text-white border-transparent' : ''}`}
           >
-            <Users className={`w-4 h-4 ${(compareSelected || isInComparison) ? 'text-white' : ''}`} />
-            <span>{compareSelected ? 'Selected' : 'Compare'}</span>
+            <Users className={`w-4 h-4 ${isSelected ? 'text-white' : ''}`} />
+            <span>{isSelected ? 'Remove' : 'Compare'}</span>
           </Button>
           <Button
             className='cursor-pointer'

@@ -145,7 +145,7 @@ const PartnerDetailPage: React.FC = () => {
                 <Button 
                   variant="outline" 
                   className="flex items-center space-x-2"
-                  onClick={() => navigate('/compare')}
+                  onClick={() => partner?.id && navigate('/', { state: { selectedIds: [partner.id] } })}
                 >
                   <Users className="w-4 h-4" />
                   <span>Add to Comparison</span>
