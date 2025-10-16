@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft, Star, Users, DollarSign, Zap, Clock, MapPin, MessageCircle, Globe, ChevronDown, ChevronUp, Image, Video, Play } from 'lucide-react';
+import { ArrowLeft, Star, Users, DollarSign, Zap, Clock, MapPin, MessageCircle, Globe, ChevronDown, ChevronUp, X } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
 import { Badge } from '@/design-system/Atoms/badge';
 import { Button } from '@/design-system/Atoms/button';
@@ -15,6 +15,7 @@ const PartnerDetailPage: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<TabType>('overview');
   const [showAllLocations, setShowAllLocations] = useState(false);
+  const [lightboxMedia, setLightboxMedia] = useState<{ url: string; type: 'video' | 'image' } | null>(null);
 
   useEffect(() => {
     const fetchPartner = async () => {
@@ -62,15 +63,17 @@ const PartnerDetailPage: React.FC = () => {
     }
   };
 
-  // Helper function to filter media by type
-  const getMediaByType = (mediaType: string) => {
+  // Helper: list of all displayable media (exclude LOGO/empty)
+  const getDisplayableMedia = () => {
     if (!partner?.media) return [];
-    return partner.media.filter(media => 
-      media.media_type.toLowerCase() === mediaType.toLowerCase() && 
-      media.tag !== 'LOGO' && // Exclude logo from media gallery
-      media.media_url && // Ensure media_url exists
-      media.media_url.trim() !== '' // Ensure media_url is not empty
-    );
+    return partner.media.filter(m => {
+      const url = (m.media_url || '').trim();
+      if (!url) return false;
+      if (m.tag === 'LOGO') return false;
+      // Skip macOS metadata files accidentally uploaded
+      if (url.toLowerCase().includes('.ds_store')) return false;
+      return true;
+    });
   };
 
   // Helper function to check if there's any displayable media
@@ -83,17 +86,7 @@ const PartnerDetailPage: React.FC = () => {
     );
   };
 
-  // Helper function to get media icon
-  const getMediaIcon = (mediaType: string) => {
-    switch (mediaType.toLowerCase()) {
-      case 'image':
-        return <Image className="w-4 h-4" />;
-      case 'video':
-        return <Video className="w-4 h-4" />;
-      default:
-        return <Image className="w-4 h-4" />;
-    }
-  };
+  // (Deprecated) getMediaIcon no longer used after unified renderer
 
   const tabs = [
     { id: 'overview' as TabType, label: 'Overview', icon: <Star className="w-4 h-4" /> },
@@ -102,6 +95,37 @@ const PartnerDetailPage: React.FC = () => {
     { id: 'onboarding' as TabType, label: 'Onboarding', icon: <Clock className="w-4 h-4" /> },
     { id: 'reviews' as TabType, label: 'Reviews', icon: <Star className="w-4 h-4" /> },
   ];
+
+  // Try rendering as IMAGE first; on error, fallback to VIDEO
+  const VideoOrImage: React.FC<{ url: string; alt: string }> = ({ url, alt }) => {
+    const [showVideo, setShowVideo] = useState(false);
+    return (
+      <>
+        <div
+          className="overflow-hidden rounded-lg border border-gray-200 cursor-pointer transition-transform duration-200 group-hover:scale-[1.05]"
+          onClick={() => setLightboxMedia({ url, type: showVideo ? 'video' : 'image' })}
+        >
+          <div className=" ">
+            {!showVideo ? (
+              <img
+                src={url}
+                alt={alt}
+                className="w-full h-48 object-cover"
+                loading="lazy"
+                onError={() => setShowVideo(true)}
+              />
+            ) : (
+              <video
+                src={url}
+                className="w-full h-48 object-cover"
+                preload="metadata"
+              />
+            )}
+          </div>
+        </div>
+      </>
+    );
+  };
 
   if (loading) {
     return (
@@ -340,100 +364,48 @@ const PartnerDetailPage: React.FC = () => {
               <Card>
                 <CardContent>
                   <div className="space-y-6">
-                    {/* Images Section */}
-                    {getMediaByType('IMAGE').length > 0 && (
-                      <div>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                          {getMediaByType('IMAGE').map((media, index) => (
-                            <div key={media.id} className="relative group">
-                              <img
-                                src={media.media_url}
-                                alt={`${partner.name} media ${index + 1}`}
-                                className="w-full h-48 object-cover rounded-lg border border-gray-200 hover:shadow-lg transition-shadow cursor-pointer"
-                                onClick={() => window.open(media.media_url, '_blank')}
-                              />
-                              <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-all duration-200 rounded-lg flex items-center justify-center">
-                                <div className="opacity-0 group-hover:opacity-100 transition-opacity">
-                                  <div className="bg-white bg-opacity-90 rounded-full p-2">
-                                    <Image className="w-5 h-5 text-gray-700" />
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          ))}
+                    {/* Lightbox */}
+                    {lightboxMedia && (
+                      <div
+                        className="fixed inset-0 z-[1000] flex items-center justify-center bg-black/70 p-4 mb-0"
+                        onClick={() => setLightboxMedia(null)}
+                      >
+                        <div className="relative max-w-6xl w-full max-h-[90vh]" onClick={(e) => e.stopPropagation()}>
+                          <button
+                            aria-label="Close"
+                            className="absolute -top-3 -right-3 md:-top-4 md:-right-4 bg-red-400 text-white rounded-full p-2 shadow"
+                            onClick={() => setLightboxMedia(null)}
+                          >
+                            <X className="w-5 h-5" />
+                          </button>
+                          {lightboxMedia.type === 'video' ? (
+                            <video
+                              src={lightboxMedia.url}
+                              className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
+                              controls
+                              autoPlay
+                            />
+                          ) : (
+                            <img
+                              src={lightboxMedia.url}
+                              alt="media"
+                              className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
+                            />
+                          )}
                         </div>
                       </div>
                     )}
-
-                    {/* Videos Section */}
-                    {getMediaByType('VIDEO').length > 0 && (
-                      <div>
-                        <h4 className="text-md font-semibold text-gray-800 mb-3 flex items-center">
-                          <Video className="w-4 h-4 mr-2" />
-                          Videos ({getMediaByType('VIDEO').length})
-                        </h4>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                          {getMediaByType('VIDEO').map((media) => (
-                            <div key={media.id} className="relative group">
-                              <video
-                                src={media.media_url}
-                                className="w-full h-48 object-cover rounded-lg border border-gray-200 hover:shadow-lg transition-shadow"
-                                controls
-                                preload="metadata"
-                              >
-                                Your browser does not support the video tag.
-                              </video>
-                              <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-all duration-200 rounded-lg flex items-center justify-center pointer-events-none">
-                                <div className="opacity-0 group-hover:opacity-100 transition-opacity">
-                                  <div className="bg-white bg-opacity-90 rounded-full p-2">
-                                    <Play className="w-5 h-5 text-gray-700" />
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          ))}
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                      {getDisplayableMedia().map((media, index) => (
+                        <div key={media.id} className="relative group">
+                          {/* Try video first, then fallback to image on error */}
+                          <VideoOrImage
+                            url={media.media_url}
+                            alt={`${partner.name} media ${index + 1}`}
+                          />
                         </div>
-                      </div>
-                    )}
-
-                    {/* Other Media Types */}
-                    {partner.media.filter(media => 
-                      media.media_type.toLowerCase() !== 'image' && 
-                      media.media_type.toLowerCase() !== 'video' && 
-                      media.tag !== 'LOGO'
-                    ).length > 0 && (
-                      <div>
-                        <h4 className="text-md font-semibold text-gray-800 mb-3">Other Media</h4>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                          {partner.media.filter(media => 
-                            media.media_type.toLowerCase() !== 'image' && 
-                            media.media_type.toLowerCase() !== 'video' && 
-                            media.tag !== 'LOGO'
-                          ).map((media) => (
-                            <div key={media.id} className="border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-                              <div className="flex items-center space-x-3">
-                                {getMediaIcon(media.media_type)}
-                                <div className="flex-1 min-w-0">
-                                  <p className="text-sm font-medium text-gray-900 truncate">
-                                    {media.media_type}
-                                  </p>
-                                  <p className="text-xs text-gray-500 truncate">
-                                    {media.tag}
-                                  </p>
-                                </div>
-                                <Button
-                                  variant="outline"
-                                  size="sm"
-                                  onClick={() => window.open(media.media_url, '_blank')}
-                                >
-                                  View
-                                </Button>
-                              </div>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
+                      ))}
+                    </div>
                   </div>
                 </CardContent>
               </Card>
