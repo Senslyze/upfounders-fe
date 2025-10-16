@@ -113,26 +113,27 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
             exit={{ opacity: 0 }}
           >
             <motion.div
-              className="bg-white rounded-xl shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto"
+              className="bg-white rounded-xl shadow-2xl w-full max-w-lg overflow-hidden"
               initial={{ scale: 0.9, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.9, opacity: 0 }}
               transition={{ type: 'spring', stiffness: 300, damping: 30 }}
             >
-              {/* Header */}
-              <div className="flex items-center justify-between p-4 border-b border-gray-200">
-                <h2 className="text-lg font-bold text-gray-900">Get Consultation</h2>
-                <button
-                  onClick={handleClose}
-                  disabled={isSubmitting}
-                  className="text-gray-400 hover:text-gray-600 transition-colors disabled:opacity-50"
-                >
-                  <X className="w-5 h-5" />
-                </button>
-              </div>
+              <div className="max-h-[90vh] overflow-y-auto">
+                {/* Header */}
+                <div className="flex items-center justify-between p-4 border-b border-gray-200">
+                  <h2 className="text-lg font-bold text-gray-900">Get Consultation</h2>
+                  <button
+                    onClick={handleClose}
+                    disabled={isSubmitting}
+                    className="text-gray-400 hover:text-gray-600 transition-colors disabled:opacity-50"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+                </div>
 
-              {/* Content */}
-              <div className="p-4">
+                {/* Content */}
+                <div className="p-4">
                 {isSubmitted ? (
                   <div className="text-center py-8">
                     <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -301,6 +302,7 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
                     </p>
                   </form>
                 )}
+                </div>
               </div>
             </motion.div>
           </motion.div>
