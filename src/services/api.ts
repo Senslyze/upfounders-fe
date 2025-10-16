@@ -43,6 +43,15 @@ apiClient.interceptors.response.use(
   }
 );
 
+// Media interface for the new API response
+export interface Media {
+  id: string;
+  media_url: string;
+  tag: string;
+  media_type: string;
+  company_id: string;
+}
+
 // Company API types - matches actual API response
 export interface Company {
   id: string;
@@ -66,9 +75,10 @@ export interface Company {
     id: string;
   };
   diverse_owned_identities: string[];
-  __typename: string;
+  typename: string; // Changed from __typename to typename
   created_at?: string;
   updated_at?: string;
+  media: Media[]; // New media array
 }
 
 // API service functions

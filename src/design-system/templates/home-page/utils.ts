@@ -1,8 +1,16 @@
 import { z } from 'zod';
 import { companyApi } from '../../../services/api';
-import type { Company } from '../../../services/api';
+import type { Company, Media } from '../../../services/api';
 
 // Zod schema for the API data structure - matches actual API response
+const MediaSchema = z.object({
+  id: z.string(),
+  media_url: z.string(),
+  tag: z.string(),
+  media_type: z.string(),
+  company_id: z.string(),
+});
+
 const ApiPartnerSchema = z.object({
   id: z.string(),
   name: z.string(),
@@ -25,12 +33,19 @@ const ApiPartnerSchema = z.object({
     id: z.string(),
   }),
   diverse_owned_identities: z.array(z.string()),
-  __typename: z.string(),
+  typename: z.string(), // Changed from __typename to typename
   created_at: z.string().optional(),
   updated_at: z.string().optional(),
+  media: z.array(MediaSchema), // New media array
 });
 
 type ApiPartner = z.infer<typeof ApiPartnerSchema>;
+
+// Helper function to get logo URL from media array
+const getLogoFromMedia = (media: Media[]): string | null => {
+  const logoMedia = media.find(item => item.tag === 'LOGO');
+  return logoMedia ? logoMedia.media_url : null;
+};
 
 // State for caching companies data
 let cachedCompanies: Company[] | null = null;
@@ -38,6 +53,9 @@ let isLoading = false;
 
 // Transform API data to our Partner format - using ONLY real API data
 const transformApiPartnerToPartner = (apiPartner: ApiPartner) => {
+  // Get logo from media array, fallback to msp_profile_picture
+  const logoUrl = getLogoFromMedia(apiPartner.media) || apiPartner.msp_profile_picture?.image?.uri;
+  
   return {
     // Basic info from API
     id: apiPartner.id,
@@ -45,7 +63,7 @@ const transformApiPartnerToPartner = (apiPartner: ApiPartner) => {
     description: apiPartner.description,
     website: apiPartner.company_website,
     minimum_spend: apiPartner.minimum_spend,
-    profileImage: apiPartner.msp_profile_picture?.image?.uri,
+    profileImage: logoUrl, // Now uses logo from media array
     isBadged: apiPartner.is_badged,
     
     // Arrays from API (no transformation, just direct mapping)
@@ -60,9 +78,10 @@ const transformApiPartnerToPartner = (apiPartner: ApiPartner) => {
     diverse_owned_identities: apiPartner.diverse_owned_identities,
     
     // Additional API fields
-    typename: apiPartner.__typename,
+    typename: apiPartner.typename, // Changed from __typename to typename
     created_at: apiPartner.created_at,
     updated_at: apiPartner.updated_at,
+    media: apiPartner.media, // Include media array
     
     // No fake data - no rating, reviewCount, pricing, type mapping, etc.
   };
@@ -253,6 +272,6 @@ export const getPaginatedPartners = async (page: number = 1, searchQuery?: strin
   };
 };
 
-// Export the Zod schema for validation
-export { ApiPartnerSchema };
+// Export the Zod schemas for validation
+export { ApiPartnerSchema, MediaSchema };
 export type Partner = ReturnType<typeof transformApiPartnerToPartner>;
