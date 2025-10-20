@@ -101,22 +101,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           {partner.description}
         </p>
 
-        {/* Focus Areas */}
-        <div>
-          <h4 className="text-sm font-bold text-gray-900 mb-2">Focus Areas</h4>
-          <div className="flex flex-wrap gap-2">
-            {partner.focus_areas.slice(0, 3).map((area, index) => (
-              <Badge key={index} variant="secondary" className="bg-blue-50 text-blue-700">
-                {area.length > 30 ? area.substring(0, 30) + '...' : area}
-              </Badge>
-            ))}
-            {partner.focus_areas.length > 3 && (
-              <span className="text-gray-500 text-xs">+{partner.focus_areas.length - 3} more</span>
-            )}
-          </div>
-        </div>
-
-        {/* Service Models and Countries */}
+        {/* Service Models*/}
         <div className="space-y-3 text-sm">
           <div>
             <h4 className="text-sm font-bold text-gray-900 mb-2">Service Models</h4>
@@ -128,6 +113,23 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
               ))}
             </div>
           </div>
+
+          {/* Focus Areas */}
+          <div>
+            <h4 className="text-sm font-bold text-gray-900 mb-2">Focus Areas</h4>
+            <div className="flex flex-wrap gap-2">
+              {partner.focus_areas.slice(0, 3).map((area, index) => (
+                <Badge key={index} variant="secondary" className="bg-blue-50 text-blue-700">
+                  {area.length > 30 ? area.substring(0, 30) + '...' : area}
+                </Badge>
+              ))}
+              {partner.focus_areas.length > 3 && (
+                <span className="text-gray-500 text-xs">+{partner.focus_areas.length - 3} more</span>
+              )}
+            </div>
+          </div>
+
+          {/* Countries */}
           <div>
             <h4 className="text-sm font-bold text-gray-900 mb-2 flex items-center">
               <Globe className="w-4 h-4 text-blue-600 mr-1" />
@@ -191,7 +193,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
             disabled={disableCompare && !isSelected}
             className={` cursor-pointer border border-gray-200 flex items-center space-x-2 hover:text-current ${disableCompare && !isSelected ? 'opacity-60 cursor-not-allowed' : ''} ${isSelected ? 'bg-[#2563eb] text-white hover:bg-[#1d4ed8] hover:text-white border-transparent' : 'bg-gray-100 text-gray-800 hover:bg-gray-200'}`}
           >
-            <Users className={`w-4 h-4 ${isSelected ? 'text-white' : ''}`} />
+            <Users className={`w-4 h-4 ${isSelected ? 'text-white' : ''}`} /> 
             <span>{isSelected ? 'Remove' : 'Compare'}</span>
           </Button>
           <Button
