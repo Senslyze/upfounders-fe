@@ -254,7 +254,7 @@ const ComparePage: React.FC = () => {
                           <div className="text-sm font-semibold text-gray-900 mb-2">{c.name}</div>
                           <div className="flex flex-wrap gap-2">
                             {c.service_models?.map((item, idx) => (
-                              <Badge key={idx} variant="outline" className="bg-blue-50 text-blue-700 text-xs border border-gray-200">{item}</Badge>
+                              <Badge key={idx} variant="outline" className="bg-blue-50 !text-blue-700 text-xs border border-blue-100">{item}</Badge>
                             ))}
                           </div>
                         </div>
