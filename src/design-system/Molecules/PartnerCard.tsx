@@ -88,29 +88,41 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
 
         {/* Supported Platforms */}
         <div className="flex flex-wrap gap-2">
-          {partner.facebook_platforms.map((platform, index) => (
-            <Badge key={index} variant="outline" className="flex items-center space-x-1 border-gray-200">
-              {getPlatformIcon(platform)}
-              <span>{platform}</span>
-            </Badge>
-          ))}
+          {partner.facebook_platforms && partner.facebook_platforms.length > 0 ? (
+            partner.facebook_platforms.map((platform, index) => (
+              <Badge key={index} variant="outline" className="flex items-center space-x-1 border-gray-200">
+                {getPlatformIcon(platform)}
+                <span>{platform}</span>
+              </Badge>
+            ))
+          ) : (
+            <span className="text-gray-400 text-sm">Not available</span>
+          )}
         </div>
 
         {/* Description */}
-        <p className="text-gray-600 text-sm line-clamp-2">
-          {partner.description}
-        </p>
+        {partner.description ? (
+          <p className="text-gray-600 text-sm line-clamp-2">
+            {partner.description}
+          </p>
+        ) : (
+          <p className="text-gray-400 text-sm">Not available</p>
+        )}
 
         {/* Service Models*/}
         <div className="space-y-3 text-sm">
           <div>
             <h4 className="text-sm font-bold text-gray-900 mb-2">Service Models</h4>
             <div className="flex flex-wrap gap-1">
-              {partner.service_models.map((model, index) => (
-                <Badge key={index} variant="outline" className="bg-blue-50 !text-blue-700 text-xs border border-blue-100">
-                  {model}
-                </Badge>
-              ))}
+              {partner.service_models && partner.service_models.length > 0 ? (
+                partner.service_models.map((model, index) => (
+                  <Badge key={index} variant="outline" className="bg-blue-50 !text-blue-700 text-xs border border-blue-100">
+                    {model}
+                  </Badge>
+                ))
+              ) : (
+                <span className="text-gray-400 text-xs">Not available</span>
+              )}
             </div>
           </div>
 
@@ -118,13 +130,19 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <div>
             <h4 className="text-sm font-bold text-gray-900 mb-2">Focus Areas</h4>
             <div className="flex flex-wrap gap-2">
-              {partner.focus_areas.slice(0, 3).map((area, index) => (
-                <Badge key={index} variant="secondary" className="bg-green-50 text-green-700">
-                  {area.length > 30 ? area.substring(0, 30) + '...' : area}
-                </Badge>
-              ))}
-              {partner.focus_areas.length > 3 && (
-                <span className="text-gray-500 text-xs">+{partner.focus_areas.length - 3} more</span>
+              {partner.focus_areas && partner.focus_areas.length > 0 ? (
+                <>
+                  {partner.focus_areas.slice(0, 3).map((area, index) => (
+                    <Badge key={index} variant="secondary" className="bg-green-50 text-green-700">
+                      {area.length > 30 ? area.substring(0, 30) + '...' : area}
+                    </Badge>
+                  ))}
+                  {partner.focus_areas.length > 3 && (
+                    <span className="text-gray-500 text-xs">+{partner.focus_areas.length - 3} more</span>
+                  )}
+                </>
+              ) : (
+                <span className="text-gray-400 text-xs">Not available</span>
               )}
             </div>
           </div>
@@ -136,15 +154,21 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
               Countries
             </h4>
             <div className="flex flex-wrap gap-1">
-              {partner.countries.slice(0, 3).map((country, index) => (
-                <Badge key={index} variant="outline" className="bg-blue-50 text-blue-700 text-xs border-gray-200">
-                  {country}
-                </Badge>
-              ))}
-              {partner.countries.length > 3 && (
-                <Badge variant="outline" className="bg-gray-50 text-gray-600 text-xs border-gray-200">
-                  +{partner.countries.length - 3} more
-                </Badge>
+              {partner.countries && partner.countries.length > 0 ? (
+                <>
+                  {partner.countries.slice(0, 3).map((country, index) => (
+                    <Badge key={index} variant="outline" className="bg-blue-50 text-blue-700 text-xs border-gray-200">
+                      {country}
+                    </Badge>
+                  ))}
+                  {partner.countries.length > 3 && (
+                    <Badge variant="outline" className="bg-gray-50 text-gray-600 text-xs border-gray-200">
+                      +{partner.countries.length - 3} more
+                    </Badge>
+                  )}
+                </>
+              ) : (
+                <span className="text-gray-400 text-xs">Not available</span>
               )}
             </div>
           </div>
@@ -154,28 +178,34 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
         <div>
           <h4 className="text-sm font-bold text-gray-900 mb-2">Industries</h4>
           <div className="flex flex-wrap gap-2">
-            {(showAllIndustries ? partner.industries : partner.industries.slice(0, 3)).map((industry, index) => (
-              <Badge key={index} variant="outline" className="bg-gray-100 text-gray-700 border-gray-200">
-                {industry}
-              </Badge>
-            ))}
-            {partner.industries.length > 3 && (
-              <button
-                onClick={() => setShowAllIndustries(!showAllIndustries)}
-                className="flex items-center space-x-1 text-xs text-blue-600 hover:text-blue-800 transition-colors"
-              >
-                {showAllIndustries ? (
-                  <>
-                    <ChevronUp className="w-3 h-3" />
-                    <span>Show Less</span>
-                  </>
-                ) : (
-                  <>
-                    <ChevronDown className="w-3 h-3" />
-                    <span>+{partner.industries.length - 3} More</span>
-                  </>
+            {partner.industries && partner.industries.length > 0 ? (
+              <>
+                {(showAllIndustries ? partner.industries : partner.industries.slice(0, 3)).map((industry, index) => (
+                  <Badge key={index} variant="outline" className="bg-gray-100 text-gray-700 border-gray-200">
+                    {industry}
+                  </Badge>
+                ))}
+                {partner.industries.length > 3 && (
+                  <button
+                    onClick={() => setShowAllIndustries(!showAllIndustries)}
+                    className="flex items-center space-x-1 text-xs text-blue-600 hover:text-blue-800 transition-colors"
+                  >
+                    {showAllIndustries ? (
+                      <>
+                        <ChevronUp className="w-3 h-3" />
+                        <span>Show Less</span>
+                      </>
+                    ) : (
+                      <>
+                        <ChevronDown className="w-3 h-3" />
+                        <span>+{partner.industries.length - 3} More</span>
+                      </>
+                    )}
+                  </button>
                 )}
-              </button>
+              </>
+            ) : (
+              <span className="text-gray-400 text-sm">Not available</span>
             )}
           </div>
         </div>
