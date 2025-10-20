@@ -447,7 +447,7 @@ const PartnerDetailPage: React.FC = () => {
                   <h3 className="font-semibold text-gray-900 mb-2">Service Models</h3>
                   <div className="flex flex-wrap gap-2">
                     {partner.service_models.map((model, index) => (
-                      <Badge key={index} variant="outline">
+                      <Badge key={index} variant="outline" className="border border-gray-200">
                         {model}
                       </Badge>
                     ))}
