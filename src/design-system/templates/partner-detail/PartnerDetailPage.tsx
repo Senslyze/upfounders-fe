@@ -7,7 +7,7 @@ import { Badge } from '@/design-system/Atoms/badge';
 import { Button } from '@/design-system/Atoms/button';
 import { getCompanyById, type Partner } from '../home-page/utils';
 
-type TabType = 'overview' | 'pricing' | 'features' | 'onboarding' | 'reviews';
+type TabType = 'overview' | 'pricing' | 'features' | 'onboarding';
 
 const PartnerDetailPage: React.FC = () => {
   const params = useParams<{ companyId: string }>();
@@ -95,7 +95,6 @@ const PartnerDetailPage: React.FC = () => {
     { id: 'pricing' as TabType, label: 'Pricing', icon: <DollarSign className="w-4 h-4" /> },
     { id: 'features' as TabType, label: 'Features', icon: <Zap className="w-4 h-4" /> },
     { id: 'onboarding' as TabType, label: 'Onboarding', icon: <Clock className="w-4 h-4" /> },
-    { id: 'reviews' as TabType, label: 'Reviews', icon: <Star className="w-4 h-4" /> },
   ];
 
   // Try rendering as IMAGE first; on error, fallback to VIDEO
@@ -177,10 +176,6 @@ const PartnerDetailPage: React.FC = () => {
                   <Badge variant="default" className="bg-blue-100 text-blue-800">
                     Solution Partner
                   </Badge>
-                  <div className="flex items-center space-x-1">
-                    <Star className="w-4 h-4 text-yellow-500 fill-current" />
-                    <span className="text-sm text-gray-600">4.8 (127 reviews)</span>
-                  </div>
                 </div>
                 
                 <div className="flex items-start space-x-4">
@@ -480,17 +475,6 @@ const PartnerDetailPage: React.FC = () => {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600">Onboarding information will be available soon.</p>
-            </CardContent>
-          </Card>
-        )}
-
-        {activeTab === 'reviews' && (
-          <Card>
-            <CardHeader>
-              <h2 className="text-xl font-bold text-gray-900">Reviews</h2>
-            </CardHeader>
-            <CardContent>
-              <p className="text-gray-600">Reviews will be available soon.</p>
             </CardContent>
           </Card>
         )}
