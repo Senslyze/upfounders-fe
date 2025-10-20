@@ -457,7 +457,7 @@ const PartnerDetailPage: React.FC = () => {
                   <h3 className="font-semibold text-gray-900 mb-2">Focus Areas</h3>
                   <div className="flex flex-wrap gap-2">
                     {partner.focus_areas.map((area, index) => (
-                      <Badge key={index} variant="secondary">
+                      <Badge key={index} variant="outline" className='border border-gray-200'>
                         {area}
                       </Badge>
                     ))}
