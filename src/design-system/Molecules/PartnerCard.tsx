@@ -106,8 +106,8 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <div>
             <h4 className="text-sm font-bold text-gray-900 mb-2">Service Models</h4>
             <div className="flex flex-wrap gap-1">
-            {partner.service_models.map((model, index) => (
-                <Badge key={index} variant="outline" className="bg-green-50 text-green-700 text-xs border-gray-200">
+              {partner.service_models.map((model, index) => (
+                <Badge key={index} variant="outline" className="bg-blue-50 !text-blue-700 text-xs border border-blue-100">
                   {model}
                 </Badge>
               ))}
@@ -119,7 +119,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
             <h4 className="text-sm font-bold text-gray-900 mb-2">Focus Areas</h4>
             <div className="flex flex-wrap gap-2">
               {partner.focus_areas.slice(0, 3).map((area, index) => (
-                <Badge key={index} variant="secondary" className="bg-blue-50 text-blue-700">
+                <Badge key={index} variant="secondary" className="bg-green-50 text-green-700">
                   {area.length > 30 ? area.substring(0, 30) + '...' : area}
                 </Badge>
               ))}
