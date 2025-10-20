@@ -29,6 +29,7 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
   searchQuery
 }) => {
   const disableFurtherSelection = comparisonItems.length >= 3;
+  const selectedCount = Math.min(comparisonItems.length, 3);
 
   return (
     <div className={`space-y-6 ${className}`}>
@@ -107,22 +108,35 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
       )}
 
       {comparisonItems.length > 0 && (
-        <Link
-          href="/compare"
-          className={`fixed bottom-6 right-6 z-50 ${comparisonItems.length < 2 || comparisonItems.length > 3 ? 'pointer-events-none opacity-60' : ''}`}
-          onClick={(e) => {
-            if (comparisonItems.length < 2 || comparisonItems.length > 3) { e.preventDefault(); return; }
-            try { sessionStorage.setItem('compare.selectedIds', JSON.stringify(comparisonItems)); } catch {}
-          }}
-        >
-          <div className="flex items-start gap-3 px-5 py-4 bg-blue-600 text-white rounded-xl shadow-xl hover:bg-blue-700 transition-colors">
-            <Users2 className="w-6 h-6 mt-0.5" />
-            <div className="leading-tight">
-              <div className="text-base">{`Compare ${comparisonItems.length} ${comparisonItems.length === 1 ? 'Partner' : 'Partners'}`}</div>
-              <div className="text-sm">{comparisonItems.length < 2 ? 'Select at least 2' : comparisonItems.length > 3 ? 'Max 3 allowed' : 'Click to view comparison'}</div>
-            </div>
+        <div className="fixed bottom-6 right-6 z-50 flex flex-col items-start gap-2">
+          {/* Selection progress indicator */}
+          <div aria-label="compare selection progress" className="flex items-center gap-1.5">
+            {[0, 1, 2].map((i) => (
+              <span
+                key={i}
+                className={`inline-block w-2.5 h-2.5 rounded-full shadow ${i < selectedCount ? 'bg-blue-600' : 'bg-blue-200'}`}
+              />
+            ))}
           </div>
-        </Link>
+
+          {/* Floating compare button */}
+          <Link
+            href="/compare"
+            className={`${comparisonItems.length < 2 || comparisonItems.length > 3 ? 'pointer-events-none opacity-60' : ''}`}
+            onClick={(e) => {
+              if (comparisonItems.length < 2 || comparisonItems.length > 3) { e.preventDefault(); return; }
+              try { sessionStorage.setItem('compare.selectedIds', JSON.stringify(comparisonItems)); } catch {}
+            }}
+          >
+            <div className="flex items-start gap-3 px-5 py-4 bg-blue-600 text-white rounded-xl shadow-xl hover:bg-blue-700 transition-colors">
+              <Users2 className="w-6 h-6 mt-0.5" />
+              <div className="leading-tight">
+                <div className="text-base">{`Compare ${comparisonItems.length} ${comparisonItems.length === 1 ? 'Partner' : 'Partners'}`}</div>
+                <div className="text-sm">{comparisonItems.length < 2 ? 'Select at least 2' : comparisonItems.length > 3 ? 'Max 3 allowed' : 'Click to view comparison'}</div>
+              </div>
+            </div>
+          </Link>
+        </div>
       )}
     </div>
   );
