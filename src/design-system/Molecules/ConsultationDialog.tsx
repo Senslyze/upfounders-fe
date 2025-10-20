@@ -129,12 +129,12 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
             >
               <div className="max-h-[90vh] overflow-y-auto">
                 {/* Header */}
-                <div className="flex items-center justify-between p-4 border-b border-gray-200">
-                  <h2 className="text-lg font-bold text-gray-900">Get Consultation</h2>
+                <div className="flex items-center justify-between p-6 border-b border-gray-200 bg-white sticky top-0 z-10">
+                  <h2 className="text-xl font-bold text-gray-900">Get Consultation</h2>
                   <button
                     onClick={handleClose}
                     disabled={isSubmitting}
-                    className="text-gray-400 hover:text-gray-600 transition-colors disabled:opacity-50"
+                    className="text-gray-400 hover:text-gray-600 transition-colors disabled:opacity-50 p-1 rounded-md hover:bg-gray-100"
                   >
                     <X className="w-5 h-5" />
                   </button>
