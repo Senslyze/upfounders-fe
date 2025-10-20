@@ -319,27 +319,6 @@ const PartnerDetailPage: React.FC = () => {
               </Card>
             </div>
 
-            {/* Key Services */}
-            <Card className="border border-gray-200">
-              <CardHeader>
-                <h3 className="text-lg font-bold text-gray-900">Key Services</h3>
-              </CardHeader>
-              <CardContent>
-                <div className="flex flex-wrap gap-2 ">
-                  {partner.service_models.map((service, index) => (
-                    <Badge key={index} variant={getServiceModelVariant(service)} className="bg-blue-100 text-blue-800 border border-gray-200">
-                      {service}
-                    </Badge>
-                  ))}
-                  {partner.focus_areas.map((area, index) => (
-                    <Badge key={`focus-${index}`} variant="outline" className="bg-gray-100 text-gray-700 border border-gray-200">
-                      {area}
-                    </Badge>
-                  ))}
-                </div>
-              </CardContent>
-            </Card>
-
             {/* Industries */}
             <Card className="border border-gray-200">
               <CardHeader>
