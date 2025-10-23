@@ -3,33 +3,27 @@ import { prisma } from '@/lib/prisma/prismaClient'
 
 // GET /api/company/[id] - Get a specific company
 export async function GET(
-  request: NextRequest,
-  { params }: { params: { id: string } }
+  request: Request,
+  context: { params: { id: string } } 
 ) {
-  const { id } = params 
+  const { id } = await context.params;
 
   try {
     const company = await prisma.company.findUnique({
-      where: { id }, 
+      where: { id },
       include: {
         media: true,
       },
-    })
+    });
 
     if (!company) {
-      return NextResponse.json(
-        { error: 'Company not found' },
-        { status: 404 }
-      )
+      return NextResponse.json({ error: 'Company not found' }, { status: 404 });
     }
 
-    return NextResponse.json(company)
+    return NextResponse.json(company);
   } catch (error) {
-    console.error('Error fetching company:', error)
-    return NextResponse.json(
-      { error: 'Failed to fetch company' },
-      { status: 500 }
-    )
+    console.error('Error fetching company:', error);
+    return NextResponse.json({ error: 'Failed to fetch company' }, { status: 500 });
   }
 }
 
