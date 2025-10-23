@@ -6,12 +6,10 @@ export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url)
     const page = parseInt(searchParams.get('page') || '1')
-    const limit = parseInt(searchParams.get('limit') || '10')
     const mediaType = searchParams.get('media_type')
     const tag = searchParams.get('tag')
     const companyId = searchParams.get('company_id')
 
-    const skip = (page - 1) * limit
 
     const where = {
       ...(mediaType && { media_type: mediaType }),
@@ -21,8 +19,7 @@ export async function GET(request: NextRequest) {
 
     const [media, total] = await Promise.all([
       prisma.media.findMany({
-        skip,
-        take: limit,
+       
         include: {
           campany: {
             select: {
@@ -41,9 +38,8 @@ export async function GET(request: NextRequest) {
       media,
       pagination: {
         page,
-        limit,
+
         total,
-        pages: Math.ceil(total / limit),
       },
     })
   } catch (error) {

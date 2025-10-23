@@ -91,7 +91,7 @@ export const companyApi = {
   // Fetch all companies
   getAllCompanies: async (): Promise<Company[]> => {
     try {
-      const response = await apiClient.get('/companies');
+      const response = await apiClient.get('/api/company');
       return response.data;
     } catch (error) {
       console.error('Error fetching all companies:', error);
@@ -102,7 +102,7 @@ export const companyApi = {
   // Fetch company by ID
   getCompanyById: async (id: string): Promise<Company> => {
     try {
-      const response = await apiClient.get(`/companies/${id}`);
+      const response = await apiClient.get(`/api/company/${id}`);
       return response.data;
     } catch (error) {
       console.error(`Error fetching company with ID ${id}:`, error);
@@ -120,7 +120,7 @@ export const companyApi = {
     keyServices?: string[];
   }): Promise<Company[]> => {
     try {
-      const response = await apiClient.get('/companies', { params });
+      const response = await apiClient.get('/api/company', { params });
       return response.data;
     } catch (error) {
       console.error('Error searching companies:', error);

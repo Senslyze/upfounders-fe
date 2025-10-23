@@ -6,9 +6,11 @@ export async function GET(
   request: NextRequest,
   { params }: { params: { id: string } }
 ) {
+  const { id } = params 
+
   try {
     const company = await prisma.company.findUnique({
-      where: { id: params.id },
+      where: { id }, 
       include: {
         media: true,
       },

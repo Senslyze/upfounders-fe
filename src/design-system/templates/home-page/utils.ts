@@ -109,17 +109,32 @@ const fetchAndTransformCompanies = async (): Promise<ReturnType<typeof transform
 
   try {
     isLoading = true;
-    const companies = await companyApi.getAllCompanies();
+
+    // 👇 Expecting array directly, not an object
+    const response = await companyApi.getAllCompanies();
+
+    // If response is an object { companies: [...] }, extract it safely
+    const companies = Array.isArray(response)
+      ? response
+      : response?.companies ?? [];
+
+    if (!Array.isArray(companies)) {
+      console.error('❌ Expected array, got:', companies);
+      return [];
+    }
+
     cachedCompanies = companies;
     return companies.map(transformApiPartnerToPartner);
+
   } catch (error) {
     console.error('Error fetching companies:', error);
-    // Return empty array on error, could also implement fallback to static data
     return [];
   } finally {
     isLoading = false;
   }
 };
+
+
 
 // Function to get a single company by ID
 export const getCompanyById = async (id: string): Promise<ReturnType<typeof transformApiPartnerToPartner> | null> => {
