@@ -146,65 +146,65 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   }, [loadMore]);
   return (
     <div className="relative min-h-screen bg-white overflow-hidden">
-      {/* Decorative Background Icons */}
-      <div className="absolute inset-0 opacity-5">
+      {/* Decorative Background Icons - Hidden on mobile, reduced on tablet */}
+      <div className="absolute inset-0 opacity-5 hidden sm:block">
         {/* Top Left */}
-        <div className="absolute top-20 left-10">
-          <Megaphone className="w-8 h-8 text-green-400" />
+        <div className="absolute top-20 left-4 sm:left-10">
+          <Megaphone className="w-6 h-6 sm:w-8 sm:h-8 text-green-400" />
         </div>
-        <div className="absolute top-32 left-16">
-          <MessageCircle className="w-6 h-6 text-blue-400" />
+        <div className="absolute top-32 left-8 sm:left-16">
+          <MessageCircle className="w-4 h-4 sm:w-6 sm:h-6 text-blue-400" />
         </div>
         
         {/* Top Right */}
-        <div className="absolute top-16 right-20">
-          <MessageCircle className="w-7 h-7 text-green-400" />
+        <div className="absolute top-16 right-8 sm:right-20">
+          <MessageCircle className="w-5 h-5 sm:w-7 sm:h-7 text-green-400" />
         </div>
-        <div className="absolute top-28 right-32">
-          <MessageCircle className="w-5 h-5 text-green-300" />
+        <div className="absolute top-28 right-16 sm:right-32">
+          <MessageCircle className="w-3 h-3 sm:w-5 sm:h-5 text-green-300" />
         </div>
-        <div className="absolute top-40 right-16">
-          <MessageCircle className="w-6 h-6 text-green-400" />
+        <div className="absolute top-40 right-8 sm:right-16">
+          <MessageCircle className="w-4 h-4 sm:w-6 sm:h-6 text-green-400" />
         </div>
         
         {/* Mid Left */}
-        <div className="absolute top-1/2 left-12">
-          <Instagram className="w-8 h-8 text-purple-400" />
+        <div className="absolute top-1/2 left-6 sm:left-12">
+          <Instagram className="w-6 h-6 sm:w-8 sm:h-8 text-purple-400" />
         </div>
-        <div className="absolute top-1/2 left-24">
-          <Instagram className="w-6 h-6 text-purple-300" />
+        <div className="absolute top-1/2 left-12 sm:left-24">
+          <Instagram className="w-4 h-4 sm:w-6 sm:h-6 text-purple-300" />
         </div>
         
         {/* Center */}
         <div className="absolute top-1/3 left-1/2 transform -translate-x-1/2">
-          <Megaphone className="w-7 h-7 text-green-300" />
+          <Megaphone className="w-5 h-5 sm:w-7 sm:h-7 text-green-300" />
         </div>
         <div className="absolute top-1/3 left-1/2 transform -translate-x-1/2 translate-y-8">
-          <MessageCircle className="w-5 h-5 text-blue-300" />
+          <MessageCircle className="w-3 h-3 sm:w-5 sm:h-5 text-blue-300" />
         </div>
         
         {/* Mid Right */}
-        <div className="absolute top-2/3 right-24">
-          <MessageCircle className="w-6 h-6 text-blue-400" />
+        <div className="absolute top-2/3 right-12 sm:right-24">
+          <MessageCircle className="w-4 h-4 sm:w-6 sm:h-6 text-blue-400" />
         </div>
         
         {/* Bottom */}
         <div className="absolute bottom-20 left-1/4">
-          <Instagram className="w-7 h-7 text-purple-400" />
+          <Instagram className="w-5 h-5 sm:w-7 sm:h-7 text-purple-400" />
         </div>
         <div className="absolute bottom-32 right-1/4">
-          <Megaphone className="w-6 h-6 text-green-400" />
+          <Megaphone className="w-4 h-4 sm:w-6 sm:h-6 text-green-400" />
         </div>
       </div>
 
       <div className="relative z-10">
         {/* Hero Section */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-8">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 sm:pt-12 md:pt-16 pb-6 sm:pb-8">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 leading-tight px-2">
               Find Your Perfect Partner
             </h1>
-            <p className="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
+            <p className="text-base sm:text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed px-4 sm:px-2">
               Discover, compare, and connect with Meta-approved Business Solution Providers. 
               Get expert consultancy to find the right partner for your business growth.
             </p>
@@ -212,21 +212,21 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Consultancy Banner */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
-          <div className="bg-gradient-to-r from-blue-50 to-purple-50 border border-blue-200 rounded-xl p-6">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-8 sm:mb-12">
+          <div className="bg-gradient-to-r from-blue-50 to-purple-50 border border-blue-200 rounded-xl p-4 sm:p-6">
             <div className="text-center">
-              <h2 className="text-2xl font-bold text-gray-900 mb-2">
+              <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2 sm:mb-3">
                 Need Help Finding the Right Partner?
               </h2>
-              <p className="text-gray-600 max-w-3xl mx-auto mb-4">
+              <p className="text-sm sm:text-base text-gray-600 max-w-3xl mx-auto mb-4 sm:mb-6 px-2">
                 Our Meta partnership experts can help you identify the perfect solution provider 
                 for your business needs. Get personalized recommendations and strategic guidance.
               </p>
               <button
                 onClick={() => setIsConsultationDialogOpen(true)}
-                className="inline-flex items-center justify-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl cursor-pointer"
+                className="inline-flex items-center justify-center px-4 sm:px-6 py-2 sm:py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl cursor-pointer text-sm sm:text-base w-full sm:w-auto"
               >
-                <Mail size={20} className="mr-2" />
+                <Mail size={18} className="mr-2" />
                 Get Consultation
               </button>
             </div>
@@ -234,7 +234,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Search Bar with Integrated Filters */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-8 sm:mb-12">
           <SearchBar 
             onSearch={handleSearch}
             onFiltersChange={handleFiltersChange}
@@ -244,12 +244,12 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
         </div>
 
         {/* Stats Cards */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-8 sm:mb-12">
           <StatsCards partners={allPartners} />
         </div>
 
         {/* Partners Grid */}
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-8 sm:pb-12 md:pb-16">
           <PartnerGrid 
             partners={partners as unknown as UiPartner[]}
             onCompareToggle={handleCompareToggle}
