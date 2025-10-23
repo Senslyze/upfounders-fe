@@ -110,13 +110,17 @@ const fetchAndTransformCompanies = async (): Promise<ReturnType<typeof transform
   try {
     isLoading = true;
 
-    // 👇 Expecting array directly, not an object
     const response = await companyApi.getAllCompanies();
 
-    // If response is an object { companies: [...] }, extract it safely
-    const companies = Array.isArray(response)
-      ? response
-      : response?.companies ?? [];
+    // Normalize response: accept either an array of companies or an object with { companies: [...] }
+    let companies: Company[] = [];
+    if (Array.isArray(response)) {
+      companies = response;
+    } else if (response && typeof response === 'object' && 'companies' in response && Array.isArray((response as any).companies)) {
+      companies = (response as any).companies;
+    } else {
+      companies = [];
+    }
 
     if (!Array.isArray(companies)) {
       console.error('❌ Expected array, got:', companies);
