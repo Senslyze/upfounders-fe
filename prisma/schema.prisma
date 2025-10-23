@@ -1,0 +1,69 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model company {
+  id                       String   @id
+  company_website          String?
+  countries                String[]
+  name                     String
+  description              String
+  diverse_owned_identities String[]
+  facebook_platforms       String[]
+  focus_areas              String[]
+  industries               String[]
+  is_badged                Boolean
+  language_tags            String[]
+  msp_profile_picture      Json?
+  service_models           String[]
+  solution_types           String[]
+  solution_subtypes        String[]
+  minimum_spend            Int?
+  typename                 String
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  media media[]
+}
+
+model media {
+  id         String    @id @default(cuid())
+  media_url  String
+  tag        MediaTag
+  media_type MediaType
+  company_id String
+  campany    company   @relation(fields: [company_id], references: [id])
+  
+  @@index([company_id])
+}
+
+model consultancy_requests{
+  id                String   @id @default(cuid())
+  name              String
+  email             String
+  company_name     String
+  business_type    String
+  interest_media   String[]
+  user_query       String
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+enum MediaType {
+  IMAGE
+  VIDEO
+}
+
+enum MediaTag {
+  LOGO
+  MEDIA
+}
+
+
