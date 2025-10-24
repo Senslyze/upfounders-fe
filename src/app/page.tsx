@@ -1,10 +1,11 @@
 "use client";
 import React, { Suspense } from "react";
 import HomePage from "../design-system/templates/home-page/HomePage";
+import HomePageSkeleton from "../design-system/templates/home-page/HomePageSkeleton";
 
 export default function Home() {
   return (
-    <Suspense fallback={<div className="min-h-screen flex items-center justify-center">Loading...</div>}>
+    <Suspense fallback={<HomePageSkeleton />}>
       <HomePage />
     </Suspense>
   );

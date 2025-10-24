@@ -6,6 +6,7 @@ import SearchBar, { type FilterOptions } from '../../Molecules/SearchBar';
 import StatsCards from '../../Molecules/StatsCards';
 import PartnerGrid from '../../Molecules/PartnerGrid';
 import ConsultationDialog from '../../Molecules/ConsultationDialog';
+import HomePageSkeleton from './HomePageSkeleton';
 import { PRIORITY_COMPANIES } from './utils';
 import type { Partner as UiPartner } from './utils';
 import { useCompanies, useInfinitePartners } from '../../../hooks/useCompanies';
@@ -29,8 +30,15 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
   });
   const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
 
+  // Comparison selection state
+  const [comparisonItems, setComparisonItems] = useState<string[]>(() => {
+    const selectedIdsParam = searchParams.get('selectedIds');
+    if (!selectedIdsParam) return [];
+    return selectedIdsParam.split(',').filter(Boolean);
+  });
+
   // Get all partners for stats
-  const { partners: allPartners } = useCompanies();
+  const { partners: allPartners, loading: statsLoading } = useCompanies();
   
   // Use the infinite scroll partners hook with priority companies
   const { 
@@ -44,13 +52,6 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     filters,
     PRIORITY_COMPANIES
   );
-
-  // Comparison selection state
-  const [comparisonItems, setComparisonItems] = useState<string[]>(() => {
-    const selectedIdsParam = searchParams.get('selectedIds');
-    if (!selectedIdsParam) return [];
-    return selectedIdsParam.split(',').filter(Boolean);
-  });
 
   // When navigated with a preselected partner via query (?selectedIds=...)
   useEffect(() => {
@@ -144,6 +145,12 @@ const HomePage: React.FC<HomePageProps> = ({ onSearch }) => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, [loadMore]);
+
+  // Show skeleton while initial data is loading
+  if (statsLoading && allPartners.length === 0) {
+    return <HomePageSkeleton />;
+  }
+
   return (
     <div className="relative min-h-screen bg-white overflow-hidden">
       {/* Decorative Background Icons - Hidden on mobile, reduced on tablet */}
