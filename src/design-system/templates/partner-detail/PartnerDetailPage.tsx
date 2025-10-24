@@ -179,12 +179,11 @@ const PartnerDetailPage: React.FC = () => {
                 
                 <div className="flex flex-col sm:flex-row sm:items-start space-y-4 sm:space-y-0 sm:space-x-4">
                   {partner.profileImage && (
-                    <Image 
+                    <img 
                       src={partner.profileImage} 
                       alt={partner.name}
-                      width={64}
-                      height={64}
                       className="w-16 h-16 rounded-lg object-cover mx-auto sm:mx-0"
+                      loading="lazy"
                     />
                   )}
                   <div className="flex-1 text-center sm:text-left">
@@ -366,11 +365,9 @@ const PartnerDetailPage: React.FC = () => {
                             autoPlay
                           />
                         ) : (
-                          <Image
+                          <img
                             src={lightboxMedia.url}
                             alt="media"
-                            width={1200}
-                            height={800}
                             className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
                           />
                         )}
