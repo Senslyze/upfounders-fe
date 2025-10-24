@@ -20,6 +20,11 @@ const eslintConfig = [
       "next-env.d.ts",
     ],
   },
+  {
+    rules: {
+      "@next/next/no-img-element": "off", // Allow regular img tags for S3 images with referer restrictions
+    },
+  },
 ];
 
 export default eslintConfig;
