@@ -129,29 +129,33 @@ const ComparePage: React.FC = () => {
                 <button
                   onClick={() => setActiveTab('overview')}
                   aria-selected={activeTab==='overview'}
-                  className={`px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='overview' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                  className={`inline-flex items-center justify-center sm:justify-start gap-2 px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='overview' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
+                  <Users2 className={`w-4 h-4 hidden sm:inline ${activeTab==='overview' ? 'text-blue-600' : 'text-gray-500'}`} />
                   Overview
                 </button>
                 <button
                   onClick={() => setActiveTab('pricing')}
                   aria-selected={activeTab==='pricing'}
-                  className={`px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='pricing' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                  className={`inline-flex items-center justify-center sm:justify-start gap-2 px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='pricing' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
+                  <DollarSign className={`w-4 h-4 hidden sm:inline ${activeTab==='pricing' ? 'text-blue-600' : 'text-gray-500'}`} />
                   Pricing
                 </button>
                 <button
                   onClick={() => setActiveTab('features')}
                   aria-selected={activeTab==='features'}
-                  className={`px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='features' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                  className={`inline-flex items-center justify-center sm:justify-start gap-2 px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='features' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
+                  <Zap className={`w-4 h-4 hidden sm:inline ${activeTab==='features' ? 'text-blue-600' : 'text-gray-500'}`} />
                   Features
                 </button>
                 <button
                   onClick={() => setActiveTab('onboarding')}
                   aria-selected={activeTab==='onboarding'}
-                  className={`px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='onboarding' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
+                  className={`inline-flex items-center justify-center sm:justify-start gap-2 px-3 sm:px-4 py-2 rounded-lg transition-colors flex-1 sm:flex-none whitespace-nowrap text-xs sm:text-sm ${activeTab==='onboarding' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
+                  <Clock className={`w-4 h-4 hidden sm:inline ${activeTab==='onboarding' ? 'text-blue-600' : 'text-gray-500'}`} />
                   Onboarding
                 </button>
               </div>
