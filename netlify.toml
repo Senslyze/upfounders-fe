@@ -1,0 +1,32 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Prisma configuration for Netlify
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Ensure Prisma Client is generated during build
+[build.processing]
+  skip_processing = false
+
+# Build settings
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.html]
+  pretty_urls = true
+
+# Redirects for Next.js
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
