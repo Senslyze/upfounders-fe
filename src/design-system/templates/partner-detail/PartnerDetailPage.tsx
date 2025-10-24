@@ -20,23 +20,35 @@ const PartnerDetailPage: React.FC = () => {
   const [lightboxMedia, setLightboxMedia] = useState<{ url: string; type: 'video' | 'image' } | null>(null);
 
   useEffect(() => {
+    let isCancelled = false;
+    
     const fetchPartner = async () => {
       if (!companyId) return;
       
       setLoading(true);
       try {
-        // Fetch partner by ID using the API
         const partnerData = await getCompanyById(companyId);
-        setPartner(partnerData);
+        
+        if (!isCancelled) {
+          setPartner(partnerData);
+        }
       } catch (error) {
         console.error('Error fetching partner:', error);
-        setPartner(null);
+        if (!isCancelled) {
+          setPartner(null);
+        }
       } finally {
-        setLoading(false);
+        if (!isCancelled) {
+          setLoading(false);
+        }
       }
     };
 
     fetchPartner();
+    
+    return () => {
+      isCancelled = true;
+    };
   }, [companyId]);
 
   const getPlatformIcon = (platform: string) => {
@@ -98,14 +110,14 @@ const PartnerDetailPage: React.FC = () => {
               <img
                 src={url}
                 alt={alt}
-                className="w-full h-48 object-cover"
+                className="w-full h-40 sm:h-48 object-cover"
                 loading="lazy"
                 onError={() => setShowVideo(true)}
               />
             ) : (
               <video
                 src={url}
-                className="w-full h-48 object-cover"
+                className="w-full h-40 sm:h-48 object-cover"
                 preload="metadata"
               />
             )}
@@ -142,12 +154,12 @@ const PartnerDetailPage: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="partner-detail-container">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
         {/* Back Navigation */}
-        <div className="mb-6">
+        <div className="mb-4 sm:mb-6">
           <button
             onClick={() => router.push('/')}
-            className="flex items-center text-blue-600 hover:text-blue-800 transition-colors"
+            className="flex items-center text-blue-600 hover:text-blue-800 transition-colors text-sm sm:text-base"
           >
             <ArrowLeft className="w-4 h-4 mr-2" />
             Back to Directory
@@ -155,9 +167,9 @@ const PartnerDetailPage: React.FC = () => {
         </div>
 
         {/* Partner Overview Card */}
-        <Card className="mb-8 border border-gray-200">
+        <Card className="mb-6 sm:mb-8 border border-gray-200">
           <CardHeader className="pb-4">
-            <div className="flex items-start justify-between">
+            <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between space-y-4 lg:space-y-0">
               <div className="flex-1">
                 <div className="flex items-center space-x-3 mb-4">
                   <Badge variant="default" className="bg-blue-100 text-blue-800">
@@ -165,29 +177,29 @@ const PartnerDetailPage: React.FC = () => {
                   </Badge>
                 </div>
                 
-                <div className="flex items-start space-x-4">
+                <div className="flex flex-col sm:flex-row sm:items-start space-y-4 sm:space-y-0 sm:space-x-4">
                   {partner.profileImage && (
                     <Image 
                       src={partner.profileImage} 
                       alt={partner.name}
                       width={64}
                       height={64}
-                      className="w-16 h-16 rounded-lg object-cover"
+                      className="w-16 h-16 rounded-lg object-cover mx-auto sm:mx-0"
                     />
                   )}
-                  <div className="flex-1">
-                    <h1 className="text-3xl font-bold text-gray-900 mb-2">{partner.name}</h1>
-                    <p className="text-gray-600 text-lg leading-relaxed max-w-3xl">
+                  <div className="flex-1 text-center sm:text-left">
+                    <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2">{partner.name}</h1>
+                    <p className="text-gray-600 text-base sm:text-lg leading-relaxed max-w-3xl">
                       {partner.description}
                     </p>
                   </div>
                 </div>
               </div>
               
-              <div className="flex space-x-2">
+              <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2 lg:ml-4">
                 <Button 
                   variant="outline" 
-                  className=" cursor-pointer flex items-center space-x-2 border border-gray-200"
+                  className="cursor-pointer flex items-center justify-center space-x-2 border border-gray-200 w-full sm:w-auto"
                   onClick={() => partner?.id && router.push(`/?selectedIds=${encodeURIComponent(partner.id)}`)}
                 >
                   <Users className="w-4 h-4" />
@@ -196,7 +208,7 @@ const PartnerDetailPage: React.FC = () => {
                 {partner.website && (
                   <Button 
                     variant="default" 
-                    className=" cursor-pointer flex items-center space-x-2 border border-gray-200"
+                    className="cursor-pointer flex items-center justify-center space-x-2 border border-gray-200 w-full sm:w-auto"
                     onClick={() => window.open(partner.website, '_blank')}
                   >
                     <Globe className="w-4 h-4" />
@@ -210,20 +222,20 @@ const PartnerDetailPage: React.FC = () => {
 
         {/* Tab Navigation */}
         <Card className='bg-white p-4 border border-gray-200'>
-        <div className="mb-8">
+        <div className="mb-6 sm:mb-8">
           <div className="border-b border-gray-200">
-            <nav className="-mb-px flex space-x-8">
+            <nav className="-mb-px flex flex-nowrap justify-between sm:justify-start sm:space-x-8">
               {tabs.map((tab) => (
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
-                  className={`flex items-center space-x-2 py-2 px-1 border-b-2 font-medium text-sm transition-colors ${
+                  className={`flex items-center justify-center sm:justify-start space-x-2 py-2 px-1 border-b-2 font-medium text-xs sm:text-sm transition-colors whitespace-nowrap flex-1 sm:flex-none ${
                     activeTab === tab.id
                       ? 'border-blue-500 text-blue-600'
                       : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
                   }`}
                 >
-                  {tab.icon}
+                  <span className="hidden sm:inline">{tab.icon}</span>
                   <span>{tab.label}</span>
                 </button>
               ))}
@@ -233,31 +245,31 @@ const PartnerDetailPage: React.FC = () => {
 
         {/* Tab Content */}
         {activeTab === 'overview' && (
-          <div className="space-y-6">
+          <div className="space-y-4 sm:space-y-6">
             {/* About Section */}
             <Card className="border border-gray-200">
-              <CardHeader>
-                <h2 className="text-xl font-bold text-gray-900">About {partner.name}</h2>
+              <CardHeader className="pb-3">
+                <h2 className="text-lg sm:text-xl font-bold text-gray-900">About {partner.name}</h2>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-gray-600 leading-relaxed text-sm sm:text-base">
                   {partner.description}
                 </p>
               </CardContent>
             </Card>
 
             {/* Supported Products & Geographic Coverage */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6">
               <Card className="border border-gray-200">
-                <CardHeader>
-                  <h3 className="text-lg font-bold text-gray-900">Supported Products</h3>
+                <CardHeader className="pb-3">
+                  <h3 className="text-base sm:text-lg font-bold text-gray-900">Supported Products</h3>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-2">
                     {partner.facebook_platforms.map((platform, index) => (
                       <div key={index} className="flex items-center space-x-2">
                         {getPlatformIcon(platform)}
-                        <span className="text-gray-700">{platform}</span>
+                        <span className="text-gray-700 text-sm sm:text-base">{platform}</span>
                       </div>
                     ))}
                   </div>
@@ -265,8 +277,8 @@ const PartnerDetailPage: React.FC = () => {
               </Card>
 
               <Card className="border border-gray-200">
-                <CardHeader>
-                  <h3 className="text-lg font-bold text-gray-900">Geographic Coverage</h3>
+                <CardHeader className="pb-3">
+                  <h3 className="text-base sm:text-lg font-bold text-gray-900">Geographic Coverage</h3>
                 </CardHeader>
                 <CardContent>
                   <div className="flex flex-wrap gap-2">
@@ -274,23 +286,23 @@ const PartnerDetailPage: React.FC = () => {
                       <>
                         {(showAllLocations ? partner.countries : partner.countries.slice(0, 3)).map((country, index) => (
                           <div key={index} className="inline-flex items-center gap-1 rounded-md border border-gray-200 px-2 py-1">
-                            <MapPin className="w-4 h-4 text-gray-600" />
-                            <span className="text-gray-700 text-sm">{country}</span>
+                            <MapPin className="w-3 h-3 sm:w-4 sm:h-4 text-gray-600" />
+                            <span className="text-gray-700 text-xs sm:text-sm">{country}</span>
                           </div>
                         ))}
                         {partner.countries.length > 3 && (
                           <button
                             onClick={() => setShowAllLocations(!showAllLocations)}
-                            className="inline-flex items-center gap-1 text-sm text-blue-600 hover:text-blue-800 transition-colors"
+                            className="inline-flex items-center gap-1 text-xs sm:text-sm text-blue-600 hover:text-blue-800 transition-colors"
                           >
                             {showAllLocations ? (
                               <>
-                                <ChevronUp className="w-4 h-4" />
+                                <ChevronUp className="w-3 h-3 sm:w-4 sm:h-4" />
                                 <span>Show Less</span>
                               </>
                             ) : (
                               <>
-                                <ChevronDown className="w-4 h-4" />
+                                <ChevronDown className="w-3 h-3 sm:w-4 sm:h-4" />
                                 <span>+{partner.countries.length - 3} More</span>
                               </>
                             )}
@@ -299,8 +311,8 @@ const PartnerDetailPage: React.FC = () => {
                       </>
                     ) : (
                       <div className="inline-flex items-center gap-1 rounded-md border border-gray-200 bg-gray-50 px-2 py-1">
-                        <MapPin className="w-4 h-4 text-gray-600" />
-                        <span className="text-gray-700 text-sm">Global</span>
+                        <MapPin className="w-3 h-3 sm:w-4 sm:h-4 text-gray-600" />
+                        <span className="text-gray-700 text-xs sm:text-sm">Global</span>
                       </div>
                     )}
                   </div>
@@ -310,13 +322,13 @@ const PartnerDetailPage: React.FC = () => {
 
             {/* Industries */}
             <Card className="border border-gray-200">
-              <CardHeader>
-                <h3 className="text-lg font-bold text-gray-900">Industries</h3>
+              <CardHeader className="pb-3">
+                <h3 className="text-base sm:text-lg font-bold text-gray-900">Industries</h3>
               </CardHeader>
               <CardContent>
                 <div className="flex flex-wrap gap-2">
                   {partner.industries.map((industry, index) => (
-                    <Badge key={index} variant="outline" className="bg-gray-100 text-gray-700 border border-gray-200">
+                    <Badge key={index} variant="outline" className="bg-gray-100 text-gray-700 border border-gray-200 text-xs sm:text-sm">
                       {industry}
                     </Badge>
                   ))}
@@ -327,21 +339,24 @@ const PartnerDetailPage: React.FC = () => {
             {/* Media Gallery */}
             {hasDisplayableMedia() && (
               <Card className="border border-gray-200">
+                <CardHeader className="pb-3">
+                  <h3 className="text-base sm:text-lg font-bold text-gray-900">Media Gallery</h3>
+                </CardHeader>
                 <CardContent>
-                  <div className="space-y-6">
+                  <div className="space-y-4 sm:space-y-6">
                     {/* Lightbox */}
                     {lightboxMedia && (
                       <div
-                        className="fixed inset-0 z-[1000] flex items-center justify-center bg-black/70 p-4 mb-0"
+                        className="fixed inset-0 z-[1000] flex items-center justify-center bg-black/70 p-2 sm:p-4"
                         onClick={() => setLightboxMedia(null)}
                       >
                         <div className="relative max-w-6xl w-full max-h-[90vh]" onClick={(e) => e.stopPropagation()}>
                           <button
                             aria-label="Close"
-                            className="absolute -top-3 -right-3 md:-top-4 md:-right-4 bg-red-400 text-white rounded-full p-2 shadow"
+                            className="absolute -top-2 -right-2 sm:-top-3 sm:-right-3 md:-top-4 md:-right-4 bg-red-400 text-white rounded-full p-1 sm:p-2 shadow"
                             onClick={() => setLightboxMedia(null)}
                           >
-                            <X className="w-5 h-5" />
+                            <X className="w-4 h-4 sm:w-5 sm:h-5" />
                           </button>
                           {lightboxMedia.type === 'video' ? (
                             <video
@@ -362,7 +377,7 @@ const PartnerDetailPage: React.FC = () => {
                       </div>
                       </div>
                     )}
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
                       {getDisplayableMedia().map((media, index) => (
                         <div key={media.id} className="relative group">
                           {/* Try video first, then fallback to image on error */}
@@ -382,14 +397,14 @@ const PartnerDetailPage: React.FC = () => {
 
         {activeTab === 'pricing' && (
           <Card className="border border-gray-200">
-            <CardHeader>
-              <h2 className="text-xl font-bold text-gray-900">Pricing Information</h2>
+            <CardHeader className="pb-3">
+              <h2 className="text-lg sm:text-xl font-bold text-gray-900">Pricing Information</h2>
             </CardHeader>
             <CardContent>
-              <div className="space-y-6">
+              <div className="space-y-4 sm:space-y-6">
                 {/* Starting Price label */}
                 <div>
-                  <p className="text-2xl md:text-3xl text-green-600 tracking-tight">
+                  <p className="text-xl sm:text-2xl md:text-3xl text-green-600 tracking-tight">
                     {typeof partner.minimum_spend === 'number'
                       ? (partner.minimum_spend === 0 || partner.minimum_spend === -1
                           ? 'Free plan available'
@@ -408,28 +423,28 @@ const PartnerDetailPage: React.FC = () => {
 
         {activeTab === 'features' && (
           <Card className="border border-gray-200">
-            <CardHeader>
-              <h2 className="text-xl font-bold text-gray-900">Features</h2>
+            <CardHeader className="pb-3">
+              <h2 className="text-lg sm:text-xl font-bold text-gray-900">Features</h2>
             </CardHeader>
             <CardContent>
-              <div className="space-y-4">
+              <div className="space-y-6">
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Service Models</h3>
+                  <h3 className="font-semibold text-gray-900 mb-3 text-sm sm:text-base">Service Models</h3>
                   <div className="flex flex-wrap gap-2">
                     {partner.service_models.map((model, index) => (
-                      <Badge key={index} variant="outline" className="border border-gray-200">
+                      <Badge key={index} variant="outline" className="border border-gray-200 text-xs sm:text-sm bg-blue-50 text-blue-700 px-3 py-1">
                         {model}
                       </Badge>
                     ))}
                   </div>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Focus Areas</h3>
-                  <div className="flex flex-wrap gap-2">
+                  <h3 className="font-semibold text-gray-900 mb-3 text-sm sm:text-base">Focus Areas</h3>
+                  <div className="space-y-3">
                     {partner.focus_areas.map((area, index) => (
-                      <Badge key={index} variant="outline" className='border border-gray-200'>
-                        {area}
-                      </Badge>
+                      <div key={index} className="p-4 bg-white rounded-lg border border-gray-200 hover:bg-gray-50 transition-colors">
+                        <p className="text-sm sm:text-base text-black leading-relaxed">{area}</p>
+                      </div>
                     ))}
                   </div>
                 </div>
@@ -440,11 +455,11 @@ const PartnerDetailPage: React.FC = () => {
 
         {activeTab === 'onboarding' && (
           <Card className="border border-gray-200">
-            <CardHeader>
-              <h2 className="text-xl font-bold text-gray-900">Onboarding Process</h2>
+            <CardHeader className="pb-3">
+              <h2 className="text-lg sm:text-xl font-bold text-gray-900">Onboarding Process</h2>
             </CardHeader>
             <CardContent>
-              <p className="text-gray-600">Onboarding information will be available soon.</p>
+              <p className="text-gray-600 text-sm sm:text-base">Onboarding information will be available soon.</p>
             </CardContent>
           </Card>
         )}

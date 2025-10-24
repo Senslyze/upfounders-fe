@@ -54,7 +54,7 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
   const isSelected = compareSelected || isInComparison;
 
   return (
-    <Card id={`partner-${partner.id}`} className="hover:shadow-md transition-shadow w-full max-w-sm border border-gray-200">
+    <Card id={`partner-${partner.id}`} className="hover:shadow-md transition-shadow w-full max-w-sm mx-auto md:mx-0 border border-gray-200">
       <CardHeader className="pb-4">
         <div className="flex items-start justify-between">
           <div className="flex-1 min-w-0">

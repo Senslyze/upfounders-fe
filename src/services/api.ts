@@ -1,10 +1,9 @@
 import axios, { type InternalAxiosRequestConfig, type AxiosResponse, type AxiosError } from 'axios';
 // In Next.js, prefer environment variables for configuration
 // Use NEXT_PUBLIC_ prefix to allow access on the client
-const envBase = process.env.NEXT_PUBLIC_API_BASE_URL ?? '';
 const runtimeOrigin = typeof window !== 'undefined' ? window.location.origin : '';
 const normalized = (url: string) => url.replace(/\/$/, '');
-export const baseURL = normalized(envBase || runtimeOrigin);
+export const baseURL = normalized(runtimeOrigin);
 
 // Create axios instance with default config
 const apiClient = axios.create({
