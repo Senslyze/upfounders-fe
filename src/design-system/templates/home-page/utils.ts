@@ -140,15 +140,48 @@ const fetchAndTransformCompanies = async (): Promise<ReturnType<typeof transform
 
 
 
-// Function to get a single company by ID
+// Cache for individual company requests
+const companyCache = new Map<string, ReturnType<typeof transformApiPartnerToPartner>>();
+const pendingRequests = new Map<string, Promise<ReturnType<typeof transformApiPartnerToPartner> | null>>();
+
+// Function to get a single company by ID with caching
 export const getCompanyById = async (id: string): Promise<ReturnType<typeof transformApiPartnerToPartner> | null> => {
-  try {
-    const company = await companyApi.getCompanyById(id);
-    return transformApiPartnerToPartner(company);
-  } catch (error) {
-    console.error(`Error fetching company with ID ${id}:`, error);
-    return null;
+  // Return cached result if available
+  if (companyCache.has(id)) {
+    return companyCache.get(id)!;
   }
+
+  // Return existing pending request if one exists
+  if (pendingRequests.has(id)) {
+    return pendingRequests.get(id)!;
+  }
+
+  // Create new request
+  const requestPromise = (async () => {
+    try {
+      const company = await companyApi.getCompanyById(id);
+      const transformedCompany = transformApiPartnerToPartner(company);
+      
+      // Cache the result
+      companyCache.set(id, transformedCompany);
+      
+      // Remove from pending requests
+      pendingRequests.delete(id);
+      
+      return transformedCompany;
+    } catch (error) {
+      console.error(`Error fetching company with ID ${id}:`, error);
+      
+      // Remove from pending requests on error
+      pendingRequests.delete(id);
+      
+      return null;
+    }
+  })();
+
+  pendingRequests.set(id, requestPromise);
+
+  return requestPromise;
 };
 
 // Create the partners array with all data (now async)

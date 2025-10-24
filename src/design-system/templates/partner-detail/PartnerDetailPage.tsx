@@ -20,23 +20,35 @@ const PartnerDetailPage: React.FC = () => {
   const [lightboxMedia, setLightboxMedia] = useState<{ url: string; type: 'video' | 'image' } | null>(null);
 
   useEffect(() => {
+    let isCancelled = false;
+    
     const fetchPartner = async () => {
       if (!companyId) return;
       
       setLoading(true);
       try {
-        // Fetch partner by ID using the API
         const partnerData = await getCompanyById(companyId);
-        setPartner(partnerData);
+        
+        if (!isCancelled) {
+          setPartner(partnerData);
+        }
       } catch (error) {
         console.error('Error fetching partner:', error);
-        setPartner(null);
+        if (!isCancelled) {
+          setPartner(null);
+        }
       } finally {
-        setLoading(false);
+        if (!isCancelled) {
+          setLoading(false);
+        }
       }
     };
 
     fetchPartner();
+    
+    return () => {
+      isCancelled = true;
+    };
   }, [companyId]);
 
   const getPlatformIcon = (platform: string) => {
