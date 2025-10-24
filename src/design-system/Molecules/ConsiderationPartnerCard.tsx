@@ -1,15 +1,12 @@
 import React from 'react';
-import { z } from 'zod';
 import { Info } from 'lucide-react';
 
-const ConsiderationPartnerCardPropsSchema = z.object({
-  title: z.string(),
-  description: z.string(),
-  icon: z.custom<React.ReactNode>(),
-  bullets: z.array(z.string()),
-});
-
-export type ConsiderationPartnerCardProps = z.infer<typeof ConsiderationPartnerCardPropsSchema>;
+export type ConsiderationPartnerCardProps = {
+  title: string;
+  description: string;
+  icon: React.ReactNode;
+  bullets: string[];
+};
 
 const ConsiderationPartnerCard: React.FC<ConsiderationPartnerCardProps> = ({ title, description, icon, bullets }) => {
   return (

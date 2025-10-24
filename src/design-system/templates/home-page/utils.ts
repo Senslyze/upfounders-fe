@@ -116,8 +116,8 @@ const fetchAndTransformCompanies = async (): Promise<ReturnType<typeof transform
     let companies: Company[] = [];
     if (Array.isArray(response)) {
       companies = response;
-    } else if (response && typeof response === 'object' && 'companies' in response && Array.isArray((response as any).companies)) {
-      companies = (response as any).companies;
+    } else if (response && typeof response === 'object' && 'companies' in response && Array.isArray((response as { companies: Company[] }).companies)) {
+      companies = (response as { companies: Company[] }).companies;
     } else {
       companies = [];
     }

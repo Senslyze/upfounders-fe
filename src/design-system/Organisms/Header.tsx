@@ -1,25 +1,16 @@
 "use client";
 import React, { useState } from 'react';
-import { z } from 'zod';
 import Link from 'next/link';
 import { Mail, Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import ConsultationDialog from '../Molecules/ConsultationDialog';
 
-// Zod schemas
-const NavItemSchema = z.object({
-  to: z.string(),
-  label: z.string(),
-});
+type NavItem = {
+  to: string;
+  label: string;
+};
 
-const HeaderPropsSchema = z.object({
-  // No props needed for Header component
-});
-
-type NavItem = z.infer<typeof NavItemSchema>;
-type HeaderProps = z.infer<typeof HeaderPropsSchema>;
-
-const Header: React.FC<HeaderProps> = () => {
+const Header: React.FC = () => {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
   const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
 

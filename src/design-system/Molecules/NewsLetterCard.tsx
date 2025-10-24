@@ -26,7 +26,7 @@ const NewsLtterCard: React.FC = () => {
     <div className="rounded-2xl bg-gradient-to-r from-blue-600 to-purple-600 text-white p-6 md:p-10 shadow-sm">
       <h3 className="text-center text-2xl md:text-3xl font-bold mb-4">Subscribe to Our Newsletter</h3>
       <p className="text-center text-white/90 max-w-3xl mx-auto mb-8">
-        Never miss important updates about Meta's partner programs, API changes, and new features.
+        Never miss important updates about Meta&apos;s partner programs, API changes, and new features.
       </p>
 
       {/* Email input */}

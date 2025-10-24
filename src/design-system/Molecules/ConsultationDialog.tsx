@@ -106,9 +106,10 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
         onClose();
       }, 3000);
 
-    } catch (error: any) {
+    } catch (error: unknown) {
       console.error(error);
-      alert(error.message || 'Something went wrong. Please try again.');
+      const errorMessage = error instanceof Error ? error.message : 'Something went wrong. Please try again.';
+      alert(errorMessage);
     } finally {
       setIsSubmitting(false);
     }
@@ -174,7 +175,7 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
                         <Send className="w-8 h-8 text-green-600" />
                       </div>
                       <h3 className="text-lg font-semibold text-gray-900 mb-2">Request Sent!</h3>
-                      <p className="text-gray-600">Thank you for your interest. We'll get back to you within 24 hours.</p>
+                      <p className="text-gray-600">Thank you for your interest. We&apos;ll get back to you within 24 hours.</p>
                     </div>
                   ) : (
                     <form onSubmit={handleSubmit} className="space-y-3">
@@ -332,7 +333,7 @@ const ConsultationDialog: React.FC<ConsultationDialogProps> = ({ isOpen, onClose
 
                       {/* Privacy Statement */}
                       <p className="text-xs text-gray-500 text-center">
-                        We'll never share your information with third parties.
+                        We&apos;ll never share your information with third parties.
                       </p>
                     </form>
                   )}

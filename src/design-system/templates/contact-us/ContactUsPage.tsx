@@ -13,7 +13,7 @@ const ContactUsPage: React.FC = () => {
             </h1>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
               Have questions about finding the right Meta Business Solution Provider? 
-              Need help with your partnership strategy? We're here to help you succeed.
+              Need help with your partnership strategy? We&apos;re here to help you succeed.
             </p>
           </div>
         </div>

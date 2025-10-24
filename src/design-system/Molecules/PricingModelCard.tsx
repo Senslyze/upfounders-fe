@@ -1,17 +1,14 @@
 import React from 'react';
-import { z } from 'zod';
 import { CheckCircle, AlertCircle } from 'lucide-react';
 
-const PricingModelCardPropsSchema = z.object({
-  title: z.string(),
-  description: z.string(),
-  icon: z.custom<React.ReactNode>(),
-  pros: z.array(z.string()),
-  cons: z.array(z.string()),
-  examples: z.array(z.string()).optional(),
-});
-
-export type PricingModelCardProps = z.infer<typeof PricingModelCardPropsSchema>;
+export type PricingModelCardProps = {
+  title: string;
+  description: string;
+  icon: React.ReactNode;
+  pros: string[];
+  cons: string[];
+  examples?: string[];
+};
 
 const BulletItem: React.FC<{ text: string; color: 'green' | 'red' }> = ({ text, color }) => (
   <li className="flex items-start gap-2">

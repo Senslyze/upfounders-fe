@@ -45,8 +45,9 @@ const ComparePage: React.FC = () => {
           selectedIds.map((id) => companyApi.getCompanyById(id))
         );
         setCompanies(results);
-      } catch (e: any) {
-        setError(e?.message || 'Failed to load companies');
+      } catch (e: unknown) {
+        const errorMessage = e instanceof Error ? e.message : 'Failed to load companies';
+        setError(errorMessage);
       } finally {
         setIsLoading(false);
       }
@@ -125,9 +126,10 @@ const ComparePage: React.FC = () => {
               </div>
 
               {/* Tabs */}
-              <div className="flex items-center gap-3 bg-gray-100 rounded-xl p-2 mb-6 text-sm">
+              <div className="flex items-center gap-3 bg-gray-100 rounded-xl p-2 mb-6 text-sm" role="tablist">
                 <button
                   onClick={() => setActiveTab('overview')}
+                  role="tab"
                   aria-selected={activeTab==='overview'}
                   className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='overview' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
@@ -136,6 +138,7 @@ const ComparePage: React.FC = () => {
                 </button>
                 <button
                   onClick={() => setActiveTab('pricing')}
+                  role="tab"
                   aria-selected={activeTab==='pricing'}
                   className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='pricing' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
@@ -144,6 +147,7 @@ const ComparePage: React.FC = () => {
                 </button>
                 <button
                   onClick={() => setActiveTab('features')}
+                  role="tab"
                   aria-selected={activeTab==='features'}
                   className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='features' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >
@@ -152,6 +156,7 @@ const ComparePage: React.FC = () => {
                 </button>
                 <button
                   onClick={() => setActiveTab('onboarding')}
+                  role="tab"
                   aria-selected={activeTab==='onboarding'}
                   className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${activeTab==='onboarding' ? 'bg-white text-blue-600 border border-gray-200' : 'text-gray-600 hover:text-gray-800'}`}
                 >

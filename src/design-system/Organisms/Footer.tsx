@@ -1,18 +1,10 @@
 "use client";
 import React, { useState } from 'react';
-import { z } from 'zod';
 import Link from 'next/link';
 import { Mail, Phone, MessageCircle, Megaphone, Instagram } from 'lucide-react';
 import ConsultationDialog from '../Molecules/ConsultationDialog';
 
-// Zod schemas
-const FooterPropsSchema = z.object({
-  // No props needed for Footer component
-});
-
-type FooterProps = z.infer<typeof FooterPropsSchema>;
-
-const Footer: React.FC<FooterProps> = () => {
+const Footer: React.FC = () => {
   const [isConsultationDialogOpen, setIsConsultationDialogOpen] = useState(false);
 
   const handleConsultationClick = () => {

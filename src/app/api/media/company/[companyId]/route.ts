@@ -3,9 +3,9 @@ import { prisma } from '@/lib/prisma/prismaClient'
 
 export async function GET(
   _request: Request,
-  { params }: { params: { companyId: string } }
+  { params }: { params: Promise<{ companyId: string }> }
 ) {
-  const { companyId } = params
+  const { companyId } = await params
 
   try {
     const media = await prisma.media.findMany({

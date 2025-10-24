@@ -4,7 +4,7 @@ import { prisma } from '@/lib/prisma/prismaClient'
 // GET /api/company/[id] - Get a specific company
 export async function GET(
   request: Request,
-  context: { params: { id: string } } 
+  context: { params: Promise<{ id: string }> } 
 ) {
   const { id } = await context.params;
 
@@ -30,14 +30,15 @@ export async function GET(
 // PUT /api/company/[id] - Update a specific company
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
     const body = await request.json()
     const { name, description, website, logo, industry, founded, employees, location } = body
 
     const company = await prisma.company.update({
-      where: { id: params.id },
+      where: { id },
       data: {
         ...(name && { name }),
         ...(description !== undefined && { description }),
@@ -63,11 +64,12 @@ export async function PUT(
 // DELETE /api/company/[id] - Delete a specific company
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
     await prisma.company.delete({
-      where: { id: params.id },
+      where: { id },
     })
 
     return NextResponse.json({ message: 'Company deleted successfully' })

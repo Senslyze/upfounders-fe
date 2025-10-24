@@ -1,5 +1,6 @@
 "use client";
 import React, { useState, useEffect } from 'react';
+import Image from 'next/image';
 import { useParams, useRouter } from 'next/navigation';
 import { ArrowLeft, Star, Users, DollarSign, Zap, Clock, MapPin, MessageCircle, Globe, ChevronDown, ChevronUp, X } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
@@ -52,19 +53,6 @@ const PartnerDetailPage: React.FC = () => {
     }
   };
 
-  const getServiceModelVariant = (model: string) => {
-    switch (model.toLowerCase()) {
-      case 'solution partner':
-        return 'default';
-      case 'meta partner':
-        return 'secondary';
-      case 'technology partner':
-        return 'outline';
-      default:
-        return 'outline';
-    }
-  };
-
   // Helper: list of all displayable media (exclude LOGO/empty)
   const getDisplayableMedia = () => {
     if (!partner?.media) return [];
@@ -108,9 +96,11 @@ const PartnerDetailPage: React.FC = () => {
         >
           <div className=" ">
             {!showVideo ? (
-              <img
+              <Image
                 src={url}
                 alt={alt}
+                width={400}
+                height={192}
                 className="w-full h-48 object-cover"
                 loading="lazy"
                 onError={() => setShowVideo(true)}
@@ -142,7 +132,7 @@ const PartnerDetailPage: React.FC = () => {
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-gray-900 mb-4">Partner Not Found</h1>
-          <p className="text-gray-600 mb-6">The partner you're looking for doesn't exist.</p>
+          <p className="text-gray-600 mb-6">The partner you&apos;re looking for doesn&apos;t exist.</p>
           <Button onClick={() => router.push('/')} variant="outline">
             <ArrowLeft className="w-4 h-4 mr-2" />
             Back to Directory
@@ -180,9 +170,11 @@ const PartnerDetailPage: React.FC = () => {
                 
                 <div className="flex items-start space-x-4">
                   {partner.profileImage && (
-                    <img 
+                    <Image 
                       src={partner.profileImage} 
                       alt={partner.name}
+                      width={64}
+                      height={64}
                       className="w-16 h-16 rounded-lg object-cover"
                     />
                   )}
@@ -359,16 +351,18 @@ const PartnerDetailPage: React.FC = () => {
                               src={lightboxMedia.url}
                               className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
                               controls
-                              autoPlay
-                            />
-                          ) : (
-                            <img
-                              src={lightboxMedia.url}
-                              alt="media"
-                              className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
-                            />
-                          )}
-                        </div>
+                            autoPlay
+                          />
+                        ) : (
+                          <Image
+                            src={lightboxMedia.url}
+                            alt="media"
+                            width={1200}
+                            height={800}
+                            className="w-full h-auto max-h-[90vh] object-contain rounded-lg shadow-2xl"
+                          />
+                        )}
+                      </div>
                       </div>
                     )}
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

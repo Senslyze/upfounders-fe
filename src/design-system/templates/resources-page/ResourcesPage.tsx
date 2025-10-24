@@ -24,7 +24,7 @@ const ResourcesPage: React.FC = () => {
             Meta Partners Resource Hub
           </h1>
           <p className="max-w-3xl text-gray-600 text-lg">
-            Learn about Meta's partner programs, understand the differences between partner types, and get guidance
+            Learn about Meta&apos;s partner programs, understand the differences between partner types, and get guidance
             on choosing the right provider for your business.
           </p>
         </div>

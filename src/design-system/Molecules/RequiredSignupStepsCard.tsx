@@ -1,18 +1,15 @@
 import React from 'react';
-import { z } from 'zod';
 
-const RequiredSignupStepsCardPropsSchema = z.object({
-  step: z.number(),
-  title: z.string(),
-  description: z.string(),
-  icon: z.custom<React.ReactNode>(),
-  requirementsTitle: z.string().default('Requirements:'),
-  requirements: z.array(z.string()),
-});
+export type RequiredSignupStepsCardProps = {
+  step: number;
+  title: string;
+  description: string;
+  icon: React.ReactNode;
+  requirementsTitle?: string;
+  requirements: string[];
+};
 
-export type RequiredSignupStepsCardProps = z.infer<typeof RequiredSignupStepsCardPropsSchema>;
-
-const RequiredSignupStepsCard: React.FC<RequiredSignupStepsCardProps> = ({ step, title, description, icon, requirementsTitle, requirements }) => {
+const RequiredSignupStepsCard: React.FC<RequiredSignupStepsCardProps> = ({ step, title, description, icon, requirementsTitle = 'Requirements:', requirements }) => {
   return (
     <div className="relative pl-10  w-4/5 mx-auto">
       {/* Step badge */}

@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios, { type InternalAxiosRequestConfig, type AxiosResponse, type AxiosError } from 'axios';
 // In Next.js, prefer environment variables for configuration
 // Use NEXT_PUBLIC_ prefix to allow access on the client
 const envBase = process.env.NEXT_PUBLIC_API_BASE_URL ?? '';
@@ -17,11 +17,11 @@ const apiClient = axios.create({
 
 // Request interceptor for logging
 apiClient.interceptors.request.use(
-  (config: any) => {
+  (config: InternalAxiosRequestConfig) => {
     console.log(`Making ${config.method?.toUpperCase()} request to: ${config.url}`);
     return config;
   },
-  (error: any) => {
+  (error: AxiosError) => {
     console.error('Request error:', error);
     return Promise.reject(error);
   }
@@ -29,16 +29,16 @@ apiClient.interceptors.request.use(
 
 // Response interceptor for error handling
 apiClient.interceptors.response.use(
-  (response: any) => {
+  (response: AxiosResponse) => {
     return response;
   },
-  (error: any) => {
+  (error: AxiosError) => {
     console.error('API Error:', error.response?.data || error.message);
     
     // Handle specific error cases
     if (error.response?.status === 404) {
       throw new Error('Company not found');
-    } else if (error.response?.status >= 500) {
+    } else if (error.response?.status && error.response.status >= 500) {
       throw new Error('Server error. Please try again later.');
     } else if (error.code === 'ECONNABORTED') {
       throw new Error('Request timeout. Please check your connection.');

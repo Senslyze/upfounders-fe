@@ -1,16 +1,13 @@
 import React from 'react';
-import { z } from 'zod';
 import { CheckCircle   } from 'lucide-react';
 
-const MetaPartnerTypeCardPropsSchema = z.object({
-  title: z.string(),
-  description: z.string(),
-  icon: z.custom<React.ReactNode>(),
-  tone: z.union([z.literal('blue'), z.literal('green'), z.literal('purple')]),
-  features: z.array(z.string()),
-});
-
-export type MetaPartnerTypeCardProps = z.infer<typeof MetaPartnerTypeCardPropsSchema>;
+export type MetaPartnerTypeCardProps = {
+  title: string;
+  description: string;
+  icon: React.ReactNode;
+  tone: 'blue' | 'green' | 'purple';
+  features: string[];
+};
 
 const toneToClasses: Record<MetaPartnerTypeCardProps['tone'], string> = {
   // Only background color here to avoid conflicting with explicit border color

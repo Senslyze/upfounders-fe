@@ -103,7 +103,7 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
 
       {!isLoading && !hasMore && partners.length > 0 && (
         <div className="text-center py-8">
-          <p className="text-gray-500">You've reached the end of the list</p>
+          <p className="text-gray-500">You&apos;ve reached the end of the list</p>
         </div>
       )}
 
