@@ -55,7 +55,7 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
             </p>
             <Link
               href="/compare"
-              className={`px-4 py-2 rounded-lg transition-colors shadow-md ${comparisonItems.length < 2 || comparisonItems.length > 3 ? 'bg-gray-300 text-gray-600 cursor-not-allowed' : 'bg-blue-600 text-white hover:bg-blue-700'}`}
+              className={`hidden md:block px-4 py-2 rounded-lg transition-colors shadow-md ${comparisonItems.length < 2 || comparisonItems.length > 3 ? 'bg-gray-300 text-gray-600 cursor-not-allowed' : 'bg-blue-600 text-white hover:bg-blue-700'}`}
               aria-disabled={comparisonItems.length < 2 || comparisonItems.length > 3}
               onClick={(e) => {
                 if (comparisonItems.length < 2 || comparisonItems.length > 3) { e.preventDefault(); return; }
@@ -110,11 +110,11 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
       {comparisonItems.length > 0 && (
         <div className="fixed bottom-6 right-6 z-50 flex flex-col items-start gap-2">
           {/* Selection progress indicator */}
-          <div aria-label="compare selection progress" className="flex items-center gap-1.5">
+          <div aria-label="compare selection progress" className="flex items-center gap-1 md:gap-1.5">
             {[0, 1, 2].map((i) => (
               <span
                 key={i}
-                className={`inline-block w-2.5 h-2.5 rounded-full shadow ${i < selectedCount ? 'bg-blue-600' : 'bg-blue-200'}`}
+                className={`inline-block w-2 h-2 md:w-2.5 md:h-2.5 rounded-full shadow ${i < selectedCount ? 'bg-blue-600' : 'bg-blue-200'}`}
               />
             ))}
           </div>
@@ -128,11 +128,11 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
               try { sessionStorage.setItem('compare.selectedIds', JSON.stringify(comparisonItems)); } catch {}
             }}
           >
-            <div className="flex items-start gap-3 px-5 py-4 bg-blue-600 text-white rounded-xl shadow-xl hover:bg-blue-700 transition-colors">
-              <Users2 className="w-6 h-6 mt-0.5" />
+            <div className="flex items-start gap-2 md:gap-3 px-3 py-2 md:px-5 md:py-4 bg-blue-600 text-white rounded-lg md:rounded-xl shadow-xl hover:bg-blue-700 transition-colors">
+              <Users2 className="w-4 h-4 md:w-6 md:h-6 mt-0.5" />
               <div className="leading-tight">
-                <div className="text-base">{`Compare ${comparisonItems.length} ${comparisonItems.length === 1 ? 'Partner' : 'Partners'}`}</div>
-                <div className="text-sm">{comparisonItems.length < 2 ? 'Select at least 2' : comparisonItems.length > 3 ? 'Max 3 allowed' : 'Click to view comparison'}</div>
+                <div className="text-sm md:text-base">{`Compare ${comparisonItems.length} ${comparisonItems.length === 1 ? 'Partner' : 'Partners'}`}</div>
+                <div className="text-xs md:text-sm">{comparisonItems.length < 2 ? 'Select at least 2' : comparisonItems.length > 3 ? 'Max 3 allowed' : 'Click to view comparison'}</div>
               </div>
             </div>
           </Link>
@@ -143,3 +143,4 @@ const PartnerGrid: React.FC<PartnerGridProps> = ({
 };
 
 export default PartnerGrid;
+
