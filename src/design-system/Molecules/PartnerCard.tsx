@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import { Users, Globe, MessageCircle, Instagram, Phone, ChevronDown, ChevronUp } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
 import { Badge } from '@/design-system/Atoms/badge';
@@ -61,12 +60,11 @@ const PartnerCard: React.FC<PartnerCardProps> = ({
           <div className="flex-1 min-w-0">
             <div className="flex items-center space-x-3 mb-2">
               {partner.profileImage && (
-                <Image 
+                <img 
                   src={partner.profileImage} 
                   alt={partner.name}
-                  width={40}
-                  height={40}
                   className="w-10 h-10 rounded-lg object-cover"
+                  loading="lazy"
                 />
               )}
               <div className="min-w-0 flex-1">

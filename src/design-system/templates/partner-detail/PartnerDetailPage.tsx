@@ -1,6 +1,5 @@
 "use client";
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import { useParams, useRouter } from 'next/navigation';
 import { ArrowLeft, Star, Users, DollarSign, Zap, Clock, MapPin, MessageCircle, Globe, ChevronDown, ChevronUp, X } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/design-system/Atoms/card';
@@ -96,11 +95,9 @@ const PartnerDetailPage: React.FC = () => {
         >
           <div className=" ">
             {!showVideo ? (
-              <Image
+              <img
                 src={url}
                 alt={alt}
-                width={400}
-                height={192}
                 className="w-full h-48 object-cover"
                 loading="lazy"
                 onError={() => setShowVideo(true)}
